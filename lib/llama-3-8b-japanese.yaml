@@ -1,0 +1,20 @@
+# model
+Bi_model:
+  name: "haqishen/h2o-Llama-3-8B-Japanese-Instruct"
+  device: "cuda"
+Mono_model:
+  name: "meta-llama/Llama-3-8B"
+device: "cuda"
+
+# data
+agent1_system_prompt: "You are a native Japanese speaker and an English teacher. Please ask questions and make conversations for the following topics in English."   ### we need system prompt for initialization
+agent2_system_prompt: "You are a native Japanese speaker, you are learning English as your second language. Please answer the questions and make conversations in English."
+
+language_name: "Japanese"
+num_turns: 10
+
+# output
+Bi_model_output_dir: "output/llama_3_8B_Japanese_generation_response"
+Bi_model_output_all_dir: "output/llama_3_8B_Japanese_generation_all"
+Mono_model_output_dir: "output/llama_3_8B_generation_response"
+Mono_model_output_all_dir: "output/llama_3_8B_Japanese_generation_all"
