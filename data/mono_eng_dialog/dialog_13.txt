@@ -1,0 +1,23 @@
+**Speaker A:** Good morning, Emily. Thanks for joining the call. How can I assist you today?
+
+**Speaker B:** Hi, thank you for having me. I recently applied for a position at your company and wanted to check on the status of my application.
+
+**Speaker A:** Of course, I can help with that. Can you provide me with your application ID or the email address you used to apply?
+
+**Speaker B:** Sure, my application ID is 12345, and the email is emily.johnson@example.com.
+
+**Speaker A:** Thank you, Emily. Let me take a moment to look that up. Ah, here we go. It looks like your application is under review by our hiring team.
+
+**Speaker B:** Great, thank you for checking. Do you know when I might hear back from them?
+
+**Speaker A:** Typically, our review process takes about two weeks. So, you should expect to hear from us by the end of next week. Does that work for you?
+
+**Speaker B:** Yes, that's perfect. I appreciate the update. Is there anything else I should prepare in the meantime?
+
+**Speaker A:** Just make sure your contact details are up to date. If anything changes, feel free to reach out. Otherwise, you're all set for now.
+
+**Speaker B:** Got it, I’ll keep an eye on my email. Thanks again for your help today.
+
+**Speaker A:** You're welcome, Emily. If you have any more questions, don't hesitate to contact us. Have a great day!
+
+**Speaker B:** You too! Take care.

@@ -1,0 +1,27 @@
+**Speaker A:** Good afternoon, and thank you for contacting our customer support. How can I assist you today?
+
+**Speaker B:** Hi there! I’m having a bit of trouble with my internet connection. It’s been really slow, and I’m not sure what’s going on.
+
+**Speaker A:** I’m sorry to hear that. Let’s see what we can do to improve it. Have you tried restarting your router yet?
+
+**Speaker B:** Yes, I did that this morning, but it didn’t seem to help much.
+
+**Speaker A:** Alright, no worries. Can you tell me if there are any lights flashing on your router, or are they solid?
+
+**Speaker B:** The power light is solid, but the internet light keeps blinking.
+
+**Speaker A:** That’s useful information, thank you. It sounds like there might be a connection issue. I’ll run a quick diagnostic from my end. Could you hold on for a moment?
+
+**Speaker B:** Sure, no problem.
+
+**Speaker A:** Thank you for waiting. It seems there might be a slight disruption in your area. We’re working on it, but in the meantime, could you try connecting your device directly to the router with a cable? This might help stabilize the connection.
+
+**Speaker B:** I can definitely try that. How long do you think the issue will last?
+
+**Speaker A:** We’re aiming to have it resolved within the next few hours. If the issue persists after that, feel free to reach out again, and we’ll look into it further.
+
+**Speaker B:** Great, thank you for your help. I’ll try the cable connection and keep an eye on it.
+
+**Speaker A:** You’re welcome! If you need anything else, don’t hesitate to contact us. Have a wonderful day!
+
+**Speaker B:** Thanks, you too!

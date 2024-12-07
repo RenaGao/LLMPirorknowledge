@@ -1,0 +1,27 @@
+**Speaker A:** Good afternoon, thank you for calling Tech Solutions. How can I assist you today?
+
+**Speaker B:** Hi there, I'm having some trouble with my laptop. It keeps restarting unexpectedly. Can you help with that?
+
+**Speaker A:** Certainly, that sounds frustrating. Let’s try to figure this out. When did the issue start happening?
+
+**Speaker B:** It started yesterday after I installed some updates. I'm not sure if that's related, though.
+
+**Speaker A:** It’s possible. Sometimes updates can cause conflicts. Have you tried restarting in Safe Mode to see if the problem persists?
+
+**Speaker B:** I haven’t tried that yet. How do I start in Safe Mode?
+
+**Speaker A:** No problem, I can walk you through it. First, shut down your laptop. Then, turn it back on and immediately keep pressing the F8 key until you see the Advanced Boot Options menu.
+
+**Speaker B:** Got it, I’ll give that a try. And once I’m in Safe Mode, what should I be looking for?
+
+**Speaker A:** Once you’re in Safe Mode, check if your laptop continues to restart. If it doesn’t, it might indicate a software issue. You can try uninstalling recent updates or drivers.
+
+**Speaker B:** Okay, I’ll do that. If it still restarts, what’s the next step?
+
+**Speaker A:** If it continues in Safe Mode, it might be a hardware issue. You could run a hardware diagnostic test or bring it in for a closer look.
+
+**Speaker B:** Alright, that makes sense. I’ll try Safe Mode first and see how it goes. Thanks for your help!
+
+**Speaker A:** You're welcome! Feel free to call back if you need further assistance. Have a great day!
+
+**Speaker B:** Thanks, you too!
