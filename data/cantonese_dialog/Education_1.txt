@@ -1,0 +1,51 @@
+peaker A (NS):** Hi, Lan! Do you have a minute to go over the project details?
+
+**Speaker B (L2, Cantonese):** Ah, yes, I have. But, um, we talk... about what part?
+
+**Speaker A (NS):** I thought we could discuss the data analysis section. Is that okay?
+
+**Speaker B (L2, Cantonese):** Yes, okay. Data analysis, it can be difficult, um, sometimes.
+
+**Speaker A (NS):** I understand. Let's start with the basics. Do you remember how to use the software?
+
+**Speaker B (L2, Cantonese):** Uh, software... Yes, I use before, but not... very good yet.
+
+**Speaker A (NS):** No worries. Which part do you find most challenging?
+
+**Speaker B (L2, Cantonese):** Um, how to say... the graph... make graph from data, I not sure.
+
+**Speaker A (NS):** Ah, creating graphs. Would you like me to show you an example?
+
+**Speaker B (L2, Cantonese):** Yes, please. Example is good. I can learn better.
+
+**Speaker A (NS):** Okay, let's start. First, you import the data file. Did you try that step?
+
+**Speaker B (L2, Cantonese):** Yes, I import... but then, it look messy, not clear.
+
+**Speaker A (NS):** That happens. You need to clean the data. Have you done data cleaning before?
+
+**Speaker B (L2, Cantonese):** Uh, clean data, I think... but not sure. How to clean well?
+
+**Speaker A (NS):** You can remove duplicates and check for missing values. Want to try it together?
+
+**Speaker B (L2, Cantonese):** Yes, try together is good. I feel more confident.
+
+**Speaker A (NS):** Great! Now, let's sort the data by columns. Can you see the option in the menu?
+
+**Speaker B (L2, Cantonese):** Um, I look... yes, I see. Click here, right?
+
+**Speaker A (NS):** Exactly. Once sorted, let's create a graph. Do you remember how to select the chart type?
+
+**Speaker B (L2, Cantonese):** Select, yes, um... bar chart, pie chart... like that?
+
+**Speaker A (NS):** That's right! Which type would best represent your data?
+
+**Speaker B (L2, Cantonese):** I think bar chart. It show clear... how to say... comparison?
+
+**Speaker A (NS):** Perfect choice. Let's plot it. Does the preview look okay to you?
+
+**Speaker B (L2, Cantonese):** Ah, yes! It look much better. Thank you for help!
+
+**Speaker A (NS):** You're welcome, Lan! Anytime you need assistance, let me know.
+
+**Speaker B (L2, Cantonese):** Yes, I will. Thank you again. I feel more ready n

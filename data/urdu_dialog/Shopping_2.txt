@@ -1,0 +1,47 @@
+peaker A (NS):** Welcome to our store! How can I assist you today?
+
+**Speaker B (L2, Urdu):** Uh, hello. Yes, I have... um, a problem with... return... uh, jacket.
+
+**Speaker A (NS):** Oh, I see. You want to return a jacket?
+
+**Speaker B (L2, Urdu):** Yes, yes, return. I buy last week but... it no fit.
+
+**Speaker A (NS):** I understand. Do you have the receipt with you?
+
+**Speaker B (L2, Urdu):** Uh, yes, I bring it. Is here. (Shows receipt)
+
+**Speaker A (NS):** Thank you. Let me take a look. Was there anything wrong with the jacket?
+
+**Speaker B (L2, Urdu):** No, no wrong. Just... um, small size. I need bigger.
+
+**Speaker A (NS):** Alright, we can exchange it for a larger size. Would you like to do that?
+
+**Speaker B (L2, Urdu):** Yes, exchange is good. But... um, if no bigger?
+
+**Speaker A (NS):** If we don't have a larger size in stock, you can choose another item or get a refund. 
+
+**Speaker B (L2, Urdu):** Oh, okay. That is... uh, helpful. Thank you.
+
+**Speaker A (NS):** No problem. Let's check if we have your size available. (Checks inventory)
+
+**Speaker B (L2, Urdu):** Um, can I ask... uh, how long for return?
+
+**Speaker A (NS):** Sure! Our policy allows returns within 30 days of purchase.
+
+**Speaker B (L2, Urdu):** Ah, 30 days. Good. I worry maybe too late.
+
+**Speaker A (NS):** No worries, you're within the period. Good news, we do have the larger size!
+
+**Speaker B (L2, Urdu):** Oh, that is... uh, very good! I take it then.
+
+**Speaker A (NS):** Great! I'll process the exchange for you right away. 
+
+**Speaker B (L2, Urdu):** Thank you so much for help.
+
+**Speaker A (NS):** You're welcome! Is there anything else you need today?
+
+**Speaker B (L2, Urdu):** No, that all. Thank you again. 
+
+**Speaker A (NS):** My pleasure! Have a wonderful day!
+
+**Speaker B (L2, Urdu):** You too! Thank y

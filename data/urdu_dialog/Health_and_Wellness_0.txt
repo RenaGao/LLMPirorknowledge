@@ -1,0 +1,49 @@
+peaker A (NS):** Good morning! How can I help you today?
+
+**Speaker B (L2, Urdu):** Good morning, doctor. I am feeling not well. Um, headache and... how to say... feeling tired very much.
+
+**Speaker A (NS):** I see. When did these symptoms start?
+
+**Speaker B (L2, Urdu):** It started... maybe three days ago. Yes, three days. 
+
+**Speaker A (NS):** Have you had any fever or chills?
+
+**Speaker B (L2, Urdu):** Um, yes. I feel hot and then cold sometimes. Fever, I think, but not sure.
+
+**Speaker A (NS):** Alright. Are you experiencing any nausea or stomach pain?
+
+**Speaker B (L2, Urdu):** Stomach is fine, but... sometimes a little sick feeling, um, nausea.
+
+**Speaker A (NS):** Have you noticed any changes in your appetite?
+
+**Speaker B (L2, Urdu):** Yes, not feeling hungry much. Eating very little these days.
+
+**Speaker A (NS):** Are you taking any medications or supplements?
+
+**Speaker B (L2, Urdu):** Only some, um, pain tablet for headache. Nothing else.
+
+**Speaker A (NS):** How about your sleep? Are you getting enough rest?
+
+**Speaker B (L2, Urdu):** Sleep is not good. Wake up many times in night. 
+
+**Speaker A (NS):** That must be hard. Any stress or changes in lifestyle recently?
+
+**Speaker B (L2, Urdu):** Yes, a little stress from work. Busy with, um, projects. 
+
+**Speaker A (NS):** Understandable. Do you have any other symptoms, like a sore throat or cough?
+
+**Speaker B (L2, Urdu):** Um, no cough. But throat... maybe a little sore in morning.
+
+**Speaker A (NS):** I recommend taking some rest and staying hydrated. Have you tried any home remedies?
+
+**Speaker B (L2, Urdu):** Yes, um, ginger tea my mother say is good. I drink it.
+
+**Speaker A (NS):** That's a good choice. Monitor your symptoms, and if they worsen, come back.
+
+**Speaker B (L2, Urdu):** Thank you, doctor. I will do that. Is there any medicine I should take?
+
+**Speaker A (NS):** You can continue with the pain reliever for headaches. If fever persists, visit again, please.
+
+**Speaker B (L2, Urdu):** Okay, I will. Thank you very much for your help.
+
+**Speaker A (NS):** You're welcome. Take care and get well so

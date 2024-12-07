@@ -1,0 +1,43 @@
+peaker A (NS):** Hello! How can I assist you today?
+
+**Speaker B (L2, Cantonese):** Um, hi. I need help... my, uh, computer have problem.
+
+**Speaker A (NS):** Of course. Can you tell me what the problem is?
+
+**Speaker B (L2, Cantonese):** Yes, the screen... it not turn on. I press power, but nothing happen.
+
+**Speaker A (NS):** I see. Have you checked if it's plugged in properly?
+
+**Speaker B (L2, Cantonese):** Oh, yes. I check wire, all is connect good.
+
+**Speaker A (NS):** Alright. Have you tried restarting the computer?
+
+**Speaker B (L2, Cantonese):** Restart? Um, I don't know... how to restart if no power?
+
+**Speaker A (NS):** Ah, I understand. Let's try holding the power button for about 10 seconds. Sometimes it helps.
+
+**Speaker B (L2, Cantonese):** Okay, let me try... (pause) No, still nothing.
+
+**Speaker A (NS):** Alright, no worries. Is there any light or sound coming from the computer?
+
+**Speaker B (L2, Cantonese):** Uh, no light... no sound. It just quiet.
+
+**Speaker A (NS):** Thank you for checking. It might be a battery issue. Is your computer a laptop or desktop?
+
+**Speaker B (L2, Cantonese):** It is laptop. I think battery maybe not good?
+
+**Speaker A (NS):** It could be. Do you have access to another charger to test if the charger is the problem?
+
+**Speaker B (L2, Cantonese):** Um, I have no extra charger... How to say... maybe buy new one?
+
+**Speaker A (NS):** Before buying, you might want to visit a local electronics store. They usually let you test chargers.
+
+**Speaker B (L2, Cantonese):** Oh, good idea! I will try that store. Thank you.
+
+**Speaker A (NS):** You're welcome. If there's anything else you need, feel free to ask.
+
+**Speaker B (L2, Cantonese):** Yes, I will. Thank you very much for help!
+
+**Speaker A (NS):** My pleasure. Have a great day!
+
+**Speaker B (L2, Cantonese):** You too, bye-b

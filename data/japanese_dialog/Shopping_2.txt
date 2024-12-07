@@ -1,0 +1,45 @@
+peaker A (NS):** Hello, welcome to the store. How can I help you today?
+
+**Speaker B (L2, Japanese):** Um, hello. I buy this jacket last week, but, uh, it not fit well.
+
+**Speaker A (NS):** I see. You're looking to return it, correct?
+
+**Speaker B (L2, Japanese):** Yes, I want to return, please. Is it okay?
+
+**Speaker A (NS):** Certainly. Do you have the receipt with you?
+
+**Speaker B (L2, Japanese):** Yes, here is receipt. I keep it always.
+
+**Speaker A (NS):** Great, thank you. Our policy allows returns within 30 days. You are well within that time.
+
+**Speaker B (L2, Japanese):** Ah, good. I was worry, maybe too late.
+
+**Speaker A (NS):** No worries at all. Has the jacket been worn or washed?
+
+**Speaker B (L2, Japanese):** No, no. I just try it at home. It is too big for me.
+
+**Speaker A (NS):** Alright, as long as it's in the original condition, we can process the return.
+
+**Speaker B (L2, Japanese):** Original... ah, like new? Yes, it is new.
+
+**Speaker A (NS):** Exactly. Do you have the tags with it?
+
+**Speaker B (L2, Japanese):** Yes, tags still on jacket. I think it is important.
+
+**Speaker A (NS):** That's perfect. Would you like a refund or store credit?
+
+**Speaker B (L2, Japanese):** Um, refund is good for me.
+
+**Speaker A (NS):** Sure, we can do that. How did you pay originally?
+
+**Speaker B (L2, Japanese):** I use credit card. Is that okay for refund?
+
+**Speaker A (NS):** Yes, we'll refund to the same card. It usually takes a few days to process.
+
+**Speaker B (L2, Japanese):** Okay, I understand. Thank you for help today.
+
+**Speaker A (NS):** You're welcome! Is there anything else I can assist you with?
+
+**Speaker B (L2, Japanese):** No, I think that is all. Thank you very much!
+
+**Speaker A (NS):** My pleasure! Have a great d

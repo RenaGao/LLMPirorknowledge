@@ -1,0 +1,51 @@
+peaker A (NS):** Hello! How can I assist you today?
+
+**Speaker B (L2, Malay):** Um, hello. I have problem with my laptop. It not, uh... working right.
+
+**Speaker A (NS):** I’m sorry to hear that. Can you tell me what exactly is happening?
+
+**Speaker B (L2, Malay):** Yes, uh, when I turn on, it... um, how to say... screen is black.
+
+**Speaker A (NS):** Oh, I see. So the screen stays black after you turn it on?
+
+**Speaker B (L2, Malay):** Yes, yes. Black screen. I hear sound, but no picture. 
+
+**Speaker A (NS):** Okay, let’s try a few steps to fix it. Have you checked if the laptop is fully charged?
+
+**Speaker B (L2, Malay):** Ah, yes. I charge it full last night. Battery is good.
+
+**Speaker A (NS):** Great. Have you tried connecting to an external monitor to see if it’s a display issue?
+
+**Speaker B (L2, Malay):** Um, I not try that. I... I don't have... how to say... cable to connect.
+
+**Speaker A (NS):** That’s okay. Let’s try resetting the laptop. Press and hold the power button for 10 seconds. Then turn it back on.
+
+**Speaker B (L2, Malay):** Okay, I do now... (pause) Um, still same. Screen black.
+
+**Speaker A (NS):** Alright, thanks for trying that. Is there any light on the keyboard or any beeping sounds when you start it?
+
+**Speaker B (L2, Malay):** Uh, yes, light on keyboard. No beep sound.
+
+**Speaker A (NS):** That’s a helpful detail. It might be a hardware issue. Can you remove the battery and put it back in?
+
+**Speaker B (L2, Malay):** Uh, how to do that? I... I not know.
+
+**Speaker A (NS):** No worries, let’s skip that step. It might be best to bring it to a service center. Would you like me to find the nearest location for you?
+
+**Speaker B (L2, Malay):** Yes, that is good. I need address, please.
+
+**Speaker A (NS):** Sure thing. Can you tell me your current location or the city you’re in?
+
+**Speaker B (L2, Malay):** I am in Kuala Lumpur, near, um, Bangsar area.
+
+**Speaker A (NS):** Got it. There’s a service center at Mid Valley Megamall. Does that work for you?
+
+**Speaker B (L2, Malay):** Yes, Mid Valley is near. I go there.
+
+**Speaker A (NS):** Perfect. They’ll be able to help with the hardware issue. Is there anything else I can assist you with?
+
+**Speaker B (L2, Malay):** No, thank you. You help a lot. I... um, appreciate it.
+
+**Speaker A (NS):** You’re welcome! I hope your laptop gets fixed soon. Have a great day!
+
+**Speaker B (L2, Malay):** Thank you. Have nice day t

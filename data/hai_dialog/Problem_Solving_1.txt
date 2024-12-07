@@ -1,0 +1,41 @@
+peaker A (NS):** Hello, thank you for calling customer service. How can I assist you today?
+
+**Speaker B (L2, Thai):** Um, hello. I have problem with, uh, my computer. It not working... how to say... properly?
+
+**Speaker A (NS):** I see, can you tell me what exactly is happening with your computer?
+
+**Speaker B (L2, Thai):** Yes, uh, it... the screen is black. I turn on, but nothing show.
+
+**Speaker A (NS):** Alright. Have you tried restarting it?
+
+**Speaker B (L2, Thai):** Yes, I try many time. Still same. I not sure what do next.
+
+**Speaker A (NS):** No worries, let's troubleshoot together. Can you check if the power cable is properly connected?
+
+**Speaker B (L2, Thai):** Oh, okay. Um, yes, it, uh, connect. I think cable is fine.
+
+**Speaker A (NS):** Good. Is there any sound coming from the computer when you turn it on, like fan noise?
+
+**Speaker B (L2, Thai):** Ah, yes. I hear fan, but screen still black.
+
+**Speaker A (NS):** Understood. Could it be that your monitor is not working? Do you have another monitor or TV to test?
+
+**Speaker B (L2, Thai):** I have TV. Should I try connect to TV?
+
+**Speaker A (NS):** Yes, please try that and let me know if you see anything on the TV screen.
+
+**Speaker B (L2, Thai):** Okay, one moment... Um, yes! Now I see, uh, desktop on TV.
+
+**Speaker A (NS):** Great! It seems the issue is with the monitor. You might want to check the monitor’s cable or try a different one.
+
+**Speaker B (L2, Thai):** Oh, I see. I will check cable. Thank you, very helpful.
+
+**Speaker A (NS):** You’re welcome. Is there anything else I can help with today?
+
+**Speaker B (L2, Thai):** Um, no, I think that is all. Thank you for your help.
+
+**Speaker A (NS):** Anytime! If you need further assistance, feel free to call us back. Have a great day!
+
+**Speaker B (L2, Thai):** Thank you, you too. Goodbye!
+
+**Speaker A (NS):** Goodb

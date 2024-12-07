@@ -1,0 +1,43 @@
+peaker A (NS):** Hello! Thank you for calling customer service. How can I assist you today?
+
+**Speaker B (L2, Japanese):** Ah, hello. Um, I have, uh, problem with my.. um, how to say... computer printer?
+
+**Speaker A (NS):** I see. Could you describe the problem you’re experiencing with your printer?
+
+**Speaker B (L2, Japanese):** Yes, it is not printing. I try many time, but paper, uh, not come out.
+
+**Speaker A (NS):** Okay, have you checked if there is any paper jammed in the printer?
+
+**Speaker B (L2, Japanese):** Ah, paper jam? Um, I think no. I open and look, but not see anything.
+
+**Speaker A (NS):** All right. Is there enough paper loaded in the tray?
+
+**Speaker B (L2, Japanese):** Yes, yes. I put a lot of paper. Still no print.
+
+**Speaker A (NS):** Let’s check if the printer is connected to your computer properly. Is the cable securely plugged in?
+
+**Speaker B (L2, Japanese):** Um, let me see... Ah, yes, cable is, um, how to say... tight?
+
+**Speaker A (NS):** Great. Is your printer showing any error message on the screen?
+
+**Speaker B (L2, Japanese):** Error message... Ah, yes, it say, um, "offline."
+
+**Speaker A (NS):** In that case, could you try restarting both your computer and the printer?
+
+**Speaker B (L2, Japanese):** Ah, restart. Yes, okay. I do that now... (pause) Um, still same, no change.
+
+**Speaker A (NS):** Hmm, let’s try checking the settings on your computer. Can you access the printer settings and make sure it’s set as the default printer?
+
+**Speaker B (L2, Japanese):** Yes, um, I look now... Ah, it is not default. I make it default.
+
+**Speaker A (NS):** Excellent. Try printing a test page now and see if it works.
+
+**Speaker B (L2, Japanese):** Ah, okay, I try... (pause) Yes! It print! Thank you!
+
+**Speaker A (NS):** I’m glad to hear that! Is there anything else you need help with?
+
+**Speaker B (L2, Japanese):** No, I think that is all. Thank you very much for, um, your help!
+
+**Speaker A (NS):** You’re welcome! Have a great day!
+
+**Speaker B (L2, Japanese):** You too! Thank you again. Goodb

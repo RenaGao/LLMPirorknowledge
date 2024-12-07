@@ -1,0 +1,51 @@
+text:** Speaker A (Customer Service Representative) and Speaker B (Customer) are discussing a technical issue with a device.
+
+---
+
+**Speaker A:** Hello! Thank you for contacting customer service. How may I assist you today?
+
+**Speaker B:** Um, hello... I have, uh, problem with my... my phone. It not work... properly.
+
+**Speaker A:** Oh, I’m sorry to hear that. Could you please describe the issue you’re experiencing?
+
+**Speaker B:** Yes, so... the phone, it... um, how to say... freeze? Yes, freeze, and sometimes... restart by itself.
+
+**Speaker A:** I see. Is this happening with any specific app, or just in general?
+
+**Speaker B:** Uh, I think... general? When I use... um, many app together, it happen.
+
+**Speaker A:** Alright, it sounds like a performance issue. Have you tried restarting your phone to see if it helps?
+
+**Speaker B:** Yes, I... restart, but... problem come back.
+
+**Speaker A:** Okay, thank you for letting me know. Have you checked if your software is up to date?
+
+**Speaker B:** Um, I check, but... how to update? I not sure.
+
+**Speaker A:** No problem. Go to your settings, then find "Software Update." Follow the prompts to update it.
+
+**Speaker B:** Ah, okay, I will try. But if update, it... need long time?
+
+**Speaker A:** It depends on your internet speed. It might take a few minutes.
+
+**Speaker B:** I see, okay. I will do this when... at home, with Wi-Fi.
+
+**Speaker A:** That's a good idea. Is there anything else I can help you with while you’re here?
+
+**Speaker B:** Um, yes... battery, it... die fast. Is this... normal?
+
+**Speaker A:** How long does your battery last before needing a charge?
+
+**Speaker B:** About... uh, five hours with... with not much use.
+
+**Speaker A:** That does seem a bit short. You might want to check if there are apps running in the background using a lot of power.
+
+**Speaker B:** Ah... okay, I will check. Thank you for... your help.
+
+**Speaker A:** You’re welcome! If the problem continues, don’t hesitate to contact us again.
+
+**Speaker B:** Yes, I will. Thank you very much!
+
+**Speaker A:** Have a great day and good luck with your phone!
+
+**Speaker B:** Thank you, bye-bye!

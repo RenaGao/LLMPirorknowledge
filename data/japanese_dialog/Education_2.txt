@@ -1,0 +1,45 @@
+peaker A (NS):** Hi there! Do you have any questions about the homework assignment?
+
+**Speaker B (L2, Japanese):** Uh, yes, hello. I, um, not understand part of the homework. 
+
+**Speaker A (NS):** No problem! Which part is confusing for you?
+
+**Speaker B (L2, Japanese):** The, um, part about... how to say... calculating... um, numbers? 
+
+**Speaker A (NS):** Oh, the calculation part? Is it the math problem section?
+
+**Speaker B (L2, Japanese):** Yes, math problem. I not sure how to start.
+
+**Speaker A (NS):** Okay, let's go through it together. Did you understand the formula you need to use?
+
+**Speaker B (L2, Japanese):** Formula... uh, not really. Can you tell more about it?
+
+**Speaker A (NS):** Sure! It’s the quadratic formula. Do you remember how to apply it?
+
+**Speaker B (L2, Japanese):** Ah, quadratic... yes, I see it before, but... um, forget. 
+
+**Speaker A (NS):** That’s okay! It happens. Let me explain. You use it to solve equations like ax² + bx + c = 0.
+
+**Speaker B (L2, Japanese):** Oh, yes! Now, I remember. But, um, "a" and "b"... what are they?
+
+**Speaker A (NS):** Good question. "a," "b," and "c" are numbers in the equation. They’re constants.
+
+**Speaker B (L2, Japanese):** Ah, constants. So, I need to, um, find these and put in formula?
+
+**Speaker A (NS):** Exactly! Once you have them, plug them into the formula and solve.
+
+**Speaker B (L2, Japanese):** I see. And, um, what is next step after?
+
+**Speaker A (NS):** After you plug in the values, you calculate the discriminant, which is b² - 4ac.
+
+**Speaker B (L2, Japanese):** Discriminant... um, yes, this help to find solution, right?
+
+**Speaker A (NS):** Exactly! It tells you about the roots of the equation.
+
+**Speaker B (L2, Japanese):** Roots... ah, solutions! So, if I find, um, two numbers, it is done?
+
+**Speaker A (NS):** Yes, you’ll get two roots if the discriminant is positive. Those are your solutions.
+
+**Speaker B (L2, Japanese):** Great! Thank you. I try this now.
+
+**Speaker A (NS):** You’re welcome! Let me know if you have any more questions. Good lu

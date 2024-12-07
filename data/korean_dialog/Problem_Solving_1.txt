@@ -1,0 +1,47 @@
+peaker A (NS):** Hello, thank you for calling customer service. How can I assist you today?
+
+**Speaker B (L2, Korean):** Ah, yes. Hello. I have a, um, problem with my laptop. It not working well.
+
+**Speaker A (NS):** I’m sorry to hear that. Can you tell me what exactly is happening with your laptop?
+
+**Speaker B (L2, Korean):** Yes, it is very slow, and sometimes it... um, how to say, freeze?
+
+**Speaker A (NS):** I see, it freezes. That can be frustrating. Have you noticed this happening after a specific action, like opening a program?
+
+**Speaker B (L2, Korean):** Yes, mostly when I open, um, big program. Like game or, uh, video editing.
+
+**Speaker A (NS):** That helps narrow it down. How old is your laptop, if you don’t mind me asking?
+
+**Speaker B (L2, Korean):** It is... um, I buy it three year ago. Almost four now.
+
+**Speaker A (NS):** Okay, it’s a few years old. Have you tried cleaning up some space on your hard drive or updating your software?
+
+**Speaker B (L2, Korean):** Um, I delete few files, but not sure about update. How I check it?
+
+**Speaker A (NS):** You can usually check for updates in the settings under “Update & Security.” Would you like me to guide you through it?
+
+**Speaker B (L2, Korean):** Yes, please. I not so good with these things.
+
+**Speaker A (NS):** No problem at all. First, click on the “Start” menu and then go to “Settings.” Do you see it?
+
+**Speaker B (L2, Korean):** Yes, I see. I click it now.
+
+**Speaker A (NS):** Great. Now, look for “Update & Security.” It should be near the bottom. Select that option.
+
+**Speaker B (L2, Korean):** Ah, I find it. Do I click “Check for updates”?
+
+**Speaker A (NS):** Exactly. Click that, and it will search for any available updates. It may take a bit of time.
+
+**Speaker B (L2, Korean):** Okay, it is checking now. Um, what I do if it find update?
+
+**Speaker A (NS):** If it finds updates, go ahead and install them. You might need to restart your laptop afterward.
+
+**Speaker B (L2, Korean):** I understand. Is there anything else I can do for speed up?
+
+**Speaker A (NS):** Yes, consider uninstalling programs you don’t use often and perhaps adding more RAM if possible.
+
+**Speaker B (L2, Korean):** RAM... I see. I will think about it. Thank you for your help.
+
+**Speaker A (NS):** You’re welcome! If you have any more questions, feel free to call us back. Have a great day!
+
+**Speaker B (L2, Korean):** Thank you very much. B

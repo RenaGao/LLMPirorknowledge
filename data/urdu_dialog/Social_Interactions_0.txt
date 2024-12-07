@@ -1,0 +1,43 @@
+peaker A (NS):** Hi there! Thanks for coming to the party. Can you tell me a bit about yourself?
+
+**Speaker B (L2, Urdu):** Oh, yes. Thank you for inviting. I am Ali. I work in, um, how to say... computers?
+
+**Speaker A (NS):** Oh, you work with computers? That's interesting! What do you do exactly?
+
+**Speaker B (L2, Urdu):** Yes, um, I am doing software develop... developing. I make, uh, programs and apps.
+
+**Speaker A (NS):** Software development, that sounds exciting! How long have you been doing that?
+
+**Speaker B (L2, Urdu):** It has been, um, about three year now. I start after university.
+
+**Speaker A (NS):** That's quite some time. Which university did you attend?
+
+**Speaker B (L2, Urdu):** I study at Lahore University. It is good for science, technology... um, these things.
+
+**Speaker A (NS):** Lahore University is well-known. What was your major?
+
+**Speaker B (L2, Urdu):** My major was computer science. I always like computers.
+
+**Speaker A (NS):** That's great! What inspired you to get into computer science?
+
+**Speaker B (L2, Urdu):** Um, I like solve problems. And, uh, computers are very... um, how to say... powerful for this?
+
+**Speaker A (NS):** Yes, computers are powerful tools for problem-solving. Do you have a favorite project you've worked on?
+
+**Speaker B (L2, Urdu):** Yes! I make a, um, how to say... app for learning languages. It help people to learn easily.
+
+**Speaker A (NS):** Wow, a language learning app! That sounds very useful. What languages does it support?
+
+**Speaker B (L2, Urdu):** It have English, Urdu, and some other. I want add more soon.
+
+**Speaker A (NS):** That's a great idea. So, do you enjoy living in Lahore?
+
+**Speaker B (L2, Urdu):** Yes, Lahore is very nice. The food, um, culture... everything is good.
+
+**Speaker A (NS):** I've heard the food is amazing there. Do you have a favorite dish?
+
+**Speaker B (L2, Urdu):** Yes, biryani is my favorite. Very spicy and tasty!
+
+**Speaker A (NS):** I love biryani too! It’s a pleasure talking to you, Ali. Enjoy the party!
+
+**Speaker B (L2, Urdu):** Thank you! It's nice talking to you also. See you arou
