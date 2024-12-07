@@ -1,0 +1,29 @@
+**Speaker A:** Good morning, Emma. Thanks for joining this call. How can I assist you today?  
+
+**Speaker B:** Hi, thank you for having me. I’m hoping to get some information about the new features in the software update.  
+
+**Speaker A:** Of course! We’ve added a couple of exciting features. Is there anything specific you’re interested in?  
+
+**Speaker B:** Yes, I heard there’s a new collaboration tool. Can you tell me more about how it works?  
+
+**Speaker A:** Absolutely. The new tool allows real-time editing, so multiple team members can work on a document simultaneously.  
+
+**Speaker B:** That sounds really useful! Is it compatible with all file types, or are there restrictions?  
+
+**Speaker A:** Good question. It’s compatible with most common file types, but there are a few exceptions. I can send you a detailed list if you’d like.  
+
+**Speaker B:** That would be great, thank you. Also, is there a tutorial available for this feature?  
+
+**Speaker A:** Yes, we’ve included a comprehensive tutorial in the help section. You’ll find step-by-step guides and video instructions.  
+
+**Speaker B:** Perfect! I’ll make sure to check it out. One last thing—do users need to have an account to access these features?  
+
+**Speaker A:** Yes, they’ll need to log in with their account credentials. If they don’t have an account yet, registration is simple and free.  
+
+**Speaker B:** Sounds straightforward. Thank you so much for the information. I feel much more informed now.  
+
+**Speaker A:** You’re welcome! I’m glad I could help. If you have any more questions, feel free to reach out anytime.  
+
+**Speaker B:** I appreciate that. Have a great day!  
+
+**Speaker A:** You too, Emma! Take care.

@@ -1,0 +1,29 @@
+**Speaker A:** Good morning, Alex. Thank you for calling our customer support line. How can I assist you today?
+
+**Speaker B:** Hi, thank you for taking my call. I recently purchased a laptop from your store, but I'm having trouble setting it up. Could you help me with that?
+
+**Speaker A:** Of course! I’d be happy to help. Can you tell me what specific issue you’re encountering?
+
+**Speaker B:** Sure, it seems like the laptop isn’t connecting to my Wi-Fi network. I’ve tried a few things, but no luck so far.
+
+**Speaker A:** I understand how frustrating that can be. Let’s try a couple of quick steps. Have you checked if the Wi-Fi button is enabled on your laptop?
+
+**Speaker B:** Yes, it is turned on. I checked that first.
+
+**Speaker A:** Great. Next, let’s make sure your Wi-Fi network is visible. Can you see your network in the list of available connections?
+
+**Speaker B:** Yes, I can see it. But when I try to connect, it says the password is incorrect, although I’m sure it’s right.
+
+**Speaker A:** That’s helpful to know. Sometimes, resetting the router can resolve this issue. Have you tried that yet?
+
+**Speaker B:** Not yet. Should I give it a try now?
+
+**Speaker A:** Yes, please. Turn your router off, wait for about 30 seconds, and then turn it back on. Once it’s up, try connecting again.
+
+**Speaker B:** Okay, I’ll do that. Just a moment... Alright, it’s back on, and I’m connected now! Thank you so much.
+
+**Speaker A:** Fantastic! I’m glad that worked. If you encounter any more issues, feel free to call us anytime. 
+
+**Speaker B:** Will do. Thanks again for your help. Have a great day!
+
+**Speaker A:** You too, Alex! Take care.

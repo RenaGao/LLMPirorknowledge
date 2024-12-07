@@ -1,0 +1,27 @@
+**Speaker A:** Good afternoon, and thank you for joining us today. Could you start by telling me a bit about your background and what brings you here?  
+
+**Speaker B:** Sure, thanks for having me. I recently graduated with a degree in computer science, and I'm eager to dive into a tech role where I can grow and contribute to exciting projects. I saw your company is leading in AI solutions, which really caught my interest.  
+
+**Speaker A:** That's great to hear! We do have a strong focus on AI. Could you share any experience you have with AI projects during your studies or internships?  
+
+**Speaker B:** Definitely. During my last semester, I worked on a project involving natural language processing. We developed a chatbot that could assist with customer inquiries. It was challenging but rewarding to see it come to life.  
+
+**Speaker A:** Impressive! How did you handle the challenges you faced during the development of the chatbot?  
+
+**Speaker B:** We had to ensure the bot understood context, which was tricky. I focused on refining the training data and tweaking the algorithms to improve its accuracy. Constant testing and feedback were key.  
+
+**Speaker A:** It sounds like you gained valuable experience. We often work in teams on similar projects. How do you usually approach collaboration with others?  
+
+**Speaker B:** I believe communication is crucial. I like to keep the dialogue open and ensure everyone is on the same page. I also make it a point to listen to others' ideas and provide constructive feedback.  
+
+**Speaker A:** Excellent approach. From what you've described, you seem like a good fit for our team. Do you have any questions for us about the role or the company?  
+
+**Speaker B:** Yes, I was curious about the team's current projects and how you see this position contributing to those.  
+
+**Speaker A:** Right now, we're working on enhancing our AI-driven analytics platform. This role would involve collaborating with the team to implement new features and optimize existing ones. It's an exciting time to join us!  
+
+**Speaker B:** That sounds exactly like the kind of challenge I’m looking for. I appreciate the opportunity to interview today and learn more about the company.  
+
+**Speaker A:** We're happy to have you here. We'll be in touch soon regarding the next steps. Thank you for your time.  
+
+**Speaker B:** Thank you! I look forward to hearing from you.
