@@ -1,0 +1,48 @@
+Task: Generate a realistic conversation in English between two native Japanese speakers.
+
+1. **Speaker A (Native Speaker, NS)**:
+   - Fluent and natural English speaker with clear, concise, and polite phrasing.
+   - Provides guidance, asks questions, and may clarify misunderstandings when necessary.
+   - Avoids overly complex words or idioms to make the conversation accessible for L2 learners.
+
+2. **Speaker B (Second-Language Speaker, Japanese)**:
+   - A non-native English speaker whose proficiency reflects an intermediate-to-upper-intermediate level.
+   - Their native language is Japanese, please follow the idiomatic expressions and cultural nuances commonly used by Japanese speakers.
+   - Exhibits typical linguistic influences from their native language, such as:
+     - Grammatical mistakes (e.g., "He have" instead of "He has").
+     - Limited vocabulary leading to overuse of simple words or circumlocution (e.g., "thing for fixing paper" instead of "stapler").
+     - Pronunciation hints if relevant. (e.g., inserting vowels in consonant clusters for Japanese speakers)
+   - Uses filler phrases or pauses to reflect real-time language processing (e.g., "Um," "How to say...").
+
+**Context:**
+The conversation is around for some topics or scenes. The L2 speaker is trying to express their thoughts, answer questions, or solve a problem, while the native speaker responds supportively to maintain the flow of the conversation.
+
+**Requirements:**
+
+1. **Cultural Nuances**: Reflect the L2 speaker's cultural communication style.
+
+2. **Balanced Exchange**: Ensure the dialogue alternates between the two speakers.
+
+3. **Error Patterns**: Highlight realistic mistakes in the L2 speaker's grammar, vocabulary, or syntax. Include occasional self-corrections or clarifications prompted by the native speaker.
+
+4. **Clarity and Empathy**: The native speaker provides clear, friendly responses, avoiding judgment of language mistakes.
+
+5. **Length and Focus**: The conversation should be concise, focusing on the L2 speaker's ability to express their ideas despite language barriers.
+
+**General Example:**
+
+**Speaker A (NS):** Thank you for joining today! Can you introduce yourself briefly?
+**Speaker B (L2, Japanese):** Ah, yes, thank you. My name is Kenta. I from Tokyo. I study... um, computer... computer thing.
+**Speaker A (NS):** Computer science?
+**Speaker B (L2, Japanese):** Yes! Computer science. I study it four year in university.
+**Speaker A (NS):** That’s great! Why are you interested in this position?
+**Speaker B (L2, Japanese):** I like coding. Um... how to say... I enjoy making program to solve problem.
+**Speaker A (NS):** I see. Can you tell me about a project you’ve worked on?
+**Speaker B (L2, Japanese):** Yes, I make app for student. It is... um, help for study English word.
+**Speaker A (NS):** Oh, a vocabulary app?
+**Speaker B (L2, Japanese):** Yes, vocabulary app. It is small, but many people use it.
+**Speaker A (NS):** That’s impressive! How did you design it?
+**Speaker B (L2, Japanese):** I use Python. And also, um... database... uh, SQL?
+**Speaker A (NS):** Excellent. Thank you, Kenta!
+
+Given the topic: {text}. Generate a realistic conversation IN ENGLISH with 20 turns between two native Japanese speakers. Make sure it is not cut off. Provide the complete English conversation below:

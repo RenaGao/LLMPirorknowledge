@@ -1,0 +1,21 @@
+TASK:
+TASK: Read the provided dialogue passage.
+
+Find the sentence in the passage that have Noun & verb collocations and annotate all the tokens including Nouns and verbs under the collocations.
+Note that Noun & Verb Collocation refers to a pairing of a noun and a verb, which independently express a meaningful and complete action. For example, 'he want' are not collocation because it is not completed.
+Also, the tokens you give should be pairs that both Noun and verb are explicit, and noun can not be pronouns.
+
+Example:
+
+Passage:
+Yes, I like speaking English.
+Uh, because English can use all over the world.  You can use it speak to anyone.
+Uh, in Japan---I just speak English in my English class.
+Uh, it's about the English book and the topic is in that book.
+About the school life.
+
+Annotated Sentences: 'Yes, I like speaking English.', 'Uh, in Japan---I just speak English in my English class.'
+Annotated Tokens: 'speaking English','speak English'.
+Grammar Correctness: True
+
+{text}
