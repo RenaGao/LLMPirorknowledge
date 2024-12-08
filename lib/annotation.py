@@ -94,8 +94,6 @@ if __name__ == '__main__':
     #     os.mkdir(output_dir)
     # extract_speaker_lines(input_dir, output_dir)
 
-    os.environ["OPENAI_API_KEY"] = ""
-    openai.organization = ""
     openai.api_key = os.environ.get("OPENAI_API_KEY")
     MODEL = "gpt-4o"
 

@@ -49,8 +49,7 @@ def request(output_dir_path, system_instruction, assist_instruction, topic_list)
 
 
 if __name__ == '__main__':
-    os.environ["OPENAI_API_KEY"] = ""
-    openai.organization = ""
+
     openai.api_key = os.environ.get("OPENAI_API_KEY")
     MODEL = "gpt-4o"
 
