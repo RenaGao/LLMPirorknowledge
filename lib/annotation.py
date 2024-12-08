@@ -113,4 +113,6 @@ if __name__ == '__main__':
         for item in sorted(os.listdir(samples_dir)):
             sample_path = os.path.join(samples_dir, item)
             annotation_path = os.path.join(output_path, item)
+            if not os.path.exists(annotation_path):
+                os.mkdir(annotation_path)
             request(sample_path, annotation_path, system_instruction, assist_instruction)
