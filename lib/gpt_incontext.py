@@ -49,8 +49,8 @@ def request(output_dir_path, system_instruction, assist_instruction, topic_list)
 
 
 if __name__ == '__main__':
-    os.environ["OPENAI_API_KEY"] = ("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")
-    openai.organization = "org-PUEc9n7QWsFEOdQs6KtGnCkp"
+    os.environ["OPENAI_API_KEY"] = ""
+    openai.organization = ""
     openai.api_key = os.environ.get("OPENAI_API_KEY")
     MODEL = "gpt-4o"
 
