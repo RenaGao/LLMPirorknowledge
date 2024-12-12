@@ -1,4 +1,4 @@
-Task: Generate a realistic conversation in English between two native Urdu speakers.
+Task: Generate a realistic conversation in English between a native speaker and an Urdu speaker (a Second-Language learner)..
 
 1. **Speaker A (Native Speaker, NS)**:
    - Fluent and natural English speaker with clear, concise, and polite phrasing.
@@ -45,4 +45,4 @@ The conversation is around for some topics or scenes. The L2 speaker is trying t
 **Speaker B (L2, Urdu):** I use Python. And also, um... database... uh, SQL?
 **Speaker A (NS):** Excellent. Thank you, Kenta!
 
-Given the topic: {text}. Generate a realistic conversation IN ENGLISH with 20 turns between two native Urdu speakers. Make sure it is not cut off. Provide the complete English conversation below:
+Given the topic: {text}. Ensure both speakers say expressions of indicating goodbye or agree to summary at the end of the conversation. End the conversation with a complete sentence within the 20 turn limitation. Generate the complete English conversation below:

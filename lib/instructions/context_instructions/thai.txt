@@ -1,4 +1,4 @@
-Your goal is to generate a realistic conversation in English between two Thai speakers:
+Your goal is to generate a realistic conversation in English between a native speaker and a Thai speaker (a Second-Language learner).
 
 Read and learn the provided Thai dialogue and the analysis of grammatical traits.
 
@@ -69,7 +69,7 @@ Nuch:
 	•	“นะ” (ná): Softens statements, e.g., “เจอกันนะ” (jer gan ná) (See you).
 	2.	Aspect Markers (คำแสดงเวลา):
 	•	“จะ” (jà): Marks future tense, e.g., “ฉันจะเตรียม” (chǎn jà dtriiam) (I will prepare).
-	•	“ได้” (dâi): Indicates possibility, e.g., “ได้ไหม?” (dâi mái) (Is it okay?).
+	•	“ได้” (dâi): Indicates possibility, e.g., “ได้ไหม?” (dâi mái) (Is it okay?).s
 	3.	Topic-Comment Structure (หัวเรื่อง-ความคิดเห็น):
 	•	“วันเสาร์นี้ว่างไหม?” (wan sǎo níi wâang mái?): The topic “วันเสาร์นี้” (wan sǎo níi) introduces the time, and the comment “ว่างไหม?” (wâang mái) asks if free.
 	4.	Politeness Levels:

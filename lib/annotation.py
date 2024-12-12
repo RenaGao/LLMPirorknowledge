@@ -1,14 +1,7 @@
-"""
-@Time : 2024/12/7 13:31
-@Author : Ray
-@Email : 1206953809@qq.com
-@File : annotation.py
-@Purpose
-"""
-
 import os
 import openai
 import json
+
 
 def extract_speaker_lines(input_dir, output_dir):
     for data_dir in os.listdir(input_dir):
@@ -31,10 +24,12 @@ def extract_speaker_lines(input_dir, output_dir):
                 with open(out_file_path, "w", encoding="utf-8") as ffile:
                     ffile.write(result)
 
+
 def read_instruction(instruction_path):
     with open(instruction_path, 'r', encoding='utf-8') as file:
         instruction = file.read()
     return instruction
+
 
 def format_prompt(system_instruction, instruction, input):
     # print(input)
@@ -48,6 +43,7 @@ def format_prompt(system_instruction, instruction, input):
     ]
     return messages
 
+
 def request(samples_path, output_path, system_instruction, prompt_type):  # parameters
     for file_name in sorted(os.listdir(samples_path)):
         if file_name.endswith('.txt'):
@@ -60,7 +56,7 @@ def request(samples_path, output_path, system_instruction, prompt_type):  # para
                 response = openai.chat.completions.create(
                     model=MODEL,
                     messages=messages,
-                    temperature=0.8,
+                    temperature=0,
                 )
                 ans_model = response.choices[0].message.content
                 print(ans_model)
@@ -88,20 +84,24 @@ def request(samples_path, output_path, system_instruction, prompt_type):  # para
 
 
 if __name__ == '__main__':
-    # input_dir = "../data"
-    # output_dir = "../datasets/gpt_generation"
-    # if not os.path.exists(output_dir):
-    #     os.mkdir(output_dir)
-    # extract_speaker_lines(input_dir, output_dir)
+    input_dir = "../gpt_generation_data/data_0"
+    output_dir = "../datasets/gpt_generation_0"
+    if not os.path.exists(output_dir):
+        os.mkdir(output_dir)
+    extract_speaker_lines(input_dir, output_dir)
 
+    os.environ["OPENAI_API_KEY"] = ("")
+    openai.organization = ""
     openai.api_key = os.environ.get("OPENAI_API_KEY")
     MODEL = "gpt-4o"
 
     system_instruction_path = "instructions/annotation_instructions/system_instruction.txt"
     system_instruction = read_instruction(system_instruction_path)
     assist_instruction_dir = "instructions/annotation_instructions/assist_instructions"
-    samples_dir = "../datasets/gpt_generation"
-    output_dir = "../annotations"
+    samples_dir = "../datasets/gpt_generation_0"
+    output_dir = "../gpt_generation_annotations/annotations_0"
+    if not os.path.exists(output_dir):
+        os.mkdir(output_dir)
 
     for instruction in os.listdir(assist_instruction_dir):
         instruction_path = os.path.join(assist_instruction_dir, instruction)

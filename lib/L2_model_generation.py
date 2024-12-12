@@ -1,12 +1,3 @@
-"""
-@Time : 2024/12/3 22:35
-@Author : Ray
-@Email : 1206953809@qq.com
-@File : L2_model_generation.py
-@Purpose
-"""
-
-
 import yaml
 import os
 import torch

@@ -1,4 +1,4 @@
-Your goal is to generate a realistic conversation in English between two Cantonese speakers:
+Your goal is to generate a realistic conversation in English between a native speaker and a Cantonese speaker (a Second-Language learner).
 
 Read and learn the provided Cantonese dialogue and the analysis of grammatical traits.
 

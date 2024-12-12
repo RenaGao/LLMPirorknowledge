@@ -1,4 +1,4 @@
-Your goal is to generate a realistic conversation in English between two Urdu speakers.
+Your goal is to generate a realistic conversation in English between a native speaker and an Urdu speaker (a Second-Language learner).
 
 Read and learn the provided Urdu dialogue and the analysis of grammatical traits.
 
