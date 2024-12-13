@@ -1,0 +1,36 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, when we talk on Thursday, I hear you say you not come to the meeting.",
+        "annotation_token": [
+            "talk",
+            "hear",
+            "say",
+            "not come"
+        ],
+        "rationale": "The sentence contains verbs that should be in the past tense to agree with the context of a past event ('when we talked on Thursday').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, um, you know, I was preparing report. I thought you need my help, but you no ask.",
+        "annotation_token": [
+            "was preparing",
+            "thought",
+            "need",
+            "no ask"
+        ],
+        "rationale": "The sentence contains a mix of past and present tense verbs. 'Need' and 'no ask' should be in the past tense to agree with 'was preparing' and 'thought'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, just about presentation next week. You say you will start, or I?",
+        "annotation_token": [
+            "say",
+            "will start"
+        ],
+        "rationale": "The sentence is discussing a future event, so 'say' should be in the future tense to agree with 'will start'.",
+        "grammar_correctness": "wrong"
+    }
+]

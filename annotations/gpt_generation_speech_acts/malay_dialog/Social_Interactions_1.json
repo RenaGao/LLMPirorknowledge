@@ -1,0 +1,133 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, I think we can, uh, do party at his house.",
+        "annotation_token": [
+            "I think",
+            "we can",
+            "do party"
+        ],
+        "rationale": "The speaker is expressing a suggestion or proposal about having a party at someone's house.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I can try.",
+        "annotation_token": [
+            "I can try"
+        ],
+        "rationale": "The speaker is expressing willingness or ability to attempt something.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will, um, message her later.",
+        "annotation_token": [
+            "I will",
+            "message her"
+        ],
+        "rationale": "The speaker is expressing an intention to perform an action in the future.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We can, uh, use balloons and... um, banner?",
+        "annotation_token": [
+            "We can",
+            "use balloons",
+            "use banner"
+        ],
+        "rationale": "The speaker is suggesting the use of balloons and a banner for decoration.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We can do something with... um, football theme?",
+        "annotation_token": [
+            "We can",
+            "do something"
+        ],
+        "rationale": "The speaker is proposing an idea to incorporate a football theme.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe, um, start at 5 p.m.?",
+        "annotation_token": [
+            "start at 5 p.m."
+        ],
+        "rationale": "The speaker is suggesting a possible start time for the event.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will, uh, start planning the message to his sister now.",
+        "annotation_token": [
+            "I will",
+            "start planning"
+        ],
+        "rationale": "The speaker is expressing an intention to begin planning a message.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, I think we can, uh, do party at his house.",
+        "annotation_token": [
+            "yes",
+            "I think",
+            "we can"
+        ],
+        "rationale": "The tokens 'yes', 'I think', and 'we can' indicate agreement, expression of opinion, and possibility, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I can try.",
+        "annotation_token": [
+            "Yes",
+            "I can try"
+        ],
+        "rationale": "The tokens 'Yes' and 'I can try' indicate agreement and willingness, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes! The one with, um, spicy chicken.",
+        "annotation_token": [
+            "Oh",
+            "yes"
+        ],
+        "rationale": "The tokens 'Oh' and 'yes' indicate realization and agreement, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, good idea!",
+        "annotation_token": [
+            "Yes",
+            "good idea"
+        ],
+        "rationale": "The tokens 'Yes' and 'good idea' indicate agreement and approval, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I can help with that.",
+        "annotation_token": [
+            "Okay",
+            "I can help"
+        ],
+        "rationale": "The tokens 'Okay' and 'I can help' indicate agreement and offer of assistance, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that is good.",
+        "annotation_token": [
+            "Yes",
+            "that is good"
+        ],
+        "rationale": "The tokens 'Yes' and 'that is good' indicate agreement and approval, which are speech acts.",
+        "grammar_correctness": "correct"
+    }
+]

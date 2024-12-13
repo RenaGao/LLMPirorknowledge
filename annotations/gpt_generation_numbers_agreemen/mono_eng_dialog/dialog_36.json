@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "We look at several metrics, including engagement rates, click-through rates, and conversion rates.",
+        "annotation_token": [
+            "metrics",
+            "rates"
+        ],
+        "rationale": "The sentence contains plural nouns 'metrics' and 'rates' which are correctly used in the context of discussing multiple types of measurements.",
+        "grammar_correctness": "correct"
+    }
+]

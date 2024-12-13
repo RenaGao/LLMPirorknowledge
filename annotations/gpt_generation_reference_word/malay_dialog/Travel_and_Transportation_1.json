@@ -1,0 +1,107 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, yes, thank you. I am... how to say... looking for hotel. Near here.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, I think it is... ah, yes, \"Green Park Hotel.\"",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, I think it is... ah, yes, \"Green Park Hotel.\"",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the 'Green Park Hotel'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, bagus! How do I go there?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, bagus! How do I go there?",
+        "annotation_token": "there",
+        "rationale": "The word 'there' is a reference word referring to the 'Green Park Hotel'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Walk straight... then left at light? Is it near from there?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the 'Green Park Hotel'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Walk straight... then left at light? Is it near from there?",
+        "annotation_token": "there",
+        "rationale": "The word 'there' is a reference word referring to the location near the 'Green Park Hotel'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, banyak terima kasih! Five minute walk only?",
+        "annotation_token": "walk",
+        "rationale": "The word 'walk' is a reference word referring to the action of walking to the hotel.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, I am here for... how to say... like, relax. Holiday, yes.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I want to see... um, what is popular place here?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, museum and waterfront. I think they are very nice.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, museum and waterfront. I think they are very nice.",
+        "annotation_token": "they",
+        "rationale": "The word 'they' is a reference word referring to 'museum and waterfront'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, hotel staff... um, they speak English, right?",
+        "annotation_token": "they",
+        "rationale": "The word 'they' is a reference word referring to 'hotel staff'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That is good. My English is... um, not very good, but I try.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you. You help me a lot. I go to hotel now.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

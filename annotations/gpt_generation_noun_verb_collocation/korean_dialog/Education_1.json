@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Uh... I don't understand when price go up or down.",
+        "annotation_token": "price go",
+        "rationale": "The noun 'price' and the verb 'go' form a collocation that expresses a complete action of the price moving up or down.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "But if supply is more, then price go down, right?",
+        "annotation_token": "price go",
+        "rationale": "The noun 'price' and the verb 'go' form a collocation that expresses a complete action of the price decreasing.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Okay, so if trend is gone, then demand is less?",
+        "annotation_token": "trend is",
+        "rationale": "The noun 'trend' and the verb 'is' form a collocation that expresses a state of the trend being gone.",
+        "grammar_correctness": true
+    }
+]

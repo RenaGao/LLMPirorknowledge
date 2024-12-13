@@ -1,0 +1,29 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hello! Um, I not have plan yet.",
+        "annotation_token": [
+            "not have"
+        ],
+        "rationale": "The sentence uses 'not have' instead of 'do not have', which is incorrect tense agreement in English.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, but I not know how.",
+        "annotation_token": [
+            "not know"
+        ],
+        "rationale": "The sentence uses 'not know' instead of 'do not know', which is incorrect tense agreement in English.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I not sure.",
+        "annotation_token": [
+            "not sure"
+        ],
+        "rationale": "The sentence uses 'not sure' instead of 'am not sure', which is incorrect tense agreement in English.",
+        "grammar_correctness": "wrong"
+    }
+]

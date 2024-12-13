@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, not really. I think we can go out, maybe dinner? I don’t know which place good.",
+        "annotation_token": [
+            "which"
+        ],
+        "rationale": "The word 'which' is used as a quantifier to specify an unknown or unspecified place.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Better we book now, I think. Many people go see Marvel.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is used as a quantifier to indicate a large number of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, maybe 6 o’clock? Is that okay for you?",
+        "annotation_token": [
+            "6"
+        ],
+        "rationale": "The numeral '6' is used to specify a particular time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, not really. I think we can go out, maybe dinner? I don’t know which place good.",
+        "annotation_token": [
+            "which"
+        ],
+        "rationale": "The word 'which' is used as a quantifier to refer to an unspecified place.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Better we book now, I think. Many people go see Marvel.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is used as a quantifier to indicate a large number of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, maybe 6 o’clock? Is that okay for you?",
+        "annotation_token": [
+            "6"
+        ],
+        "rationale": "The numeral '6' is used to specify a particular time.",
+        "grammar_correctness": true
+    }
+]

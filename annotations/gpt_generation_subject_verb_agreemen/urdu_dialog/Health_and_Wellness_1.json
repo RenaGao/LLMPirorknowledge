@@ -1,0 +1,95 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hello, Ayesha! I am good, thank you.",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I, uh, don't get much time for, um, exercise or good food.",
+        "annotation_token": [
+            "I don't get"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'don't get' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Sleep is not so good.",
+        "annotation_token": [
+            "Sleep is"
+        ],
+        "rationale": "The subject 'Sleep' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I sleep late and wake up early.",
+        "annotation_token": [
+            "I sleep",
+            "I wake"
+        ],
+        "rationale": "The subject 'I' agrees with the verbs 'sleep' and 'wake' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I like apple and, um, carrot.",
+        "annotation_token": [
+            "I like"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'like' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is, uh, hard to say no, but I will try.",
+        "annotation_token": [
+            "It is",
+            "I will try"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is' and the subject 'I' agrees with the verb 'will try' in the present and future tense respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Walking is good.",
+        "annotation_token": [
+            "Walking is"
+        ],
+        "rationale": "The subject 'Walking' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I can walk to shop instead of, um, driving.",
+        "annotation_token": [
+            "I can walk"
+        ],
+        "rationale": "The subject 'I' agrees with the modal verb 'can' and the base form 'walk'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you, Ayesha. I, uh, feel better talking with you.",
+        "annotation_token": [
+            "I feel"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'feel' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thanks! I will let you know how it go",
+        "annotation_token": [
+            "I will let",
+            "it go"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'will let' in the future tense. However, 'it go' should be 'it goes' for correct subject-verb agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, in Malaysia, we have, um, different way. We like to use hand for eating, especially rice. It is, uh, more traditional.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the practice of using hands for eating, which is mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, yes. We use right hand only. It is, uh, polite. And we must wash hands before eating.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the practice of using the right hand only, which is mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, often we share. It is, uh, like family style. We put dishes in middle and everyone, um, take what they want.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the practice of sharing food, which is mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, yes, it is good to finish your, uh, plate. It show you like the food. But not too much, so you have space for dessert!",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the act of finishing your plate, which is mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Tipping is not very, um, usual. But if service is good, people sometimes give small tip.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is implied to refer to the act of tipping, which is mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, must try nasi lemak! It is our, um, national dish. Very delicious with, uh, sambal and peanuts.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to nasi lemak, which is mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hmm, we have teh tarik. It is, uh, pulled tea. Very nice, sweet, and creamy.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to teh tarik, which is mentioned in the previous sentence.",
+        "grammar_correctness": true
+    }
+]

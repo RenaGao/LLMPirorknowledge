@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I want to make my favorite meal.",
+        "annotation_token": "make meal",
+        "rationale": "The noun 'meal' and the verb 'make' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "First, I need to buy ingredient.",
+        "annotation_token": "buy ingredient",
+        "rationale": "The noun 'ingredient' and the verb 'buy' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I go to supermarket.",
+        "annotation_token": "go supermarket",
+        "rationale": "The noun 'supermarket' and the verb 'go' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I cook pork with oil and onion.",
+        "annotation_token": "cook pork",
+        "rationale": "The noun 'pork' and the verb 'cook' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I cut, uh... slice them small.",
+        "annotation_token": "cut slice",
+        "rationale": "The noun 'slice' and the verb 'cut' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I, uh... put noodle and then sauce on top.",
+        "annotation_token": "put noodle",
+        "rationale": "The noun 'noodle' and the verb 'put' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Sometimes I add chili.",
+        "annotation_token": "add chili",
+        "rationale": "The noun 'chili' and the verb 'add' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Maybe... um, cook pork just right.",
+        "annotation_token": "cook pork",
+        "rationale": "The noun 'pork' and the verb 'cook' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I can show you more Chinese food.",
+        "annotation_token": "show food",
+        "rationale": "The noun 'food' and the verb 'show' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

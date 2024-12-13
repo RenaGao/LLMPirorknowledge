@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, rice cooker. This one look very nice.",
+        "annotation_token": "This",
+        "rationale": "The word 'This' is used to refer to the rice cooker that the speaker is talking about.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, $60... um, is it possible to, uh... how to say, get lower price?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer to the price of the rice cooker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, 10% discount, that is good.",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is used to refer to the 10% discount mentioned by the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "But, uh, can you tell me if this is, um, good brand?",
+        "annotation_token": "this",
+        "rationale": "The word 'this' is used to refer to the rice cooker being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, good, good. And, um, does it come with, um, what is word... guarantee?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer to the rice cooker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, please. Um, can you, uh, tell me how to use it?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer to the rice cooker.",
+        "grammar_correctness": true
+    }
+]

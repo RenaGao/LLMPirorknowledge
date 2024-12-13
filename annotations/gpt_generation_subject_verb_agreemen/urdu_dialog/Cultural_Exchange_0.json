@@ -1,0 +1,66 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We wear new clothes, and we eat... uh, many special foods.",
+        "annotation_token": [
+            "We wear",
+            "we eat"
+        ],
+        "rationale": "The subject 'We' correctly agrees with the verbs 'wear' and 'eat' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We have biryani, um, sweet dish called... um, seviyan.",
+        "annotation_token": [
+            "We have"
+        ],
+        "rationale": "The subject 'We' correctly agrees with the verb 'have' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is like noodles with milk and sugar.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is called Eidi.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We, um, clean house, and buy new clothes.",
+        "annotation_token": [
+            "We clean"
+        ],
+        "rationale": "The subject 'We' correctly agrees with the verb 'clean' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It was very fun, playing and eating together.",
+        "annotation_token": [
+            "It was"
+        ],
+        "rationale": "The subject 'It' correctly agrees with the verb 'was' in the past tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Everyone is happy.",
+        "annotation_token": [
+            "Everyone is"
+        ],
+        "rationale": "The subject 'Everyone' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

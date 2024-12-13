@@ -1,0 +1,11 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "It is... um, I buy it three year ago. Almost four now.",
+        "annotation_token": [
+            "year"
+        ],
+        "rationale": "The noun 'year' should be in plural form 'years' to agree with the number 'three'.",
+        "grammar_correctness": "wrong"
+    }
+]

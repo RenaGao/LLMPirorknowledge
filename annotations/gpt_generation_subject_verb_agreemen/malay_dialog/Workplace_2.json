@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I use before.",
+        "annotation_token": "I use",
+        "rationale": "The subject 'I' and the verb 'use' are in agreement, as 'use' is the correct form for the first person singular present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I need to, um, get permission maybe?",
+        "annotation_token": "I need",
+        "rationale": "The subject 'I' and the verb 'need' are in agreement, as 'need' is the correct form for the first person singular present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I just install yesterday.",
+        "annotation_token": "I install",
+        "rationale": "The subject 'I' and the verb 'install' are in agreement, as 'install' is the correct form for the first person singular present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I feel more confident now.",
+        "annotation_token": "I feel",
+        "rationale": "The subject 'I' and the verb 'feel' are in agreement, as 'feel' is the correct form for the first person singular present tense.",
+        "grammar_correctness": "correct"
+    }
+]

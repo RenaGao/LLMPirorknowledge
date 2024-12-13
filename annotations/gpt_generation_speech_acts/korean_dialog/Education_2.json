@@ -1,0 +1,126 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello. Um, I have question about homework. Is it okay?",
+        "annotation_token": [
+            "Hello",
+            "I have question about homework",
+            "Is it okay"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hello'), a statement ('I have question about homework'), and a request for confirmation ('Is it okay').",
+        "grammar_correctness": "The grammar is mostly correct, but 'I have question' should be 'I have a question'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, thank you. In the assignment, we need to, um, find... information? Or do we write essay?",
+        "annotation_token": [
+            "Ah, thank you",
+            "In the assignment, we need to, um, find... information?",
+            "Or do we write essay?"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an expression of gratitude ('Ah, thank you'), a request for information ('In the assignment, we need to, um, find... information?'), and a clarification question ('Or do we write essay?').",
+        "grammar_correctness": "The grammar is mostly correct, but 'do we write essay' should be 'do we write an essay'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Can I ask more question if I need?",
+        "annotation_token": [
+            "Can I ask more question if I need"
+        ],
+        "rationale": "The sentence is a request for permission ('Can I ask more question if I need').",
+        "grammar_correctness": "The grammar is mostly correct, but 'more question' should be 'more questions'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, one more. The sources... where I find? Internet okay?",
+        "annotation_token": [
+            "Um, one more",
+            "The sources... where I find?",
+            "Internet okay?"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a request for additional information ('Um, one more'), a question about finding sources ('The sources... where I find?'), and a request for confirmation ('Internet okay?').",
+        "grammar_correctness": "The grammar is mostly correct, but 'where I find' should be 'where can I find'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much for help. I will do my best!",
+        "annotation_token": [
+            "Thank you very much for help",
+            "I will do my best"
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you very much for help') and a promise or commitment ('I will do my best').",
+        "grammar_correctness": "The grammar is mostly correct, but 'for help' should be 'for your help'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! Have a nice day",
+        "annotation_token": [
+            "Thank you",
+            "Have a nice day"
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you') and a well-wish ('Have a nice day').",
+        "grammar_correctness": "The grammar is correct."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello. Um, I have question about homework. Is it okay?",
+        "annotation_token": [
+            "Hello",
+            "I have question about homework",
+            "Is it okay"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hello'), a statement of having a question ('I have question about homework'), and a request for permission ('Is it okay?').",
+        "grammar_correctness": "partially correct, 'I have question' should be 'I have a question' for correct grammar."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, thank you. In the assignment, we need to, um, find... information? Or do we write essay?",
+        "annotation_token": [
+            "thank you",
+            "we need to find information",
+            "do we write essay"
+        ],
+        "rationale": "The sentence contains expressions of gratitude ('thank you'), a statement of requirement ('we need to find information'), and a question about the task ('do we write essay').",
+        "grammar_correctness": "partially correct, 'do we write essay' should be 'do we write an essay' for correct grammar."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Can I ask more question if I need?",
+        "annotation_token": [
+            "Can I ask more question"
+        ],
+        "rationale": "The sentence is a request for permission to ask more questions.",
+        "grammar_correctness": "incorrect, 'more question' should be 'more questions' for correct grammar."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, one more. The sources... where I find? Internet okay?",
+        "annotation_token": [
+            "one more",
+            "where I find",
+            "Internet okay"
+        ],
+        "rationale": "The sentence includes a request for additional information ('one more'), a question about finding sources ('where I find'), and a question about the acceptability of using the internet ('Internet okay').",
+        "grammar_correctness": "partially correct, 'where I find' should be 'where can I find' for correct grammar."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much for help. I will do my best!",
+        "annotation_token": [
+            "Thank you very much for help",
+            "I will do my best"
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you very much for help') and a promise or commitment ('I will do my best').",
+        "grammar_correctness": "partially correct, 'for help' should be 'for your help' for correct grammar."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! Have a nice day",
+        "annotation_token": [
+            "Thank you",
+            "Have a nice day"
+        ],
+        "rationale": "The sentence includes an expression of gratitude ('Thank you') and a well-wish ('Have a nice day').",
+        "grammar_correctness": "correct"
+    }
+]

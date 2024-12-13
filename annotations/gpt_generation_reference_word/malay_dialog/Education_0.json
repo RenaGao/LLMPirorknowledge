@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, not really ready. I still have many topics to, uh, revise. You?",
+        "annotation_token": "You",
+        "rationale": "The word 'You' is a reference word referring to the person being spoken to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, the history part is hard. Too many dates and events to remember.",
+        "annotation_token": "the history part",
+        "rationale": "The phrase 'the history part' is a reference to a specific section of a subject being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I write notes, but sometimes it’s too much. I don’t know how to, uh, choose important part.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the act of writing notes.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Good idea. I will try that. And how about the math section?",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is a reference word referring to the idea suggested by the other speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I do some, but not many. I find some question very confusing.",
+        "annotation_token": "some",
+        "rationale": "The word 'some' is a reference word referring to a subset of questions.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, thank you. Yes, the algebra question with, uh, equation. Very hard to solve.",
+        "annotation_token": "the algebra question",
+        "rationale": "The phrase 'the algebra question' is a reference to a specific type of question being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I see. I often forget formula, maybe need practice more.",
+        "annotation_token": "formula",
+        "rationale": "The word 'formula' is a reference to mathematical formulas in general.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, that would be nice. When can we study?",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is a reference word referring to the suggestion of studying together.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, library is good. Um, what time?",
+        "annotation_token": "library",
+        "rationale": "The word 'library' is a reference to a specific place where they plan to study.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, 3 p.m. is perfect. Thank you for helping!",
+        "annotation_token": "helping",
+        "rationale": "The word 'helping' is a reference to the assistance being offered by the other speaker.",
+        "grammar_correctness": true
+    }
+]

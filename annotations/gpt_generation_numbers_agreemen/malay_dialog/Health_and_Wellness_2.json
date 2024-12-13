@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Maybe... three time a week?",
+        "annotation_token": "time",
+        "rationale": "The noun 'time' should be in plural form to agree with the number 'three'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, I try to eat... more vegetable and fruit.",
+        "annotation_token": "vegetable",
+        "rationale": "The noun 'vegetable' should be in plural form to agree with 'more'.",
+        "grammar_correctness": "wrong"
+    }
+]

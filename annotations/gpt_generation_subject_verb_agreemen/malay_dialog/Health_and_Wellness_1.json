@@ -1,0 +1,110 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Not really. I sleep late.",
+        "annotation_token": [
+            "I sleep"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'sleep' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, I watch too many series at night.",
+        "annotation_token": [
+            "I watch"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'watch' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That's good idea.",
+        "annotation_token": [
+            "That is"
+        ],
+        "rationale": "The subject 'That' agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I think I will try that.",
+        "annotation_token": [
+            "I think"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'think' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, sometimes I forget.",
+        "annotation_token": [
+            "I forget"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'forget' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Okay, I will try to remember.",
+        "annotation_token": [
+            "I will try"
+        ],
+        "rationale": "The subject 'I' agrees with the verb phrase 'will try' in the future simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, I walk... sometimes.",
+        "annotation_token": [
+            "I walk"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'walk' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yoga... sounds nice.",
+        "annotation_token": [
+            "Yoga sounds"
+        ],
+        "rationale": "The subject 'Yoga' agrees with the verb 'sounds' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I can... um, watch online videos?",
+        "annotation_token": [
+            "I can watch"
+        ],
+        "rationale": "The subject 'I' agrees with the modal verb 'can' and the base form of the verb 'watch'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you, Aiman. I feel... how to say... motivated now!",
+        "annotation_token": [
+            "I feel"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'feel' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I will start today.",
+        "annotation_token": [
+            "I will start"
+        ],
+        "rationale": "The subject 'I' agrees with the verb phrase 'will start' in the future simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I will. See you soon, Aiman!",
+        "annotation_token": [
+            "I will"
+        ],
+        "rationale": "The subject 'I' agrees with the modal verb 'will'.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, my friend invite me. She say it will be fun.",
+        "annotation_token": [
+            "invite",
+            "say"
+        ],
+        "rationale": "The verbs 'invite' and 'say' should be in the past tense to agree with the context of the sentence, which is describing past events.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, they like it. I bring to party sometimes.",
+        "annotation_token": [
+            "bring"
+        ],
+        "rationale": "The verb 'bring' should be in the past tense 'brought' to agree with the context of the sentence, which is describing past events.",
+        "grammar_correctness": "wrong"
+    }
+]

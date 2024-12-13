@@ -1,0 +1,118 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, hello. I have problem with my laptop. It not, uh... working right.",
+        "annotation_token": [
+            "have",
+            "working"
+        ],
+        "rationale": "The sentence uses present tense 'have' and 'working' to describe a current problem with the laptop.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, uh, when I turn on, it... um, how to say... screen is black.",
+        "annotation_token": [
+            "turn",
+            "is"
+        ],
+        "rationale": "The sentence uses present tense 'turn' and 'is' to describe the current state of the screen.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, yes. I charge it full last night. Battery is good.",
+        "annotation_token": [
+            "charge",
+            "is"
+        ],
+        "rationale": "The sentence uses past tense 'charge' to describe an action completed in the past and present tense 'is' to describe the current state of the battery.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, I not try that. I... I don't have... how to say... cable to connect.",
+        "annotation_token": [
+            "try",
+            "don't have"
+        ],
+        "rationale": "The sentence uses present tense 'try' and 'don't have' to describe actions or states relevant to the current situation.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Okay, I do now... (pause) Um, still same. Screen black.",
+        "annotation_token": [
+            "do"
+        ],
+        "rationale": "The sentence uses present tense 'do' to describe an action being performed at the moment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, yes, light on keyboard. No beep sound.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The sentence implies present tense 'is' to describe the current state of the keyboard light.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, how to do that? I... I not know.",
+        "annotation_token": [
+            "do",
+            "know"
+        ],
+        "rationale": "The sentence uses present tense 'do' and 'know' to describe actions or states relevant to the current situation.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, that is good. I need address, please.",
+        "annotation_token": [
+            "is",
+            "need"
+        ],
+        "rationale": "The sentence uses present tense 'is' and 'need' to describe the current state and requirement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I am in Kuala Lumpur, near, um, Bangsar area.",
+        "annotation_token": [
+            "am"
+        ],
+        "rationale": "The sentence uses present tense 'am' to describe the current location.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, Mid Valley is near. I go there.",
+        "annotation_token": [
+            "is",
+            "go"
+        ],
+        "rationale": "The sentence uses present tense 'is' to describe the current proximity and 'go' to describe a future action.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "No, thank you. You help a lot. I... um, appreciate it.",
+        "annotation_token": [
+            "help",
+            "appreciate"
+        ],
+        "rationale": "The sentence uses present tense 'help' and 'appreciate' to describe current actions and feelings.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you. Have nice day",
+        "annotation_token": [
+            "Have"
+        ],
+        "rationale": "The sentence uses present tense 'Have' to express a wish or command.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, thank you! I'm doing well, a bit nervous, but excited to be here. How about you?",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "How about you"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hi'), an expression of gratitude ('thank you'), and an inquiry ('How about you').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure! I recently graduated with a degree in marketing, and I'm really passionate about digital strategies.",
+        "annotation_token": [
+            "Sure"
+        ],
+        "rationale": "The word 'Sure' is a speech act indicating agreement or willingness to proceed with the conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely. During my internship at XYZ Corp, I led a team to develop a social media campaign that increased our client’s engagement by 30% over three months.",
+        "annotation_token": [
+            "Absolutely"
+        ],
+        "rationale": "The word 'Absolutely' is a speech act expressing strong agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I see feedback as an opportunity for growth. I always listen carefully and apply it to improve my work.",
+        "annotation_token": [
+            "I see"
+        ],
+        "rationale": "The phrase 'I see' is a speech act indicating understanding or acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, there was a time when our project deadline was moved up unexpectedly.",
+        "annotation_token": [
+            "Sure"
+        ],
+        "rationale": "The word 'Sure' is a speech act indicating agreement or readiness to provide information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’m curious about the company culture.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The word 'Yes' is a speech act expressing agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds like a great fit for me. Thank you for the insight and for this opportunity to speak with you today.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, you too! I look forward to hearing from you.",
+        "annotation_token": [
+            "Thank you",
+            "you too"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act expressing gratitude, and 'you too' is a reciprocal expression of goodwill.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, thank you! I'm doing well, a bit nervous, but excited to be here. How about you?",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "How about you"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hi'), an expression of gratitude ('thank you'), and an inquiry ('How about you').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure! I recently graduated with a degree in marketing, and I'm really passionate about digital strategies.",
+        "annotation_token": [
+            "Sure"
+        ],
+        "rationale": "The word 'Sure' is a speech act indicating agreement or willingness to proceed with the conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely. During my internship at XYZ Corp, I led a team to develop a social media campaign that increased our client’s engagement by 30% over three months.",
+        "annotation_token": [
+            "Absolutely"
+        ],
+        "rationale": "The word 'Absolutely' is a speech act expressing strong agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I see feedback as an opportunity for growth. I always listen carefully and apply it to improve my work.",
+        "annotation_token": [
+            "I see"
+        ],
+        "rationale": "The phrase 'I see' is a speech act indicating understanding or acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, there was a time when our project deadline was moved up unexpectedly.",
+        "annotation_token": [
+            "Sure"
+        ],
+        "rationale": "The word 'Sure' is a speech act indicating agreement or readiness to provide an example.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’m curious about the company culture.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The word 'Yes' is a speech act expressing agreement or confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds like a great fit for me. Thank you for the insight and for this opportunity to speak with you today.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, you too! I look forward to hearing from you.",
+        "annotation_token": [
+            "Thank you",
+            "you too"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act expressing gratitude, and 'you too' is a reciprocal expression of goodwill.",
+        "grammar_correctness": "correct"
+    }
+]

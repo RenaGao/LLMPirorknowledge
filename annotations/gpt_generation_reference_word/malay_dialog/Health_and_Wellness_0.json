@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, hi. I come because I feel not so good.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, uh... I have, like, um... my head is, how to say... very hurt?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, uh... I have, like, um... my head is, how to say... very hurt?",
+        "annotation_token": "my",
+        "rationale": "The word 'my' is a reference word referring to the speaker's possession.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, headache. Very strong.",
+        "annotation_token": "headache",
+        "rationale": "The word 'headache' is a reference to the condition being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, maybe... two days already.",
+        "annotation_token": "two days",
+        "rationale": "The phrase 'two days' is a reference to the duration of the condition.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I also feel... um, tired? And my body is, um, hot.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I also feel... um, tired? And my body is, um, hot.",
+        "annotation_token": "my",
+        "rationale": "The word 'my' is a reference word referring to the speaker's possession.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, fever. My body is hot and sometimes cold.",
+        "annotation_token": "My",
+        "rationale": "The word 'My' is a reference word referring to the speaker's possession.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, no sore throat, but... um, sometimes my stomach not happy.",
+        "annotation_token": "my",
+        "rationale": "The word 'my' is a reference word referring to the speaker's possession.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I take... um, Panadol? But not help much.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you. I hope can feel better soon.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

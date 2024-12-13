@@ -1,0 +1,264 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hi! Yes, I like... how to say... the one about, uh, superheroes.",
+        "annotation_token": [
+            "Um",
+            "hi",
+            "Yes",
+            "how to say",
+            "uh"
+        ],
+        "rationale": "The tokens 'Um', 'hi', 'Yes', 'how to say', and 'uh' are used as speech acts to initiate conversation, express agreement, and manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! The Avengers. I like them very much. The action is very, um, exciting.",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes', 'yes', and 'um' are used as speech acts to express agreement and manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think... maybe Iron Man. He is... um, funny and smart. And you?",
+        "annotation_token": [
+            "I think",
+            "um"
+        ],
+        "rationale": "The tokens 'I think' and 'um' are used as speech acts to express opinion and manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I watch many. But not all, still many to see... um, yet.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes' and 'um' are used as speech acts to express agreement and manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "TV show... um, I like drama. Maybe \"Grey’s Anatomy\"?",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes! I try to watch... um, when I have time. It is... many story, very interesting.",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Oh', 'yes', and 'um' are used as speech acts to express realization, agreement, and manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm... maybe Meredith. She is... um, strong and... how to say... brave?",
+        "annotation_token": [
+            "Hmm",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Hmm', 'um', and 'how to say' are used as speech acts to express thinking, manage the flow of conversation, and search for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I also like comedy. Um, like \"Friends\". It make me laugh a lot.",
+        "annotation_token": [
+            "Um"
+        ],
+        "rationale": "The token 'Um' is used as a speech act to manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, hard to choose! Maybe the one with... um, the Thanksgiving dinner. Very funny.",
+        "annotation_token": [
+            "Uh",
+            "um"
+        ],
+        "rationale": "The tokens 'Uh' and 'um' are used as speech acts to express hesitation and manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I watch with subtitle, easier to understand. Sometimes English is... um, difficult.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I want to try \"Stranger Things\". Many people say it is, uh, good.",
+        "annotation_token": [
+            "uh"
+        ],
+        "rationale": "The token 'uh' is used as a speech act to manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I will start soon. Talking to you is very nice!",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, sure! See you next time.",
+        "annotation_token": [
+            "Yes",
+            "sure"
+        ],
+        "rationale": "The tokens 'Yes' and 'sure' are used as speech acts to express agreement and confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hi! Yes, I like... how to say... the one about, uh, superheroes.",
+        "annotation_token": [
+            "Um",
+            "hi",
+            "Yes",
+            "how to say",
+            "uh"
+        ],
+        "rationale": "The tokens 'Um', 'hi', 'Yes', 'how to say', and 'uh' are used as speech acts to initiate conversation, express agreement, and manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! The Avengers. I like them very much. The action is very, um, exciting.",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes', 'yes', and 'um' are used as speech acts to express agreement and manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think... maybe Iron Man. He is... um, funny and smart. And you?",
+        "annotation_token": [
+            "I think",
+            "um"
+        ],
+        "rationale": "The tokens 'I think' and 'um' are used as speech acts to express opinion and manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I watch many. But not all, still many to see... um, yet.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes' and 'um' are used as speech acts to express agreement and manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "TV show... um, I like drama. Maybe \"Grey’s Anatomy\"?",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes! I try to watch... um, when I have time. It is... many story, very interesting.",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Oh', 'yes', and 'um' are used as speech acts to express realization, agreement, and manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm... maybe Meredith. She is... um, strong and... how to say... brave?",
+        "annotation_token": [
+            "Hmm",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Hmm', 'um', and 'how to say' are used as speech acts to express thinking, manage the flow of conversation, and search for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I also like comedy. Um, like \"Friends\". It make me laugh a lot.",
+        "annotation_token": [
+            "Um"
+        ],
+        "rationale": "The token 'Um' is used as a speech act to manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, hard to choose! Maybe the one with... um, the Thanksgiving dinner. Very funny.",
+        "annotation_token": [
+            "Uh",
+            "um"
+        ],
+        "rationale": "The tokens 'Uh' and 'um' are used as speech acts to manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I watch with subtitle, easier to understand. Sometimes English is... um, difficult.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I want to try \"Stranger Things\". Many people say it is, uh, good.",
+        "annotation_token": [
+            "uh"
+        ],
+        "rationale": "The token 'uh' is used as a speech act to manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I will start soon. Talking to you is very nice!",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, sure! See you next time.",
+        "annotation_token": [
+            "Yes",
+            "sure"
+        ],
+        "rationale": "The tokens 'Yes' and 'sure' are used as speech acts to express agreement and confirmation.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "You know Eid?",
+        "annotation_token": "You",
+        "rationale": "The word 'You' is a reference word referring to the listener in the conversation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We, um, not eat or drink from sunrise to sunset.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the speaker and their community or group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "On Eid, we... how to say... celebrate?",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and their community or group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We wear new clothes, and we eat... uh, many special foods.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the speaker and their community or group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is like noodles with milk and sugar.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the sweet dish called seviyan.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is called Eidi.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the money given to children.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We, um, clean house, and buy new clothes.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the speaker and their community or group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, one time we... um, all cousins meet at grandparents' house.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and their cousins.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It was very fun, playing and eating together.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the event of meeting at grandparents' house.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I hope you, um, understand more about Eid now.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I hope you, um, understand more about Eid now.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the listener in the conversation.",
+        "grammar_correctness": true
+    }
+]

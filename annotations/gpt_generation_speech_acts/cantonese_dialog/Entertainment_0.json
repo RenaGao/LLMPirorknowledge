@@ -1,0 +1,182 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, yes, Wing. I watched... how to say... the movie with big ship and iceberg?",
+        "annotation_token": [
+            "Oh",
+            "um",
+            "yes",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Oh', 'um', 'yes', and 'how to say' are used as speech acts to express hesitation, agreement, and a request for assistance in finding the right words.",
+        "grammar_correctness": "These tokens are typical in spoken English to convey hesitation and agreement, but 'how to say' is a non-native structure for asking how to express something."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, Titanic! I see it many times. Very romantic and a little sad.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement or confirmation.",
+        "grammar_correctness": "Correct usage in context."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "The music... very beautiful. And the love story, it is... um, touching?",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to express hesitation or to fill a pause while thinking.",
+        "grammar_correctness": "Correct usage in context."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It is called... uh, \"Crash Landing on You.\" It is about... um, love and... how to say... adventure?",
+        "annotation_token": [
+            "uh",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'uh', 'um', and 'how to say' are used as speech acts to express hesitation and a request for assistance in finding the right words.",
+        "grammar_correctness": "'Uh' and 'um' are typical in spoken English to convey hesitation, but 'how to say' is a non-native structure for asking how to express something."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, maybe the... how to say... superhero movie? Avengers?",
+        "annotation_token": [
+            "Um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Um' and 'how to say' are used as speech acts to express hesitation and a request for assistance in finding the right words.",
+        "grammar_correctness": "'Um' is typical in spoken English to convey hesitation, but 'how to say' is a non-native structure for asking how to express something."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, yes, Wing. I watched... how to say... the movie with big ship and iceberg?",
+        "annotation_token": [
+            "Oh",
+            "um",
+            "yes",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Oh', 'um', 'yes', and 'how to say' are used as speech acts to express hesitation, agreement, and a request for help in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, Titanic! I see it many times. Very romantic and a little sad.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "The music... very beautiful. And the love story, it is... um, touching?",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to indicate hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It is called... uh, \"Crash Landing on You.\" It is about... um, love and... how to say... adventure?",
+        "annotation_token": [
+            "uh",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'uh', 'um', and 'how to say' are used as speech acts to express hesitation and a request for help in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, maybe the... how to say... superhero movie? Avengers?",
+        "annotation_token": [
+            "Um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Um' and 'how to say' are used as speech acts to express hesitation and a request for help in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, yes, Wing. I watched... how to say... the movie with big ship and iceberg?",
+        "annotation_token": [
+            "Oh",
+            "um",
+            "yes",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Oh', 'um', 'yes', and 'how to say' are used as speech acts to express hesitation, agreement, and a request for assistance in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, Titanic! I see it many times. Very romantic and a little sad.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement or confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "The music... very beautiful. And the love story, it is... um, touching?",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to express hesitation or to fill a pause while thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I like many kinds! Action, comedy... but not horror. Too scary for me.",
+        "annotation_token": [
+            "but"
+        ],
+        "rationale": "The token 'but' is used as a speech act to introduce a contrast or exception.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It is called... uh, \"Crash Landing on You.\" It is about... um, love and... how to say... adventure?",
+        "annotation_token": [
+            "uh",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'uh', 'um', and 'how to say' are used as speech acts to express hesitation and a request for assistance in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "The characters are very... um, real? And the story is funny and romantic.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to express hesitation or to fill a pause while thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, maybe the... how to say... superhero movie? Avengers?",
+        "annotation_token": [
+            "Um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Um' and 'how to say' are used as speech acts to express hesitation and a request for assistance in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Wing! I think I will like it very mu",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

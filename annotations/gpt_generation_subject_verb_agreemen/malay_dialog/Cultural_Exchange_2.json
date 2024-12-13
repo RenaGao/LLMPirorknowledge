@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Sometimes, yes. But mostly, my mother make it. Her rendang very good!",
+        "annotation_token": "my mother make",
+        "rationale": "The subject 'my mother' is singular, so the verb should be 'makes' to agree with the subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, they very happy to receive. Also, we visit grave of family.",
+        "annotation_token": "they very happy",
+        "rationale": "The subject 'they' requires a verb to complete the sentence. It should be 'they are very happy' to agree with the subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "You’re welcome! I happy to tell you about",
+        "annotation_token": "I happy",
+        "rationale": "The subject 'I' requires a verb to complete the sentence. It should be 'I am happy' to agree with the subject.",
+        "grammar_correctness": "wrong"
+    }
+]

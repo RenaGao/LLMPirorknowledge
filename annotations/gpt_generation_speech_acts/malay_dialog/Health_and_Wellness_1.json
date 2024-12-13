@@ -1,0 +1,56 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, Aiman! Um, I am good, but... how to say... a bit tired these days.",
+        "annotation_token": [
+            "how to say"
+        ],
+        "rationale": "The phrase 'how to say' is a speech act where the speaker is expressing uncertainty or searching for the right words to express their feelings.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That's good idea. I should... um, close my phone early, right?",
+        "annotation_token": [
+            "right"
+        ],
+        "rationale": "The word 'right' is used as a speech act to seek confirmation or agreement from the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Aiman. I feel... how to say... motivated now!",
+        "annotation_token": [
+            "how to say"
+        ],
+        "rationale": "The phrase 'how to say' is a speech act where the speaker is expressing uncertainty or searching for the right words to express their feelings.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, Aiman! Um, I am good, but... how to say... a bit tired these days.",
+        "annotation_token": [
+            "how to say"
+        ],
+        "rationale": "The phrase 'how to say' is a speech act indicating the speaker is searching for the right words or expression.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That's good idea. I should... um, close my phone early, right?",
+        "annotation_token": [
+            "right"
+        ],
+        "rationale": "The word 'right' is used as a speech act to seek confirmation or agreement from the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Aiman. I feel... how to say... motivated now!",
+        "annotation_token": [
+            "how to say"
+        ],
+        "rationale": "The phrase 'how to say' is a speech act indicating the speaker is searching for the right words or expression.",
+        "grammar_correctness": "wrong"
+    }
+]

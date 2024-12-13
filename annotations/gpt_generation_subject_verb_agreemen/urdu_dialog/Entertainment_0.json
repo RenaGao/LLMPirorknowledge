@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, um, I like \"Rush Hour\" a lot. It have good action and... uh, makes me laugh much.",
+        "annotation_token": [
+            "It have"
+        ],
+        "rationale": "The subject 'It' should be followed by the verb 'has' to agree in number.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "TV shows, um... I watch \"Friends\" many time. It is very funny.",
+        "annotation_token": [
+            "I watch"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'watch' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Animation is... um, very good. Colors and... uh, movements, they are very... real look.",
+        "annotation_token": [
+            "Animation is",
+            "they are"
+        ],
+        "rationale": "The subject 'Animation' correctly agrees with the verb 'is', and the subject 'they' correctly agrees with the verb 'are'.",
+        "grammar_correctness": "correct"
+    }
+]

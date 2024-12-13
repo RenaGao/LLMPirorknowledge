@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I jog, um, three time in week. But sometimes, uh, only two.",
+        "annotation_token": [
+            "time"
+        ],
+        "rationale": "The noun 'time' should be in plural form 'times' to agree with the number 'three'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Hmm, cycling sound good. I have, um, a bicycle at home.",
+        "annotation_token": [
+            "sound"
+        ],
+        "rationale": "The verb 'sound' should be in singular form 'sounds' to agree with the singular subject 'cycling'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, that sound good. And, um, strength training? How to do?",
+        "annotation_token": [
+            "sound"
+        ],
+        "rationale": "The verb 'sound' should be in singular form 'sounds' to agree with the singular subject 'that'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Thank you! I will try, uh, follow this plan. I hope it help me.",
+        "annotation_token": [
+            "help"
+        ],
+        "rationale": "The verb 'help' should be in singular form 'helps' to agree with the singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes, Sora. Is me, Haruto. How are you?",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person Haruto is speaking to, Sora.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, long time. I am fine, just busy with work, you know.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person Haruto is speaking to, Sora.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, how to say... I work at company for electronics. We make, uh, small parts for computer.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to Haruto and his colleagues at the electronics company.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, it is... how you say... challenging, but I like learn new thing.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to Haruto's job at the electronics company.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I live near Tokyo, in Yokohama now. It’s... not too far.",
+        "annotation_token": "it’s",
+        "rationale": "The contraction 'it’s' is a reference word referring to the distance between Tokyo and Yokohama.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, maybe... next weekend. If weather is good, I go.",
+        "annotation_token": "weather",
+        "rationale": "The word 'weather' is a reference word referring to the atmospheric conditions that will determine if Haruto will go out.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I try... how to say, curry? It is spicy and good.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the curry dish Haruto is trying to make.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I use... um, coconut milk and many spice. It is little difficult, but tasty.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the dish Haruto is cooking, which includes coconut milk and spices.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, please! Let’s meet soon. I make for you.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person Haruto is speaking to, Sora.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, hello! Yes, I am enjoying. My name is Jiho. Nice to meet you.",
+        "annotation_token": [
+            "Oh",
+            "hello",
+            "Yes",
+            "Nice to meet you"
+        ],
+        "rationale": "The tokens 'Oh', 'hello', 'Yes', and 'Nice to meet you' are used as speech acts to greet and acknowledge the conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, my friend invite me. He say it will be fun. You know him? His name is Minjun.",
+        "annotation_token": [
+            "Um",
+            "You know him?"
+        ],
+        "rationale": "The token 'Um' is a speech act indicating hesitation or thinking, and 'You know him?' is a speech act used to inquire or confirm information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We are... um, how to say... old friends, yes. From university.",
+        "annotation_token": [
+            "um",
+            "how to say",
+            "yes"
+        ],
+        "rationale": "The tokens 'um' and 'how to say' indicate hesitation or searching for words, and 'yes' is used as a speech act to confirm information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, we study... um, business together. But now, I work in marketing.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm information, and 'um' indicates hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I, um, make plan for sell products. And also, talk with clients. Sometimes hard, but I like it.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act indicating hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, sometimes I go to... um, other countries, like Japan and China. For meetings.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm information, and 'um' indicates hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, very much. But, um, airplane is so long time. I get tired.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm information, and 'um' indicates hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I watch movies or read book. Sometimes sleep, if lucky.",
+        "annotation_token": [],
+        "rationale": "No specific speech acts are present in this sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I like action and comedy. They are, um, fun and exciting.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act indicating hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I saw... um, how to say... \"Mission Impossible\" last week. So good!",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm information, 'um' indicates hesitation or thinking, and 'how to say' is used to search for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I enjoy talking too. Thank you, Alex. Enjoy par",
+        "annotation_token": [
+            "Yes",
+            "Thank you"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm information, and 'Thank you' is used to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, hello! Yes, I am enjoying. My name is Jiho. Nice to meet you.",
+        "annotation_token": [
+            "Oh",
+            "hello",
+            "Yes",
+            "Nice to meet you"
+        ],
+        "rationale": "The tokens 'Oh', 'hello', 'Yes', and 'Nice to meet you' are used as speech acts to greet and acknowledge the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, my friend invite me. He say it will be fun. You know him? His name is Minjun.",
+        "annotation_token": [
+            "Um",
+            "You know him?"
+        ],
+        "rationale": "The token 'Um' is a speech act indicating hesitation or thinking, and 'You know him?' is a speech act used to inquire or confirm information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We are... um, how to say... old friends, yes. From university.",
+        "annotation_token": [
+            "um",
+            "how to say",
+            "yes"
+        ],
+        "rationale": "The tokens 'um' and 'how to say' indicate hesitation or searching for words, and 'yes' is used to confirm or agree.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I enjoy talking too. Thank you, Alex. Enjoy par",
+        "annotation_token": [
+            "Yes",
+            "Thank you",
+            "Enjoy"
+        ],
+        "rationale": "The tokens 'Yes' and 'Thank you' are used to express agreement and gratitude, while 'Enjoy' is used to wish someone well.",
+        "grammar_correctness": "correct"
+    }
+]

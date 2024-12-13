@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, very nice day. I like the market here. Many thing to buy.",
+        "annotation_token": "like the market",
+        "rationale": "The noun 'market' and the verb 'like' form a collocation where the noun is explicitly mentioned and the verb expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, today I want to buy... how to say... a bag? Yes, a bag for work.",
+        "annotation_token": "buy a bag",
+        "rationale": "The noun 'bag' and the verb 'buy' form a collocation where the noun is explicitly mentioned and the verb expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I look for, um... leather bag. It is good quality.",
+        "annotation_token": "look for leather bag",
+        "rationale": "The noun 'leather bag' and the verb 'look for' form a collocation where the noun is explicitly mentioned and the verb expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "They say, uh, 70 dollars. But I want lower if can.",
+        "annotation_token": "say 70 dollars",
+        "rationale": "The noun '70 dollars' and the verb 'say' form a collocation where the noun is explicitly mentioned and the verb expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you for help. I learn much from you today.",
+        "annotation_token": "learn much",
+        "rationale": "The noun 'much' and the verb 'learn' form a collocation where the noun is explicitly mentioned and the verb expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

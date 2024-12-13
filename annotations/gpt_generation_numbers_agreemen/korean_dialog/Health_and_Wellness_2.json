@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I think... three times in a week? Is that good?",
+        "annotation_token": "times",
+        "rationale": "The noun 'times' is plural, which correctly agrees with the plural quantifier 'three'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I try once, but... I not know speed setting well.",
+        "annotation_token": "setting",
+        "rationale": "The noun 'setting' is singular, which correctly agrees with the singular quantifier 'once'.",
+        "grammar_correctness": "correct"
+    }
+]

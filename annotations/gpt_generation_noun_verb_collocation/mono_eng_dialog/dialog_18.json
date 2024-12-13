@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Of course! I recently graduated with a degree in marketing from State University, and I've been focusing on digital marketing strategies.",
+        "annotation_token": "graduated with a degree",
+        "rationale": "The noun 'degree' and the verb 'graduated' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Definitely. During my internship at XYZ Corp, I led a social media campaign that increased engagement by 30% over three months.",
+        "annotation_token": "led a social media campaign",
+        "rationale": "The noun 'campaign' and the verb 'led' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I’ve worked extensively with Google Analytics and Hootsuite.",
+        "annotation_token": "worked extensively with Google Analytics",
+        "rationale": "The noun 'Google Analytics' and the verb 'worked' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

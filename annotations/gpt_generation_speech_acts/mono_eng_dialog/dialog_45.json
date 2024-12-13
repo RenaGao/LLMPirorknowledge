@@ -1,0 +1,150 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi there! I’m doing well, thank you. Excited to be here.",
+        "annotation_token": [
+            "Hi there!",
+            "thank you",
+            "Excited to be here"
+        ],
+        "rationale": "The sentence contains speech acts of greeting ('Hi there!'), expressing gratitude ('thank you'), and expressing excitement ('Excited to be here').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Well, I’ve always admired your company’s commitment to innovation and sustainability. I’m eager to contribute to projects that align with those values.",
+        "annotation_token": [
+            "admired",
+            "eager to contribute"
+        ],
+        "rationale": "The sentence contains speech acts of expressing admiration ('admired') and expressing eagerness ('eager to contribute').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely. In my last role, I led a team to streamline our supply chain process. We faced several unexpected delays, but by implementing new software and revising our logistics strategy, we reduced delivery times by 20%.",
+        "annotation_token": [
+            "Absolutely",
+            "led a team",
+            "reduced delivery times"
+        ],
+        "rationale": "The sentence contains speech acts of agreement ('Absolutely'), leadership ('led a team'), and achievement ('reduced delivery times').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I believe in open communication and actively listening to all perspectives. I usually suggest a meeting where everyone can voice their concerns, and we work towards a consensus.",
+        "annotation_token": [
+            "believe",
+            "suggest",
+            "voice their concerns",
+            "work towards a consensus"
+        ],
+        "rationale": "The sentence contains speech acts of belief ('believe'), suggestion ('suggest'), encouraging expression ('voice their concerns'), and collaboration ('work towards a consensus').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’m curious about the team I’d be working with. Can you tell me more about their dynamics and how they typically collaborate?",
+        "annotation_token": [
+            "curious",
+            "Can you tell me"
+        ],
+        "rationale": "The sentence contains speech acts of expressing curiosity ('curious') and requesting information ('Can you tell me').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds like a great fit for me. Thank you for sharing.",
+        "annotation_token": [
+            "great fit",
+            "Thank you"
+        ],
+        "rationale": "The sentence contains speech acts of expressing suitability ('great fit') and gratitude ('Thank you').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I look forward to hearing from you.",
+        "annotation_token": [
+            "Thank you",
+            "look forward to hearing"
+        ],
+        "rationale": "The sentence contains speech acts of gratitude ('Thank you') and anticipation ('look forward to hearing').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi there! I’m doing well, thank you. Excited to be here.",
+        "annotation_token": [
+            "Hi there!",
+            "thank you",
+            "Excited to be here"
+        ],
+        "rationale": "The sentence contains speech acts such as greeting ('Hi there!'), expressing gratitude ('thank you'), and expressing excitement ('Excited to be here').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Well, I’ve always admired your company’s commitment to innovation and sustainability. I’m eager to contribute to projects that align with those values.",
+        "annotation_token": [
+            "admired",
+            "eager to contribute"
+        ],
+        "rationale": "The sentence contains speech acts of admiration ('admired') and expressing eagerness ('eager to contribute').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely. In my last role, I led a team to streamline our supply chain process. We faced several unexpected delays, but by implementing new software and revising our logistics strategy, we reduced delivery times by 20%.",
+        "annotation_token": [
+            "Absolutely",
+            "led a team",
+            "reduced delivery times"
+        ],
+        "rationale": "The sentence contains speech acts of agreement ('Absolutely'), leadership ('led a team'), and achievement ('reduced delivery times').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I believe in open communication and actively listening to all perspectives. I usually suggest a meeting where everyone can voice their concerns, and we work towards a consensus.",
+        "annotation_token": [
+            "believe",
+            "suggest",
+            "voice their concerns",
+            "work towards a consensus"
+        ],
+        "rationale": "The sentence contains speech acts of belief ('believe'), suggestion ('suggest'), encouraging expression ('voice their concerns'), and collaboration ('work towards a consensus').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’m curious about the team I’d be working with. Can you tell me more about their dynamics and how they typically collaborate?",
+        "annotation_token": [
+            "curious",
+            "Can you tell me"
+        ],
+        "rationale": "The sentence contains speech acts of curiosity ('curious') and request for information ('Can you tell me').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds like a great fit for me. Thank you for sharing.",
+        "annotation_token": [
+            "great fit",
+            "Thank you"
+        ],
+        "rationale": "The sentence contains speech acts of agreement ('great fit') and gratitude ('Thank you').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I look forward to hearing from you.",
+        "annotation_token": [
+            "Thank you",
+            "look forward to hearing"
+        ],
+        "rationale": "The sentence contains speech acts of gratitude ('Thank you') and anticipation ('look forward to hearing').",
+        "grammar_correctness": "correct"
+    }
+]

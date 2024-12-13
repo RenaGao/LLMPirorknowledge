@@ -1,0 +1,33 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Ah, the theories part, um, how it is apply in real life. It confuse me.",
+        "annotation_token": [
+            "theories",
+            "is",
+            "confuse"
+        ],
+        "rationale": "The subject 'theories' is plural, so the verb should be 'are' instead of 'is'. Similarly, 'confuse' should be 'confuses' to agree with the singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I try reading notes many time.",
+        "annotation_token": [
+            "time"
+        ],
+        "rationale": "The noun 'time' should be plural 'times' to agree with the context of multiple occurrences.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, examples help me learn. Um, you have notes also?",
+        "annotation_token": [
+            "examples",
+            "help",
+            "notes"
+        ],
+        "rationale": "The subject 'examples' is plural and correctly agrees with the verb 'help'. Similarly, 'notes' is plural and correctly used.",
+        "grammar_correctness": "correct"
+    }
+]

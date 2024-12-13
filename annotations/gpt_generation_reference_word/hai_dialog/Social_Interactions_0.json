@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I like it. Very fun.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to something previously mentioned, likely an activity or situation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I like it very much.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to something previously mentioned, likely an activity or situation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is, um, creative.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to something previously mentioned, likely a job or task.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is spicy but very good.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the green curry mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is not hard, but must... have right ingredient.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the process of making green curry.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It will be fun.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the activity of showing how to cook Thai food.",
+        "grammar_correctness": true
+    }
+]

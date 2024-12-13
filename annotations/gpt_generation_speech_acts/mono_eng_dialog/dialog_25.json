@@ -1,0 +1,116 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, thank you for having me. I’m hoping to get some information about the new features in the software update.",
+        "annotation_token": [
+            "thank you",
+            "hoping to get some information"
+        ],
+        "rationale": "The speaker is expressing gratitude and a request for information, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I heard there’s a new collaboration tool. Can you tell me more about how it works?",
+        "annotation_token": [
+            "Can you tell me more"
+        ],
+        "rationale": "The speaker is making a request for information, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That would be great, thank you. Also, is there a tutorial available for this feature?",
+        "annotation_token": [
+            "thank you",
+            "is there a tutorial available"
+        ],
+        "rationale": "The speaker is expressing gratitude and making a request for information, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Perfect! I’ll make sure to check it out. One last thing—do users need to have an account to access these features?",
+        "annotation_token": [
+            "do users need to have an account"
+        ],
+        "rationale": "The speaker is making a request for information, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sounds straightforward. Thank you so much for the information. I feel much more informed now.",
+        "annotation_token": [
+            "Thank you so much for the information"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I appreciate that. Have a great day!",
+        "annotation_token": [
+            "I appreciate that",
+            "Have a great day"
+        ],
+        "rationale": "The speaker is expressing appreciation and giving a farewell, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, thank you for having me. I’m hoping to get some information about the new features in the software update.",
+        "annotation_token": [
+            "thank you",
+            "hoping to get some information"
+        ],
+        "rationale": "The speaker is expressing gratitude and a request for information, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I heard there’s a new collaboration tool. Can you tell me more about how it works?",
+        "annotation_token": [
+            "Can you tell me more"
+        ],
+        "rationale": "The speaker is making a request for information, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That would be great, thank you. Also, is there a tutorial available for this feature?",
+        "annotation_token": [
+            "thank you",
+            "is there a tutorial available"
+        ],
+        "rationale": "The speaker is expressing gratitude and making a request for information, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Perfect! I’ll make sure to check it out. One last thing—do users need to have an account to access these features?",
+        "annotation_token": [
+            "do users need to have an account"
+        ],
+        "rationale": "The speaker is making a request for information, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sounds straightforward. Thank you so much for the information. I feel much more informed now.",
+        "annotation_token": [
+            "Thank you so much for the information"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I appreciate that. Have a great day!",
+        "annotation_token": [
+            "I appreciate that",
+            "Have a great day"
+        ],
+        "rationale": "The speaker is expressing appreciation and giving a farewell, which are both speech acts.",
+        "grammar_correctness": "correct"
+    }
+]

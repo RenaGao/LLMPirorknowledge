@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is about, um, a hero. He fight bad people to save the world.",
+        "annotation_token": "He fight",
+        "rationale": "The subject 'He' does not agree with the verb 'fight'. The correct form should be 'He fights'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I like, um, Mario Maurer. He very good actor and handsome.",
+        "annotation_token": "He very",
+        "rationale": "The subject 'He' is missing a verb to agree with. The correct form should be 'He is a very good actor and handsome.'",
+        "grammar_correctness": "wrong"
+    }
+]

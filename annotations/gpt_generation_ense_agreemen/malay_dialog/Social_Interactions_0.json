@@ -1,0 +1,32 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I like it. It is, um, satisfying when finish project.",
+        "annotation_token": [
+            "is",
+            "finish"
+        ],
+        "rationale": "The sentence contains a tense agreement error. The verb 'finish' should be in the present participle form 'finishing' to agree with the present continuous tense implied by 'is'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I have... um, four year. Yes, four year in construction.",
+        "annotation_token": [
+            "have",
+            "year"
+        ],
+        "rationale": "The sentence contains a tense agreement error. The noun 'year' should be in the plural form 'years' to agree with the present perfect tense 'have'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "No, I am from Malaysia. I move here two year ago.",
+        "annotation_token": [
+            "move",
+            "year"
+        ],
+        "rationale": "The sentence contains a tense agreement error. The verb 'move' should be in the past tense 'moved' to agree with the past time expression 'two year ago'. Additionally, 'year' should be in the plural form 'years'.",
+        "grammar_correctness": "wrong"
+    }
+]

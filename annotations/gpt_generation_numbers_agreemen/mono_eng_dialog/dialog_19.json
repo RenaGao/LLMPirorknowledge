@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "We implemented a recycling program that increased the recycling rate by 30%.",
+        "annotation_token": "30%",
+        "rationale": "The sentence contains a numerical value '30%' which is used to quantify the increase in the recycling rate.",
+        "grammar_correctness": "correct"
+    }
+]

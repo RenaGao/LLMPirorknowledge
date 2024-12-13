@@ -1,0 +1,11 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thanks! I will let you know how it go",
+        "annotation_token": [
+            "go"
+        ],
+        "rationale": "The verb 'go' should be in the future tense to agree with 'will', so it should be 'goes'.",
+        "grammar_correctness": "wrong"
+    }
+]

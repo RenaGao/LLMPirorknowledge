@@ -1,0 +1,131 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I am study, um, business... business management at university.",
+        "annotation_token": [
+            "am study"
+        ],
+        "rationale": "The present continuous tense 'am studying' should be used instead of 'am study' to maintain tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I organize event at my university.",
+        "annotation_token": [
+            "organize"
+        ],
+        "rationale": "The present simple tense 'organize' is used correctly here to describe a habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It was, um, career fair for students.",
+        "annotation_token": [
+            "was"
+        ],
+        "rationale": "The past simple tense 'was' is used correctly to describe a past event.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I was the... um, leader for the team.",
+        "annotation_token": [
+            "was"
+        ],
+        "rationale": "The past simple tense 'was' is used correctly to describe a past role.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I, uh, make schedule and talk to companies for coming.",
+        "annotation_token": [
+            "make",
+            "talk"
+        ],
+        "rationale": "The present simple tense 'make' and 'talk' are used correctly to describe habitual actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Some companies, they come late.",
+        "annotation_token": [
+            "come"
+        ],
+        "rationale": "The present simple tense 'come' is used correctly to describe a habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I, uh, I call them and, uh, reschedule.",
+        "annotation_token": [
+            "call",
+            "reschedule"
+        ],
+        "rationale": "The present simple tense 'call' and 'reschedule' are used correctly to describe habitual actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I try to, um, stay calm.",
+        "annotation_token": [
+            "try"
+        ],
+        "rationale": "The present simple tense 'try' is used correctly to describe a habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I, uh, think step by step to fix problem.",
+        "annotation_token": [
+            "think"
+        ],
+        "rationale": "The present simple tense 'think' is used correctly to describe a habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I want to learn more and, um, grow in a company.",
+        "annotation_token": [
+            "want",
+            "grow"
+        ],
+        "rationale": "The present simple tense 'want' and 'grow' are used correctly to describe desires and intentions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I like challenge and, um, new opportunity.",
+        "annotation_token": [
+            "like"
+        ],
+        "rationale": "The present simple tense 'like' is used correctly to describe a preference.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I have, uh, good team work and, uh, planning skills.",
+        "annotation_token": [
+            "have"
+        ],
+        "rationale": "The present simple tense 'have' is used correctly to describe possession.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I also, um, very dedicated.",
+        "annotation_token": [
+            "am"
+        ],
+        "rationale": "The sentence is missing the auxiliary verb 'am' for the present continuous tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I look forward to",
+        "annotation_token": [
+            "look"
+        ],
+        "rationale": "The present simple tense 'look' is used correctly to describe a habitual action.",
+        "grammar_correctness": "correct"
+    }
+]

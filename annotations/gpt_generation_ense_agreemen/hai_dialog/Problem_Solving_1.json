@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, uh, it... the screen is black. I turn on, but nothing show.",
+        "annotation_token": [
+            "turn",
+            "show"
+        ],
+        "rationale": "The verbs 'turn' and 'show' should be in the past tense to agree with the past action described in the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I try many time. Still same. I not sure what do next.",
+        "annotation_token": [
+            "try",
+            "do"
+        ],
+        "rationale": "The verbs 'try' and 'do' should be in the past tense to agree with the past action described in the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, okay. Um, yes, it, uh, connect. I think cable is fine.",
+        "annotation_token": [
+            "connect"
+        ],
+        "rationale": "The verb 'connect' should be in the past tense to agree with the past action described in the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, yes. I hear fan, but screen still black.",
+        "annotation_token": [
+            "hear"
+        ],
+        "rationale": "The verb 'hear' should be in the past tense to agree with the past action described in the sentence.",
+        "grammar_correctness": "wrong"
+    }
+]

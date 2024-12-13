@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, thank you. My name is Mei. I come from Beijing. I have study business in university... um, for three years.",
+        "annotation_token": "study business",
+        "rationale": "The noun 'business' and the verb 'study' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I did a project... about market research. We, um, look at data and see... trends for clothing sale.",
+        "annotation_token": "look at data",
+        "rationale": "The noun 'data' and the verb 'look' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I, um... I analyze data and make, uh, report. I also talk with group... to share idea.",
+        "annotation_token": "analyze data",
+        "rationale": "The noun 'data' and the verb 'analyze' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I, um... I analyze data and make, uh, report. I also talk with group... to share idea.",
+        "annotation_token": "make report",
+        "rationale": "The noun 'report' and the verb 'make' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, yes. We have problem with data... it was not, um, correct. So, I work with my friend to... how to say... fix it?",
+        "annotation_token": "fix it",
+        "rationale": "The noun 'it' and the verb 'fix' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, correct. We check all numbers and make sure... they are right.",
+        "annotation_token": "check numbers",
+        "rationale": "The noun 'numbers' and the verb 'check' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I try to stay... calm. I make list of tasks and do... one by one. It help me not stress.",
+        "annotation_token": "make list",
+        "rationale": "The noun 'list' and the verb 'make' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I know your company is... um, leader in fashion. Very famous, uh, brand. You, um, innovate... in design.",
+        "annotation_token": "innovate in design",
+        "rationale": "The noun 'design' and the verb 'innovate' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I want to... get more experience in business. Maybe one day, um, become manager... to lead team.",
+        "annotation_token": "get experience",
+        "rationale": "The noun 'experience' and the verb 'get' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I want to... get more experience in business. Maybe one day, um, become manager... to lead team.",
+        "annotation_token": "lead team",
+        "rationale": "The noun 'team' and the verb 'lead' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I, um, plan to learn from senior people. Also, take, uh, courses to improve... my skills.",
+        "annotation_token": "take courses",
+        "rationale": "The noun 'courses' and the verb 'take' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

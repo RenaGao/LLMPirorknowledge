@@ -1,0 +1,102 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, hello! My morning... it is busy, you know?",
+        "annotation_token": [
+            "Oh",
+            "um",
+            "hello",
+            "you know"
+        ],
+        "rationale": "The tokens 'Oh', 'um', 'hello', and 'you know' are used as speech acts. 'Oh' and 'um' are discourse markers indicating hesitation or thinking, 'hello' is a greeting, and 'you know' is a tag question seeking confirmation or engagement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes.",
+        "annotation_token": [
+            "Yes",
+            "yes"
+        ],
+        "rationale": "The repetition of 'yes' serves as a speech act to confirm or agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, no.",
+        "annotation_token": [
+            "No",
+            "no"
+        ],
+        "rationale": "The repetition of 'no' serves as a speech act to negate or disagree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes!",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, sometimes.",
+        "annotation_token": [
+            "Ah"
+        ],
+        "rationale": "The token 'Ah' is used as a speech act to express realization or acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, hello! My morning... it is busy, you know?",
+        "annotation_token": [
+            "Oh",
+            "um",
+            "hello",
+            "you know"
+        ],
+        "rationale": "The tokens 'Oh', 'um', 'hello', and 'you know' are used as speech acts to initiate conversation and engage the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes.",
+        "annotation_token": [
+            "Yes",
+            "yes"
+        ],
+        "rationale": "The repetition of 'Yes, yes' is a speech act used to affirm or agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, no.",
+        "annotation_token": [
+            "No",
+            "no"
+        ],
+        "rationale": "The repetition of 'No, no' is a speech act used to negate or disagree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes!",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is a speech act used to affirm or agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, sometimes.",
+        "annotation_token": [
+            "Ah"
+        ],
+        "rationale": "The token 'Ah' is a speech act used to express realization or acknowledgment.",
+        "grammar_correctness": "correct"
+    }
+]

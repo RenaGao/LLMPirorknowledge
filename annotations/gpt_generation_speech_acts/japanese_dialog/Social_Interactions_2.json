@@ -1,0 +1,80 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, Sora. Is me, Haruto. How are you?",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "How are you"
+        ],
+        "rationale": "The tokens 'Ah' and 'yes' are used as discourse markers to acknowledge and confirm the identity of the speaker, while 'How are you?' is a conventional greeting and inquiry about the listener's well-being.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, long time. I am fine, just busy with work, you know.",
+        "annotation_token": [
+            "Yes",
+            "long time",
+            "I am fine",
+            "you know"
+        ],
+        "rationale": "The token 'Yes' is used to agree or confirm, 'long time' is a shortened form of 'long time no see', 'I am fine' is a response to a greeting, and 'you know' is a discourse marker to engage the listener.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please! Let’s meet soon. I make for you.",
+        "annotation_token": [
+            "Yes",
+            "please",
+            "Let’s meet soon"
+        ],
+        "rationale": "The token 'Yes' is used to agree or confirm, 'please' is a polite request, and 'Let’s meet soon' is a suggestion or proposal for future action.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Sora. Talk soon. Bye-bye.",
+        "annotation_token": [
+            "Thank you",
+            "Talk soon",
+            "Bye-bye"
+        ],
+        "rationale": "The token 'Thank you' is an expression of gratitude, 'Talk soon' is a farewell indicating future communication, and 'Bye-bye' is a conventional closing or farewell.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, Sora. Is me, Haruto. How are you?",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "How are you"
+        ],
+        "rationale": "The tokens 'Ah' and 'yes' are used as discourse markers to acknowledge and confirm the conversation, while 'How are you?' is a conventional speech act for greeting and inquiring about someone's well-being.",
+        "grammar_correctness": "The use of 'Ah' and 'yes' is correct, but 'Is me, Haruto' should be 'It's me, Haruto' for grammatical correctness."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please! Let’s meet soon. I make for you.",
+        "annotation_token": [
+            "Yes",
+            "please",
+            "Let’s meet soon"
+        ],
+        "rationale": "The token 'Yes' is used to agree or confirm, 'please' is a politeness marker, and 'Let’s meet soon' is a suggestion or invitation, which are all speech acts.",
+        "grammar_correctness": "The use of 'Yes' and 'please' is correct, but 'I make for you' should be 'I'll make it for you' for grammatical correctness."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Sora. Talk soon. Bye-bye.",
+        "annotation_token": [
+            "Thank you",
+            "Talk soon",
+            "Bye-bye"
+        ],
+        "rationale": "'Thank you' is an expression of gratitude, 'Talk soon' is a farewell or closing remark indicating future communication, and 'Bye-bye' is a conventional closing or farewell.",
+        "grammar_correctness": "The use of 'Thank you', 'Talk soon', and 'Bye-bye' is correct and aligns with native English speaker's grammar usage."
+    }
+]

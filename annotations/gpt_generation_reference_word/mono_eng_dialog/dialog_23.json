@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hi there! I'm having some trouble with my laptop. It’s been running really slowly, and I’m not sure what to do.",
+        "annotation_token": "It’s",
+        "rationale": "The word 'It’s' is a reference to 'my laptop' mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hmm, I did install a couple of new apps last week. Do you think they could be causing the slowdown?",
+        "annotation_token": "they",
+        "rationale": "The word 'they' is a reference to 'a couple of new apps' mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Not really, I usually just put it to sleep. Should I try a full restart?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference to 'my laptop' mentioned earlier in the dialogue.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay, I’ll do that now. Is there anything else I should check while I’m at it?",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is a reference to 'a full restart' mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Got it, I’ll check for updates too. Thanks for the advice. Anything else I should keep an eye on?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference to 'checking for updates' mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I’ll look into that as well. Thanks so much for your help!",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is a reference to 'anything else I should keep an eye on' mentioned in the previous sentence.",
+        "grammar_correctness": true
+    }
+]

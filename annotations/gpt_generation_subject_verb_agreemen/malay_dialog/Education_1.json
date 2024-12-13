@@ -1,0 +1,68 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hello! Um, the topic is, uh, \"genetic engineering.\" It is... very hard for me to understand.",
+        "annotation_token": [
+            "the topic is",
+            "It is"
+        ],
+        "rationale": "The subjects 'the topic' and 'It' correctly agree with the singular verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, CRISPR. I hear about this.",
+        "annotation_token": [
+            "I hear"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'hear'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I see. So, it can help sick people, yes?",
+        "annotation_token": [
+            "I see",
+            "it can help"
+        ],
+        "rationale": "The subjects 'I' and 'it' correctly agree with the verbs 'see' and 'can help', respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, I understand now.",
+        "annotation_token": [
+            "I understand"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'understand'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It need to be very careful.",
+        "annotation_token": [
+            "It need"
+        ],
+        "rationale": "The subject 'It' does not agree with the verb 'need'. The correct form should be 'It needs'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, I see. It is more than just science, yes?",
+        "annotation_token": [
+            "I see",
+            "It is"
+        ],
+        "rationale": "The subjects 'I' and 'It' correctly agree with the verbs 'see' and 'is', respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you. This help me a lot.",
+        "annotation_token": [
+            "This help"
+        ],
+        "rationale": "The subject 'This' does not agree with the verb 'help'. The correct form should be 'This helps'.",
+        "grammar_correctness": "wrong"
+    }
+]

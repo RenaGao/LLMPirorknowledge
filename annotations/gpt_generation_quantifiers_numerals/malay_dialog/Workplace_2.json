@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I think I understand. So, like, um, \"Project ABC_2023-11-01_Report\"?",
+        "annotation_token": [
+            "2023",
+            "11",
+            "01"
+        ],
+        "rationale": "The tokens '2023', '11', and '01' are numerals representing a date in the format year-month-day.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you, Aiman. This is very helpful. I'm learning step by step.",
+        "annotation_token": [
+            "step by step"
+        ],
+        "rationale": "The phrase 'step by step' is a quantifier indicating a gradual process.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I will. Thanks again for your support. I feel more confident now.",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier used to indicate an increased degree of confidence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I'm learning step by step.",
+        "annotation_token": [
+            "step by step"
+        ],
+        "rationale": "The phrase 'step by step' implies a gradual process, indicating a sequence or number of steps.",
+        "grammar_correctness": true
+    }
+]

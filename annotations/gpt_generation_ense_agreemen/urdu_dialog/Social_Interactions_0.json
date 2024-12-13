@@ -1,0 +1,32 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It has been, um, about three year now. I start after university.",
+        "annotation_token": [
+            "has been",
+            "start"
+        ],
+        "rationale": "The sentence 'It has been, um, about three year now. I start after university.' contains a tense agreement issue. 'Has been' is in the present perfect tense, indicating an action that started in the past and continues to the present. However, 'start' is in the simple present tense, which does not align with the present perfect tense used earlier.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I make a, um, how to say... app for learning languages. It help people to learn easily.",
+        "annotation_token": [
+            "make",
+            "help"
+        ],
+        "rationale": "The sentence 'I make a, um, how to say... app for learning languages. It help people to learn easily.' contains a tense agreement issue. 'Make' is in the simple present tense, which is consistent with the context. However, 'help' should be 'helps' to agree with the singular subject 'It'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It have English, Urdu, and some other. I want add more soon.",
+        "annotation_token": [
+            "have",
+            "want add"
+        ],
+        "rationale": "The sentence 'It have English, Urdu, and some other. I want add more soon.' contains a tense agreement issue. 'Have' should be 'has' to agree with the singular subject 'It'. Additionally, 'want add' should be 'want to add' to correctly use the infinitive form.",
+        "grammar_correctness": "wrong"
+    }
+]

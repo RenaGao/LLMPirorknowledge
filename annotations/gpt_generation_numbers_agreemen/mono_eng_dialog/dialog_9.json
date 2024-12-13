@@ -1,0 +1,14 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I focus on key performance indicators like engagement rates, conversion metrics, and audience growth.",
+        "annotation_token": [
+            "indicators",
+            "rates",
+            "metrics",
+            "growth"
+        ],
+        "rationale": "The sentence contains multiple nouns that should agree in number with their respective verbs and determiners. 'Indicators', 'rates', and 'metrics' are plural nouns, which correctly agree with the plural verb 'focus on'. 'Growth' is a singular noun, but it is correctly used as it is part of a list of items that are being focused on.",
+        "grammar_correctness": "correct"
+    }
+]

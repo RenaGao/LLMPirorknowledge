@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, it is not printing. I try many time, but paper, uh, not come out.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of times the action was attempted.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, yes. I put a lot of paper. Still no print.",
+        "annotation_token": [
+            "a lot of"
+        ],
+        "rationale": "The phrase 'a lot of' is a quantifier used to indicate a large quantity of paper.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, it is not printing. I try many time, but paper, uh, not come out.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of times.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, yes. I put a lot of paper. Still no print.",
+        "annotation_token": [
+            "a lot of"
+        ],
+        "rationale": "The phrase 'a lot of' is a quantifier used to indicate a large quantity of paper.",
+        "grammar_correctness": true
+    }
+]

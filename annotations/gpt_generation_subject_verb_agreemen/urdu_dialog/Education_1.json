@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, the... um, reasons why it start. I not understand fully.",
+        "annotation_token": [
+            "it start"
+        ],
+        "rationale": "The subject 'it' does not agree with the verb 'start'. The correct form should be 'it starts'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, I see now. And other countries, they involved because of... alliances?",
+        "annotation_token": [
+            "they involved"
+        ],
+        "rationale": "The subject 'they' does not agree with the verb 'involved'. The correct form should be 'they are involved' or 'they were involved'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Okay, this is more clear now. But, um, what about Japan? How they in war?",
+        "annotation_token": [
+            "they in"
+        ],
+        "rationale": "The subject 'they' does not agree with the verb 'in'. The correct form should be 'they are in'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thanks, now I understand better. But, um, one more thing. Why it take so long to end?",
+        "annotation_token": [
+            "it take"
+        ],
+        "rationale": "The subject 'it' does not agree with the verb 'take'. The correct form should be 'it takes'.",
+        "grammar_correctness": "wrong"
+    }
+]

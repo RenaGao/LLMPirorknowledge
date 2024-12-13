@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, hello! I am good, thank you. And you?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, many. Um, in Japan, we say “Itadakimasu” before eating. Here, not so much.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to people in Japan, including the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, yes. It is polite way. Also, um, chopsticks... people here not use often.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the act of saying 'Itadakimasu'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, sometimes difficult. I still practice. But I like chopsticks best.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes! In Japan, no tipping. Service fee included. Here, I must remember.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, I see. Um, also, slurping noodles... in Japan, okay. But here, not so okay?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes. I try to be quiet when eat noodle here. Little hard!",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you. I learn new things every day. Like, drinking soup from bowl. In Japan, okay... here?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, I see. Thank you for explain. It helps a lot.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I agree. I enjoy talk about cultures. Thank you for your time.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

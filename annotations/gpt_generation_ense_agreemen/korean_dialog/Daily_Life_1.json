@@ -1,0 +1,71 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hello, I am good, thank you. Um, I'm thinking about weekend plan.",
+        "annotation_token": [
+            "am",
+            "thinking"
+        ],
+        "rationale": "The verbs 'am' and 'thinking' are in present continuous tense, showing agreement in tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I want to, uh, have picnic with family.",
+        "annotation_token": [
+            "want",
+            "have"
+        ],
+        "rationale": "The verbs 'want' and 'have' are in present simple tense, showing agreement in tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "My mother help a lot. She good cook. I just, um, how to say... assist her.",
+        "annotation_token": [
+            "help",
+            "assist"
+        ],
+        "rationale": "The verbs 'help' and 'assist' are in present simple tense, showing agreement in tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, my family is five person. Maybe my cousin come, too.",
+        "annotation_token": [
+            "is",
+            "come"
+        ],
+        "rationale": "The verbs 'is' and 'come' are in present simple tense, but 'come' should be 'comes' to agree with the singular subject 'my cousin'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, we play, um, ball game. Like soccer.",
+        "annotation_token": [
+            "play"
+        ],
+        "rationale": "The verb 'play' is in present simple tense, which is consistent with the context of habitual actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Almost. I need to buy, uh, drink and snack.",
+        "annotation_token": [
+            "need",
+            "buy"
+        ],
+        "rationale": "The verbs 'need' and 'buy' are in present simple tense, showing agreement in tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you very much! I hope weather is good. See you lat",
+        "annotation_token": [
+            "hope",
+            "is"
+        ],
+        "rationale": "The verbs 'hope' and 'is' are in present simple tense, showing agreement in tense.",
+        "grammar_correctness": "correct"
+    }
+]

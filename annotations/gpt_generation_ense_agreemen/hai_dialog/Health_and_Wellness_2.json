@@ -1,0 +1,104 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, hello! I am fine, thank you. Excited to, um, start exercise.",
+        "annotation_token": [
+            "am",
+            "start"
+        ],
+        "rationale": "The sentence 'I am fine' uses present tense correctly, and 'start exercise' is in the present tense form, maintaining tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hmm, I want to... how to say... be more strong and lose some weight.",
+        "annotation_token": [
+            "want",
+            "be",
+            "lose"
+        ],
+        "rationale": "The verbs 'want', 'be', and 'lose' are in the present tense, maintaining tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I do yoga sometimes. And, um, running but not very fast.",
+        "annotation_token": [
+            "do",
+            "running"
+        ],
+        "rationale": "The verb 'do' is in the present tense, but 'running' is a gerund form used as a noun, which does not affect tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I like outside. Fresh air is, um, how to say... better for me.",
+        "annotation_token": [
+            "like",
+            "is"
+        ],
+        "rationale": "The verbs 'like' and 'is' are in the present tense, maintaining tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Maybe three time a week? I can do more if it is okay.",
+        "annotation_token": [
+            "can",
+            "do",
+            "is"
+        ],
+        "rationale": "The verbs 'can', 'do', and 'is' are in the present tense, maintaining tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Morning, please. Before work is, um, how to say... good for my energy.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The verb 'is' is in the present tense, maintaining tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I worry about my knee. Sometimes it is... um, hurt when running.",
+        "annotation_token": [
+            "worry",
+            "is",
+            "hurt"
+        ],
+        "rationale": "The verbs 'worry' and 'is' are in the present tense, but 'hurt' should be 'hurts' to maintain tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, that is good. Thank you for help.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The verb 'is' is in the present tense, maintaining tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Sounds good! I am ready to learn and, uh, try new thing.",
+        "annotation_token": [
+            "am",
+            "learn",
+            "try"
+        ],
+        "rationale": "The verbs 'am', 'learn', and 'try' are in the present tense, maintaining tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "No question now. I am just, um, excited to start.",
+        "annotation_token": [
+            "am",
+            "start"
+        ],
+        "rationale": "The verb 'am' is in the present tense, and 'start' is in the present tense form, maintaining tense agreement.",
+        "grammar_correctness": "correct"
+    }
+]

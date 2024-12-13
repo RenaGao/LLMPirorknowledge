@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Uh, not yet. I plan to do it today. I think they can help fix... uh, problem quickly.",
+        "annotation_token": "help fix",
+        "rationale": "The noun 'help' and the verb 'fix' form a collocation that expresses a meaningful and complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, yes! That would be... very helpful. Can we have, um, more people for testing?",
+        "annotation_token": "have people",
+        "rationale": "The noun 'people' and the verb 'have' form a collocation that expresses a meaningful and complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, that is good. With more help, we finish on time, I think.",
+        "annotation_token": "finish time",
+        "rationale": "The noun 'time' and the verb 'finish' form a collocation that expresses a meaningful and complete action.",
+        "grammar_correctness": true
+    }
+]

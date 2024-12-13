@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "But everyone nice.",
+        "annotation_token": "everyone",
+        "rationale": "The word 'everyone' is singular and should be followed by a singular verb, but the sentence is missing the verb 'is'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Uh, who should I ask, if question?",
+        "annotation_token": "question",
+        "rationale": "The word 'question' should be plural 'questions' to agree with the context of asking multiple questions.",
+        "grammar_correctness": "wrong"
+    }
+]

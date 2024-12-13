@@ -1,0 +1,124 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Do you have any suggestions on what I might try?",
+        "annotation_token": [
+            "Do",
+            "you",
+            "have",
+            "any",
+            "suggestions",
+            "on",
+            "what",
+            "I",
+            "might",
+            "try"
+        ],
+        "rationale": "The sentence is a request for advice or suggestions, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "How can I check that?",
+        "annotation_token": [
+            "How",
+            "can",
+            "I",
+            "check",
+            "that"
+        ],
+        "rationale": "The sentence is a request for information, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Should I just end everything?",
+        "annotation_token": [
+            "Should",
+            "I",
+            "just",
+            "end",
+            "everything"
+        ],
+        "rationale": "The sentence is a request for confirmation or advice, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Is there anything else I should be aware of?",
+        "annotation_token": [
+            "Is",
+            "there",
+            "anything",
+            "else",
+            "I",
+            "should",
+            "be",
+            "aware",
+            "of"
+        ],
+        "rationale": "The sentence is a request for additional information, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Do you have any suggestions on what I might try?",
+        "annotation_token": [
+            "Do",
+            "you",
+            "have",
+            "any",
+            "suggestions",
+            "on",
+            "what",
+            "I",
+            "might",
+            "try"
+        ],
+        "rationale": "The sentence is a request for advice or suggestions, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "How can I check that?",
+        "annotation_token": [
+            "How",
+            "can",
+            "I",
+            "check",
+            "that"
+        ],
+        "rationale": "The sentence is a request for information, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Should I just end everything?",
+        "annotation_token": [
+            "Should",
+            "I",
+            "just",
+            "end",
+            "everything"
+        ],
+        "rationale": "The sentence is a request for confirmation or advice, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Is there anything else I should be aware of?",
+        "annotation_token": [
+            "Is",
+            "there",
+            "anything",
+            "else",
+            "I",
+            "should",
+            "be",
+            "aware",
+            "of"
+        ],
+        "rationale": "The sentence is a request for additional information, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    }
+]

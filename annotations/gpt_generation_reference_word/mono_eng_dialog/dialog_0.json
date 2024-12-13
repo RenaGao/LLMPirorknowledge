@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hi! I'm doing well, thanks. A bit nervous, but excited to be here. How about you?",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word used to refer to the person being spoken to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Your company caught my eye because of its innovative approach and commitment to sustainability.",
+        "annotation_token": "its",
+        "rationale": "The word 'its' is a reference word used to refer to the company mentioned earlier in the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Of course. In my last internship, I led a campaign focused on eco-friendly products, which increased sales by 20% over three months.",
+        "annotation_token": "which",
+        "rationale": "The word 'which' is a reference word used to refer to the campaign mentioned earlier in the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It was rewarding to see how marketing could drive positive change.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word used to refer to the experience of leading the campaign mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I believe my creative mindset and data-driven approach can help develop engaging campaigns. I'm also eager to learn from your seasoned team and grow within the company.",
+        "annotation_token": "your",
+        "rationale": "The word 'your' is a reference word used to refer to the person or entity being addressed, likely the interviewer or the company.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I was wondering about opportunities for professional development here. How does the company support growth and learning?",
+        "annotation_token": "the company",
+        "rationale": "The phrase 'the company' is a reference word used to refer to the company being discussed in the conversation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you so much for the opportunity. I look forward to hearing from you.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word used to refer to the person being spoken to, likely the interviewer.",
+        "grammar_correctness": true
+    }
+]

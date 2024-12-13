@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think it was the green curry. It remind... um, remind me of home.",
+        "annotation_token": [
+            "It remind"
+        ],
+        "rationale": "The subject 'It' does not agree with the verb 'remind'. The correct form should be 'It reminds'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, let's do that. I look forward to",
+        "annotation_token": [
+            "I look"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'look'. The sentence is grammatically correct.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "On Eid, we... how to say... celebrate? Yes, celebrate with family.",
+        "annotation_token": "celebrate family",
+        "rationale": "The noun 'family' and the verb 'celebrate' form a collocation as they express a meaningful and complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We wear new clothes, and we eat... uh, many special foods.",
+        "annotation_token": "wear clothes",
+        "rationale": "The noun 'clothes' and the verb 'wear' form a collocation as they express a meaningful and complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We wear new clothes, and we eat... uh, many special foods.",
+        "annotation_token": "eat foods",
+        "rationale": "The noun 'foods' and the verb 'eat' form a collocation as they express a meaningful and complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, we give... um, money to children.",
+        "annotation_token": "give money",
+        "rationale": "The noun 'money' and the verb 'give' form a collocation as they express a meaningful and complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We, um, clean house, and buy new clothes.",
+        "annotation_token": "clean house",
+        "rationale": "The noun 'house' and the verb 'clean' form a collocation as they express a meaningful and complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We, um, clean house, and buy new clothes.",
+        "annotation_token": "buy clothes",
+        "rationale": "The noun 'clothes' and the verb 'buy' form a collocation as they express a meaningful and complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, one time we... um, all cousins meet at grandparents' house.",
+        "annotation_token": "meet cousins",
+        "rationale": "The noun 'cousins' and the verb 'meet' form a collocation as they express a meaningful and complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "It was very fun, playing and eating together.",
+        "annotation_token": "eating together",
+        "rationale": "The noun 'together' and the verb 'eating' form a collocation as they express a meaningful and complete action.",
+        "grammar_correctness": true
+    }
+]

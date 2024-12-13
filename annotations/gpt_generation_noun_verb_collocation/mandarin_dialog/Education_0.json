@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, yes! Exactly. The last chapter is... um, very complex for me.",
+        "annotation_token": "chapter is",
+        "rationale": "The noun 'chapter' and the verb 'is' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I like it! Practice is best for, um, remembering.",
+        "annotation_token": "Practice is",
+        "rationale": "The noun 'Practice' and the verb 'is' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    }
+]

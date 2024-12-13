@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I sleep maybe... five hours a night?",
+        "annotation_token": "hours",
+        "rationale": "The noun 'hours' correctly agrees in number with the quantifier 'five'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I like fruits.",
+        "annotation_token": "fruits",
+        "rationale": "The noun 'fruits' correctly agrees in number with the context, as it refers to multiple types of fruit.",
+        "grammar_correctness": "correct"
+    }
+]

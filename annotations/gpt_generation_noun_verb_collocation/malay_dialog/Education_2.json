@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, yes, I have time.",
+        "annotation_token": "have time",
+        "rationale": "The noun 'time' and the verb 'have' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "The homework is bit confusing for me.",
+        "annotation_token": "is confusing",
+        "rationale": "The noun 'homework' and the verb 'is' form a collocation with the adjective 'confusing' to express a state.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you, this help a lot.",
+        "annotation_token": "help a lot",
+        "rationale": "The noun 'this' and the verb 'help' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "How long should the essay be?",
+        "annotation_token": "should be",
+        "rationale": "The noun 'essay' and the verb 'be' form a collocation that expresses a state or condition.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I see... many thing. Like, um, Golden Gate Bridge and... Alcatraz.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of things.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, weather was... little cold and foggy. But not so bad.",
+        "annotation_token": [
+            "little"
+        ],
+        "rationale": "The word 'little' is a quantifier used to indicate a small amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, little bit. I buy some... um, souvenirs for family.",
+        "annotation_token": [
+            "little bit",
+            "some"
+        ],
+        "rationale": "The phrase 'little bit' is a quantifier indicating a small amount, and 'some' is a quantifier indicating an unspecified amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Mostly... by bus and, um, cable car. Cable car is fun!",
+        "annotation_token": [
+            "Mostly"
+        ],
+        "rationale": "The word 'Mostly' is a quantifier indicating the majority of the time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It was... um, four days. Not very long, but good time.",
+        "annotation_token": [
+            "four"
+        ],
+        "rationale": "The word 'four' is a numeral indicating a specific quantity of days.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I want to go back. Maybe see more... different places next time.",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an additional amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I see... many thing. Like, um, Golden Gate Bridge and... Alcatraz. You know it?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of things.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, weather was... little cold and foggy. But not so bad.",
+        "annotation_token": [
+            "little"
+        ],
+        "rationale": "The word 'little' is a quantifier used to indicate a small amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, little bit. I buy some... um, souvenirs for family.",
+        "annotation_token": [
+            "little bit",
+            "some"
+        ],
+        "rationale": "'Little bit' is a quantifier indicating a small amount, and 'some' is a quantifier indicating an unspecified amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Mostly... by bus and, um, cable car. Cable car is fun!",
+        "annotation_token": [
+            "Mostly"
+        ],
+        "rationale": "The word 'Mostly' is a quantifier indicating the majority of the time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It was... um, four days. Not very long, but good time.",
+        "annotation_token": [
+            "four"
+        ],
+        "rationale": "The word 'four' is a numeral indicating a specific number of days.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I want to go back. Maybe see more... different places next time.",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an additional amount.",
+        "grammar_correctness": true
+    }
+]

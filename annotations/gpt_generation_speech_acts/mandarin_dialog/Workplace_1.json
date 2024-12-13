@@ -1,0 +1,152 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you. My name is Mei.",
+        "annotation_token": [
+            "Yes",
+            "thank you"
+        ],
+        "rationale": "The tokens 'Yes' and 'thank you' are used as speech acts to acknowledge and express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I like, um, how do you say... working with numbers and people.",
+        "annotation_token": [
+            "how do you say"
+        ],
+        "rationale": "The token 'how do you say' is a speech act used to request assistance in finding the correct expression.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. We have problem with data... it was not, um, correct.",
+        "annotation_token": [
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The tokens 'Ah' and 'yes' are used as speech acts to express realization and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "So, I work with my friend to... how to say... fix it?",
+        "annotation_token": [
+            "how to say"
+        ],
+        "rationale": "The token 'how to say' is a speech act used to request assistance in finding the correct expression.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, correct.",
+        "annotation_token": [
+            "Yes",
+            "correct"
+        ],
+        "rationale": "The tokens 'Yes' and 'correct' are used as speech acts to confirm and agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, that is... very helpful.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is a speech act used to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much for this... opportunity.",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The token 'Thank you very much' is a speech act used to express deep gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you. My name is Mei.",
+        "annotation_token": [
+            "Yes",
+            "thank you"
+        ],
+        "rationale": "The tokens 'Yes' and 'thank you' are used as speech acts to acknowledge and express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I like, um, how do you say... working with numbers and people.",
+        "annotation_token": [
+            "how do you say"
+        ],
+        "rationale": "The token 'how do you say' is a speech act used to request assistance in finding the correct expression.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. We have problem with data... it was not, um, correct.",
+        "annotation_token": [
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The tokens 'Ah' and 'yes' are used as speech acts to express realization and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "So, I work with my friend to... how to say... fix it?",
+        "annotation_token": [
+            "how to say"
+        ],
+        "rationale": "The token 'how to say' is a speech act used to request assistance in finding the correct expression.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, correct.",
+        "annotation_token": [
+            "Yes",
+            "correct"
+        ],
+        "rationale": "The tokens 'Yes' and 'correct' are used as speech acts to confirm and agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I know your company is... um, leader in fashion.",
+        "annotation_token": [
+            "I know"
+        ],
+        "rationale": "The token 'I know' is a speech act used to assert knowledge or awareness.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I want to know... what skills are most important for this job?",
+        "annotation_token": [
+            "I want to know"
+        ],
+        "rationale": "The token 'I want to know' is a speech act used to express a desire for information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, that is... very helpful.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is a speech act used to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much for this... opportunity.",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The token 'Thank you very much' is a speech act used to express deep gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

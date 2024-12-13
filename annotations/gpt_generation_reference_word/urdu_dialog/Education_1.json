@@ -1,0 +1,121 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, thank you. Um, I am finding it... difficult.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the task or subject the speaker finds difficult.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "The part about, uh, World War Two?",
+        "annotation_token": "The part",
+        "rationale": "The phrase 'The part' refers to a specific section or aspect of a larger topic, in this case, World War Two.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, the... um, reasons why it start.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers to World War Two, which is the subject of the discussion.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes, I heard about this treaty.",
+        "annotation_token": "this treaty",
+        "rationale": "The phrase 'this treaty' refers to a specific treaty that was previously mentioned or is known in the context of the conversation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It was, um, unfair to Germany, yes?",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the treaty mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "And, um, Hitler used this... how to say... situation to rise, right?",
+        "annotation_token": "this... situation",
+        "rationale": "The phrase 'this... situation' refers to the circumstances created by the treaty that were exploited by Hitler.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, I see now. And other countries, they involved because of... alliances?",
+        "annotation_token": "they",
+        "rationale": "The word 'they' refers to 'other countries' mentioned in the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Poland, yes. This was first attack, na?",
+        "annotation_token": "This",
+        "rationale": "The word 'This' refers to the event of the first attack, which is implied to be on Poland.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay, this is more clear now.",
+        "annotation_token": "this",
+        "rationale": "The word 'this' refers to the explanation or information that has been provided, making the situation clearer.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "But, um, what about Japan? How they in war?",
+        "annotation_token": "they",
+        "rationale": "The word 'they' refers to Japan, as the speaker is asking about Japan's involvement in the war.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Pearl Harbor! I know this.",
+        "annotation_token": "this",
+        "rationale": "The word 'this' refers to the event of the attack on Pearl Harbor.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is in... um, Hawaii?",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to Pearl Harbor, which is the subject of the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Allies were... Britain, France, US, and others?",
+        "annotation_token": "Allies",
+        "rationale": "The word 'Allies' refers to the group of countries that were allied against the Axis powers during World War Two.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thanks, now I understand better.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "But, um, one more thing. Why it take so long to end?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers to World War Two, which is the subject of the discussion.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, I see. Thank you for explaining.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I feel ready to write now.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    }
+]

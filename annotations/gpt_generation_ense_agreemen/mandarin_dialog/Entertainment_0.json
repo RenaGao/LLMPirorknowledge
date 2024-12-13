@@ -1,0 +1,41 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, yes, I like very much. Um, now I watch... how to say it... \"Stranger Things\"? It very interesting.",
+        "annotation_token": [
+            "watch",
+            "It very interesting"
+        ],
+        "rationale": "The verb 'watch' is in the present tense, but the sentence 'It very interesting' lacks the auxiliary verb 'is' to maintain tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I like the, um, story and the... how to say... *feeling* of 1980s. It remind me of, um, old movie style.",
+        "annotation_token": [
+            "remind"
+        ],
+        "rationale": "The verb 'remind' should be in the present tense 'reminds' to agree with the subject 'It'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Not all, but I try. The dreams inside dreams... very complex. I need watch again, I think.",
+        "annotation_token": [
+            "try",
+            "need watch"
+        ],
+        "rationale": "The verb 'try' is in the present tense, but 'need watch' lacks the 'to' infinitive form 'need to watch' to maintain tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, music very good. I think it make movie more... um, touching?",
+        "annotation_token": [
+            "music very good",
+            "make"
+        ],
+        "rationale": "The sentence 'music very good' lacks the auxiliary verb 'is' to maintain tense agreement, and 'make' should be 'makes' to agree with the subject 'it'.",
+        "grammar_correctness": "wrong"
+    }
+]

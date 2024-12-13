@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, etiquette! I watch a show, and it show how people eat in, um, places like France and Japan.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the show mentioned earlier in the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is... how to say... elegant.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers back to the way people eat in France and Japan, as described in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "But it is fun to try.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers to the act of trying to eat with different utensils or methods, as mentioned in the previous sentences.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is, um, more... how you say... personal?",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the act of eating with hands, as mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, we not use left hand, it is seen not proper.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers to the act of using the left hand, as mentioned in the previous part of the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, it is like bonding, talking with family.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers to the act of sharing food and eating together, as mentioned in the previous sentences.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I see. And, um, tipping? It is different too, yes?",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the practice of tipping, as mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, when travel, I try follow local way. It is, um, respectful?",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the act of following the local customs or ways, as mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I think it make world feel, um, smaller and friendly.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers to the act of following local customs and learning from them, as mentioned in the previous sentences.",
+        "grammar_correctness": true
+    }
+]

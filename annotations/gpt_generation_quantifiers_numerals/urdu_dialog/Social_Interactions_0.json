@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It has been, um, about three year now.",
+        "annotation_token": [
+            "three"
+        ],
+        "rationale": "'Three' is a numeral used to specify a quantity.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It have English, Urdu, and some other.",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "'Some' is a quantifier used to indicate an unspecified amount or number.",
+        "grammar_correctness": true
+    }
+]

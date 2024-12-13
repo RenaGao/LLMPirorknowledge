@@ -1,0 +1,57 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, long time no see. I am good, thank you. You?",
+        "annotation_token": [
+            "am"
+        ],
+        "rationale": "The verb 'am' is correctly used in the present tense to agree with the subject 'I'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, yes! In Korea, we usually share food.",
+        "annotation_token": [
+            "share"
+        ],
+        "rationale": "The verb 'share' is correctly used in the present tense to agree with the subject 'we'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "You try before?",
+        "annotation_token": [
+            "try"
+        ],
+        "rationale": "The verb 'try' is incorrectly used in the present tense when it should be in the past tense to indicate a completed action.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "No, not usual. In Korea, tip is not... um, expected.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The verb 'is' is correctly used in the present tense to agree with the subject 'tip'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Maybe... oh, when eating, do not make noise.",
+        "annotation_token": [
+            "do",
+            "make"
+        ],
+        "rationale": "The verbs 'do' and 'make' are correctly used in the present tense to agree with the implied subject 'you'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Surprise? Maybe... ah, salad first. In Korea, it is with meal, not before.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The verb 'is' is correctly used in the present tense to agree with the subject 'it'.",
+        "grammar_correctness": "correct"
+    }
+]

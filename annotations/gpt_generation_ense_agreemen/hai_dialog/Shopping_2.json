@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I buy this shirt last week, and it is, um, too big.",
+        "annotation_token": [
+            "buy"
+        ],
+        "rationale": "The verb 'buy' is in the present tense, but the context 'last week' indicates that the past tense 'bought' should be used for tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I go look for, um, correct size now.",
+        "annotation_token": [
+            "go"
+        ],
+        "rationale": "The verb 'go' is in the present tense, but the context suggests that the speaker is about to perform the action, so 'will go' or 'am going to look' would be more appropriate for tense agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

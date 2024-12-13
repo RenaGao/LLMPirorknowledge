@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It start in morning and... um, not stop until night.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the pain mentioned earlier in the dialogue.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is, um, always there.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the pain mentioned earlier in the dialogue.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "But sometimes it... uh, get worse.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the pain mentioned earlier in the dialogue.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, that right.",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is used as a reference to the feeling of dizziness mentioned earlier in the dialogue.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, my favorite is, uh, biryani.",
+        "annotation_token": [
+            "favorite is"
+        ],
+        "rationale": "The subject 'favorite' agrees with the singular verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is, how to say, rice with... many spices and chicken.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' agrees with the singular verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Spices are very important.",
+        "annotation_token": [
+            "Spices are"
+        ],
+        "rationale": "The plural subject 'Spices' agrees with the plural verb 'are'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It, uh, gives nice aroma.",
+        "annotation_token": [
+            "It gives"
+        ],
+        "rationale": "The subject 'It' agrees with the singular verb 'gives'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I cook on low flame, um, maybe 20 minutes?",
+        "annotation_token": [
+            "I cook"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'cook'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Until rice is, uh, soft.",
+        "annotation_token": [
+            "rice is"
+        ],
+        "rationale": "The subject 'rice' agrees with the singular verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is, um, called raita.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' agrees with the singular verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Cooking together is, how to say, fun.",
+        "annotation_token": [
+            "Cooking together is"
+        ],
+        "rationale": "The subject 'Cooking together' agrees with the singular verb 'is'.",
+        "grammar_correctness": "correct"
+    }
+]

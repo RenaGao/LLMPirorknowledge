@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I have most of them ready, but I'm unsure about the recommendation letters.",
+        "annotation_token": [
+            "I have"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'have' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I will, thank you!",
+        "annotation_token": [
+            "I will"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the auxiliary verb 'will' in the future tense.",
+        "grammar_correctness": "correct"
+    }
+]

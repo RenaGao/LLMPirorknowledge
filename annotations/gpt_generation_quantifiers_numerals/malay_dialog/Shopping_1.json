@@ -1,0 +1,122 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I want to buy... how you say... basket for fruit, lah?",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier indicating a single item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I see one very nice. But, um, the price is... a bit high, I think.",
+        "annotation_token": [
+            "one",
+            "a bit"
+        ],
+        "rationale": "The word 'one' is a numeral indicating a single item, and 'a bit' is a quantifier indicating a small amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, he say, uh, only small discount. So I ask more?",
+        "annotation_token": [
+            "only",
+            "small",
+            "more"
+        ],
+        "rationale": "The word 'only' is a quantifier indicating limitation, 'small' is a quantifier indicating size, and 'more' is a quantifier indicating an additional amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Alright. Can you give... larger discount if I buy more things?",
+        "annotation_token": [
+            "larger",
+            "more"
+        ],
+        "rationale": "The word 'larger' is a quantifier indicating size, and 'more' is a quantifier indicating an additional amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "He say okay, can give... bigger discount, but only if I buy three items.",
+        "annotation_token": [
+            "bigger",
+            "only",
+            "three"
+        ],
+        "rationale": "The word 'bigger' is a quantifier indicating size, 'only' is a quantifier indicating limitation, and 'three' is a numeral indicating a specific number of items.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I think so. Maybe I look for... uh, more kitchen things.",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an additional amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I want to buy... how you say... basket for fruit, lah?",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier indicating a single item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I see one very nice. But, um, the price is... a bit high, I think.",
+        "annotation_token": [
+            "one",
+            "a bit"
+        ],
+        "rationale": "The word 'one' is a numeral indicating a single item, and 'a bit' is a quantifier indicating a small amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, he say, uh, only small discount. So I ask more?",
+        "annotation_token": [
+            "only",
+            "small",
+            "more"
+        ],
+        "rationale": "The word 'only' is a quantifier indicating limitation, 'small' is a quantifier indicating size, and 'more' is a quantifier indicating an additional amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Alright. Can you give... larger discount if I buy more things?",
+        "annotation_token": [
+            "larger",
+            "more"
+        ],
+        "rationale": "The word 'larger' is a quantifier indicating size, and 'more' is a quantifier indicating an additional amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "He say okay, can give... bigger discount, but only if I buy three items.",
+        "annotation_token": [
+            "bigger",
+            "only",
+            "three"
+        ],
+        "rationale": "The word 'bigger' is a quantifier indicating size, 'only' is a quantifier indicating limitation, and 'three' is a numeral indicating a specific number of items.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I think so. Maybe I look for... uh, more kitchen things.",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an additional amount.",
+        "grammar_correctness": true
+    }
+]

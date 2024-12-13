@@ -1,0 +1,78 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We maybe go... how to say... the big park near river. What it call?",
+        "annotation_token": [
+            "go",
+            "call"
+        ],
+        "rationale": "The verbs 'go' and 'call' should be in the present tense to agree with the context. 'Go' should be 'are going' and 'call' should be 'is called' to match the present continuous and present simple tense respectively.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, Riverside Park! It very nice there.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The verb 'is' is missing in the sentence 'It very nice there.' to agree with the present tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "My brother want to play, um, football. My sister like... uh, flying kite.",
+        "annotation_token": [
+            "want",
+            "like"
+        ],
+        "rationale": "The verbs 'want' and 'like' should be in the present tense with the third person singular 's' as 'wants' and 'likes' to agree with the subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We take car. My father, he drive us.",
+        "annotation_token": [
+            "take",
+            "drive"
+        ],
+        "rationale": "The verbs 'take' and 'drive' should be in the present continuous tense as 'are taking' and 'is driving' to indicate an ongoing action.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I must remember... um, bring water, and maybe... mats for sit.",
+        "annotation_token": [
+            "bring",
+            "sit"
+        ],
+        "rationale": "The verb 'sit' should be in the gerund form 'sitting' to agree with the structure 'for + gerund'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We go in morning, maybe... 9 a.m. So not too hot.",
+        "annotation_token": [
+            "go"
+        ],
+        "rationale": "The verb 'go' should be in the present continuous tense 'are going' to indicate a planned future action.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you! I hope weather is good too. Excited to go!",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The verb 'is' is correctly used in the present tense to agree with the subject 'weather'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you very much! I will tell you how it go",
+        "annotation_token": [
+            "go"
+        ],
+        "rationale": "The verb 'go' should be in the future tense 'will go' to agree with the future context.",
+        "grammar_correctness": "wrong"
+    }
+]

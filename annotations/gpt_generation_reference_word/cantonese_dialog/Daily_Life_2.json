@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, yes, I am happy to share! It is, um, how to say... chicken rice.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the dish 'chicken rice' that the speaker is about to describe.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "No, not need to marinate. Just boil and it will taste good.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers to the chicken that is being boiled.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, rice very important! Use chicken broth to cook rice, not water. It give, um, more flavor.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the chicken broth used to cook the rice.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, we put rice on plate, chicken on top, and sauce. Cucumber on side. All done!",
+        "annotation_token": "All",
+        "rationale": "The word 'All' refers to the completed dish with rice, chicken, sauce, and cucumber.",
+        "grammar_correctness": true
+    }
+]

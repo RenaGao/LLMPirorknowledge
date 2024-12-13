@@ -1,0 +1,32 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I jog, um, three time in week. But sometimes, uh, only two.",
+        "annotation_token": [
+            "jog",
+            "time",
+            "in",
+            "week"
+        ],
+        "rationale": "The sentence 'I jog, um, three time in week.' lacks tense agreement as 'time' should be 'times' and 'in week' should be 'a week' to correctly express the habitual action in present tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, that sound good. And, um, strength training? How to do?",
+        "annotation_token": [
+            "sound"
+        ],
+        "rationale": "The sentence 'Yes, that sound good.' lacks tense agreement as 'sound' should be 'sounds' to correctly agree with the singular subject 'that'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I hope it help me.",
+        "annotation_token": [
+            "help"
+        ],
+        "rationale": "The sentence 'I hope it help me.' lacks tense agreement as 'help' should be 'helps' to correctly agree with the singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    }
+]

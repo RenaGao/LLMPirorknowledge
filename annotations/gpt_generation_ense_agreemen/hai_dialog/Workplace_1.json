@@ -1,0 +1,101 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, thank you. My name is Nuch. I am from Bangkok. I study, um, business... management in university.",
+        "annotation_token": [
+            "am",
+            "study"
+        ],
+        "rationale": "The sentence uses present tense consistently with 'am' and 'study' to describe current actions or states.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I do a project with my team. We plan event for, um, university. It was, uh... festival for... culture exchange.",
+        "annotation_token": [
+            "do",
+            "plan",
+            "was"
+        ],
+        "rationale": "The sentence shifts from present tense 'do' and 'plan' to past tense 'was', indicating a lack of tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I am, um, leader. I plan and talk with, um, sponsor and coordinate with team.",
+        "annotation_token": [
+            "am",
+            "plan",
+            "talk",
+            "coordinate"
+        ],
+        "rationale": "The sentence uses present tense consistently with 'am', 'plan', 'talk', and 'coordinate' to describe current actions or states.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, sometime we have, um, problem with schedule. I talk with team and find solution. It is about, um, communication... very important.",
+        "annotation_token": [
+            "have",
+            "talk",
+            "find",
+            "is"
+        ],
+        "rationale": "The sentence uses present tense consistently with 'have', 'talk', 'find', and 'is' to describe current actions or states.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I feel good! I like to learn new culture and, um, improve my English. It is, uh, exciting for me.",
+        "annotation_token": [
+            "feel",
+            "like",
+            "improve",
+            "is"
+        ],
+        "rationale": "The sentence uses present tense consistently with 'feel', 'like', 'improve', and 'is' to describe current actions or states.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I am, um, hardworking and, uh, good at... detail. I also, uh, have good skill in teamwork.",
+        "annotation_token": [
+            "am",
+            "have"
+        ],
+        "rationale": "The sentence uses present tense consistently with 'am' and 'have' to describe current states.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I want to, um, improve my English and, uh, learn more about, um, international business strategy.",
+        "annotation_token": [
+            "want",
+            "improve",
+            "learn"
+        ],
+        "rationale": "The sentence uses present tense consistently with 'want', 'improve', and 'learn' to describe current desires or actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I feel, um, okay. I like to try new thing and, uh, learn from experience.",
+        "annotation_token": [
+            "feel",
+            "like",
+            "try",
+            "learn"
+        ],
+        "rationale": "The sentence uses present tense consistently with 'feel', 'like', 'try', and 'learn' to describe current actions or states.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you very much. I look forward to hearing from you.",
+        "annotation_token": [
+            "look"
+        ],
+        "rationale": "The sentence uses present tense 'look' to describe a current action or state.",
+        "grammar_correctness": "correct"
+    }
+]

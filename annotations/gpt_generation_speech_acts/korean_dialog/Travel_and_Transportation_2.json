@@ -1,0 +1,274 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello! I am good, thank you. And you?",
+        "annotation_token": [
+            "Hello",
+            "thank you",
+            "And you"
+        ],
+        "rationale": "The tokens 'Hello', 'thank you', and 'And you' are speech acts as they perform the function of greeting, expressing gratitude, and inquiring about the other person's well-being, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think so.",
+        "annotation_token": [
+            "Yes",
+            "I think so"
+        ],
+        "rationale": "The tokens 'Yes' and 'I think so' are speech acts as they perform the function of agreement and expressing an opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, maybe we can go to Jeju Island?",
+        "annotation_token": [
+            "Uh",
+            "maybe",
+            "we can go to Jeju Island"
+        ],
+        "rationale": "The tokens 'Uh', 'maybe', and 'we can go to Jeju Island' are speech acts as they perform the function of suggesting a potential plan.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I hear it's very beautiful.",
+        "annotation_token": [
+            "I hear",
+            "it's very beautiful"
+        ],
+        "rationale": "The tokens 'I hear' and 'it's very beautiful' are speech acts as they perform the function of sharing information and expressing an opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I want to see the, uh, mountain? Hallasan? And maybe beach, too.",
+        "annotation_token": [
+            "Um",
+            "I want to see",
+            "mountain",
+            "Hallasan",
+            "And maybe beach, too"
+        ],
+        "rationale": "The tokens 'Um', 'I want to see', 'mountain', 'Hallasan', and 'And maybe beach, too' are speech acts as they perform the function of expressing a desire and specifying places of interest.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! I want to try, uh, black pork. It's special there, right?",
+        "annotation_token": [
+            "Yes, yes",
+            "I want to try",
+            "black pork",
+            "It's special there, right"
+        ],
+        "rationale": "The tokens 'Yes, yes', 'I want to try', 'black pork', and 'It's special there, right' are speech acts as they perform the function of agreement, expressing a desire, specifying a food item, and seeking confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, maybe guesthouse? It is more, um, cozy? And we can meet other people.",
+        "annotation_token": [
+            "Hmm",
+            "maybe guesthouse",
+            "It is more cozy",
+            "And we can meet other people"
+        ],
+        "rationale": "The tokens 'Hmm', 'maybe guesthouse', 'It is more cozy', and 'And we can meet other people' are speech acts as they perform the function of considering an option, expressing a preference, and suggesting a benefit.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe in spring? The weather, uh, not too hot, not too cold.",
+        "annotation_token": [
+            "Maybe in spring",
+            "The weather",
+            "not too hot, not too cold"
+        ],
+        "rationale": "The tokens 'Maybe in spring', 'The weather', and 'not too hot, not too cold' are speech acts as they perform the function of suggesting a time and describing the weather conditions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think one week is good. We can see many things, not rush.",
+        "annotation_token": [
+            "I think",
+            "one week is good",
+            "We can see many things",
+            "not rush"
+        ],
+        "rationale": "The tokens 'I think', 'one week is good', 'We can see many things', and 'not rush' are speech acts as they perform the function of expressing an opinion, suggesting a duration, and describing the benefits of the plan.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, maybe, uh, six people? Enough for fun, not too many.",
+        "annotation_token": [
+            "Yes",
+            "maybe",
+            "six people",
+            "Enough for fun",
+            "not too many"
+        ],
+        "rationale": "The tokens 'Yes', 'maybe', 'six people', 'Enough for fun', and 'not too many' are speech acts as they perform the function of agreement, suggesting a number, and describing the benefits of the group size.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Great! I can help with, um, booking? Maybe the flight and our stay.",
+        "annotation_token": [
+            "Great",
+            "I can help with",
+            "booking",
+            "Maybe the flight and our stay"
+        ],
+        "rationale": "The tokens 'Great', 'I can help with', 'booking', and 'Maybe the flight and our stay' are speech acts as they perform the function of expressing enthusiasm, offering assistance, and specifying tasks.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, no problem! I will do my best. Thank you for planning with me.",
+        "annotation_token": [
+            "Sure",
+            "no problem",
+            "I will do my best",
+            "Thank you for planning with me"
+        ],
+        "rationale": "The tokens 'Sure', 'no problem', 'I will do my best', and 'Thank you for planning with me' are speech acts as they perform the function of agreement, reassurance, expressing commitment, and gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello! I am good, thank you. And you?",
+        "annotation_token": [
+            "Hello",
+            "thank you",
+            "And you"
+        ],
+        "rationale": "The tokens 'Hello', 'thank you', and 'And you' are speech acts as they perform the function of greeting, expressing gratitude, and inquiring about the other person's well-being, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think so.",
+        "annotation_token": [
+            "Yes",
+            "I think so"
+        ],
+        "rationale": "The tokens 'Yes' and 'I think so' are speech acts as they perform the function of agreement and expressing an opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, maybe we can go to Jeju Island?",
+        "annotation_token": [
+            "Uh",
+            "maybe",
+            "we can go to Jeju Island"
+        ],
+        "rationale": "The tokens 'Uh', 'maybe', and 'we can go to Jeju Island' are speech acts as they perform the function of suggesting a potential plan.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I hear it's very beautiful.",
+        "annotation_token": [
+            "I hear",
+            "it's very beautiful"
+        ],
+        "rationale": "The tokens 'I hear' and 'it's very beautiful' are speech acts as they perform the function of sharing information and expressing an opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I want to see the, uh, mountain? Hallasan? And maybe beach, too.",
+        "annotation_token": [
+            "Um",
+            "I want to see",
+            "mountain",
+            "Hallasan",
+            "And maybe beach"
+        ],
+        "rationale": "The tokens 'Um', 'I want to see', 'mountain', 'Hallasan', and 'And maybe beach' are speech acts as they perform the function of expressing a desire and specifying interests.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! I want to try, uh, black pork. It's special there, right?",
+        "annotation_token": [
+            "Yes, yes",
+            "I want to try",
+            "black pork",
+            "It's special there, right"
+        ],
+        "rationale": "The tokens 'Yes, yes', 'I want to try', 'black pork', and 'It's special there, right' are speech acts as they perform the function of agreement, expressing a desire, and seeking confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, maybe guesthouse? It is more, um, cozy? And we can meet other people.",
+        "annotation_token": [
+            "Hmm",
+            "maybe guesthouse",
+            "It is more cozy",
+            "And we can meet other people"
+        ],
+        "rationale": "The tokens 'Hmm', 'maybe guesthouse', 'It is more cozy', and 'And we can meet other people' are speech acts as they perform the function of suggesting accommodation and providing reasons.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe in spring? The weather, uh, not too hot, not too cold.",
+        "annotation_token": [
+            "Maybe in spring",
+            "The weather not too hot, not too cold"
+        ],
+        "rationale": "The tokens 'Maybe in spring' and 'The weather not too hot, not too cold' are speech acts as they perform the function of suggesting a time and providing a reason.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think one week is good. We can see many things, not rush.",
+        "annotation_token": [
+            "I think one week is good",
+            "We can see many things, not rush"
+        ],
+        "rationale": "The tokens 'I think one week is good' and 'We can see many things, not rush' are speech acts as they perform the function of expressing an opinion and providing a reason.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, maybe, uh, six people? Enough for fun, not too many.",
+        "annotation_token": [
+            "Yes",
+            "maybe",
+            "six people",
+            "Enough for fun, not too many"
+        ],
+        "rationale": "The tokens 'Yes', 'maybe', 'six people', and 'Enough for fun, not too many' are speech acts as they perform the function of agreement, suggesting a number, and providing a reason.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Great! I can help with, um, booking? Maybe the flight and our stay.",
+        "annotation_token": [
+            "Great",
+            "I can help with booking",
+            "Maybe the flight and our stay"
+        ],
+        "rationale": "The tokens 'Great', 'I can help with booking', and 'Maybe the flight and our stay' are speech acts as they perform the function of expressing enthusiasm, offering help, and specifying tasks.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, no problem! I will do my best. Thank you for planning with me.",
+        "annotation_token": [
+            "Sure, no problem",
+            "I will do my best",
+            "Thank you for planning with me"
+        ],
+        "rationale": "The tokens 'Sure, no problem', 'I will do my best', and 'Thank you for planning with me' are speech acts as they perform the function of agreeing, promising, and expressing gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

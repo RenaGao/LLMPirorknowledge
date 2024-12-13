@@ -1,0 +1,110 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, yes, my favorite meal is nasi lemak.",
+        "annotation_token": [
+            "meal is"
+        ],
+        "rationale": "The subject 'meal' is singular and the verb 'is' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is, um, rice with coconut... coconut, uh, flavor.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' is singular and the verb 'is' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, very creamy and... um, rich taste.",
+        "annotation_token": [
+            "taste"
+        ],
+        "rationale": "The sentence lacks a verb to agree with the subject 'taste'.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Next, I prepare sambal.",
+        "annotation_token": [
+            "I prepare"
+        ],
+        "rationale": "The subject 'I' is singular and the verb 'prepare' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It's... uh, spicy chili sauce.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' is singular and the verb 'is' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I add fried anchovies, peanuts, and boiled egg.",
+        "annotation_token": [
+            "I add"
+        ],
+        "rationale": "The subject 'I' is singular and the verb 'add' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Maybe one hour? Depends how fast I cook.",
+        "annotation_token": [
+            "Depends"
+        ],
+        "rationale": "The sentence lacks a subject for the verb 'Depends'.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is special, you know?",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' is singular and the verb 'is' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I can show you how to cook sambal.",
+        "annotation_token": [
+            "I can show"
+        ],
+        "rationale": "The subject 'I' is singular and the verb 'can show' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It's... um, fun when cooking together.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' is singular and the verb 'is' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you! I hope you will like it.",
+        "annotation_token": [
+            "I hope"
+        ],
+        "rationale": "The subject 'I' is singular and the verb 'hope' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is very... um, how to say... meaningful to share this food with you.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' is singular and the verb 'is' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    }
+]

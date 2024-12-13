@@ -1,0 +1,328 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes, I see it now. Um, I am very sorry for this mistake.",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "I see it now",
+            "Um",
+            "I am very sorry for this mistake"
+        ],
+        "rationale": "The sentence contains expressions of realization ('Oh, yes, I see it now') and apology ('I am very sorry for this mistake'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I was, um, in a hurry because of... how to say... many tasks at the same time. Multitasking?",
+        "annotation_token": [
+            "I was",
+            "um",
+            "in a hurry",
+            "how to say",
+            "Multitasking"
+        ],
+        "rationale": "The sentence includes expressions of explanation ('I was in a hurry'), hesitation ('um', 'how to say'), and a question ('Multitasking?'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will, uh, check slides again and put them in correct order.",
+        "annotation_token": [
+            "I will",
+            "uh",
+            "check slides again",
+            "put them in correct order"
+        ],
+        "rationale": "The sentence contains a promise or commitment ('I will check slides again and put them in correct order'), which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. That will be very helpful.",
+        "annotation_token": [
+            "Yes",
+            "please",
+            "That will be very helpful"
+        ],
+        "rationale": "The sentence includes an agreement ('Yes, please') and an expression of appreciation ('That will be very helpful'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Can you check them after I finish?",
+        "annotation_token": [
+            "Can you check them after I finish"
+        ],
+        "rationale": "The sentence is a request for action ('Can you check them after I finish?'), which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I think I have all data now. If I need, I will ask you, okay?",
+        "annotation_token": [
+            "Um",
+            "I think I have all data now",
+            "If I need",
+            "I will ask you",
+            "okay"
+        ],
+        "rationale": "The sentence includes expressions of uncertainty ('Um, I think'), assurance ('I have all data now'), and a conditional promise ('If I need, I will ask you, okay?'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think, um, by 5 PM today. Is that okay for you?",
+        "annotation_token": [
+            "I think",
+            "um",
+            "by 5 PM today",
+            "Is that okay for you"
+        ],
+        "rationale": "The sentence contains an expression of planning ('I think, um, by 5 PM today') and a request for confirmation ('Is that okay for you?'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I believe so. I will make sure to, uh, focus and not rush this time.",
+        "annotation_token": [
+            "I believe so",
+            "I will make sure to",
+            "uh",
+            "focus and not rush this time"
+        ],
+        "rationale": "The sentence includes an expression of belief ('I believe so') and a promise ('I will make sure to focus and not rush this time'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will keep that in mind. Thank you for your support.",
+        "annotation_token": [
+            "Yes",
+            "I will keep that in mind",
+            "Thank you for your support"
+        ],
+        "rationale": "The sentence contains an agreement ('Yes, I will keep that in mind') and an expression of gratitude ('Thank you for your support'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, I think this is all. I will let you know if I find something else.",
+        "annotation_token": [
+            "No",
+            "I think this is all",
+            "I will let you know if I find something else"
+        ],
+        "rationale": "The sentence includes a negation ('No'), an expression of completion ('I think this is all'), and a conditional promise ('I will let you know if I find something else'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, you are right. I will make sure to, um, double-check next time.",
+        "annotation_token": [
+            "Yes",
+            "you are right",
+            "I will make sure to",
+            "um",
+            "double-check next time"
+        ],
+        "rationale": "The sentence contains an agreement ('Yes, you are right') and a promise ('I will make sure to double-check next time'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes, I see it now. Um, I am very sorry for this mistake.",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "I",
+            "see",
+            "it",
+            "now",
+            "Um",
+            "I",
+            "am",
+            "very",
+            "sorry",
+            "for",
+            "this",
+            "mistake"
+        ],
+        "rationale": "The sentence contains an acknowledgment ('Oh, yes, I see it now') and an apology ('I am very sorry for this mistake'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will, uh, check slides again and put them in correct order.",
+        "annotation_token": [
+            "I",
+            "will",
+            "uh",
+            "check",
+            "slides",
+            "again",
+            "and",
+            "put",
+            "them",
+            "in",
+            "correct",
+            "order"
+        ],
+        "rationale": "The sentence contains a promise or commitment to perform a future action, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. That will be very helpful.",
+        "annotation_token": [
+            "Yes",
+            "please",
+            "That",
+            "will",
+            "be",
+            "very",
+            "helpful"
+        ],
+        "rationale": "The sentence contains an acceptance ('Yes, please') and an expression of gratitude or appreciation ('That will be very helpful'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Can you check them after I finish?",
+        "annotation_token": [
+            "Can",
+            "you",
+            "check",
+            "them",
+            "after",
+            "I",
+            "finish"
+        ],
+        "rationale": "The sentence is a request for action, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "If I need, I will ask you, okay?",
+        "annotation_token": [
+            "If",
+            "I",
+            "need",
+            "I",
+            "will",
+            "ask",
+            "you",
+            "okay"
+        ],
+        "rationale": "The sentence contains a conditional promise ('I will ask you') and a request for confirmation ('okay?'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think, um, by 5 PM today. Is that okay for you?",
+        "annotation_token": [
+            "I",
+            "think",
+            "um",
+            "by",
+            "5",
+            "PM",
+            "today",
+            "Is",
+            "that",
+            "okay",
+            "for",
+            "you"
+        ],
+        "rationale": "The sentence contains a proposal ('by 5 PM today') and a request for agreement ('Is that okay for you?'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I believe so. I will make sure to, uh, focus and not rush this time.",
+        "annotation_token": [
+            "I",
+            "believe",
+            "so",
+            "I",
+            "will",
+            "make",
+            "sure",
+            "to",
+            "uh",
+            "focus",
+            "and",
+            "not",
+            "rush",
+            "this",
+            "time"
+        ],
+        "rationale": "The sentence contains an expression of belief ('I believe so') and a promise ('I will make sure to focus and not rush this time'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will keep that in mind. Thank you for your support.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "will",
+            "keep",
+            "that",
+            "in",
+            "mind",
+            "Thank",
+            "you",
+            "for",
+            "your",
+            "support"
+        ],
+        "rationale": "The sentence contains an acknowledgment ('Yes, I will keep that in mind') and an expression of gratitude ('Thank you for your support'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, I think this is all. I will let you know if I find something else.",
+        "annotation_token": [
+            "No",
+            "I",
+            "think",
+            "this",
+            "is",
+            "all",
+            "I",
+            "will",
+            "let",
+            "you",
+            "know",
+            "if",
+            "I",
+            "find",
+            "something",
+            "else"
+        ],
+        "rationale": "The sentence contains a refusal or conclusion ('No, I think this is all') and a promise ('I will let you know if I find something else'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, you are right. I will make sure to, um, double-check next time.",
+        "annotation_token": [
+            "Yes",
+            "you",
+            "are",
+            "right",
+            "I",
+            "will",
+            "make",
+            "sure",
+            "to",
+            "um",
+            "double-check",
+            "next",
+            "time"
+        ],
+        "rationale": "The sentence contains an acknowledgment ('Yes, you are right') and a promise ('I will make sure to double-check next time'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    }
+]

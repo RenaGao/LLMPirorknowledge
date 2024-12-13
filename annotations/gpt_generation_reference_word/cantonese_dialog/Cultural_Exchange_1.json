@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, in restaurant, we maybe share more dishes. Here, sometimes people have own plate.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and their group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, exactly! We put many dish in middle and everyone take, um, little by little.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the speaker and their group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hmm, yes. In Cantonese culture, we don’t, um, stick chopsticks in rice bowl. It’s... not polite.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the people who follow Cantonese culture.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, yes, that is why. Also, we don’t, um, pass food with chopsticks. We use serving spoon.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and their group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, when going someone home, it is good to bring gift. Maybe fruit or... um, what is word... dessert?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the action of bringing a gift.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "No, we wait for elder to start first. Respect for them, you know?",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and their group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, not always. Maybe we use tissue more. Napkin is, uh, more Western style?",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and their group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We put chopstick on holder or beside bowl. And maybe say something like... um, thank you for meal.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the speaker and their group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, we don’t turn fish over. It mean bad luck for fisherman, like boat will... um, flip.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and their group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "You’re welcome! It was nice to talk about this. Let’s eat together soon, okay?",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the conversation they had.",
+        "grammar_correctness": true
+    }
+]

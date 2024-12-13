@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, I watch English movies.",
+        "annotation_token": [
+            "watch"
+        ],
+        "rationale": "The verb 'watch' is in the present tense, which agrees with the present context of the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, it's, uh, uh, mostly is develop my speaking.",
+        "annotation_token": [
+            "is develop"
+        ],
+        "rationale": "The phrase 'is develop' is incorrect because 'is' should be followed by a gerund form 'developing' to maintain tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We, uh, have big dinner with family.",
+        "annotation_token": [
+            "have"
+        ],
+        "rationale": "The verb 'have' is in the present tense, which agrees with the present context of the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I make dumplings and sweet rice balls.",
+        "annotation_token": [
+            "make"
+        ],
+        "rationale": "The verb 'make' is in the present tense, which agrees with the present context of the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I hope to visit next year.",
+        "annotation_token": [
+            "hope"
+        ],
+        "rationale": "The verb 'hope' is in the present tense, which agrees with the present context of the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We, um, use video call.",
+        "annotation_token": [
+            "use"
+        ],
+        "rationale": "The verb 'use' is in the present tense, which agrees with the present context of the sentence.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I like to go hiking. Many mountains in Hong Kong, very pretty.",
+        "annotation_token": [
+            "Many"
+        ],
+        "rationale": "The word 'Many' is a quantifier used to indicate a large number of mountains.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, when I have time. Sometimes, uh, weekend.",
+        "annotation_token": [
+            "Sometimes"
+        ],
+        "rationale": "The word 'Sometimes' is a quantifier indicating an indefinite frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I like to go hiking. Many mountains in Hong Kong, very pretty.",
+        "annotation_token": [
+            "Many"
+        ],
+        "rationale": "The word 'Many' is a quantifier used to indicate a large number of mountains.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, when I have time. Sometimes, uh, weekend.",
+        "annotation_token": [
+            "Sometimes"
+        ],
+        "rationale": "The word 'Sometimes' is a quantifier indicating an indefinite frequency.",
+        "grammar_correctness": true
+    }
+]

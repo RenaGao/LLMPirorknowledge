@@ -1,0 +1,52 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "My brother want to play, um, football.",
+        "annotation_token": [
+            "brother",
+            "want"
+        ],
+        "rationale": "The subject 'My brother' is singular, so the verb should be 'wants' to agree with the singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "My sister like... uh, flying kite.",
+        "annotation_token": [
+            "sister",
+            "like"
+        ],
+        "rationale": "The subject 'My sister' is singular, so the verb should be 'likes' to agree with the singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We take car.",
+        "annotation_token": [
+            "We",
+            "take"
+        ],
+        "rationale": "The subject 'We' is plural, and the verb 'take' correctly agrees with the plural subject.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "My father, he drive us.",
+        "annotation_token": [
+            "father",
+            "drive"
+        ],
+        "rationale": "The subject 'My father' is singular, so the verb should be 'drives' to agree with the singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I hope weather is good too.",
+        "annotation_token": [
+            "I",
+            "hope"
+        ],
+        "rationale": "The subject 'I' is singular, and the verb 'hope' correctly agrees with the singular subject.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I like speaking English.",
+        "annotation_token": "speaking English",
+        "rationale": "The noun 'English' and the verb 'speaking' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Uh, in Japan---I just speak English in my English class.",
+        "annotation_token": "speak English",
+        "rationale": "The noun 'English' and the verb 'speak' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

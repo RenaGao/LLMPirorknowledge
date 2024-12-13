@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Uh, yes, of course. Um, I want to say sorry. I make mistake in the report.",
+        "annotation_token": "make mistake",
+        "rationale": "The noun 'mistake' and the verb 'make' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I, uh, I will check data again. Then I correct and send new report.",
+        "annotation_token": "check data",
+        "rationale": "The noun 'data' and the verb 'check' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I, uh, I will check data again. Then I correct and send new report.",
+        "annotation_token": "send report",
+        "rationale": "The noun 'report' and the verb 'send' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

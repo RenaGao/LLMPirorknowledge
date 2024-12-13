@@ -1,0 +1,13 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I faced a few technical hurdles, but I collaborated with my team and we found solutions through brainstorming and testing different approaches.",
+        "annotation_token": [
+            "faced",
+            "collaborated",
+            "found"
+        ],
+        "rationale": "The verbs 'faced', 'collaborated', and 'found' are all in the past tense, showing agreement in tense usage throughout the sentence.",
+        "grammar_correctness": "correct"
+    }
+]

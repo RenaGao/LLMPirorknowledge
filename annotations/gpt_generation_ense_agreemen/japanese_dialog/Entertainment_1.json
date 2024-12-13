@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, 6:45 is good. I will be there. Looking forward!",
+        "annotation_token": [
+            "is",
+            "will be"
+        ],
+        "rationale": "The sentence contains present tense 'is' and future tense 'will be', which are correctly used to describe the current state and a future action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, yes, I hear it is very popular. Many songs, many rooms.",
+        "annotation_token": [
+            "hear",
+            "is"
+        ],
+        "rationale": "The sentence uses present tense 'hear' and 'is' to describe a current state and action, which is appropriate.",
+        "grammar_correctness": "correct"
+    }
+]

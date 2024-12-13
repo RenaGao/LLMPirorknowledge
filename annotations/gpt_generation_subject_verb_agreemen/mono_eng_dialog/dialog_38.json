@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Your company has a great reputation for innovation, and I'm really excited about the possibility of contributing to your projects.",
+        "annotation_token": [
+            "company has"
+        ],
+        "rationale": "The subject 'company' is singular and the verb 'has' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We focused heavily on social media engagement, which increased our user base by 40% in just three months.",
+        "annotation_token": [
+            "We focused"
+        ],
+        "rationale": "The subject 'We' is plural and the verb 'focused' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It was rewarding to see our strategies pay off.",
+        "annotation_token": [
+            "It was"
+        ],
+        "rationale": "The subject 'It' is singular and the verb 'was' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I try to stay calm and assess what went wrong.",
+        "annotation_token": [
+            "I try"
+        ],
+        "rationale": "The subject 'I' is singular and the verb 'try' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It's crucial to learn from mistakes and communicate openly with the team to find a solution.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' is singular and the verb 'is' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That sounds perfect for me.",
+        "annotation_token": [
+            "That sounds"
+        ],
+        "rationale": "The subject 'That' is singular and the verb 'sounds' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I thrive in team-oriented settings.",
+        "annotation_token": [
+            "I thrive"
+        ],
+        "rationale": "The subject 'I' is singular and the verb 'thrive' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    }
+]

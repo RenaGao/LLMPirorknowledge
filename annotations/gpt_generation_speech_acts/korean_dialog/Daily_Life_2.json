@@ -1,0 +1,24 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Of course! I like to share. We can cook together next weekend?",
+        "annotation_token": [
+            "Of course!",
+            "I like to share.",
+            "We can cook together next weekend?"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an expression of agreement ('Of course!'), a statement of preference ('I like to share.'), and a suggestion or invitation ('We can cook together next weekend?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Of course! I like to share. We can cook together next weekend?",
+        "annotation_token": [
+            "Of course!",
+            "I like to share.",
+            "We can cook together next weekend?"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an expression of agreement ('Of course!'), a statement of preference ('I like to share.'), and a suggestion or invitation ('We can cook together next weekend?').",
+        "grammar_correctness": "correct"
+    }
+]

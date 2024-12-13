@@ -1,0 +1,151 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! I'm doing well, thanks. A bit nervous, but excited to be here. How about you?",
+        "annotation_token": [
+            "Hi",
+            "thanks",
+            "How about you"
+        ],
+        "rationale": "The tokens 'Hi', 'thanks', and 'How about you' are speech acts as they perform functions such as greeting, expressing gratitude, and inquiring about the other person's state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, sounds great!",
+        "annotation_token": [
+            "Sure",
+            "sounds great"
+        ],
+        "rationale": "The tokens 'Sure' and 'sounds great' are speech acts as they express agreement and positive evaluation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely.",
+        "annotation_token": [
+            "Absolutely"
+        ],
+        "rationale": "The token 'Absolutely' is a speech act as it expresses strong agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Of course.",
+        "annotation_token": [
+            "Of course"
+        ],
+        "rationale": "The token 'Of course' is a speech act as it expresses agreement and willingness to comply.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I was wondering about opportunities for professional development here. How does the company support growth and learning?",
+        "annotation_token": [
+            "Yes",
+            "I was wondering",
+            "How does the company support growth and learning"
+        ],
+        "rationale": "The tokens 'Yes', 'I was wondering', and 'How does the company support growth and learning' are speech acts as they express agreement, curiosity, and a request for information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds fantastic.",
+        "annotation_token": [
+            "That sounds fantastic"
+        ],
+        "rationale": "The token 'That sounds fantastic' is a speech act as it expresses positive evaluation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much for the opportunity. I look forward to hearing from you.",
+        "annotation_token": [
+            "Thank you so much",
+            "I look forward to hearing from you"
+        ],
+        "rationale": "The tokens 'Thank you so much' and 'I look forward to hearing from you' are speech acts as they express gratitude and anticipation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! I'm doing well, thanks. A bit nervous, but excited to be here. How about you?",
+        "annotation_token": [
+            "Hi",
+            "I'm doing well",
+            "thanks",
+            "A bit nervous",
+            "excited to be here",
+            "How about you"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hi'), a self-assessment ('I'm doing well'), an expression of gratitude ('thanks'), an expression of emotion ('A bit nervous', 'excited to be here'), and a question ('How about you').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, sounds great!",
+        "annotation_token": [
+            "Sure",
+            "sounds great"
+        ],
+        "rationale": "The sentence contains an agreement ('Sure') and an expression of approval ('sounds great').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely.",
+        "annotation_token": [
+            "Absolutely"
+        ],
+        "rationale": "The sentence contains an affirmation ('Absolutely').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Of course.",
+        "annotation_token": [
+            "Of course"
+        ],
+        "rationale": "The sentence contains an affirmation ('Of course').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I believe my creative mindset and data-driven approach can help develop engaging campaigns.",
+        "annotation_token": [
+            "I believe",
+            "can help develop engaging campaigns"
+        ],
+        "rationale": "The sentence contains an expression of belief ('I believe') and an assertion of capability ('can help develop engaging campaigns').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I was wondering about opportunities for professional development here.",
+        "annotation_token": [
+            "Yes",
+            "I was wondering about opportunities for professional development here"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes') and an inquiry ('I was wondering about opportunities for professional development here').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds fantastic.",
+        "annotation_token": [
+            "That sounds fantastic"
+        ],
+        "rationale": "The sentence contains an expression of approval ('That sounds fantastic').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much for the opportunity.",
+        "annotation_token": [
+            "Thank you so much for the opportunity"
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you so much for the opportunity').",
+        "grammar_correctness": "correct"
+    }
+]

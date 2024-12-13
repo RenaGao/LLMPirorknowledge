@@ -1,0 +1,315 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes, that sound fun! Um, where you think we should go?",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "Um"
+        ],
+        "rationale": "The tokens 'Oh' and 'yes' are used as interjections to express agreement or excitement, and 'Um' is a filler word indicating hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Langkawi is nice! I hear they have nice beach... beaches, right?",
+        "annotation_token": [
+            "right"
+        ],
+        "rationale": "The token 'right' is used as a tag question to seek confirmation from the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Activities? Like, um... what we can do there?",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is a filler word indicating hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I like snorkeling! But, um, is it expensive?",
+        "annotation_token": [
+            "Ah",
+            "um"
+        ],
+        "rationale": "The token 'Ah' is an interjection expressing realization or interest, and 'um' is a filler word indicating hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe... um, five or six. I can ask our friends.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is a filler word indicating hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Let me see... How about, um... next month? During school holiday maybe?",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is a filler word indicating hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think so. Everyone like holiday. I will, um... message them today.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is a filler word indicating hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think chalet can be good. More, um... how to say, private?",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is a filler word indicating hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, I will help look. Um, do we need to rent a car there?",
+        "annotation_token": [
+            "Um"
+        ],
+        "rationale": "The token 'Um' is a filler word indicating hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I will check car rental too. Anything else we need plan?",
+        "annotation_token": [
+            "Okay"
+        ],
+        "rationale": "The token 'Okay' is used as an interjection to express agreement or readiness.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will do that. Thank you for help, Sarah!",
+        "annotation_token": [
+            "Yes",
+            "Thank you"
+        ],
+        "rationale": "The token 'Yes' is used to express agreement, and 'Thank you' is a polite expression of gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes, that sound fun! Um, where you think we should go?",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "that",
+            "sound",
+            "fun",
+            "Um",
+            "where",
+            "you",
+            "think",
+            "we",
+            "should",
+            "go"
+        ],
+        "rationale": "The sentence contains a speech act of agreement ('Oh, yes, that sound fun!') and a question ('Um, where you think we should go?').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Langkawi is nice! I hear they have nice beach... beaches, right?",
+        "annotation_token": [
+            "Langkawi",
+            "is",
+            "nice",
+            "I",
+            "hear",
+            "they",
+            "have",
+            "nice",
+            "beach",
+            "beaches",
+            "right"
+        ],
+        "rationale": "The sentence contains a speech act of assertion ('Langkawi is nice!') and a question ('I hear they have nice beach... beaches, right?').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Activities? Like, um... what we can do there?",
+        "annotation_token": [
+            "Activities",
+            "Like",
+            "um",
+            "what",
+            "we",
+            "can",
+            "do",
+            "there"
+        ],
+        "rationale": "The sentence contains a speech act of inquiry ('Activities?') and a question ('Like, um... what we can do there?').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I like snorkeling! But, um, is it expensive?",
+        "annotation_token": [
+            "Ah",
+            "I",
+            "like",
+            "snorkeling",
+            "But",
+            "um",
+            "is",
+            "it",
+            "expensive"
+        ],
+        "rationale": "The sentence contains a speech act of preference ('Ah, I like snorkeling!') and a question ('But, um, is it expensive?').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe... um, five or six. I can ask our friends.",
+        "annotation_token": [
+            "Maybe",
+            "um",
+            "five",
+            "or",
+            "six",
+            "I",
+            "can",
+            "ask",
+            "our",
+            "friends"
+        ],
+        "rationale": "The sentence contains a speech act of suggestion ('Maybe... um, five or six.') and an offer ('I can ask our friends.').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Let me see... How about, um... next month? During school holiday maybe?",
+        "annotation_token": [
+            "Let",
+            "me",
+            "see",
+            "How",
+            "about",
+            "um",
+            "next",
+            "month",
+            "During",
+            "school",
+            "holiday",
+            "maybe"
+        ],
+        "rationale": "The sentence contains a speech act of consideration ('Let me see...') and a suggestion ('How about, um... next month? During school holiday maybe?').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think so. Everyone like holiday. I will, um... message them today.",
+        "annotation_token": [
+            "I",
+            "think",
+            "so",
+            "Everyone",
+            "like",
+            "holiday",
+            "I",
+            "will",
+            "um",
+            "message",
+            "them",
+            "today"
+        ],
+        "rationale": "The sentence contains a speech act of agreement ('I think so.') and a promise ('I will, um... message them today.').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think chalet can be good. More, um... how to say, private?",
+        "annotation_token": [
+            "I",
+            "think",
+            "chalet",
+            "can",
+            "be",
+            "good",
+            "More",
+            "um",
+            "how",
+            "to",
+            "say",
+            "private"
+        ],
+        "rationale": "The sentence contains a speech act of suggestion ('I think chalet can be good.') and a question ('More, um... how to say, private?').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, I will help look. Um, do we need to rent a car there?",
+        "annotation_token": [
+            "Sure",
+            "I",
+            "will",
+            "help",
+            "look",
+            "Um",
+            "do",
+            "we",
+            "need",
+            "to",
+            "rent",
+            "a",
+            "car",
+            "there"
+        ],
+        "rationale": "The sentence contains a speech act of offer ('Sure, I will help look.') and a question ('Um, do we need to rent a car there?').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I will check car rental too. Anything else we need plan?",
+        "annotation_token": [
+            "Okay",
+            "I",
+            "will",
+            "check",
+            "car",
+            "rental",
+            "too",
+            "Anything",
+            "else",
+            "we",
+            "need",
+            "plan"
+        ],
+        "rationale": "The sentence contains a speech act of promise ('Okay, I will check car rental too.') and a question ('Anything else we need plan?').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will do that. Thank you for help, Sarah!",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "will",
+            "do",
+            "that",
+            "Thank",
+            "you",
+            "for",
+            "help",
+            "Sarah"
+        ],
+        "rationale": "The sentence contains a speech act of agreement ('Yes, I will do that.') and gratitude ('Thank you for help, Sarah!').",
+        "grammar_correctness": "wrong"
+    }
+]

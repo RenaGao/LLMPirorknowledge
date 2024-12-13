@@ -1,0 +1,31 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I make. It is easy. But sometimes my mother help... helps me.",
+        "annotation_token": [
+            "my mother help",
+            "helps"
+        ],
+        "rationale": "The subject 'my mother' is singular, so the verb should be 'helps' to agree with the subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes! I listen to music. It makes me feel... uh, better.",
+        "annotation_token": [
+            "It makes"
+        ],
+        "rationale": "The subject 'It' is singular, and the verb 'makes' correctly agrees with the subject.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, after exercise, I take shower and get dressed. Then, I go to work.",
+        "annotation_token": [
+            "I take",
+            "I go"
+        ],
+        "rationale": "The subject 'I' is singular, and the verbs 'take' and 'go' correctly agree with the subject.",
+        "grammar_correctness": "correct"
+    }
+]

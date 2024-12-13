@@ -1,0 +1,93 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, yes, thank you. I, um, like to do... uh, running.",
+        "annotation_token": [
+            "I like"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'like' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I run in park, maybe three times week.",
+        "annotation_token": [
+            "I run"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'run' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I run, um, maybe... thirty minutes?",
+        "annotation_token": [
+            "I run"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'run' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Sometimes I am not sure, um, what is good to do.",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Okay, sounds good. I am, uh, excited to learn.",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, diet... um, I try to eat healthy, but sometimes I eat... um, fast food?",
+        "annotation_token": [
+            "I try",
+            "I eat"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'try' and 'eat' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I would like that.",
+        "annotation_token": [
+            "I would like"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the modal verb 'would' and the base form 'like'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think it's, um, hard to know what is best.",
+        "annotation_token": [
+            "I think"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'think' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Cooking is, um, not my strong... how to say... strong point?",
+        "annotation_token": [
+            "Cooking is"
+        ],
+        "rationale": "The subject 'Cooking' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Okay, I am ready.",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

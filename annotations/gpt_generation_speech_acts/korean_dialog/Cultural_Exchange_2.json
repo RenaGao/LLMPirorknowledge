@@ -1,0 +1,49 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, of course.",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "of course"
+        ],
+        "rationale": "The speaker is acknowledging and agreeing with something, which is a speech act of agreement or acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for, um, listening.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "for",
+            "listening"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is a speech act of thanking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, of course.",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "of",
+            "course"
+        ],
+        "rationale": "The sentence 'Ah, yes, of course.' is a speech act as it acknowledges understanding and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for, um, listening.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "for",
+            "listening"
+        ],
+        "rationale": "The sentence 'Thank you for, um, listening.' is a speech act as it expresses gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

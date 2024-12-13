@@ -1,0 +1,21 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, it is... I think... close? But I not sure where is.",
+        "annotation_token": [
+            "is",
+            "not sure"
+        ],
+        "rationale": "The sentence 'Yes, it is... I think... close? But I not sure where is.' contains tense agreement issues. The phrase 'I not sure' should be 'I am not sure' to maintain proper tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, no, I think... all okay. I try find now. Thank you again.",
+        "annotation_token": [
+            "I try find"
+        ],
+        "rationale": "The sentence 'Uh, no, I think... all okay. I try find now. Thank you again.' contains tense agreement issues. The phrase 'I try find' should be 'I will try to find' to maintain proper tense agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Good morning! Uh, my morning... um, it start early.",
+        "annotation_token": [
+            "it start"
+        ],
+        "rationale": "The subject 'it' does not agree with the verb 'start'. The correct form should be 'it starts'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I work at office. So, I need to drive there. It take, um, 30 minutes.",
+        "annotation_token": [
+            "It take"
+        ],
+        "rationale": "The subject 'It' does not agree with the verb 'take'. The correct form should be 'It takes'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I like listen to radio or, um, podcast. It help... um, practice English.",
+        "annotation_token": [
+            "It help"
+        ],
+        "rationale": "The subject 'It' does not agree with the verb 'help'. The correct form should be 'It helps'.",
+        "grammar_correctness": "wrong"
+    }
+]

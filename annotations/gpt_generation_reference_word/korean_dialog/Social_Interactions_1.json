@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, maybe... at cafe? Minji like coffee very much.",
+        "annotation_token": "Minji",
+        "rationale": "The word 'Minji' is a reference to a specific person being discussed in the dialogue.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I think small is better. Minji like small group, yes?",
+        "annotation_token": "Minji",
+        "rationale": "The word 'Minji' is a reference to a specific person being discussed in the dialogue.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We can order cake from Minji's favorite bakery. Um, also coffee, since it's cafe.",
+        "annotation_token": "Minji's",
+        "rationale": "The word 'Minji's' is a possessive reference to a specific person being discussed in the dialogue.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Minji talk about new book she want. We can buy that?",
+        "annotation_token": "Minji",
+        "rationale": "The word 'Minji' is a reference to a specific person being discussed in the dialogue.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, maybe music? Minji like soft music, I think.",
+        "annotation_token": "Minji",
+        "rationale": "The word 'Minji' is a reference to a specific person being discussed in the dialogue.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you! I hope Minji really like. Let's make her hap",
+        "annotation_token": "Minji",
+        "rationale": "The word 'Minji' is a reference to a specific person being discussed in the dialogue.",
+        "grammar_correctness": true
+    }
+]

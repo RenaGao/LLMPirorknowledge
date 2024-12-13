@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, hello. I, uh, need help to find something.",
+        "annotation_token": "need help",
+        "rationale": "The noun 'help' and the verb 'need' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I am looking for... um, thing to... uh, make shirt smooth.",
+        "annotation_token": "make shirt",
+        "rationale": "The noun 'shirt' and the verb 'make' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, I see. It is easy, I think. Thank you for show me.",
+        "annotation_token": "show me",
+        "rationale": "The noun 'me' is a pronoun, so this does not qualify as a noun & verb collocation.",
+        "grammar_correctness": false
+    }
+]

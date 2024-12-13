@@ -1,0 +1,11 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Allies were... Britain, France, US, and others?",
+        "annotation_token": [
+            "others"
+        ],
+        "rationale": "'Others' is a quantifier used to indicate an unspecified set of countries in addition to those named.",
+        "grammar_correctness": true
+    }
+]

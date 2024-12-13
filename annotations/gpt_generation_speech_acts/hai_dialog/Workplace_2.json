@@ -1,0 +1,182 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, thank you. Um, it is good. I feel a bit... um, how to say... confused?",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Hi' and 'thank you' are used as greeting and gratitude expressions, respectively. 'How to say' is a request for assistance in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I need to know about, um, the report we must do. Can you explain it?",
+        "annotation_token": [
+            "I need to know",
+            "Can you explain it"
+        ],
+        "rationale": "'I need to know' is a request for information, and 'Can you explain it' is a direct request for clarification.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. I not sure what to write first.",
+        "annotation_token": [
+            "Yes, please"
+        ],
+        "rationale": "'Yes, please' is an acceptance or agreement to a previous offer or suggestion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I try to write this. And after, what I do?",
+        "annotation_token": [
+            "Okay",
+            "what I do"
+        ],
+        "rationale": "'Okay' is an agreement or acknowledgment, and 'what I do' is a request for guidance on the next steps.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, one test is very good. I think it improve speed... um, fast?",
+        "annotation_token": [
+            "Yes",
+            "I think"
+        ],
+        "rationale": "'Yes' is an agreement or affirmation, and 'I think' is an expression of opinion or belief.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Numbers, okay. I will look for them. And if I have problem?",
+        "annotation_token": [
+            "okay",
+            "if I have problem"
+        ],
+        "rationale": "'Okay' is an acknowledgment, and 'if I have problem' is a conditional request for assistance.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Solve, yes. I will think about solution also.",
+        "annotation_token": [
+            "Solve",
+            "yes"
+        ],
+        "rationale": "'Solve' is a directive or suggestion, and 'yes' is an agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I feel better now. Thank you for help.",
+        "annotation_token": [
+            "Yes",
+            "Thank you"
+        ],
+        "rationale": "'Yes' is an affirmation, and 'Thank you' is an expression of gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I will try my best. See you later!",
+        "annotation_token": [
+            "Thank you",
+            "See you later"
+        ],
+        "rationale": "'Thank you' is an expression of gratitude, and 'See you later' is a farewell.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, thank you. Um, it is good. I feel a bit... um, how to say... confused?",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Hi' and 'thank you' are used as greeting and gratitude expressions, respectively. 'How to say' is a speech act indicating the speaker's uncertainty in expressing themselves.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I need to know about, um, the report we must do. Can you explain it?",
+        "annotation_token": [
+            "I need to know",
+            "Can you explain it"
+        ],
+        "rationale": "'I need to know' is a request for information, and 'Can you explain it' is a direct request for clarification.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. I not sure what to write first.",
+        "annotation_token": [
+            "Yes, please"
+        ],
+        "rationale": "'Yes, please' is a polite acceptance or agreement to a previous offer or suggestion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I try to write this. And after, what I do?",
+        "annotation_token": [
+            "Okay",
+            "what I do"
+        ],
+        "rationale": "'Okay' is an agreement or acknowledgment, and 'what I do' is a request for further instructions.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, one test is very good. I think it improve speed... um, fast?",
+        "annotation_token": [
+            "Yes",
+            "I think"
+        ],
+        "rationale": "'Yes' is an agreement, and 'I think' is an expression of opinion or belief.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Numbers, okay. I will look for them. And if I have problem?",
+        "annotation_token": [
+            "okay",
+            "if I have problem"
+        ],
+        "rationale": "'Okay' is an acknowledgment, and 'if I have problem' is a conditional request for assistance.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Solve, yes. I will think about solution also.",
+        "annotation_token": [
+            "Solve",
+            "yes"
+        ],
+        "rationale": "'Solve' is a directive or suggestion, and 'yes' is an agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I feel better now. Thank you for help.",
+        "annotation_token": [
+            "Yes",
+            "Thank you"
+        ],
+        "rationale": "'Yes' is an agreement or confirmation, and 'Thank you' is an expression of gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I will try my best. See you later!",
+        "annotation_token": [
+            "Thank you",
+            "See you later"
+        ],
+        "rationale": "'Thank you' is an expression of gratitude, and 'See you later' is a farewell.",
+        "grammar_correctness": "correct"
+    }
+]

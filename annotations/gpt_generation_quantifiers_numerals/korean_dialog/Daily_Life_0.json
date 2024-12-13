@@ -1,0 +1,66 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes. Every morning, I wake up at, um, seven o'clock.",
+        "annotation_token": [
+            "Every",
+            "seven"
+        ],
+        "rationale": "The word 'Every' is a quantifier indicating frequency, and 'seven' is a numeral indicating a specific time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, breakfast is important. I eat rice and soup. Maybe, sometimes, egg too.",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I pick clothes and get dressed. Then, I check bag for, uh, everything.",
+        "annotation_token": [
+            "everything"
+        ],
+        "rationale": "The word 'everything' is a quantifier indicating totality.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I take bus. It is... um, not far, but sometimes traffic.",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, breakfast is important. I eat rice and soup. Maybe, sometimes, egg too.",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, sometimes my mom cook. But I can... uh, make simple food.",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I take bus. It is... um, not far, but sometimes traffic.",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    }
+]

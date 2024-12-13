@@ -1,0 +1,21 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, cake is must. She like... um, chocolate, right?",
+        "annotation_token": [
+            "is",
+            "like"
+        ],
+        "rationale": "The sentence 'Yes, cake is must. She like... um, chocolate, right?' contains tense agreement errors. The verb 'is' should be 'is a' to correctly form the sentence 'Yes, cake is a must.' Additionally, 'like' should be 'likes' to agree with the third person singular subject 'She'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, she like... how to say... fashion? Maybe a scarf or something nice like that?",
+        "annotation_token": [
+            "like"
+        ],
+        "rationale": "The sentence 'Um, she like... how to say... fashion? Maybe a scarf or something nice like that?' contains a tense agreement error. The verb 'like' should be 'likes' to agree with the third person singular subject 'She'.",
+        "grammar_correctness": "wrong"
+    }
+]

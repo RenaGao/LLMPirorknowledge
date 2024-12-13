@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, yes, I go to... um... new city. It's called... Penang.",
+        "annotation_token": "go to new city",
+        "rationale": "The noun 'city' and the verb 'go' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I take many picture... um, with my phone.",
+        "annotation_token": "take picture",
+        "rationale": "The noun 'picture' and the verb 'take' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, yes! I eat... um, nasi kandar.",
+        "annotation_token": "eat nasi kandar",
+        "rationale": "The noun 'nasi kandar' and the verb 'eat' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I visit... um, Penang Hill.",
+        "annotation_token": "visit Penang Hill",
+        "rationale": "The noun 'Penang Hill' and the verb 'visit' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I take the... um, train.",
+        "annotation_token": "take train",
+        "rationale": "The noun 'train' and the verb 'take' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I go to... um, Kek Lok Si Temple.",
+        "annotation_token": "go to Kek Lok Si Temple",
+        "rationale": "The noun 'Kek Lok Si Temple' and the verb 'go' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

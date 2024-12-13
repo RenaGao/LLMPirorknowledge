@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Hi, thank you for taking my call.",
+        "annotation_token": "taking call",
+        "rationale": "The noun 'call' and the verb 'taking' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I recently purchased a laptop from your store, but I'm having trouble setting it up.",
+        "annotation_token": "purchased laptop",
+        "rationale": "The noun 'laptop' and the verb 'purchased' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Sure, it seems like the laptop isn’t connecting to my Wi-Fi network.",
+        "annotation_token": "connecting network",
+        "rationale": "The noun 'network' and the verb 'connecting' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I’ve tried a few things, but no luck so far.",
+        "annotation_token": "tried things",
+        "rationale": "The noun 'things' and the verb 'tried' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I can see it.",
+        "annotation_token": "see it",
+        "rationale": "The noun 'it' is a pronoun, so this does not qualify as a noun & verb collocation.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "But when I try to connect, it says the password is incorrect, although I’m sure it’s right.",
+        "annotation_token": "says password",
+        "rationale": "The noun 'password' and the verb 'says' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Alright, it’s back on, and I’m connected now!",
+        "annotation_token": "connected now",
+        "rationale": "The noun 'now' is not a noun in the context of a noun & verb collocation.",
+        "grammar_correctness": false
+    }
+]

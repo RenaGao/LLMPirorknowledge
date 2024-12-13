@@ -1,0 +1,86 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hello! I am, um, little nervous. But everyone nice.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I am ready. Please tell me.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, not yet. I see the system, but not use it yet.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, okay. Category... files. And move to folder, yes?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the system.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, yes please. Category is, uh, like topic? Or date?",
+        "annotation_token": "Category",
+        "rationale": "The word 'Category' is a reference word referring to the type of files.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I see. Guide... is it online?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the guide.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you. And, um, how many files to organize?",
+        "annotation_token": "files",
+        "rationale": "The word 'files' is a reference word referring to the items to be organized.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "200 files... okay, I will do my best.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you very much. It is helpful. Uh, who should I ask, if question?",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the information or help provided.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay, I understand. I feel better now.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I can start today. After lunch, maybe?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, thank you. I will work hard. See you tomorrow.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

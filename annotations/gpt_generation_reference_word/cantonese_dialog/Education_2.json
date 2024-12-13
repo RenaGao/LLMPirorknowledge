@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, hello teacher. I have question about the homework. It's, uh, a little confusing.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to 'the homework'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, uh, I think maybe about, um, smartphone use. Is it okay?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to 'smartphone use'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, I want to, uh, talk about both. Like, how it help but, uh, also problem.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to 'smartphone use'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I think so. But maybe take me long time to finish.",
+        "annotation_token": "so",
+        "rationale": "The word 'so' is used as a reference to the previous statement or idea.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, no, I think that is all. Thank you for help!",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is used as a reference to the previous discussion or questions.",
+        "grammar_correctness": true
+    }
+]

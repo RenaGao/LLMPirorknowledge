@@ -1,0 +1,74 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, hello. I buy, uh, a thing here last week. It not working well.",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier used to indicate a single, unspecified item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes. Here is receipt. And blender is in bag.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The word 'is' is used here as a singular verb form, but the sentence lacks a quantifier or article before 'receipt' and 'bag'.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, yes, I bring box. Is it okay?",
+        "annotation_token": [
+            "box"
+        ],
+        "rationale": "The sentence lacks a quantifier or article before 'box', which is necessary for grammatical correctness.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you. How long for refund?",
+        "annotation_token": [
+            "How long"
+        ],
+        "rationale": "'How long' is a quantifier phrase used to inquire about the duration of time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, hello. I buy, uh, a thing here last week. It not working well.",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier used to indicate a single, unspecified item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes. Here is receipt. And blender is in bag.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The word 'is' is used here as a singular verb form, but the sentence lacks a quantifier like 'a' or 'the' before 'receipt' and 'bag'.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, yes, I bring box. Is it okay?",
+        "annotation_token": [
+            "box"
+        ],
+        "rationale": "The word 'box' is a noun that typically requires a quantifier like 'a' or 'the' in standard English grammar.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you. How long for refund?",
+        "annotation_token": [
+            "How long"
+        ],
+        "rationale": "The phrase 'How long' is a quantifier used to inquire about the duration of time.",
+        "grammar_correctness": true
+    }
+]

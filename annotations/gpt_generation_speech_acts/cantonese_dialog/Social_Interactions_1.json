@@ -1,0 +1,606 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes, of course! I was thinking about that too. What, um, ideas you have?",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "of course",
+            "What",
+            "ideas",
+            "you",
+            "have"
+        ],
+        "rationale": "The sentence contains expressions of agreement ('Oh, yes, of course!') and a question ('What, um, ideas you have?'), which are both speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, good idea. But do you think she... um, how to say... find out too early?",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "good idea",
+            "do",
+            "you",
+            "think",
+            "find",
+            "out"
+        ],
+        "rationale": "The sentence includes an expression of agreement ('Ah, yes, good idea') and a question ('do you think she... find out too early?'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, I see. That is smart! I will tell the others to keep quiet. Yes, keep quiet.",
+        "annotation_token": [
+            "Oh",
+            "I",
+            "see",
+            "That",
+            "is",
+            "smart",
+            "I",
+            "will",
+            "tell",
+            "keep",
+            "quiet"
+        ],
+        "rationale": "The sentence contains an acknowledgment ('Oh, I see'), a compliment ('That is smart!'), and a promise ('I will tell the others to keep quiet'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! Maybe some... uh, balloons and... um, banners? You know, for happy birthday.",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "Maybe",
+            "balloons",
+            "banners",
+            "You",
+            "know"
+        ],
+        "rationale": "The sentence includes an agreement ('Yes, yes!'), a suggestion ('Maybe some... balloons and... banners?'), and a statement ('You know, for happy birthday'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, cake is must. She like... um, chocolate, right?",
+        "annotation_token": [
+            "Yes",
+            "cake",
+            "is",
+            "must",
+            "She",
+            "like",
+            "chocolate",
+            "right"
+        ],
+        "rationale": "The sentence contains an agreement ('Yes'), a statement ('cake is must'), and a question ('She like... chocolate, right?'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I can do that. I know a good bakery... um, near my house.",
+        "annotation_token": [
+            "I",
+            "can",
+            "do",
+            "that",
+            "I",
+            "know",
+            "a",
+            "good",
+            "bakery"
+        ],
+        "rationale": "The sentence includes an offer ('I can do that') and a statement ('I know a good bakery... near my house'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think so. I check again, just to be sure. Maybe ten people?",
+        "annotation_token": [
+            "I",
+            "think",
+            "so",
+            "I",
+            "check",
+            "again",
+            "Maybe",
+            "ten",
+            "people"
+        ],
+        "rationale": "The sentence contains an expression of belief ('I think so'), a promise ('I check again, just to be sure'), and a suggestion ('Maybe ten people?'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, she like... how to say... fashion? Maybe a scarf or something nice like that?",
+        "annotation_token": [
+            "she",
+            "like",
+            "fashion",
+            "Maybe",
+            "a",
+            "scarf",
+            "something",
+            "nice"
+        ],
+        "rationale": "The sentence includes a question ('she like... fashion?') and a suggestion ('Maybe a scarf or something nice like that?'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, good. I will ask everyone for, um, money share.",
+        "annotation_token": [
+            "Yes",
+            "good",
+            "I",
+            "will",
+            "ask",
+            "everyone",
+            "money",
+            "share"
+        ],
+        "rationale": "The sentence contains an agreement ('Yes, good') and a promise ('I will ask everyone for, um, money share'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I hope she will be... um, very happy and surprised!",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "I",
+            "hope",
+            "she",
+            "will",
+            "be",
+            "happy",
+            "surprised"
+        ],
+        "rationale": "The sentence includes an expression of gratitude ('Thank you!') and a wish ('I hope she will be... very happy and surprised!'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, Saturday. I will confirm all the details and tell you soon.",
+        "annotation_token": [
+            "Yes",
+            "Saturday",
+            "I",
+            "will",
+            "confirm",
+            "all",
+            "the",
+            "details",
+            "tell",
+            "you",
+            "soon"
+        ],
+        "rationale": "The sentence contains an agreement ('Yes, Saturday') and a promise ('I will confirm all the details and tell you soon'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, see you Saturday!",
+        "annotation_token": [
+            "Okay",
+            "see",
+            "you",
+            "Saturday"
+        ],
+        "rationale": "The sentence includes an agreement ('Okay') and a farewell ('see you Saturday!'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes, of course! I was thinking about that too. What, um, ideas you have?",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "of course",
+            "What",
+            "ideas",
+            "you",
+            "have"
+        ],
+        "rationale": "The sentence contains expressions of agreement ('Oh, yes, of course!') and a question ('What, um, ideas you have?'), which are both speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, good idea. But do you think she... um, how to say... find out too early?",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "good idea",
+            "do",
+            "you",
+            "think",
+            "find",
+            "out"
+        ],
+        "rationale": "The sentence includes an expression of agreement ('Ah, yes, good idea') and a question ('do you think she... find out too early?'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, I see. That is smart! I will tell the others to keep quiet. Yes, keep quiet.",
+        "annotation_token": [
+            "Oh",
+            "I",
+            "see",
+            "That",
+            "is",
+            "smart",
+            "I",
+            "will",
+            "tell",
+            "keep",
+            "quiet"
+        ],
+        "rationale": "The sentence contains an expression of understanding ('Oh, I see'), a compliment ('That is smart!'), and a promise ('I will tell the others to keep quiet'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! Maybe some... uh, balloons and... um, banners? You know, for happy birthday.",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "Maybe",
+            "balloons",
+            "banners",
+            "You",
+            "know"
+        ],
+        "rationale": "The sentence includes expressions of agreement ('Yes, yes!') and a suggestion ('Maybe some... balloons and... banners?'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, cake is must. She like... um, chocolate, right?",
+        "annotation_token": [
+            "Yes",
+            "cake",
+            "is",
+            "must",
+            "She",
+            "like",
+            "chocolate",
+            "right"
+        ],
+        "rationale": "The sentence contains an expression of agreement ('Yes') and a question ('She like... chocolate, right?'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I can do that. I know a good bakery... um, near my house.",
+        "annotation_token": [
+            "I",
+            "can",
+            "do",
+            "that",
+            "I",
+            "know",
+            "a",
+            "good",
+            "bakery"
+        ],
+        "rationale": "The sentence includes an offer ('I can do that') and a statement of knowledge ('I know a good bakery'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think so. I check again, just to be sure. Maybe ten people?",
+        "annotation_token": [
+            "I",
+            "think",
+            "so",
+            "I",
+            "check",
+            "again",
+            "Maybe",
+            "ten",
+            "people"
+        ],
+        "rationale": "The sentence contains an expression of belief ('I think so') and a question ('Maybe ten people?'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, she like... how to say... fashion? Maybe a scarf or something nice like that?",
+        "annotation_token": [
+            "she",
+            "like",
+            "fashion",
+            "Maybe",
+            "a",
+            "scarf"
+        ],
+        "rationale": "The sentence includes a question ('she like... fashion?') and a suggestion ('Maybe a scarf or something nice like that?'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, good. I will ask everyone for, um, money share.",
+        "annotation_token": [
+            "Yes",
+            "good",
+            "I",
+            "will",
+            "ask",
+            "everyone",
+            "money",
+            "share"
+        ],
+        "rationale": "The sentence contains an expression of agreement ('Yes, good') and a promise ('I will ask everyone for money share'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I hope she will be... um, very happy and surprised!",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "I",
+            "hope",
+            "she",
+            "will",
+            "be",
+            "happy",
+            "surprised"
+        ],
+        "rationale": "The sentence includes an expression of gratitude ('Thank you!') and a wish ('I hope she will be... very happy and surprised!'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, Saturday. I will confirm all the details and tell you soon.",
+        "annotation_token": [
+            "Yes",
+            "Saturday",
+            "I",
+            "will",
+            "confirm",
+            "all",
+            "the",
+            "details",
+            "tell",
+            "you",
+            "soon"
+        ],
+        "rationale": "The sentence contains an expression of agreement ('Yes, Saturday') and a promise ('I will confirm all the details and tell you soon'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, see you Saturday!",
+        "annotation_token": [
+            "Okay",
+            "see",
+            "you",
+            "Saturday"
+        ],
+        "rationale": "The sentence includes an expression of agreement ('Okay') and a farewell ('see you Saturday!'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes, of course! I was thinking about that too. What, um, ideas you have?",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "of course",
+            "What",
+            "ideas",
+            "you",
+            "have"
+        ],
+        "rationale": "The sentence contains expressions of agreement ('Oh, yes, of course!') and a question ('What, um, ideas you have?'), which are both speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, good idea. But do you think she... um, how to say... find out too early?",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "good idea",
+            "do",
+            "you",
+            "think",
+            "she",
+            "find",
+            "out"
+        ],
+        "rationale": "The sentence includes an expression of agreement ('Ah, yes, good idea') and a question ('do you think she... find out too early?'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, I see. That is smart! I will tell the others to keep quiet. Yes, keep quiet.",
+        "annotation_token": [
+            "Oh",
+            "I",
+            "see",
+            "That",
+            "is",
+            "smart",
+            "I",
+            "will",
+            "tell",
+            "the",
+            "others",
+            "to",
+            "keep",
+            "quiet",
+            "Yes",
+            "keep",
+            "quiet"
+        ],
+        "rationale": "The sentence contains an acknowledgment ('Oh, I see'), a compliment ('That is smart!'), a promise ('I will tell the others to keep quiet'), and a directive ('Yes, keep quiet'), all of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! Maybe some... uh, balloons and... um, banners? You know, for happy birthday.",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "Maybe",
+            "balloons",
+            "banners",
+            "You",
+            "know"
+        ],
+        "rationale": "The sentence includes an agreement ('Yes, yes!'), a suggestion ('Maybe some... uh, balloons and... um, banners?'), and an assertion ('You know, for happy birthday'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, cake is must. She like... um, chocolate, right?",
+        "annotation_token": [
+            "Yes",
+            "cake",
+            "is",
+            "must",
+            "She",
+            "like",
+            "chocolate",
+            "right"
+        ],
+        "rationale": "The sentence contains an agreement ('Yes'), a statement ('cake is must'), and a question ('She like... um, chocolate, right?'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I can do that. I know a good bakery... um, near my house.",
+        "annotation_token": [
+            "I",
+            "can",
+            "do",
+            "that",
+            "I",
+            "know",
+            "a",
+            "good",
+            "bakery",
+            "near",
+            "my",
+            "house"
+        ],
+        "rationale": "The sentence includes an offer ('I can do that') and a statement ('I know a good bakery... um, near my house'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think so. I check again, just to be sure. Maybe ten people?",
+        "annotation_token": [
+            "I",
+            "think",
+            "so",
+            "I",
+            "check",
+            "again",
+            "just",
+            "to",
+            "be",
+            "sure",
+            "Maybe",
+            "ten",
+            "people"
+        ],
+        "rationale": "The sentence contains an expression of belief ('I think so'), a promise ('I check again, just to be sure'), and a suggestion ('Maybe ten people?'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, she like... how to say... fashion? Maybe a scarf or something nice like that?",
+        "annotation_token": [
+            "she",
+            "like",
+            "fashion",
+            "Maybe",
+            "a",
+            "scarf",
+            "or",
+            "something",
+            "nice",
+            "like",
+            "that"
+        ],
+        "rationale": "The sentence includes a question ('Um, she like... how to say... fashion?') and a suggestion ('Maybe a scarf or something nice like that?'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, good. I will ask everyone for, um, money share.",
+        "annotation_token": [
+            "Yes",
+            "good",
+            "I",
+            "will",
+            "ask",
+            "everyone",
+            "for",
+            "money",
+            "share"
+        ],
+        "rationale": "The sentence contains an agreement ('Yes, good') and a promise ('I will ask everyone for, um, money share'), which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I hope she will be... um, very happy and surprised!",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "I",
+            "hope",
+            "she",
+            "will",
+            "be",
+            "very",
+            "happy",
+            "and",
+            "surprised"
+        ],
+        "rationale": "The sentence includes an expression of gratitude ('Thank you!') and a wish ('I hope she will be... um, very happy and surprised!'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, Saturday. I will confirm all the details and tell you soon.",
+        "annotation_token": [
+            "Yes",
+            "Saturday",
+            "I",
+            "will",
+            "confirm",
+            "all",
+            "the",
+            "details",
+            "and",
+            "tell",
+            "you",
+            "soon"
+        ],
+        "rationale": "The sentence contains an agreement ('Yes, Saturday') and a promise ('I will confirm all the details and tell you soon'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, see you Saturday!",
+        "annotation_token": [
+            "Okay",
+            "see",
+            "you",
+            "Saturday"
+        ],
+        "rationale": "The sentence includes an agreement ('Okay') and a farewell ('see you Saturday!'), which are speech acts.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Maybe... three times? I think it is... how to say... not too much?",
+        "annotation_token": "times",
+        "rationale": "The noun 'times' is plural, and it should agree with the context of the sentence. The speaker is referring to multiple instances, hence the use of 'times' is correct.",
+        "grammar_correctness": "correct"
+    }
+]

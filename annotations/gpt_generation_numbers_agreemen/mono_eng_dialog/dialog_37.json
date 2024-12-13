@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Well, your university's focus on research and innovation really appeals to me. I've read about the projects in renewable energy you're involved in, and I'd love to contribute to that field.",
+        "annotation_token": [
+            "projects",
+            "field"
+        ],
+        "rationale": "The sentence contains a mismatch in number agreement between 'projects' (plural) and 'field' (singular). In native English usage, the plural 'projects' would typically align with a plural noun like 'fields' if referring to multiple areas.",
+        "grammar_correctness": "wrong"
+    }
+]

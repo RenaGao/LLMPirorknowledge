@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, I see. So, if many people want, price is high?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, okay. It makes sense now. But, um, what about equilibrium? I hear this word many time.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of times. However, it should be 'many times' to be grammatically correct.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, like when new phone come out and everyone want it?",
+        "annotation_token": [
+            "everyone"
+        ],
+        "rationale": "The word 'everyone' is a quantifier used to indicate all people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, I see. So, if many people want, price is high?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, okay. It makes sense now. But, um, what about equilibrium? I hear this word many time.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of times. However, it should be 'many times' to be grammatically correct.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, like when new phone come out and everyone want it?",
+        "annotation_token": [
+            "everyone"
+        ],
+        "rationale": "The word 'everyone' is a quantifier used to indicate all people.",
+        "grammar_correctness": true
+    }
+]

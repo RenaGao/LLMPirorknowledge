@@ -1,0 +1,100 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, hello. I feel... um, not so well these days.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I can try. I have, um, headache. And I feel tired... very tired.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, when I sleep more, then I feel a bit better.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "But, uh, working make it more... uh, worse.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the speaker's condition.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I think... no fever.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "But sometimes... I cough a little.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, no medicine. Just, um, drink tea... ginger tea. My mom say it help.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the action of drinking ginger tea.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "No allergies... I think.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, not that I know.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, not very good. I eat little, not much hungry.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sleep... how to say... not deep?",
+        "annotation_token": "how to say",
+        "rationale": "The phrase 'how to say' is a reference to the speaker's uncertainty in expressing their thoughts.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, a bit stress. Work is busy... um, many things to do.",
+        "annotation_token": "things",
+        "rationale": "The word 'things' is a reference to unspecified tasks or activities.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, that is, um, helpful.",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is a reference to the information or advice given.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I hope to feel better soon.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

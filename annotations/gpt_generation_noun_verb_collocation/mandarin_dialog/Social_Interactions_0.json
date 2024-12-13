@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I like music here.",
+        "annotation_token": "like music",
+        "rationale": "The noun 'music' and the verb 'like' form a meaningful and complete action, expressing a preference.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I study... um, business.",
+        "annotation_token": "study business",
+        "rationale": "The noun 'business' and the verb 'study' form a meaningful and complete action, expressing an academic pursuit.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I like making dumplings.",
+        "annotation_token": "making dumplings",
+        "rationale": "The noun 'dumplings' and the verb 'making' form a meaningful and complete action, expressing an activity.",
+        "grammar_correctness": true
+    }
+]

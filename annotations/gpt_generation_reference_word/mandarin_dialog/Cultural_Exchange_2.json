@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, yes! Chinese New Year. It is very, um, important.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to 'Chinese New Year'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "And fish... for good luck, you know?",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the listener or audience.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, yes. We visit family, friends.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the speaker and their family or group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, yes. I remember, um, when I was little, I like dragon dance.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, no. I just watch. But I like it very much.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "But I like it very much.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to 'dragon dance'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, not same. But I try to cook same food and call family, you know, video call.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

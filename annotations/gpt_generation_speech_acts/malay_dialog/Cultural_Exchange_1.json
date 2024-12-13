@@ -1,0 +1,46 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! I am good, thank you. And you?",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "And you"
+        ],
+        "rationale": "The sentence contains speech acts: 'Hi' is a greeting, 'thank you' is an expression of gratitude, and 'And you?' is an inquiry about the other person's well-being.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You’re welcome! I hope you can try them soon. Let me know when you visit!",
+        "annotation_token": [
+            "You’re welcome",
+            "I hope",
+            "Let me know"
+        ],
+        "rationale": "The sentence contains speech acts: 'You’re welcome' is a response to gratitude, 'I hope' expresses a wish or desire, and 'Let me know' is a request for information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! I am good, thank you. And you?",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "And you"
+        ],
+        "rationale": "The sentence contains speech acts: 'Hi' is a greeting, 'thank you' is an expression of gratitude, and 'And you?' is an inquiry about the other person's well-being.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You’re welcome! I hope you can try them soon. Let me know when you visit!",
+        "annotation_token": [
+            "You’re welcome",
+            "I hope",
+            "Let me know"
+        ],
+        "rationale": "The sentence contains speech acts: 'You’re welcome' is a response to gratitude, 'I hope' expresses a wish or desire, and 'Let me know' is a request for information.",
+        "grammar_correctness": "correct"
+    }
+]

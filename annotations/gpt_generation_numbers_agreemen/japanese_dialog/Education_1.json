@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I hear this word many time.",
+        "annotation_token": "time",
+        "rationale": "The noun 'time' should be in its plural form 'times' to agree with the quantifier 'many'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Ah, like when new phone come out and everyone want it?",
+        "annotation_token": "phone",
+        "rationale": "The noun 'phone' should be in its plural form 'phones' to agree with the context of 'everyone want it', implying multiple phones.",
+        "grammar_correctness": "wrong"
+    }
+]

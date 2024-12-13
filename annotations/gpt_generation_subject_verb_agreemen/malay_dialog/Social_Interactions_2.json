@@ -1,0 +1,94 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, it's good here.",
+        "annotation_token": [
+            "it's"
+        ],
+        "rationale": "The subject 'it' agrees with the verb 'is' in the contraction 'it's'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Weather is very hot these days.",
+        "annotation_token": [
+            "Weather is"
+        ],
+        "rationale": "The subject 'Weather' agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I am... um, I manage project now.",
+        "annotation_token": [
+            "I am",
+            "I manage"
+        ],
+        "rationale": "The subject 'I' agrees with the verbs 'am' and 'manage'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is... sometimes stress.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I want visit KL again.",
+        "annotation_token": [
+            "I want"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'want'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Your family all well, yes?",
+        "annotation_token": [
+            "Your family all well"
+        ],
+        "rationale": "The sentence lacks a verb, which is a common error in subject-verb agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Please tell her I say hello, and I will visit soon.",
+        "annotation_token": [
+            "I say",
+            "I will visit"
+        ],
+        "rationale": "The subject 'I' agrees with the verbs 'say' and 'will visit'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I will plan.",
+        "annotation_token": [
+            "I will plan"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'will plan'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you for call.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The subject 'you' agrees with the verb 'thank'. However, the sentence is missing an article before 'call'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It was nice talk, Aina.",
+        "annotation_token": [
+            "It was"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'was'.",
+        "grammar_correctness": "correct"
+    }
+]

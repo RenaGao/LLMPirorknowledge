@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "My favorite is Songkran. It is... how to say... Thai New Year.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer back to 'Songkran', which is the subject of the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We have... um, water festival. We splash water for good luck. It is very fun!",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer back to 'water festival', which is the subject of the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Like... khao chae, it is rice with flower water and... um, side dish.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer back to 'khao chae', which is the subject of the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It last three days.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer back to 'Songkran', which is the subject of the previous sentences.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is very... colorful and nice.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer back to 'traditional clothes', which is the subject of the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I love that we... um, show respect.",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is used to refer back to the action of showing respect, which is the subject of the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "You welcome! If you come to Thailand, I show you Songkran. It very ni",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer back to 'Songkran', which is the subject of the previous sentence.",
+        "grammar_correctness": false
+    }
+]

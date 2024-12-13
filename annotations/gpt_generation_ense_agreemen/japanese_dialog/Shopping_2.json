@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, hello. I buy this jacket last week, but, uh, it not fit well.",
+        "annotation_token": [
+            "buy",
+            "not fit"
+        ],
+        "rationale": "The verb 'buy' should be in the past tense 'bought' to agree with the time expression 'last week'. The verb 'fit' should be 'did not fit' to correctly form the past tense negative.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, good. I was worry, maybe too late.",
+        "annotation_token": [
+            "was worry"
+        ],
+        "rationale": "The verb 'worry' should be in the past participle form 'worried' to agree with the past tense auxiliary 'was'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "No, no. I just try it at home. It is too big for me.",
+        "annotation_token": [
+            "try"
+        ],
+        "rationale": "The verb 'try' should be in the past tense 'tried' to agree with the context of a completed action.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sure, thank you for having me. I recently graduated with a degree in computer science, and I'm really interested in the software development role at your company.",
+        "annotation_token": [
+            "me",
+            "I",
+            "I'm",
+            "your"
+        ],
+        "rationale": "The words 'me', 'I', and 'I'm' refer to the speaker, while 'your' refers to the listener's company.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Absolutely. I was impressed by your company's focus on innovation and sustainability. Plus, the opportunity to work on cutting-edge projects really excites me.",
+        "annotation_token": [
+            "I",
+            "your",
+            "me"
+        ],
+        "rationale": "The word 'I' refers to the speaker, 'your' refers to the listener's company, and 'me' refers to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Of course. During my final year, I developed an app that helps users track their carbon footprint. It was challenging but rewarding to see the positive impact it had.",
+        "annotation_token": [
+            "my",
+            "I",
+            "that",
+            "it"
+        ],
+        "rationale": "The word 'my' refers to the speaker's final year, 'I' refers to the speaker, 'that' refers to the app, and 'it' refers to the app's impact.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I faced a few technical hurdles, but I collaborated with my team and we found solutions through brainstorming and testing different approaches.",
+        "annotation_token": [
+            "I",
+            "my",
+            "we"
+        ],
+        "rationale": "The word 'I' refers to the speaker, 'my' refers to the speaker's team, and 'we' refers to the speaker and their team.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I believe in open communication and valuing everyone’s input. I make sure to listen actively and contribute ideas, aiming for a team dynamic where everyone feels heard.",
+        "annotation_token": [
+            "I",
+            "everyone’s",
+            "everyone"
+        ],
+        "rationale": "The word 'I' refers to the speaker, 'everyone’s' refers to all team members' input, and 'everyone' refers to all team members.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I was wondering about the opportunities for professional development within the company. How does your organization support growth?",
+        "annotation_token": [
+            "I",
+            "your"
+        ],
+        "rationale": "The word 'I' refers to the speaker, and 'your' refers to the listener's organization.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That sounds fantastic. Thank you for the information and for this opportunity to discuss my potential role here.",
+        "annotation_token": [
+            "That",
+            "my"
+        ],
+        "rationale": "The word 'That' refers to the information provided, and 'my' refers to the speaker's potential role.",
+        "grammar_correctness": true
+    }
+]

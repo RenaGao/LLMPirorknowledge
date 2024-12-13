@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Certainly. I was part of our school’s eco-club, where we organized community clean-ups and initiated a recycling awareness campaign. It was rewarding to see the impact we could make.",
+        "annotation_token": [
+            "clean-ups",
+            "campaign"
+        ],
+        "rationale": "The sentence contains plural nouns 'clean-ups' and 'campaign' which are correctly used in the context of the sentence.",
+        "grammar_correctness": "correct"
+    }
+]

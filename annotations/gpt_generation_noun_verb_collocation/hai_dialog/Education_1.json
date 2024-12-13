@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, Nuch... um, it is quite hard for me to... understand everything.",
+        "annotation_token": "understand everything",
+        "rationale": "The noun 'everything' and the verb 'understand' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Climate change have many, um, things to study, yes?",
+        "annotation_token": "study things",
+        "rationale": "The noun 'things' and the verb 'study' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, please. I not sure how... um, melting ice make sea high.",
+        "annotation_token": "make sea",
+        "rationale": "The noun 'sea' and the verb 'make' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you, Nuch. You help me a lot.",
+        "annotation_token": "help me",
+        "rationale": "The noun 'me' and the verb 'help' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

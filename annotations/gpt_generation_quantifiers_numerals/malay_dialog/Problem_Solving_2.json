@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I, um, use wrong numbers for the sales... figures.",
+        "annotation_token": [
+            "numbers"
+        ],
+        "rationale": "The word 'numbers' is a numeral indicating a quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe, um, two days?",
+        "annotation_token": [
+            "two"
+        ],
+        "rationale": "The word 'two' is a numeral indicating a specific quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Just to be sure all is right.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier indicating the entirety of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I, um, use wrong numbers for the sales... figures.",
+        "annotation_token": [
+            "numbers"
+        ],
+        "rationale": "The word 'numbers' is a numeral indicating a quantity of sales figures.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe, um, two days?",
+        "annotation_token": [
+            "two"
+        ],
+        "rationale": "The word 'two' is a numeral indicating a specific quantity of days.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Just to be sure all is right.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier indicating the entirety of something being correct.",
+        "grammar_correctness": true
+    }
+]

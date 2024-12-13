@@ -1,0 +1,80 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We faced several unexpected delays, but by implementing new software and revising our logistics strategy, we reduced delivery times by 20%.",
+        "annotation_token": [
+            "several",
+            "20%"
+        ],
+        "rationale": "The sentence contains the quantifier 'several' and the numeral '20%' which are used to specify quantities.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I believe in open communication and actively listening to all perspectives.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The sentence contains the quantifier 'all' which is used to refer to the entirety of a group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We faced several unexpected delays, but by implementing new software and revising our logistics strategy, we reduced delivery times by 20%.",
+        "annotation_token": [
+            "several",
+            "20%"
+        ],
+        "rationale": "The sentence contains the quantifier 'several' and the numeral '20%'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I believe in open communication and actively listening to all perspectives.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The sentence contains the quantifier 'all'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. In my last role, I led a team to streamline our supply chain process. We faced several unexpected delays, but by implementing new software and revising our logistics strategy, we reduced delivery times by 20%.",
+        "annotation_token": [
+            "several",
+            "20%"
+        ],
+        "rationale": "The sentence contains the quantifier 'several' and the numeral '20%' which are used to describe the quantity of delays and the percentage reduction in delivery times.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I believe in open communication and actively listening to all perspectives. I usually suggest a meeting where everyone can voice their concerns, and we work towards a consensus.",
+        "annotation_token": [
+            "all",
+            "everyone"
+        ],
+        "rationale": "The sentence contains the quantifiers 'all' and 'everyone' which are used to refer to the entirety of perspectives and people involved.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. In my last role, I led a team to streamline our supply chain process. We faced several unexpected delays, but by implementing new software and revising our logistics strategy, we reduced delivery times by 20%.",
+        "annotation_token": [
+            "several",
+            "20%"
+        ],
+        "rationale": "The sentence contains the quantifier 'several' indicating an unspecified quantity and the numeral '20%' indicating a specific quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I believe in open communication and actively listening to all perspectives. I usually suggest a meeting where everyone can voice their concerns, and we work towards a consensus.",
+        "annotation_token": [
+            "all",
+            "everyone"
+        ],
+        "rationale": "The sentence uses the quantifiers 'all' and 'everyone' to indicate totality or entirety.",
+        "grammar_correctness": true
+    }
+]

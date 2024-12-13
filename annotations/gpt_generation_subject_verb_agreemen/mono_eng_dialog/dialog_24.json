@@ -1,0 +1,143 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hi! I’m doing well, a bit nervous, but excited to be here. Thanks for asking.",
+        "annotation_token": [
+            "I’m"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in its contracted form 'I’m'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Sure! I’ve always been passionate about marketing, and I believe this company is a leader in the field.",
+        "annotation_token": [
+            "I’ve",
+            "I believe",
+            "company is"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'have' in its contracted form 'I’ve'. The subject 'I' correctly agrees with the verb 'believe'. The subject 'company' correctly agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "The opportunity to work here and learn from the best is really appealing to me.",
+        "annotation_token": [
+            "opportunity is"
+        ],
+        "rationale": "The subject 'opportunity' correctly agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’ve had experience with digital marketing campaigns in my last job, where I helped increase engagement by 30%.",
+        "annotation_token": [
+            "I’ve",
+            "I helped"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'have' in its contracted form 'I’ve'. The subject 'I' correctly agrees with the verb 'helped'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’m also quite skilled in using analytics tools to track performance.",
+        "annotation_token": [
+            "I’m"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in its contracted form 'I’m'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Absolutely. There was this one campaign where our initial strategy wasn’t yielding results.",
+        "annotation_token": [
+            "There was",
+            "strategy wasn’t"
+        ],
+        "rationale": "The subject 'There' correctly agrees with the verb 'was'. The subject 'strategy' correctly agrees with the verb 'wasn’t'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I suggested pivoting to a different social media platform, which turned out to be more effective for our target audience.",
+        "annotation_token": [
+            "I suggested"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'suggested'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It taught me the importance of flexibility.",
+        "annotation_token": [
+            "It taught"
+        ],
+        "rationale": "The subject 'It' correctly agrees with the verb 'taught'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I’m curious about the team dynamics.",
+        "annotation_token": [
+            "I’m"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in its contracted form 'I’m'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "How does collaboration work within the department?",
+        "annotation_token": [
+            "collaboration does"
+        ],
+        "rationale": "The subject 'collaboration' correctly agrees with the auxiliary verb 'does'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That sounds fantastic.",
+        "annotation_token": [
+            "That sounds"
+        ],
+        "rationale": "The subject 'That' correctly agrees with the verb 'sounds'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I thrive in collaborative settings, so I think I’d fit right in.",
+        "annotation_token": [
+            "I thrive",
+            "I think",
+            "I’d fit"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'thrive'. The subject 'I' correctly agrees with the verb 'think'. The subject 'I' correctly agrees with the modal verb 'would' in its contracted form 'I’d'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you for the opportunity.",
+        "annotation_token": [
+            "Thank"
+        ],
+        "rationale": "The implied subject 'I' correctly agrees with the verb 'thank'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I look forward to hearing from you.",
+        "annotation_token": [
+            "I look"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'look'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Have a great day!",
+        "annotation_token": [
+            "Have"
+        ],
+        "rationale": "The implied subject 'you' correctly agrees with the verb 'have'.",
+        "grammar_correctness": "correct"
+    }
+]

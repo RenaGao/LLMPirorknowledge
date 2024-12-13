@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I like very much!",
+        "annotation_token": "I like",
+        "rationale": "The subject 'I' correctly agrees with the verb 'like' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, \"Fast Chase.\" I think it will be fun.",
+        "annotation_token": "I think",
+        "rationale": "The subject 'I' correctly agrees with the verb 'think' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I think we can do.",
+        "annotation_token": "I think",
+        "rationale": "The subject 'I' correctly agrees with the verb 'think' in the present simple tense.",
+        "grammar_correctness": "correct"
+    }
+]

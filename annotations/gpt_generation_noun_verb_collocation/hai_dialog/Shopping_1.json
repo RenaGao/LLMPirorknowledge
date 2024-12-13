@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Hello! Yes, I am ready. I want to buy... um, how to say... bracelet, yes, bracelet.",
+        "annotation_token": "buy bracelet",
+        "rationale": "The noun 'bracelet' and the verb 'buy' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Okay! Um, this shop looks nice. Can we look here?",
+        "annotation_token": "shop looks",
+        "rationale": "The noun 'shop' and the verb 'looks' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

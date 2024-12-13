@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "People visit family.",
+        "annotation_token": "visit family",
+        "rationale": "The noun 'family' and the verb 'visit' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "And we eat special food.",
+        "annotation_token": "eat food",
+        "rationale": "The noun 'food' and the verb 'eat' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We make with family.",
+        "annotation_token": "make with family",
+        "rationale": "The noun 'family' and the verb 'make' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We also, um, visit ancestor's graves.",
+        "annotation_token": "visit graves",
+        "rationale": "The noun 'graves' and the verb 'visit' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, we play games.",
+        "annotation_token": "play games",
+        "rationale": "The noun 'games' and the verb 'play' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Women hold hands and dance under full moon.",
+        "annotation_token": "hold hands",
+        "rationale": "The noun 'hands' and the verb 'hold' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Women hold hands and dance under full moon.",
+        "annotation_token": "dance under moon",
+        "rationale": "The noun 'moon' and the verb 'dance' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, we wear hanbok, traditional clothes.",
+        "annotation_token": "wear hanbok",
+        "rationale": "The noun 'hanbok' and the verb 'wear' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Children get money as gift.",
+        "annotation_token": "get money",
+        "rationale": "The noun 'money' and the verb 'get' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

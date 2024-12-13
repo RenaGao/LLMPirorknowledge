@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I want to buy... how you say... basket for fruit, lah?",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is used as a reference to the person being spoken to, which is common in conversational English.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, he say, uh, only small discount.",
+        "annotation_token": "he",
+        "rationale": "The word 'he' is used as a reference to a previously mentioned male person, which is a common use of pronouns in English.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "So I ask more?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is used as a reference to the speaker themselves, which is a standard use of the first-person pronoun in English.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Alright. Can you give... larger discount if I buy more things?",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is used as a reference to the person being spoken to, which is common in conversational English.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "He say okay, can give... bigger discount, but only if I buy three items.",
+        "annotation_token": "He",
+        "rationale": "The word 'He' is used as a reference to a previously mentioned male person, which is a common use of pronouns in English.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I think so.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is used as a reference to the speaker themselves, which is a standard use of the first-person pronoun in English.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Maybe I look for... uh, more kitchen things.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is used as a reference to the speaker themselves, which is a standard use of the first-person pronoun in English.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay, I will do that.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is used as a reference to the speaker themselves, which is a standard use of the first-person pronoun in English.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you for help!",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is used as a reference to the person being spoken to, which is common in conversational English.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thanks again. I will try my best.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is used as a reference to the speaker themselves, which is a standard use of the first-person pronoun in English.",
+        "grammar_correctness": true
+    }
+]

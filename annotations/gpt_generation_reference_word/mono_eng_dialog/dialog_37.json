@@ -1,0 +1,86 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hi! I'm doing well, thank you. A bit nervous, but mostly excited to be here.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Well, your university's focus on research and innovation really appeals to me.",
+        "annotation_token": "me",
+        "rationale": "The word 'me' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I've read about the projects in renewable energy you're involved in, and I'd love to contribute to that field.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I completed a summer internship last year at a solar energy startup.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It was a fantastic experience that solidified my interest in sustainable technologies.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the summer internship experience.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It taught me the importance of teamwork and adaptability.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the summer internship experience.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We faced some unexpected issues, and collaborating with others to find solutions was a big learning curve.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the speaker and their colleagues during the internship.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Academically, I aim to deepen my knowledge and eventually work on impactful projects.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Personally, I'm eager to meet diverse people and broaden my perspectives.",
+        "annotation_token": "I'm",
+        "rationale": "The contraction 'I'm' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I was wondering about the opportunities for students to engage with faculty on research projects.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "How accessible are those?",
+        "annotation_token": "those",
+        "rationale": "The word 'those' is a reference word referring to the opportunities for students to engage with faculty on research projects.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you for the insight! I'm really looking forward to the possibility of joining your community.",
+        "annotation_token": "I'm",
+        "rationale": "The contraction 'I'm' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

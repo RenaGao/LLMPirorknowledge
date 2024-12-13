@@ -1,0 +1,101 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely! I've always been passionate about environmental science, and your program's focus on sustainability really resonates with me.",
+        "annotation_token": [
+            "always"
+        ],
+        "rationale": "'Always' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Well, during my internship at GreenTech, I helped develop a small-scale solar panel prototype.",
+        "annotation_token": [
+            "small-scale"
+        ],
+        "rationale": "'Small-scale' is a quantifier indicating size.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I think that's all for now.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "'All' is a quantifier indicating the totality of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely! I've always been passionate about environmental science, and your program's focus on sustainability really resonates with me.",
+        "annotation_token": [
+            "always"
+        ],
+        "rationale": "The word 'always' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Well, during my internship at GreenTech, I helped develop a small-scale solar panel prototype.",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier used to indicate a single instance of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I think that's all for now.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier indicating the entirety of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely! I've always been passionate about environmental science, and your program's focus on sustainability really resonates with me.",
+        "annotation_token": [
+            "always"
+        ],
+        "rationale": "'Always' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Well, during my internship at GreenTech, I helped develop a small-scale solar panel prototype.",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "'A' is a quantifier used to indicate a single, unspecified item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I think that's all for now.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "'All' is a quantifier indicating the entirety of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Well, during my internship at GreenTech, I helped develop a small-scale solar panel prototype.",
+        "annotation_token": [
+            "small-scale"
+        ],
+        "rationale": "The term 'small-scale' indicates a quantifier describing the size or extent of the solar panel prototype.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I think that's all for now.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier used here to indicate everything or the total amount.",
+        "grammar_correctness": true
+    }
+]

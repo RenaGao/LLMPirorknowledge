@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I like kimchi.",
+        "annotation_token": "like kimchi",
+        "rationale": "The noun 'kimchi' and the verb 'like' form a collocation expressing a complete action.",
+        "grammar_correctness": true
+    }
+]

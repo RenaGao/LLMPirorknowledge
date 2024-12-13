@@ -1,0 +1,25 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, before Eid, we have Ramadan. We fast for whole month. It is, um, very special time.",
+        "annotation_token": [
+            "have",
+            "fast",
+            "is"
+        ],
+        "rationale": "The verbs 'have', 'fast', and 'is' are in present tense, maintaining tense agreement within the context of describing a recurring event.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, uh, when I was small. My family visit village. All cousins play together. It was very fun.",
+        "annotation_token": [
+            "was",
+            "visit",
+            "play",
+            "was"
+        ],
+        "rationale": "The sentence shifts between past tense 'was' and present tense 'visit' and 'play', indicating a lack of tense agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

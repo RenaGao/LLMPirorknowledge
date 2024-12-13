@@ -1,0 +1,62 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, it is not printing.",
+        "annotation_token": [
+            "it",
+            "is"
+        ],
+        "rationale": "The subject 'it' agrees with the verb 'is' in the present continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I try many time, but paper, uh, not come out.",
+        "annotation_token": [
+            "I",
+            "try"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'try' in the simple present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes, cable is, um, how to say... tight?",
+        "annotation_token": [
+            "cable",
+            "is"
+        ],
+        "rationale": "The subject 'cable' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes, it say, um, \"offline.\"",
+        "annotation_token": [
+            "it",
+            "say"
+        ],
+        "rationale": "The subject 'it' should agree with the verb 'say' in the present tense, but it should be 'says'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, um, I look now... Ah, it is not default.",
+        "annotation_token": [
+            "I",
+            "look"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'look' in the simple present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, okay, I try... (pause) Yes! It print!",
+        "annotation_token": [
+            "I",
+            "try"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'try' in the simple present tense.",
+        "grammar_correctness": "correct"
+    }
+]

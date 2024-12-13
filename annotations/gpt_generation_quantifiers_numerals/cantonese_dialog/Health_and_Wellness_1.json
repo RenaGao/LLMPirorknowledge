@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, not really. I sleep maybe... five hours a night? Busy with work.",
+        "annotation_token": [
+            "five"
+        ],
+        "rationale": "The word 'five' is a numeral indicating the quantity of hours slept.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes, water. I sometimes forget. Maybe put bottle on desk, hmm?",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating the frequency of forgetting.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, not really. I sleep maybe... five hours a night? Busy with work.",
+        "annotation_token": [
+            "five"
+        ],
+        "rationale": "The word 'five' is a numeral indicating the quantity of hours slept.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes, water. I sometimes forget. Maybe put bottle on desk, hmm?",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating the frequency of forgetting.",
+        "grammar_correctness": true
+    }
+]

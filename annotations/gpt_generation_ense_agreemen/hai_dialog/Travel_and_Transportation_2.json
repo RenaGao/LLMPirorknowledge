@@ -1,0 +1,104 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, yes! I like this idea. Um, we need to choose place, right?",
+        "annotation_token": [
+            "like",
+            "need"
+        ],
+        "rationale": "The verbs 'like' and 'need' are in the present tense, which is consistent with the context of discussing a current idea and requirement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hmm, maybe go to Chiang Mai. It is nice there, yes?",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The verb 'is' is in the present tense, which is appropriate for describing a current state or condition.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, night market good. And, uh, we can also go to... um, mountain? How to say...",
+        "annotation_token": [
+            "can"
+        ],
+        "rationale": "The modal verb 'can' is used in the present tense to express ability or possibility.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, Doi Suthep! We can see view from there.",
+        "annotation_token": [
+            "can",
+            "see"
+        ],
+        "rationale": "The modal verb 'can' and the main verb 'see' are in the present tense, indicating a current ability or possibility.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Maybe three day? Not too long, not too short.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The implied verb 'is' (in 'Not too long, not too short') is in the present tense, describing a current state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I think we can, um, do cooking class. Thai food class is famous.",
+        "annotation_token": [
+            "think",
+            "can",
+            "do",
+            "is"
+        ],
+        "rationale": "The verbs 'think', 'can', 'do', and 'is' are in the present tense, which is appropriate for expressing current thoughts, abilities, and states.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, and then we eat what we cook. Very tasty!",
+        "annotation_token": [
+            "eat",
+            "cook"
+        ],
+        "rationale": "The verbs 'eat' and 'cook' are in the present tense, indicating actions that are planned or habitual.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I think maybe Nuch and Ploy want to come. I ask them.",
+        "annotation_token": [
+            "think",
+            "want",
+            "ask"
+        ],
+        "rationale": "The verbs 'think', 'want', and 'ask' are in the present tense, which is appropriate for expressing current thoughts, desires, and actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Okay, I ask them today. And we can discuss more later.",
+        "annotation_token": [
+            "ask",
+            "can",
+            "discuss"
+        ],
+        "rationale": "The verbs 'ask', 'can', and 'discuss' are in the present tense, indicating current or planned actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, me too! Will be fun trip. Thank you for plan this.",
+        "annotation_token": [
+            "will",
+            "be",
+            "plan"
+        ],
+        "rationale": "The modal 'will' and the verb 'be' are used to express a future event, while 'plan' should be 'planning' to maintain tense agreement.",
+        "grammar_correctness": "incorrect"
+    }
+]

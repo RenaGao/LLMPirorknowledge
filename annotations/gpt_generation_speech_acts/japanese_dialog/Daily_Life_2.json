@@ -1,0 +1,86 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You know?",
+        "annotation_token": [
+            "You",
+            "know"
+        ],
+        "rationale": "The phrase 'You know?' is a speech act used to engage the listener and check for understanding or agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "how you say...",
+        "annotation_token": [
+            "how",
+            "you",
+            "say"
+        ],
+        "rationale": "The phrase 'how you say...' is a speech act used to request assistance or confirmation on the correct expression or word.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "how to say...",
+        "annotation_token": [
+            "how",
+            "to",
+            "say"
+        ],
+        "rationale": "The phrase 'how to say...' is a speech act used to express uncertainty and request help in finding the right word or expression.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You’re welcome!",
+        "annotation_token": [
+            "You’re",
+            "welcome"
+        ],
+        "rationale": "The phrase 'You’re welcome!' is a speech act used as a polite response to thanks.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You know?",
+        "annotation_token": [
+            "You",
+            "know"
+        ],
+        "rationale": "The phrase 'You know?' is a speech act used to engage the listener and check for understanding or agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "how you say...",
+        "annotation_token": [
+            "how",
+            "you",
+            "say"
+        ],
+        "rationale": "The phrase 'how you say...' is a speech act used to request assistance or confirmation on the correct expression or word.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "how to say...",
+        "annotation_token": [
+            "how",
+            "to",
+            "say"
+        ],
+        "rationale": "The phrase 'how to say...' is a speech act used to express uncertainty and seek confirmation on the correct expression or word.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You’re welcome!",
+        "annotation_token": [
+            "You’re",
+            "welcome"
+        ],
+        "rationale": "The phrase 'You’re welcome!' is a speech act used as a polite response to thanks.",
+        "grammar_correctness": "correct"
+    }
+]

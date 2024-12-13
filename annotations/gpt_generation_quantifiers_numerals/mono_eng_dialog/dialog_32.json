@@ -1,0 +1,62 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Certainly! I recently graduated with a degree in marketing, and I’ve been working as an intern at a digital agency for the past six months.",
+        "annotation_token": [
+            "a",
+            "six"
+        ],
+        "rationale": "The word 'a' is a quantifier indicating a single degree, and 'six' is a numeral indicating the number of months.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sure! During my internship, I led a campaign for a local nonprofit that increased their social media following by 30% in just three months.",
+        "annotation_token": [
+            "a",
+            "30%",
+            "three"
+        ],
+        "rationale": "The word 'a' is a quantifier indicating a single campaign, '30%' is a numeral indicating the percentage increase, and 'three' is a numeral indicating the number of months.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sure! During my internship, I led a campaign for a local nonprofit that increased their social media following by 30% in just three months.",
+        "annotation_token": [
+            "30%",
+            "three"
+        ],
+        "rationale": "The sentence contains numerals '30%' and 'three' which quantify the increase in social media following and the duration of time respectively.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Certainly! I recently graduated with a degree in marketing, and I’ve been working as an intern at a digital agency for the past six months.",
+        "annotation_token": [
+            "six"
+        ],
+        "rationale": "The word 'six' is a numeral indicating the duration of time the speaker has been working as an intern.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sure! During my internship, I led a campaign for a local nonprofit that increased their social media following by 30% in just three months.",
+        "annotation_token": [
+            "30%",
+            "three"
+        ],
+        "rationale": "The token '30%' is a numeral indicating the percentage increase in social media following, and 'three' is a numeral indicating the duration of the campaign.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sure! During my internship, I led a campaign for a local nonprofit that increased their social media following by 30% in just three months.",
+        "annotation_token": [
+            "30%",
+            "three"
+        ],
+        "rationale": "The tokens '30%' and 'three' represent numerals used to quantify the increase in social media following and the duration of the time period.",
+        "grammar_correctness": true
+    }
+]

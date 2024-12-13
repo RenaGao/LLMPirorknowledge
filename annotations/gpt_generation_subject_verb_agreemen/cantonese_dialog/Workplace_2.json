@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I have some question.",
+        "annotation_token": "I have",
+        "rationale": "The subject 'I' correctly agrees with the verb 'have'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes, it go up in March and April.",
+        "annotation_token": "it go",
+        "rationale": "The subject 'it' does not agree with the verb 'go'. It should be 'it goes'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That mean more sales?",
+        "annotation_token": "That mean",
+        "rationale": "The subject 'That' does not agree with the verb 'mean'. It should be 'That means'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um... it go down.",
+        "annotation_token": "it go",
+        "rationale": "The subject 'it' does not agree with the verb 'go'. It should be 'it goes'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hmm... there are many comment.",
+        "annotation_token": "there are",
+        "rationale": "The subject 'comment' does not agree with the verb 'are'. It should be 'there is' for singular 'comment'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, many say shipping is slow.",
+        "annotation_token": "many say",
+        "rationale": "The subject 'many' correctly agrees with the verb 'say'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think we need change, um, process?",
+        "annotation_token": "I think",
+        "rationale": "The subject 'I' correctly agrees with the verb 'think'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you, I will try my best!",
+        "annotation_token": "I will try",
+        "rationale": "The subject 'I' correctly agrees with the verb 'will try'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, no more question for now.",
+        "annotation_token": "no more question",
+        "rationale": "The sentence lacks a verb, making it incomplete for subject-verb agreement analysis.",
+        "grammar_correctness": "N/A"
+    }
+]

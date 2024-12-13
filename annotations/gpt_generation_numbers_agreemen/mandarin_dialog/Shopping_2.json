@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, hello. I buy, uh, a thing here last week. It not working well.",
+        "annotation_token": "thing",
+        "rationale": "The noun 'thing' is singular, and the verb 'buy' should be in past tense to agree with the singular subject and past time reference.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, blender! It make noise, but no mix well.",
+        "annotation_token": "make",
+        "rationale": "The verb 'make' should be 'makes' to agree with the singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Okay, I write... it not work, make loud noise.",
+        "annotation_token": "make",
+        "rationale": "The verb 'make' should be 'makes' to agree with the singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    }
+]

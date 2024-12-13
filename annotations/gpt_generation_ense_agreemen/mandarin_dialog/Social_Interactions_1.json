@@ -1,0 +1,48 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, hi! Yes, um, I think... it's a little difficult. I not sure what Xiaohua like.",
+        "annotation_token": [
+            "I not sure",
+            "Xiaohua like"
+        ],
+        "rationale": "The sentence 'I not sure what Xiaohua like' lacks proper tense agreement. The correct form should be 'I am not sure what Xiaohua likes' to maintain present tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, she... she like, uh, music and outdoor, you know, like park?",
+        "annotation_token": [
+            "she like"
+        ],
+        "rationale": "The sentence 'she like, uh, music and outdoor' lacks proper tense agreement. The correct form should be 'she likes, uh, music and outdoor' to maintain present tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Okay, okay. I will, uh, talk to, um, Mei and Jun? They both close with Xiaohua.",
+        "annotation_token": [
+            "They both close"
+        ],
+        "rationale": "The sentence 'They both close with Xiaohua' lacks proper tense agreement. The correct form should be 'They are both close with Xiaohua' to maintain present tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, maybe... we bring snacks? And drinks, like, um, soda or juice. Xiaohua like sweet, sweet things.",
+        "annotation_token": [
+            "Xiaohua like"
+        ],
+        "rationale": "The sentence 'Xiaohua like sweet, sweet things' lacks proper tense agreement. The correct form should be 'Xiaohua likes sweet, sweet things' to maintain present tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Mm, yes. But, um, I not sure what games. Maybe... music game? Dance?",
+        "annotation_token": [
+            "I not sure"
+        ],
+        "rationale": "The sentence 'I not sure what games' lacks proper tense agreement. The correct form should be 'I am not sure what games' to maintain present tense agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

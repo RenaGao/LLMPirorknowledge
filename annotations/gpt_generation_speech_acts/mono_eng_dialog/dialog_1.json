@@ -1,0 +1,108 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Morning! I’m doing well, thanks. A bit nervous, but excited too.",
+        "annotation_token": [
+            "Morning!",
+            "I’m doing well, thanks.",
+            "A bit nervous, but excited too."
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Morning!'), a response to a question about well-being ('I’m doing well, thanks.'), and an expression of feelings ('A bit nervous, but excited too.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure! I recently graduated with a degree in marketing, and I’ve always been passionate about digital media.",
+        "annotation_token": [
+            "Sure!",
+            "I recently graduated with a degree in marketing,",
+            "I’ve always been passionate about digital media."
+        ],
+        "rationale": "The sentence contains multiple speech acts: an agreement or affirmation ('Sure!'), a statement of fact ('I recently graduated with a degree in marketing,'), and an expression of personal interest ('I’ve always been passionate about digital media.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely. I worked on a campaign for a local non-profit that aimed to increase volunteer sign-ups.",
+        "annotation_token": [
+            "Absolutely.",
+            "I worked on a campaign for a local non-profit that aimed to increase volunteer sign-ups."
+        ],
+        "rationale": "The sentence contains multiple speech acts: an affirmation ('Absolutely.') and a statement of past experience ('I worked on a campaign for a local non-profit that aimed to increase volunteer sign-ups.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’m curious about the team dynamics here. Could you share a bit about how your team collaborates on projects?",
+        "annotation_token": [
+            "Yes,",
+            "I’m curious about the team dynamics here.",
+            "Could you share a bit about how your team collaborates on projects?"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an affirmation ('Yes,'), an expression of curiosity ('I’m curious about the team dynamics here.'), and a request for information ('Could you share a bit about how your team collaborates on projects?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds fantastic. Thank you for the insights and the opportunity to discuss this role.",
+        "annotation_token": [
+            "That sounds fantastic.",
+            "Thank you for the insights and the opportunity to discuss this role."
+        ],
+        "rationale": "The sentence contains multiple speech acts: an expression of approval ('That sounds fantastic.') and an expression of gratitude ('Thank you for the insights and the opportunity to discuss this role.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Morning! I’m doing well, thanks. A bit nervous, but excited too.",
+        "annotation_token": [
+            "Morning!",
+            "I’m doing well, thanks.",
+            "A bit nervous, but excited too."
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Morning!'), a response to a question about well-being ('I’m doing well, thanks.'), and an expression of feelings ('A bit nervous, but excited too.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure! I recently graduated with a degree in marketing, and I’ve always been passionate about digital media.",
+        "annotation_token": [
+            "Sure!",
+            "I recently graduated with a degree in marketing,",
+            "I’ve always been passionate about digital media."
+        ],
+        "rationale": "The sentence contains an agreement or confirmation ('Sure!'), a statement of fact ('I recently graduated with a degree in marketing,'), and an expression of personal interest ('I’ve always been passionate about digital media.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely. I worked on a campaign for a local non-profit that aimed to increase volunteer sign-ups.",
+        "annotation_token": [
+            "Absolutely.",
+            "I worked on a campaign for a local non-profit that aimed to increase volunteer sign-ups."
+        ],
+        "rationale": "The sentence contains an affirmation ('Absolutely.') and a statement of past experience ('I worked on a campaign for a local non-profit that aimed to increase volunteer sign-ups.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’m curious about the team dynamics here. Could you share a bit about how your team collaborates on projects?",
+        "annotation_token": [
+            "Yes,",
+            "I’m curious about the team dynamics here.",
+            "Could you share a bit about how your team collaborates on projects?"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes,'), an expression of curiosity ('I’m curious about the team dynamics here.'), and a request for information ('Could you share a bit about how your team collaborates on projects?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds fantastic. Thank you for the insights and the opportunity to discuss this role.",
+        "annotation_token": [
+            "That sounds fantastic.",
+            "Thank you for the insights and the opportunity to discuss this role."
+        ],
+        "rationale": "The sentence contains an expression of approval or positive feedback ('That sounds fantastic.') and an expression of gratitude ('Thank you for the insights and the opportunity to discuss this role.').",
+        "grammar_correctness": "correct"
+    }
+]

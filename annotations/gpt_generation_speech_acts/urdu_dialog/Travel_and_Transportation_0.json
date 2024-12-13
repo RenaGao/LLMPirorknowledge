@@ -1,0 +1,213 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, yes, I visit... um, a new city.",
+        "annotation_token": [
+            "Uh",
+            "yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Uh', 'yes', and 'um' are used as speech acts to manage the flow of conversation, express agreement, and indicate hesitation or thinking.",
+        "grammar_correctness": "These tokens are common in spoken English and align with native speaker usage for managing conversation flow."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I go to Lahore.",
+        "annotation_token": [
+            "I go"
+        ],
+        "rationale": "The phrase 'I go' is a speech act indicating a past action, though it lacks the correct past tense form 'went'.",
+        "grammar_correctness": "The grammar is incorrect as it does not use the past tense form, which would be 'I went'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "How to say... like, um, old... old building?",
+        "annotation_token": [
+            "How to say",
+            "um"
+        ],
+        "rationale": "The phrase 'How to say' and the token 'um' are used as speech acts to indicate searching for words or expressions.",
+        "grammar_correctness": "The phrase 'How to say' is not grammatically correct in this context; a native speaker might say 'How do you say'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, but my phone... how to say... run out of battery?",
+        "annotation_token": [
+            "Uh",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Uh' and 'how to say' are used as speech acts to manage hesitation and search for the correct expression.",
+        "grammar_correctness": "The phrase 'how to say' is not grammatically correct; a native speaker might say 'how do you say'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I try... um, biryani and some... uh, spicy food.",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Yes', 'um', and 'uh' are used as speech acts to confirm, hesitate, and think while speaking.",
+        "grammar_correctness": "These tokens are common in spoken English and align with native speaker usage for managing conversation flow."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, but some were too... um, how to say... hot?",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Yes', 'um', and 'how to say' are used as speech acts to confirm, hesitate, and search for the right word.",
+        "grammar_correctness": "The phrase 'how to say' is not grammatically correct; a native speaker might say 'how do you say'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I try, um, jalebi and gulab jamun.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes' and 'um' are used as speech acts to confirm and indicate hesitation or thinking.",
+        "grammar_correctness": "These tokens are common in spoken English and align with native speaker usage for managing conversation flow."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I go to Shalimar Garden.",
+        "annotation_token": [
+            "Yes",
+            "I go"
+        ],
+        "rationale": "The token 'Yes' is a speech act for confirmation, and 'I go' indicates a past action, though it lacks the correct past tense form 'went'.",
+        "grammar_correctness": "The grammar is incorrect as it does not use the past tense form, which would be 'I went'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, very much.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement or affirmation.",
+        "grammar_correctness": "This token is common in spoken English and aligns with native speaker usage for expressing agreement."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, of course.",
+        "annotation_token": [
+            "Yes",
+            "of course"
+        ],
+        "rationale": "The tokens 'Yes' and 'of course' are used as speech acts to express strong agreement or certainty.",
+        "grammar_correctness": "These tokens are common in spoken English and align with native speaker usage for expressing strong agreement."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I will.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act used to express gratitude.",
+        "grammar_correctness": "This phrase is grammatically correct and aligns with native speaker usage for expressing gratitude."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I tell you.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree.",
+        "grammar_correctness": "This token is common in spoken English and aligns with native speaker usage for expressing agreement."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, yes, I visit... um, a new city.",
+        "annotation_token": [
+            "Uh",
+            "yes"
+        ],
+        "rationale": "The tokens 'Uh' and 'yes' are used as speech acts to acknowledge and confirm the statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! That mosque was very big and... um, beautiful.",
+        "annotation_token": [
+            "Yes",
+            "yes"
+        ],
+        "rationale": "The repetition of 'Yes' is used as a speech act to emphasize agreement or confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I find a place to charge.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I try... um, biryani and some... uh, spicy food.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm the action of trying new food.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, but some were too... um, how to say... hot?",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to agree with the previous statement before introducing a contrasting idea.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I try, um, jalebi and gulab jamun.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm the action of trying new desserts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I go to Shalimar Garden.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm the visit to a specific location.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, very much.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express strong agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, of course.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to strongly affirm the statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I tell you.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm the intention to share information.",
+        "grammar_correctness": "correct"
+    }
+]

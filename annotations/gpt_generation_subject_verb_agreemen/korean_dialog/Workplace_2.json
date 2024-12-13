@@ -1,0 +1,52 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Excel is... okay for me. I am not expert, but I can learn fast.",
+        "annotation_token": [
+            "Excel is",
+            "I am",
+            "I can learn"
+        ],
+        "rationale": "The subjects 'Excel', 'I', and 'I' agree with their respective verbs 'is', 'am', and 'can learn' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I make account yesterday. Email is working.",
+        "annotation_token": [
+            "I make",
+            "Email is"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'make' in number and person, and the subject 'Email' agrees with the verb 'is' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Okay, I will try. When should I finish?",
+        "annotation_token": [
+            "I will try",
+            "I finish"
+        ],
+        "rationale": "The subject 'I' agrees with the verbs 'will try' and 'finish' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Okay, I understand. I will work hard.",
+        "annotation_token": [
+            "I understand",
+            "I will work"
+        ],
+        "rationale": "The subject 'I' agrees with the verbs 'understand' and 'will work' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you. I feel more confident now.",
+        "annotation_token": [
+            "I feel"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'feel' in number and person.",
+        "grammar_correctness": "correct"
+    }
+]

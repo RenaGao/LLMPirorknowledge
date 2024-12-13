@@ -1,0 +1,128 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, hello Aina! Yes, this is Amir. How are you?",
+        "annotation_token": [
+            "Oh",
+            "hello",
+            "Aina",
+            "Yes",
+            "this",
+            "is",
+            "Amir",
+            "How",
+            "are",
+            "you"
+        ],
+        "rationale": "The sentence contains a greeting ('Oh, hello Aina!'), an affirmation ('Yes, this is Amir'), and an inquiry ('How are you?'), which are all speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, I miss her too! Please tell her I say hello, and I will visit soon.",
+        "annotation_token": [
+            "Oh",
+            "I",
+            "miss",
+            "her",
+            "too",
+            "Please",
+            "tell",
+            "her",
+            "I",
+            "say",
+            "hello",
+            "and",
+            "I",
+            "will",
+            "visit",
+            "soon"
+        ],
+        "rationale": "The sentence contains an expression of emotion ('Oh, I miss her too!'), a request ('Please tell her I say hello'), and a promise ('I will visit soon'), which are all speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will plan. Thank you for call. It was nice talk, Aina.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "will",
+            "plan",
+            "Thank",
+            "you",
+            "for",
+            "call",
+            "It",
+            "was",
+            "nice",
+            "talk",
+            "Aina"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes, I will plan'), an expression of gratitude ('Thank you for call'), and a compliment ('It was nice talk, Aina'), which are all speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, hello Aina! Yes, this is Amir. How are you?",
+        "annotation_token": [
+            "Oh",
+            "hello",
+            "Aina",
+            "Yes",
+            "this",
+            "is",
+            "Amir",
+            "How",
+            "are",
+            "you"
+        ],
+        "rationale": "The sentence contains a greeting ('Oh, hello Aina!'), an affirmation ('Yes, this is Amir'), and an inquiry ('How are you?'), which are all speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, I miss her too! Please tell her I say hello, and I will visit soon.",
+        "annotation_token": [
+            "Oh",
+            "I",
+            "miss",
+            "her",
+            "too",
+            "Please",
+            "tell",
+            "her",
+            "I",
+            "say",
+            "hello",
+            "and",
+            "I",
+            "will",
+            "visit",
+            "soon"
+        ],
+        "rationale": "The sentence contains an expression of emotion ('Oh, I miss her too!'), a request ('Please tell her I say hello'), and a promise ('I will visit soon'), which are all speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will plan. Thank you for call. It was nice talk, Aina.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "will",
+            "plan",
+            "Thank",
+            "you",
+            "for",
+            "call",
+            "It",
+            "was",
+            "nice",
+            "talk",
+            "Aina"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes, I will plan'), an expression of gratitude ('Thank you for call'), and a compliment ('It was nice talk, Aina'), which are all speech acts.",
+        "grammar_correctness": "partially correct"
+    }
+]

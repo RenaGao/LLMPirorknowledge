@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, yes. I like to make, um, kimchi jjigae.",
+        "annotation_token": "make kimchi jjigae",
+        "rationale": "The noun 'kimchi jjigae' and the verb 'make' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "First, I need, um, kimchi.",
+        "annotation_token": "need kimchi",
+        "rationale": "The noun 'kimchi' and the verb 'need' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, yes. Then I put water, and maybe, um, tofu.",
+        "annotation_token": "put water",
+        "rationale": "The noun 'water' and the verb 'put' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, usually with rice. We eat with rice, and some, um, banchan.",
+        "annotation_token": "eat rice",
+        "rationale": "The noun 'rice' and the verb 'eat' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Sometimes, yes. But often, I buy.",
+        "annotation_token": "buy",
+        "rationale": "The sentence does not provide a noun explicitly paired with 'buy', so no collocation is annotated.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I use, uh, shiitake mushroom.",
+        "annotation_token": "use shiitake mushroom",
+        "rationale": "The noun 'shiitake mushroom' and the verb 'use' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "No, not hard. It is easy! Just, um, practice make better taste.",
+        "annotation_token": "make better taste",
+        "rationale": "The noun 'better taste' and the verb 'make' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

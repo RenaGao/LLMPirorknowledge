@@ -1,0 +1,110 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hello, Sarah! I am good, thank you. How about you?",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, vacation sounds nice! Um, how about... Kyoto? I think it is very beautiful.",
+        "annotation_token": [
+            "vacation sounds",
+            "I think",
+            "it is"
+        ],
+        "rationale": "The subject 'vacation' agrees with the verb 'sounds', 'I' agrees with the verb 'think', and 'it' agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, um... maybe we can visit, uh, temples? And see, uh, how to say... traditional houses?",
+        "annotation_token": [
+            "we can visit"
+        ],
+        "rationale": "The subject 'we' agrees with the modal verb 'can' and the base form of the verb 'visit'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, machiya! And also, I want to try Kyoto food... um, like kyo-kaiseki?",
+        "annotation_token": [
+            "I want"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'want' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, I think... shinkansen? It’s fast, but maybe, uh... expensive?",
+        "annotation_token": [
+            "I think",
+            "It’s"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'think', and the subject 'It' agrees with the contraction 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, express bus is good idea too. Maybe, um, we can check price for both?",
+        "annotation_token": [
+            "bus is",
+            "we can check"
+        ],
+        "rationale": "The subject 'bus' agrees with the verb 'is', and the subject 'we' agrees with the modal verb 'can' and the base form of the verb 'check'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes. Better to book early, I think. Maybe a... ryokan? For real Japanese experience.",
+        "annotation_token": [
+            "I think"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'think'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think, um, maybe five? Or six? I ask some friends if they want to come.",
+        "annotation_token": [
+            "I think",
+            "I ask",
+            "they want"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'think', 'I' agrees with the verb 'ask', and 'they' agrees with the verb 'want'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Okay, I can do it! I will... um, make a group chat and tell them our plan.",
+        "annotation_token": [
+            "I can do",
+            "I will make",
+            "tell"
+        ],
+        "rationale": "The subject 'I' agrees with the modal verb 'can' and the base form of the verb 'do', 'I' agrees with the modal verb 'will' and the base form of the verb 'make', and the base form 'tell' is used correctly after 'will'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, me too! It will be fun, I think. Thank you, Sarah, for planning with me!",
+        "annotation_token": [
+            "It will be",
+            "I think"
+        ],
+        "rationale": "The subject 'It' agrees with the modal verb 'will' and the base form of the verb 'be', and 'I' agrees with the verb 'think'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, let’s do that. See you soon, Sarah!",
+        "annotation_token": [
+            "let’s do"
+        ],
+        "rationale": "The contraction 'let’s' (let us) agrees with the base form of the verb 'do'.",
+        "grammar_correctness": "correct"
+    }
+]

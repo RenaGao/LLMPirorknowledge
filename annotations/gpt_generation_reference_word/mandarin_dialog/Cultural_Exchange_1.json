@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hi! Yes, I am very, uh, interested. It’s... um, very interesting to see how different places have different... customs?",
+        "annotation_token": "It’s",
+        "rationale": "The word 'It’s' is a reference word referring to the speaker's interest in the topic.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes. In China, we use chopsticks, and, um, it's important to not stick them... uh, how to say... upright in rice.",
+        "annotation_token": "it's",
+        "rationale": "The word 'it's' is a reference word referring to the importance of not sticking chopsticks upright in rice.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, yes. It’s, uh, not polite. Also, we like to share dish. Everything is, um, put in middle of table.",
+        "annotation_token": "It’s",
+        "rationale": "The word 'It’s' is a reference word referring to the act of sticking chopsticks upright in rice being impolite.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, we like to share. It is, um, more... how you say... social.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the act of sharing being more social.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, in China, we do not usually tip. It is, um, not expected.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the act of tipping not being expected.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, tea is very common. We have many, uh, types of tea. It is, um, important in culture.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to tea being important in culture.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, too! I learn a lot from you, and it is, um, fun to ta",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the act of learning and talking being fun.",
+        "grammar_correctness": true
+    }
+]

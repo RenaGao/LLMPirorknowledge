@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I’m particularly interested in this role because of your focus on innovative campaigns.",
+        "annotation_token": "this",
+        "rationale": "The word 'this' is a reference word pointing to the specific role being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I believe it was our focus on storytelling.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring back to the reason for the increased engagement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We crafted narratives that resonated with the audience, making the charity’s mission more relatable.",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is a reference word referring to the narratives crafted.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I usually analyze what went wrong, gather feedback, and quickly pivot the strategy to better align with the audience’s needs.",
+        "annotation_token": "what",
+        "rationale": "The word 'what' is a reference word referring to the specific issues or mistakes that occurred.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, what does success look like for someone in this role after the first year?",
+        "annotation_token": "this",
+        "rationale": "The word 'this' is a reference word pointing to the specific role being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you for sharing that.",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is a reference word referring to the information shared by the other person.",
+        "grammar_correctness": true
+    }
+]

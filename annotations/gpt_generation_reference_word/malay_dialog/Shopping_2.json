@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, hi. I buy... a shirt last week. But problem, it is too small.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer back to 'a shirt' mentioned earlier in the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I have. Here it is.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer back to 'a shirt' that the speaker is talking about.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I try. Want to make sure it fit.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer back to 'a shirt' that the speaker is trying on.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hello again. Large is good, it fit well.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer back to 'a shirt' that the speaker is discussing.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "No, thank you. Just this shirt is okay.",
+        "annotation_token": "this",
+        "rationale": "The word 'this' is used to specify 'shirt' that the speaker is referring to.",
+        "grammar_correctness": true
+    }
+]

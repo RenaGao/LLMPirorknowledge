@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, in Malaysia, we have, um, different way.",
+        "annotation_token": "have way",
+        "rationale": "The noun 'way' and the verb 'have' form a collocation expressing possession or existence of a method or manner.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We like to use hand for eating, especially rice.",
+        "annotation_token": "use hand",
+        "rationale": "The noun 'hand' and the verb 'use' form a collocation expressing the action of utilizing a part of the body.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We put dishes in middle and everyone, um, take what they want.",
+        "annotation_token": "put dishes",
+        "rationale": "The noun 'dishes' and the verb 'put' form a collocation expressing the action of placing items.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Tipping is not very, um, usual. But if service is good, people sometimes give small tip.",
+        "annotation_token": "give tip",
+        "rationale": "The noun 'tip' and the verb 'give' form a collocation expressing the action of providing a gratuity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, must try nasi lemak! It is our, um, national dish.",
+        "annotation_token": "try nasi lemak",
+        "rationale": "The noun 'nasi lemak' and the verb 'try' form a collocation expressing the action of tasting or experiencing a dish.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Hmm, we have teh tarik.",
+        "annotation_token": "have teh tarik",
+        "rationale": "The noun 'teh tarik' and the verb 'have' form a collocation expressing possession or availability of a beverage.",
+        "grammar_correctness": true
+    }
+]

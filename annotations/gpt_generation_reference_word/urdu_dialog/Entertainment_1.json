@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hello! Um, I am good, thank you. I was thinking... maybe we go out to eat?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hmm, I like the... uh, the place with spicy food. How to say... like biryani?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, yes! That the one. I hear they have very good... uh, how to say... flavors?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, maybe not need? We can just go and see if place is busy.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the speaker and another person.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "How about, um, 7 o'clock? Is it good for you?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the time '7 o'clock'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Maybe we can... um, see movie? Or go for... uh, sweet things?",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and another person.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, I not sure of names. But something... how to say, with action?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you! And, um, if it late, we can just have dessert nearby?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the time being late.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I know that place! They have very nice... uh, cakes.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, very good plan! I will see you at restaurant.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Me too! Thank you for help with plan.",
+        "annotation_token": "Me",
+        "rationale": "The word 'Me' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

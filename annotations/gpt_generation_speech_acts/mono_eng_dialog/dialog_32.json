@@ -1,0 +1,66 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Certainly! I recently graduated with a degree in marketing, and I’ve been working as an intern at a digital agency for the past six months.",
+        "annotation_token": [
+            "Certainly!"
+        ],
+        "rationale": "The token 'Certainly!' is a speech act as it expresses agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure! During my internship, I led a campaign for a local nonprofit that increased their social media following by 30% in just three months.",
+        "annotation_token": [
+            "Sure!"
+        ],
+        "rationale": "The token 'Sure!' is a speech act as it expresses agreement or willingness.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I appreciate the opportunity to discuss my experience with you.",
+        "annotation_token": [
+            "Thank you!"
+        ],
+        "rationale": "The token 'Thank you!' is a speech act as it expresses gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Have a great day!",
+        "annotation_token": [
+            "Have a great day!"
+        ],
+        "rationale": "The token 'Have a great day!' is a speech act as it expresses a wish or farewell.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Certainly! I recently graduated with a degree in marketing, and I’ve been working as an intern at a digital agency for the past six months.",
+        "annotation_token": [
+            "Certainly!"
+        ],
+        "rationale": "The token 'Certainly!' is a speech act as it expresses agreement or affirmation, setting the tone for the following statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure! During my internship, I led a campaign for a local nonprofit that increased their social media following by 30% in just three months.",
+        "annotation_token": [
+            "Sure!"
+        ],
+        "rationale": "The token 'Sure!' is a speech act as it indicates agreement or willingness to provide information, introducing the subsequent explanation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I appreciate the opportunity to discuss my experience with you. Have a great day!",
+        "annotation_token": [
+            "Thank you!",
+            "Have a great day!"
+        ],
+        "rationale": "The tokens 'Thank you!' and 'Have a great day!' are speech acts as they express gratitude and a polite closing, respectively.",
+        "grammar_correctness": "correct"
+    }
+]

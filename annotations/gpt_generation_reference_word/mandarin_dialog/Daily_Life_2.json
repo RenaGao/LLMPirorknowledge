@@ -1,0 +1,128 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, hello! It is good, thank you.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to something previously mentioned or understood in the context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I still have many box, but almost done.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I want to make my favorite meal.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is... um, how to say... noodles with meat and vegetable.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the meal the speaker wants to make.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "In China, we call it \"Zhajiangmian.\"",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the dish 'noodles with meat and vegetable'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "First, I need to buy ingredient.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I go to supermarket.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I cook pork with oil and onion.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, yes. I use... um, cucumber and carrot.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I cut, uh... slice them small.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, no. I, uh... put noodle and then sauce on top.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Maybe... um, cook pork just right.",
+        "annotation_token": "pork",
+        "rationale": "The word 'pork' is a reference to the ingredient being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It need practice, I think.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the action of cooking pork just right.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, yes! That would be fun.",
+        "annotation_token": "That",
+        "rationale": "The word 'That' is used as a reference to the idea of showing more Chinese food.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I can show you more Chinese food.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you for listening. I hope you like it when I make.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I hope you like it when I make.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the food the speaker will make.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay, thank you! I will ask if I need he",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    }
+]

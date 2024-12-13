@@ -1,0 +1,62 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "No, I from Osaka. I visit my friend here.",
+        "annotation_token": [
+            "I from",
+            "I visit"
+        ],
+        "rationale": "The subject 'I' should be followed by the verb 'am' to form 'I am from Osaka' for correct subject-verb agreement. Similarly, 'I visit' should be 'I am visiting' or 'I visited' depending on the intended tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "My friend invite me. She say many interesting people come.",
+        "annotation_token": [
+            "My friend invite",
+            "She say"
+        ],
+        "rationale": "The subject 'My friend' should be followed by the verb 'invites' to form 'My friend invites me' for correct subject-verb agreement. Similarly, 'She say' should be 'She says'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I work in, um, how to say... design company? I make website.",
+        "annotation_token": [
+            "I work",
+            "I make"
+        ],
+        "rationale": "The subject 'I' is correctly followed by the verbs 'work' and 'make', which are in agreement with the subject.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I make website for a, um, local festival. It was very colorful, and many people like it.",
+        "annotation_token": [
+            "I make",
+            "many people like"
+        ],
+        "rationale": "The subject 'I' is correctly followed by the verb 'make', and 'many people' is correctly followed by the verb 'like', both of which are in agreement with their respective subjects.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I study, um, graphic design in university. Then I learn coding.",
+        "annotation_token": [
+            "I study",
+            "I learn"
+        ],
+        "rationale": "The subject 'I' is correctly followed by the verbs 'study' and 'learn', which are in agreement with the subject.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I like when... um, I see my idea become real.",
+        "annotation_token": [
+            "I like",
+            "I see"
+        ],
+        "rationale": "The subject 'I' is correctly followed by the verbs 'like' and 'see', which are in agreement with the subject.",
+        "grammar_correctness": "correct"
+    }
+]

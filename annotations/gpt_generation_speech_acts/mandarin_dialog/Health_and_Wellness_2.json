@@ -1,0 +1,74 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, yes, thank you.",
+        "annotation_token": [
+            "thank you"
+        ],
+        "rationale": "The phrase 'thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes, I want to learn.",
+        "annotation_token": [
+            "I want to learn"
+        ],
+        "rationale": "The phrase 'I want to learn' is a speech act expressing a desire or intention.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, sounds good.",
+        "annotation_token": [
+            "sounds good"
+        ],
+        "rationale": "The phrase 'sounds good' is a speech act expressing agreement or approval.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for help.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, yes, thank you.",
+        "annotation_token": [
+            "thank you"
+        ],
+        "rationale": "The phrase 'thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes, I want to learn.",
+        "annotation_token": [
+            "I want to learn"
+        ],
+        "rationale": "The phrase 'I want to learn' is a speech act expressing a desire or intention.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, sounds good.",
+        "annotation_token": [
+            "sounds good"
+        ],
+        "rationale": "The phrase 'sounds good' is a speech act expressing agreement or approval.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for help.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

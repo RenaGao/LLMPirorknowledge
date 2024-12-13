@@ -1,0 +1,106 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, yes, that sound fun! Um, where you think we should go?",
+        "annotation_token": [
+            "sound",
+            "think"
+        ],
+        "rationale": "The verbs 'sound' and 'think' do not agree in tense with the subject. 'Sound' should be 'sounds' and 'think' should be 'do you think' to match the present tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Langkawi is nice! I hear they have nice beach... beaches, right?",
+        "annotation_token": [
+            "hear"
+        ],
+        "rationale": "The verb 'hear' is in the present tense, which agrees with the present tense context of the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Activities? Like, um... what we can do there?",
+        "annotation_token": [
+            "can do"
+        ],
+        "rationale": "The modal 'can' is correctly used with the base form 'do', maintaining tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, I like snorkeling! But, um, is it expensive?",
+        "annotation_token": [
+            "like",
+            "is"
+        ],
+        "rationale": "The verbs 'like' and 'is' are in the present tense, which is consistent with the context of the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Maybe... um, five or six. I can ask our friends.",
+        "annotation_token": [
+            "can ask"
+        ],
+        "rationale": "The modal 'can' is correctly used with the base form 'ask', maintaining tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Let me see... How about, um... next month? During school holiday maybe?",
+        "annotation_token": [],
+        "rationale": "There are no verbs in this sentence that require tense agreement.",
+        "grammar_correctness": "N/A"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I think so. Everyone like holiday. I will, um... message them today.",
+        "annotation_token": [
+            "think",
+            "like",
+            "will message"
+        ],
+        "rationale": "The verb 'think' is in the present tense, which is correct. However, 'like' should be 'likes' to agree with the singular subject 'Everyone'. 'Will message' is correctly in the future tense.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I think chalet can be good. More, um... how to say, private?",
+        "annotation_token": [
+            "think",
+            "can be"
+        ],
+        "rationale": "The verb 'think' is in the present tense, which is correct. The modal 'can' is correctly used with the base form 'be', maintaining tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Sure, I will help look. Um, do we need to rent a car there?",
+        "annotation_token": [
+            "will help",
+            "do need"
+        ],
+        "rationale": "The phrase 'will help' is correctly in the future tense. The auxiliary 'do' is correctly used with the base form 'need', maintaining tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Okay, I will check car rental too. Anything else we need plan?",
+        "annotation_token": [
+            "will check",
+            "need plan"
+        ],
+        "rationale": "The phrase 'will check' is correctly in the future tense. However, 'need plan' should be 'need to plan' to maintain correct tense agreement.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I will do that. Thank you for help, Sarah!",
+        "annotation_token": [
+            "will do"
+        ],
+        "rationale": "The phrase 'will do' is correctly in the future tense.",
+        "grammar_correctness": "correct"
+    }
+]

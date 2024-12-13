@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, not really. I thinking to do something, but not sure yet.",
+        "annotation_token": "I thinking",
+        "rationale": "The verb 'thinking' should be in agreement with the subject 'I', which requires the auxiliary verb 'am' to form the present continuous tense: 'I am thinking'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I hear about new action film. Everyone say it very good.",
+        "annotation_token": "Everyone say",
+        "rationale": "The verb 'say' should be in agreement with the singular subject 'Everyone', which requires the third person singular form 'says'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, good plan. I looking forward to tonight!",
+        "annotation_token": "I looking",
+        "rationale": "The verb 'looking' should be in agreement with the subject 'I', which requires the auxiliary verb 'am' to form the present continuous tense: 'I am looking'.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Also, um, chopsticks... people here not use often.",
+        "annotation_token": "people",
+        "rationale": "The subject 'people' is plural, so the verb should be 'do not use' instead of 'not use'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I try to be quiet when eat noodle here.",
+        "annotation_token": "noodle",
+        "rationale": "The noun 'noodle' should be plural 'noodles' to agree with the context of eating multiple noodles.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I enjoy talk about cultures.",
+        "annotation_token": "talk",
+        "rationale": "The verb 'talk' should be 'talking' to agree with the structure 'enjoy + gerund'.",
+        "grammar_correctness": "wrong"
+    }
+]

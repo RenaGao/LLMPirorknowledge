@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Weather is very hot these days.",
+        "annotation_token": [
+            "these"
+        ],
+        "rationale": "'These' is a quantifier used to refer to a specific group of days.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Not yet. Maybe next year.",
+        "annotation_token": [
+            "next"
+        ],
+        "rationale": "'Next' is a quantifier used to refer to the year following the current one.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Your family all well, yes?",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "'All' is a quantifier used to refer to the entirety of the family.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, not much. Just busy with work and... how to say... family things.",
+        "annotation_token": [
+            "not much"
+        ],
+        "rationale": "'Not much' is a quantifier used to indicate a small amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I want see... um, new places. Your family all well, yes?",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "'All' is a quantifier used to refer to the whole quantity or extent of a particular group.",
+        "grammar_correctness": true
+    }
+]

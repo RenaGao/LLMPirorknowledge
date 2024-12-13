@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We splash water for good luck.",
+        "annotation_token": "splash water",
+        "rationale": "The noun 'water' and the verb 'splash' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, we eat... um, Thai traditional food.",
+        "annotation_token": "eat food",
+        "rationale": "The noun 'food' and the verb 'eat' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I remember when I... um, young. We play water in street and... um, everybody happy.",
+        "annotation_token": "play water",
+        "rationale": "The noun 'water' and the verb 'play' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I love that we... um, show respect.",
+        "annotation_token": "show respect",
+        "rationale": "The noun 'respect' and the verb 'show' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We pour water on elder hand for... how to say... blessing.",
+        "annotation_token": "pour water",
+        "rationale": "The noun 'water' and the verb 'pour' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    }
+]

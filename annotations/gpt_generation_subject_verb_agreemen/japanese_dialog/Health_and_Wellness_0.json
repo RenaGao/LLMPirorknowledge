@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It come... um, how to say... it is not all time.",
+        "annotation_token": "It come",
+        "rationale": "The subject 'It' does not agree with the verb 'come'. The correct form should be 'It comes'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "When I eat, it become more... uh, strong, more painful.",
+        "annotation_token": "it become",
+        "rationale": "The subject 'it' does not agree with the verb 'become'. The correct form should be 'it becomes'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I take, um, painkiller, but it not help much.",
+        "annotation_token": "it not help",
+        "rationale": "The subject 'it' does not agree with the verb 'help'. The correct form should be 'it does not help'.",
+        "grammar_correctness": "wrong"
+    }
+]

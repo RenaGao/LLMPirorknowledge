@@ -1,0 +1,92 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, hello. Um, I want to start exercise. I am not sure how to... how to begin.",
+        "annotation_token": [
+            "Ah",
+            "hello",
+            "I want to start exercise",
+            "I am not sure how to... how to begin"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Ah, hello'), an expression of desire ('I want to start exercise'), and an expression of uncertainty ('I am not sure how to... how to begin').",
+        "grammar_correctness": "partially correct, 'I want to start exercise' should be 'I want to start exercising' for native grammar correctness."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I want to be... more healthy. Also, maybe lose some weight, like five kilo.",
+        "annotation_token": [
+            "Yes",
+            "I want to be... more healthy",
+            "Also, maybe lose some weight, like five kilo"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes'), an expression of desire ('I want to be... more healthy'), and a suggestion ('Also, maybe lose some weight, like five kilo').",
+        "grammar_correctness": "partially correct, 'more healthy' should be 'healthier' and 'five kilo' should be 'five kilos' for native grammar correctness."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. Um, what about food? Should I eat special?",
+        "annotation_token": [
+            "Thank you",
+            "what about food",
+            "Should I eat special"
+        ],
+        "rationale": "The sentence contains a gratitude expression ('Thank you'), a question ('what about food?'), and a request for advice ('Should I eat special?').",
+        "grammar_correctness": "partially correct, 'Should I eat special?' should be 'Should I eat something special?' for native grammar correctness."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I will try. Thank you for helping me.",
+        "annotation_token": [
+            "Okay",
+            "I will try",
+            "Thank you for helping me"
+        ],
+        "rationale": "The sentence contains an agreement ('Okay'), a promise ('I will try'), and an expression of gratitude ('Thank you for helping me').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, hello. Um, I want to start exercise. I am not sure how to... how to begin.",
+        "annotation_token": [
+            "Ah",
+            "hello",
+            "I want to start exercise",
+            "I am not sure how to... how to begin"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Ah, hello'), an expression of desire ('I want to start exercise'), and an expression of uncertainty ('I am not sure how to... how to begin').",
+        "grammar_correctness": "partially correct, 'I want to start exercise' should be 'I want to start exercising' for native grammar correctness."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I want to be... more healthy. Also, maybe lose some weight, like five kilo.",
+        "annotation_token": [
+            "Yes",
+            "I want to be... more healthy",
+            "Also, maybe lose some weight, like five kilo"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes'), an expression of desire ('I want to be... more healthy'), and a suggestion ('Also, maybe lose some weight, like five kilo').",
+        "grammar_correctness": "partially correct, 'more healthy' should be 'healthier' and 'five kilo' should be 'five kilos' for native grammar correctness."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. Um, what about food? Should I eat special?",
+        "annotation_token": [
+            "Thank you",
+            "what about food",
+            "Should I eat special"
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you'), a question ('what about food?'), and a request for advice ('Should I eat special?').",
+        "grammar_correctness": "partially correct, 'Should I eat special?' should be 'Should I eat something special?' for native grammar correctness."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I will try. Thank you for helping me.",
+        "annotation_token": [
+            "Okay",
+            "I will try",
+            "Thank you for helping me"
+        ],
+        "rationale": "The sentence contains an agreement ('Okay'), an expression of intention ('I will try'), and an expression of gratitude ('Thank you for helping me').",
+        "grammar_correctness": "correct"
+    }
+]

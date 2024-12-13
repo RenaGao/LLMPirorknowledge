@@ -1,0 +1,126 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Absolutely, thanks for having me. I'm Alex, and I've been working in digital marketing for about five years.",
+        "annotation_token": [
+            "I've been working"
+        ],
+        "rationale": "The present perfect continuous tense 'I've been working' is used to indicate an action that started in the past and is still continuing in the present.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Sure! Last year, I led a campaign for a new mobile app.",
+        "annotation_token": [
+            "led"
+        ],
+        "rationale": "The past simple tense 'led' is used to describe a completed action that took place at a specific time in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We focused heavily on social media engagement, which increased our user base by 40% in just three months.",
+        "annotation_token": [
+            "focused",
+            "increased"
+        ],
+        "rationale": "The past simple tense 'focused' and 'increased' are used to describe actions that were completed in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I believe it was our ability to adapt quickly to user feedback.",
+        "annotation_token": [
+            "was"
+        ],
+        "rationale": "The past simple tense 'was' is used to describe a state or condition that existed in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We made several adjustments to our approach based on what our audience was responding to, which kept them engaged.",
+        "annotation_token": [
+            "made",
+            "was responding",
+            "kept"
+        ],
+        "rationale": "The past simple tense 'made' and 'kept' are used for completed actions in the past, while 'was responding' is in the past continuous tense, indicating an ongoing action in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I try to stay calm and assess what went wrong.",
+        "annotation_token": [
+            "try",
+            "went"
+        ],
+        "rationale": "The present simple tense 'try' is used for a habitual action, while the past simple tense 'went' is used for a completed action in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It's crucial to learn from mistakes and communicate openly with the team to find a solution.",
+        "annotation_token": [
+            "It's",
+            "learn",
+            "communicate"
+        ],
+        "rationale": "The present simple tense 'It's', 'learn', and 'communicate' are used to express general truths or habitual actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I'm curious about the team dynamics here.",
+        "annotation_token": [
+            "I'm"
+        ],
+        "rationale": "The present simple tense 'I'm' is used to express a current state or condition.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "How would you describe the work environment?",
+        "annotation_token": [
+            "would describe"
+        ],
+        "rationale": "The modal 'would' is used to express a hypothetical situation or polite request.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "That sounds perfect for me.",
+        "annotation_token": [
+            "sounds"
+        ],
+        "rationale": "The present simple tense 'sounds' is used to express a current opinion or impression.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I thrive in team-oriented settings.",
+        "annotation_token": [
+            "thrive"
+        ],
+        "rationale": "The present simple tense 'thrive' is used to express a habitual action or general truth.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you for explaining that.",
+        "annotation_token": [
+            "explaining"
+        ],
+        "rationale": "The present participle 'explaining' is used here as part of a gerund phrase to indicate an ongoing action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you for the opportunity. I'm looking forward to hearing from you!",
+        "annotation_token": [
+            "I'm looking",
+            "hearing"
+        ],
+        "rationale": "The present continuous tense 'I'm looking' is used to express a future intention, and 'hearing' is a gerund used as part of a phrase.",
+        "grammar_correctness": "correct"
+    }
+]

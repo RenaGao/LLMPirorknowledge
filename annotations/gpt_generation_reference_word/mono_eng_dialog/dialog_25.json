@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hi, thank you for having me. I’m hoping to get some information about the new features in the software update.",
+        "annotation_token": "me",
+        "rationale": "The word 'me' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I heard there’s a new collaboration tool. Can you tell me more about how it works?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the 'new collaboration tool'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That sounds really useful! Is it compatible with all file types, or are there restrictions?",
+        "annotation_token": "That",
+        "rationale": "The word 'That' is a reference word referring to the previous statement about the collaboration tool.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That would be great, thank you. Also, is there a tutorial available for this feature?",
+        "annotation_token": "That",
+        "rationale": "The word 'That' is a reference word referring to the previous statement about compatibility.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Perfect! I’ll make sure to check it out. One last thing—do users need to have an account to access these features?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the 'tutorial'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sounds straightforward. Thank you so much for the information. I feel much more informed now.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I appreciate that. Have a great day!",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,430 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! Um, yes, I think maybe we go to Japan?",
+        "annotation_token": [
+            "Hi",
+            "Um",
+            "yes",
+            "I think",
+            "maybe"
+        ],
+        "rationale": "The tokens 'Hi', 'Um', 'yes', 'I think', and 'maybe' are used as speech acts to initiate conversation, express hesitation, agreement, and uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, I think Tokyo is good.",
+        "annotation_token": [
+            "Hmm",
+            "I think"
+        ],
+        "rationale": "The tokens 'Hmm' and 'I think' are used as speech acts to express contemplation and personal opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I want to visit the big tower... um, what is it called?",
+        "annotation_token": [
+            "um",
+            "what is it called"
+        ],
+        "rationale": "The token 'um' is used as a speech act to indicate hesitation, and 'what is it called' is a speech act to request information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh yes, tea ceremony would be very interesting.",
+        "annotation_token": [
+            "Oh",
+            "yes"
+        ],
+        "rationale": "The tokens 'Oh' and 'yes' are used as speech acts to express realization and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I also want to try... uh, wearing kimono?",
+        "annotation_token": [
+            "uh"
+        ],
+        "rationale": "The token 'uh' is used as a speech act to indicate hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think we find... um, how to say... a place like home?",
+        "annotation_token": [
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'um' and 'how to say' are used as speech acts to indicate hesitation and searching for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I ask Wing and Tom.",
+        "annotation_token": [
+            "I ask"
+        ],
+        "rationale": "The token 'I ask' is used as a speech act to indicate the action of inquiring.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, maybe language?",
+        "annotation_token": [
+            "Um",
+            "maybe"
+        ],
+        "rationale": "The tokens 'Um' and 'maybe' are used as speech acts to express hesitation and uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that makes me feel better.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, let’s plan to book by then.",
+        "annotation_token": [
+            "Okay"
+        ],
+        "rationale": "The token 'Okay' is used as a speech act to express agreement or acceptance.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, let’s do that.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! Um, yes, I think maybe we go to Japan?",
+        "annotation_token": [
+            "Hi",
+            "Um",
+            "yes",
+            "I think",
+            "maybe"
+        ],
+        "rationale": "The sentence contains multiple speech acts: 'Hi' is a greeting, 'Um' is a hesitation marker, 'yes' is an agreement, 'I think' is an expression of opinion, and 'maybe' indicates uncertainty.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I hear it is very nice in spring with cherry flowers.",
+        "annotation_token": [
+            "I hear"
+        ],
+        "rationale": "'I hear' is a speech act indicating the speaker is reporting information they have received.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, I think Tokyo is good.",
+        "annotation_token": [
+            "Hmm",
+            "I think"
+        ],
+        "rationale": "'Hmm' is a hesitation marker, and 'I think' is an expression of opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I want to visit the big tower... um, what is it called?",
+        "annotation_token": [
+            "I want",
+            "um",
+            "what is it called"
+        ],
+        "rationale": "'I want' is an expression of desire, 'um' is a hesitation marker, and 'what is it called' is a request for information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, Tokyo Tower and maybe shop in Shibuya.",
+        "annotation_token": [
+            "Ah",
+            "maybe"
+        ],
+        "rationale": "'Ah' is an interjection indicating realization, and 'maybe' indicates uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh yes, tea ceremony would be very interesting.",
+        "annotation_token": [
+            "Oh",
+            "yes"
+        ],
+        "rationale": "'Oh' is an interjection indicating realization or emphasis, and 'yes' is an agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I also want to try... uh, wearing kimono?",
+        "annotation_token": [
+            "I also want",
+            "uh"
+        ],
+        "rationale": "'I also want' is an expression of desire, and 'uh' is a hesitation marker.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe one week?",
+        "annotation_token": [
+            "Maybe"
+        ],
+        "rationale": "'Maybe' indicates uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think we find... um, how to say... a place like home?",
+        "annotation_token": [
+            "I think",
+            "um",
+            "how to say"
+        ],
+        "rationale": "'I think' is an expression of opinion, 'um' is a hesitation marker, and 'how to say' is a request for assistance in finding the right words.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, Airbnb!",
+        "annotation_token": [
+            "Ah"
+        ],
+        "rationale": "'Ah' is an interjection indicating realization.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I ask Wing and Tom.",
+        "annotation_token": [
+            "I ask"
+        ],
+        "rationale": "'I ask' is a speech act indicating the speaker is reporting an action of inquiry.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "They say they want to come.",
+        "annotation_token": [
+            "They say"
+        ],
+        "rationale": "'They say' is a speech act indicating the speaker is reporting what others have expressed.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, maybe language?",
+        "annotation_token": [
+            "Um",
+            "maybe"
+        ],
+        "rationale": "'Um' is a hesitation marker, and 'maybe' indicates uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "But I think we can use apps.",
+        "annotation_token": [
+            "I think"
+        ],
+        "rationale": "'I think' is an expression of opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that makes me feel better.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "'Yes' is an agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you!",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "'Thank you' is an expression of gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "When should we book everything?",
+        "annotation_token": [
+            "When should we"
+        ],
+        "rationale": "'When should we' is a request for information or suggestion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, let’s plan to book by then.",
+        "annotation_token": [
+            "Okay",
+            "let’s plan"
+        ],
+        "rationale": "'Okay' is an agreement, and 'let’s plan' is a suggestion or proposal.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I am very excited for this trip!",
+        "annotation_token": [
+            "I am very excited"
+        ],
+        "rationale": "'I am very excited' is an expression of emotion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, let’s do that.",
+        "annotation_token": [
+            "Yes",
+            "let’s do that"
+        ],
+        "rationale": "'Yes' is an agreement, and 'let’s do that' is a suggestion or proposal.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for helping with the plans!",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "'Thank you' is an expression of gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! Um, yes, I think maybe we go to Japan?",
+        "annotation_token": [
+            "Hi",
+            "Um",
+            "yes",
+            "I think",
+            "maybe"
+        ],
+        "rationale": "The tokens 'Hi', 'Um', 'yes', 'I think', and 'maybe' are used as speech acts to initiate conversation, express hesitation, agreement, and uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, I think Tokyo is good.",
+        "annotation_token": [
+            "Hmm",
+            "I think"
+        ],
+        "rationale": "The tokens 'Hmm' and 'I think' are used as speech acts to express contemplation and personal opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I want to visit the big tower... um, what is it called?",
+        "annotation_token": [
+            "um",
+            "what is it called"
+        ],
+        "rationale": "The token 'um' is used as a speech act to indicate hesitation, and 'what is it called' is a speech act to request information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh yes, tea ceremony would be very interesting.",
+        "annotation_token": [
+            "Oh yes"
+        ],
+        "rationale": "The token 'Oh yes' is used as a speech act to express realization and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I also want to try... uh, wearing kimono?",
+        "annotation_token": [
+            "uh"
+        ],
+        "rationale": "The token 'uh' is used as a speech act to indicate hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe one week?",
+        "annotation_token": [
+            "Maybe"
+        ],
+        "rationale": "The token 'Maybe' is used as a speech act to express uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think we find... um, how to say... a place like home?",
+        "annotation_token": [
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'um' and 'how to say' are used as speech acts to indicate hesitation and search for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I ask Wing and Tom.",
+        "annotation_token": [
+            "I ask"
+        ],
+        "rationale": "The token 'I ask' is used as a speech act to indicate an intention to inquire.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, maybe language?",
+        "annotation_token": [
+            "Um",
+            "maybe"
+        ],
+        "rationale": "The tokens 'Um' and 'maybe' are used as speech acts to express hesitation and uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that makes me feel better.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, let’s plan to book by then.",
+        "annotation_token": [
+            "Okay"
+        ],
+        "rationale": "The token 'Okay' is used as a speech act to express agreement and readiness to proceed.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, let’s do that.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement.",
+        "grammar_correctness": "correct"
+    }
+]

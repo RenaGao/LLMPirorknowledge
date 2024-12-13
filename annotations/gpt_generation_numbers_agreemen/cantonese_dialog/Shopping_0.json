@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Uh, I not sure. Maybe, uh, one for family? Four people?",
+        "annotation_token": "people",
+        "rationale": "The word 'people' is a plural noun, and it correctly agrees with the number 'four'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Oh, it look nice.",
+        "annotation_token": "look",
+        "rationale": "The verb 'look' should agree with the singular subject 'it', so it should be 'looks'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Okay, I see. It... um, have warranty?",
+        "annotation_token": "have",
+        "rationale": "The verb 'have' should agree with the singular subject 'it', so it should be 'has'.",
+        "grammar_correctness": "wrong"
+    }
+]

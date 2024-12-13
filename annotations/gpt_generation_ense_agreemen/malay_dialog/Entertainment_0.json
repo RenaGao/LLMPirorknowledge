@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I also like comedy. Um, like \"Friends\". It make me laugh a lot.",
+        "annotation_token": [
+            "make"
+        ],
+        "rationale": "The verb 'make' should be in agreement with the singular subject 'It', thus it should be 'makes'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I watch with subtitle, easier to understand. Sometimes English is... um, difficult.",
+        "annotation_token": [
+            "watch"
+        ],
+        "rationale": "The verb 'watch' is correctly in the present tense, agreeing with the subject 'I'.",
+        "grammar_correctness": "correct"
+    }
+]

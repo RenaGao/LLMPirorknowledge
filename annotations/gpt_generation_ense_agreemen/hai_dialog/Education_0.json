@@ -1,0 +1,62 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, hello! Um, I feel... a bit worry, you know? The exam, it not easy.",
+        "annotation_token": [
+            "feel",
+            "is"
+        ],
+        "rationale": "The verb 'feel' is in the present tense, but 'it not easy' lacks the auxiliary verb 'is' to maintain tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I think... the writing part. I not good with... how to say... make sentences.",
+        "annotation_token": [
+            "think",
+            "am"
+        ],
+        "rationale": "The verb 'think' is in the present tense, but 'I not good' lacks the auxiliary verb 'am' to maintain tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I try practice. I write essay, but sometimes I not sure... correct or not.",
+        "annotation_token": [
+            "try",
+            "am"
+        ],
+        "rationale": "The verb 'try' is in the present tense, but 'I not sure' lacks the auxiliary verb 'am' to maintain tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Really? That so nice! Um, I think it's help a lot.",
+        "annotation_token": [
+            "think",
+            "helps"
+        ],
+        "rationale": "The verb 'think' is in the present tense, but 'it's help' should be 'it helps' to maintain tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Listening, um... not so bad. I watch many English movie.",
+        "annotation_token": [
+            "watch",
+            "movies"
+        ],
+        "rationale": "The verb 'watch' is in the present tense, but 'movie' should be plural 'movies' to agree with 'many'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Sometimes. It help me understand when they speak fast.",
+        "annotation_token": [
+            "help",
+            "helps"
+        ],
+        "rationale": "The verb 'help' should be 'helps' to agree with the singular subject 'It'.",
+        "grammar_correctness": "wrong"
+    }
+]

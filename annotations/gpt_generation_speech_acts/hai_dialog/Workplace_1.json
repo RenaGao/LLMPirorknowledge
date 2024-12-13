@@ -1,0 +1,109 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you.",
+        "annotation_token": [
+            "Yes",
+            "thank",
+            "you"
+        ],
+        "rationale": "The sentence 'Yes, thank you.' is a speech act as it expresses gratitude and acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I do a project with my team.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The word 'Yes' is a speech act as it confirms or agrees with a previous statement or question.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, what is the most important quality for success in your company?",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The word 'Yes' is a speech act as it indicates agreement or readiness to proceed with the conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "very",
+            "much"
+        ],
+        "rationale": "The sentence 'Thank you very much.' is a speech act as it expresses gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you.",
+        "annotation_token": [
+            "Yes",
+            "thank",
+            "you"
+        ],
+        "rationale": "The sentence 'Yes, thank you.' is a speech act as it performs the act of expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think it is good for, um, future... leader?",
+        "annotation_token": [
+            "I",
+            "think",
+            "it",
+            "is",
+            "good",
+            "for",
+            "future",
+            "leader"
+        ],
+        "rationale": "The sentence 'I think it is good for, um, future... leader?' is a speech act as it expresses an opinion or belief.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I do a project with my team.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "do",
+            "a",
+            "project",
+            "with",
+            "my",
+            "team"
+        ],
+        "rationale": "The sentence 'Yes, I do a project with my team.' is a speech act as it provides information or a statement of fact.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I feel good!",
+        "annotation_token": [
+            "I",
+            "feel",
+            "good"
+        ],
+        "rationale": "The sentence 'I feel good!' is a speech act as it expresses a personal feeling or emotion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "very",
+            "much"
+        ],
+        "rationale": "The sentence 'Thank you very much.' is a speech act as it performs the act of expressing gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

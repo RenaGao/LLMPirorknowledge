@@ -1,0 +1,243 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, of course. Um, the deadline is... how to say... coming soon, right?",
+        "annotation_token": [
+            "Yes",
+            "of course",
+            "how to say",
+            "right"
+        ],
+        "rationale": "The tokens 'Yes', 'of course', 'how to say', and 'right' are used as speech acts to confirm, express certainty, seek clarification, and confirm understanding respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think, yes. But some part is... um, taking more time.",
+        "annotation_token": [
+            "I think",
+            "yes"
+        ],
+        "rationale": "The tokens 'I think' and 'yes' are used as speech acts to express an opinion and confirm agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it's... how to say... the software we use? It have, um, problem with compatibility.",
+        "annotation_token": [
+            "Yes",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Yes' and 'how to say' are used as speech acts to confirm and seek clarification.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, not yet. I plan to do it today. I think they can help fix... uh, problem quickly.",
+        "annotation_token": [
+            "Uh",
+            "I think"
+        ],
+        "rationale": "The tokens 'Uh' and 'I think' are used as speech acts to express hesitation and an opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I believe so. After fix, it should be... um, faster. But I need also more, um, time to test.",
+        "annotation_token": [
+            "Yes",
+            "I believe so"
+        ],
+        "rationale": "The tokens 'Yes' and 'I believe so' are used as speech acts to confirm and express belief.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes! That would be... very helpful. Can we have, um, more people for testing?",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "Can we"
+        ],
+        "rationale": "The tokens 'Oh', 'yes', and 'Can we' are used as speech acts to express realization, agreement, and make a request.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that is good. With more help, we finish on time, I think.",
+        "annotation_token": [
+            "Yes",
+            "I think"
+        ],
+        "rationale": "The tokens 'Yes' and 'I think' are used as speech acts to confirm and express an opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, next week is... um, good. Maybe Tuesday? I can update then.",
+        "annotation_token": [
+            "Yes",
+            "Maybe"
+        ],
+        "rationale": "The tokens 'Yes' and 'Maybe' are used as speech acts to confirm and suggest a possibility.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I will make sure everything is, uh, ready by Friday.",
+        "annotation_token": [
+            "Okay"
+        ],
+        "rationale": "The token 'Okay' is used as a speech act to express agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I will, um, let you know if anything come up.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much. I try my best! See you next week.",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The token 'Thank you very much' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You too! Bye-b",
+        "annotation_token": [
+            "You too",
+            "Bye-b"
+        ],
+        "rationale": "The tokens 'You too' and 'Bye-b' are used as speech acts to reciprocate a farewell and say goodbye.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, of course. Um, the deadline is... how to say... coming soon, right?",
+        "annotation_token": [
+            "Yes",
+            "of course",
+            "how to say",
+            "right"
+        ],
+        "rationale": "The tokens 'Yes', 'of course', 'how to say', and 'right' are used as speech acts to confirm, express certainty, seek clarification, and confirm understanding respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think, yes. But some part is... um, taking more time.",
+        "annotation_token": [
+            "I think",
+            "yes"
+        ],
+        "rationale": "The tokens 'I think' and 'yes' are used as speech acts to express an opinion and confirm agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it's... how to say... the software we use? It have, um, problem with compatibility.",
+        "annotation_token": [
+            "Yes",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Yes' and 'how to say' are used as speech acts to confirm and seek clarification.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, not yet. I plan to do it today. I think they can help fix... uh, problem quickly.",
+        "annotation_token": [
+            "Uh",
+            "I think"
+        ],
+        "rationale": "The tokens 'Uh' and 'I think' are used as speech acts to express hesitation and an opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I believe so. After fix, it should be... um, faster. But I need also more, um, time to test.",
+        "annotation_token": [
+            "Yes",
+            "I believe so"
+        ],
+        "rationale": "The tokens 'Yes' and 'I believe so' are used as speech acts to confirm and express belief.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes! That would be... very helpful. Can we have, um, more people for testing?",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "Can we"
+        ],
+        "rationale": "The tokens 'Oh', 'yes', and 'Can we' are used as speech acts to express surprise, confirm, and make a request.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that is good. With more help, we finish on time, I think.",
+        "annotation_token": [
+            "Yes",
+            "I think"
+        ],
+        "rationale": "The tokens 'Yes' and 'I think' are used as speech acts to confirm and express an opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, next week is... um, good. Maybe Tuesday? I can update then.",
+        "annotation_token": [
+            "Yes",
+            "Maybe"
+        ],
+        "rationale": "The tokens 'Yes' and 'Maybe' are used as speech acts to confirm and express uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I will make sure everything is, uh, ready by Friday.",
+        "annotation_token": [
+            "Okay"
+        ],
+        "rationale": "The token 'Okay' is used as a speech act to express agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I will, um, let you know if anything come up.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much. I try my best! See you next week.",
+        "annotation_token": [
+            "Thank you very much",
+            "See you next week"
+        ],
+        "rationale": "The tokens 'Thank you very much' and 'See you next week' are used as speech acts to express gratitude and a farewell.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You too! Bye-b",
+        "annotation_token": [
+            "You too",
+            "Bye-b"
+        ],
+        "rationale": "The tokens 'You too' and 'Bye-b' are used as speech acts to reciprocate a farewell and say goodbye.",
+        "grammar_correctness": "correct"
+    }
+]

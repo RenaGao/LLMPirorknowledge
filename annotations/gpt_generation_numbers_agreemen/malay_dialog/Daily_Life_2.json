@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I add fried anchovies, peanuts, and boiled egg. Sometimes cucumber too, for fresh taste.",
+        "annotation_token": [
+            "egg",
+            "cucumber"
+        ],
+        "rationale": "The sentence lists multiple items, but 'egg' and 'cucumber' are singular, which does not agree with the plural form used for 'anchovies' and 'peanuts'. In standard English, it would be 'boiled eggs' and 'cucumbers' to maintain number agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

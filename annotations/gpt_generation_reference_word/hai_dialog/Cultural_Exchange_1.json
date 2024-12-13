@@ -1,0 +1,100 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hi, Nuch! I’m good, thank you. How about you?",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person Nuch.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh yes, um, I remember we talk about that.",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is a reference word referring to a previous conversation or topic.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, yes! Like, uh, we not use chopsticks for rice, and we share food.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and their group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, and they use fork and knife more.",
+        "annotation_token": "they",
+        "rationale": "The word 'they' is a reference word referring to people from a different culture or country.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hmm, how about... oh, yes! In Thailand, we not finish all food on plate.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to people in Thailand, including the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, yes. And also, um, we not speak loud at table.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to people in the speaker's culture.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, um, we say \"Chon!\" when toast, like \"Cheers.\"",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to people in the speaker's culture.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "But, uh, we not drink too much.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to people in the speaker's culture.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is, um, interesting but sometimes hard.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the topic of cultural differences.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, yes! I remember in Japan, I, um, slurp noodle.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "People look, uh, surprised, but then they say it’s okay.",
+        "annotation_token": "they",
+        "rationale": "The word 'they' is a reference word referring to people in Japan.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hmm, yes. Maybe, um, learn small thing about the culture before go.",
+        "annotation_token": "the",
+        "rationale": "The word 'the' is a reference word referring to a specific culture being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It help a lot.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to learning about the culture.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, Nuch.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person Nuch.",
+        "grammar_correctness": true
+    }
+]

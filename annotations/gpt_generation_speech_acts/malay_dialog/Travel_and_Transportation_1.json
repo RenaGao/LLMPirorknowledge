@@ -1,0 +1,110 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes, thank you.",
+        "annotation_token": [
+            "thank you"
+        ],
+        "rationale": "The phrase 'thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, bagus! How do I go there?",
+        "annotation_token": [
+            "How do I go there?"
+        ],
+        "rationale": "The question 'How do I go there?' is a speech act requesting information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, banyak terima kasih!",
+        "annotation_token": [
+            "banyak terima kasih"
+        ],
+        "rationale": "The phrase 'banyak terima kasih' is a speech act expressing gratitude in Indonesian.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. You help me a lot.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much.",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The phrase 'Thank you very much' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Goodbye!",
+        "annotation_token": [
+            "Goodbye"
+        ],
+        "rationale": "The word 'Goodbye' is a speech act used to bid farewell.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes, thank you.",
+        "annotation_token": [
+            "thank you"
+        ],
+        "rationale": "The phrase 'thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, bagus! How do I go there?",
+        "annotation_token": [
+            "How do I go there?"
+        ],
+        "rationale": "The question 'How do I go there?' is a speech act requesting information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, banyak terima kasih!",
+        "annotation_token": [
+            "banyak terima kasih"
+        ],
+        "rationale": "The phrase 'banyak terima kasih' is a speech act expressing gratitude in Indonesian.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. You help me a lot.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much.",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The phrase 'Thank you very much' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Goodbye!",
+        "annotation_token": [
+            "Goodbye"
+        ],
+        "rationale": "The word 'Goodbye' is a speech act used to bid farewell.",
+        "grammar_correctness": "correct"
+    }
+]

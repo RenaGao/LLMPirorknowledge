@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, okay! I thought you say a.m.",
+        "annotation_token": "you say",
+        "rationale": "The subject 'you' does not agree with the verb 'say'. It should be 'you said' or 'you were saying' to maintain subject-verb agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, but now is okay.",
+        "annotation_token": "now is",
+        "rationale": "The subject 'now' should be followed by 'it is' to maintain subject-verb agreement. The sentence should be 'Yes, but now it is okay.'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, that is good idea.",
+        "annotation_token": "that is",
+        "rationale": "The subject 'that' should be followed by 'a good idea' to maintain subject-verb agreement. The sentence should be 'Yes, that is a good idea.'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Perfect! I look forward to it.",
+        "annotation_token": "I look",
+        "rationale": "The subject 'I' agrees with the verb 'look'. This is a correct subject-verb agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think it is good to talk about... um, problem.",
+        "annotation_token": "it is",
+        "rationale": "The subject 'it' agrees with the verb 'is'. This is a correct subject-verb agreement.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good morning, doctor. I feel not good today.",
+        "annotation_token": [
+            "Good morning",
+            "I feel not good today"
+        ],
+        "rationale": "The speaker is greeting the doctor and expressing a feeling of unwellness, which are both speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, sometimes I feel, uh, dizzy.",
+        "annotation_token": [
+            "Yes",
+            "I feel, uh, dizzy"
+        ],
+        "rationale": "The speaker is confirming and expressing a feeling of dizziness, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that right. I feel like that but not vomit.",
+        "annotation_token": [
+            "Yes",
+            "that right",
+            "I feel like that but not vomit"
+        ],
+        "rationale": "The speaker is confirming and describing their condition, which are both speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I take, um, paracetamol.",
+        "annotation_token": [
+            "Yes",
+            "I take, um, paracetamol"
+        ],
+        "rationale": "The speaker is confirming and stating an action they have taken, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I try drink more. Thank you, doctor.",
+        "annotation_token": [
+            "Yes",
+            "I try drink more",
+            "Thank you, doctor"
+        ],
+        "rationale": "The speaker is confirming, stating an intention, and expressing gratitude, which are all speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, doctor. Thank you for help.",
+        "annotation_token": [
+            "Okay, doctor",
+            "Thank you for help"
+        ],
+        "rationale": "The speaker is acknowledging the doctor and expressing gratitude, which are both speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good morning, doctor. I feel not good today. Um, I have... how to say... pain in my head.",
+        "annotation_token": [
+            "Good morning",
+            "I feel not good today",
+            "I have... how to say... pain in my head"
+        ],
+        "rationale": "The speaker is greeting the doctor, expressing a feeling of illness, and attempting to describe a symptom, which are all speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, sometimes I feel, uh, dizzy. And my stomach... not good.",
+        "annotation_token": [
+            "Yes",
+            "I feel, uh, dizzy",
+            "my stomach... not good"
+        ],
+        "rationale": "The speaker is confirming a question, describing a symptom, and expressing discomfort, which are all speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that right. I feel like that but not vomit.",
+        "annotation_token": [
+            "Yes",
+            "that right",
+            "I feel like that but not vomit"
+        ],
+        "rationale": "The speaker is confirming agreement, describing a feeling, and clarifying a symptom, which are all speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I take, um, paracetamol. But it not help much.",
+        "annotation_token": [
+            "Yes",
+            "I take, um, paracetamol",
+            "it not help much"
+        ],
+        "rationale": "The speaker is confirming an action, stating a medication taken, and expressing its ineffectiveness, which are all speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I try drink more. Thank you, doctor.",
+        "annotation_token": [
+            "Yes",
+            "I try drink more",
+            "Thank you, doctor"
+        ],
+        "rationale": "The speaker is confirming an intention, stating an action plan, and expressing gratitude, which are all speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, doctor. Thank you for help.",
+        "annotation_token": [
+            "Okay, doctor",
+            "Thank you for help"
+        ],
+        "rationale": "The speaker is acknowledging the doctor and expressing gratitude, which are both speech acts.",
+        "grammar_correctness": "partially correct"
+    }
+]

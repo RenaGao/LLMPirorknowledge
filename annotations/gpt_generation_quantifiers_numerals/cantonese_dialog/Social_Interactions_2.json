@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "He enjoy a lot. Now he can, um, do garden every day. He very happy.",
+        "annotation_token": [
+            "a lot",
+            "every"
+        ],
+        "rationale": "The phrase 'a lot' is a quantifier indicating a large amount, and 'every' is a quantifier indicating all instances within a set.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, he grow many thing. Vegetables, um... how to say... flowers too.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of countable items.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe next year. I want to visit... um, how to say... more country?",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an additional amount or number.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe with friends. It's more fun, yes? We can see many thing together.",
+        "annotation_token": [
+            "more",
+            "many"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an additional amount or degree, and 'many' is a quantifier indicating a large number of countable items.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "He enjoy a lot. Now he can, um, do garden every day. He very happy.",
+        "annotation_token": [
+            "a lot",
+            "every"
+        ],
+        "rationale": "The phrase 'a lot' is a quantifier indicating a large amount, and 'every' is a quantifier indicating all instances within a set.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, he grow many thing. Vegetables, um... how to say... flowers too.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of countable items.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe next year. I want to visit... um, how to say... more country?",
+        "annotation_token": [
+            "next",
+            "more"
+        ],
+        "rationale": "The word 'next' is a numeral indicating the following year, and 'more' is a quantifier indicating an additional amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe with friends. It's more fun, yes? We can see many thing together.",
+        "annotation_token": [
+            "more",
+            "many"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an increased amount of fun, and 'many' is a quantifier indicating a large number of things.",
+        "grammar_correctness": true
+    }
+]

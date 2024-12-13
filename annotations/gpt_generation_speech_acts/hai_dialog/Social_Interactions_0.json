@@ -1,0 +1,71 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello, Sarah. I am Niran. Nice to meet you.",
+        "annotation_token": [
+            "Hello",
+            "Nice to meet you"
+        ],
+        "rationale": "The tokens 'Hello' and 'Nice to meet you' are speech acts as they perform the action of greeting and expressing pleasure in meeting someone.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I like it. Very fun. Um... people here are friendly.",
+        "annotation_token": [
+            "Yes",
+            "Very fun"
+        ],
+        "rationale": "The token 'Yes' is a speech act as it performs the action of agreement. 'Very fun' is an evaluative speech act expressing a positive opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I like it very much. It is, um, creative. I make advertisement.",
+        "annotation_token": [
+            "Yes",
+            "I like it very much"
+        ],
+        "rationale": "The token 'Yes' is a speech act as it performs the action of agreement. 'I like it very much' is an evaluative speech act expressing a strong positive opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I can show you. It will be fun.",
+        "annotation_token": [
+            "Yes",
+            "I can show you"
+        ],
+        "rationale": "The token 'Yes' is a speech act as it performs the action of agreement. 'I can show you' is a commissive speech act indicating a willingness to demonstrate something.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that is good idea. Thank you, Sarah.",
+        "annotation_token": [
+            "Yes",
+            "Thank you"
+        ],
+        "rationale": "The token 'Yes' is a speech act as it performs the action of agreement. 'Thank you' is an expressive speech act showing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello, Sarah. I am Niran. Nice to meet you.",
+        "annotation_token": [
+            "Hello",
+            "Nice to meet you"
+        ],
+        "rationale": "The tokens 'Hello' and 'Nice to meet you' are speech acts as they perform the action of greeting and expressing pleasure in meeting someone.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that is good idea. Thank you, Sarah.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is a speech act as it performs the action of expressing gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

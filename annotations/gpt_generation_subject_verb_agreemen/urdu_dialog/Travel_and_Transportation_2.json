@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I think Naran good.",
+        "annotation_token": "I think",
+        "rationale": "The subject 'I' agrees with the verb 'think' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I hear about, uh, Saif-ul-Malook lake.",
+        "annotation_token": "I hear",
+        "rationale": "The subject 'I' agrees with the verb 'hear' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think guesthouse maybe better.",
+        "annotation_token": "I think",
+        "rationale": "The subject 'I' agrees with the verb 'think' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I am very excited!",
+        "annotation_token": "I am",
+        "rationale": "The subject 'I' agrees with the verb 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I buy a blender, but it not work well.",
+        "annotation_token": "it not work",
+        "rationale": "The verb 'work' should agree in number with the singular subject 'it', requiring 'does not work' instead of 'not work'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "It make strange noise.",
+        "annotation_token": "It make",
+        "rationale": "The verb 'make' should agree in number with the singular subject 'it', requiring 'makes' instead of 'make'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, how to say... very loud, and it not blend smooth.",
+        "annotation_token": "it not blend",
+        "rationale": "The verb 'blend' should agree in number with the singular subject 'it', requiring 'does not blend' instead of 'not blend'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I try two time and same problem.",
+        "annotation_token": "two time",
+        "rationale": "The noun 'time' should be plural to agree with the number 'two', requiring 'times' instead of 'time'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I buy it... uh, two week ago, so still in return... um, time?",
+        "annotation_token": "two week",
+        "rationale": "The noun 'week' should be plural to agree with the number 'two', requiring 'weeks' instead of 'week'.",
+        "grammar_correctness": "wrong"
+    }
+]

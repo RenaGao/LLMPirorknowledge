@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, maybe we can go to Jeju Island? I hear it's very beautiful.",
+        "annotation_token": [
+            "I hear"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'hear' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, yes! I want to try, uh, black pork. It's special there, right?",
+        "annotation_token": [
+            "I want"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'want' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think one week is good. We can see many things, not rush.",
+        "annotation_token": [
+            "I think"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'think' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Great! I can help with, um, booking? Maybe the flight and our stay.",
+        "annotation_token": [
+            "I can help"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the modal verb 'can' and the base form 'help'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Sure, no problem! I will do my best. Thank you for planning with me.",
+        "annotation_token": [
+            "I will do"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the modal verb 'will' and the base form 'do'.",
+        "grammar_correctness": "correct"
+    }
+]

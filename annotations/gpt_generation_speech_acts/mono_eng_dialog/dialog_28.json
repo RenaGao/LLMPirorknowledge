@@ -1,0 +1,124 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! I'm doing well, thank you. Excited to be here. How about you?",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "Excited to be here",
+            "How about you"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hi'), an expression of gratitude ('thank you'), an expression of excitement ('Excited to be here'), and a question ('How about you?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Of course. I’ve been working in digital marketing for about three years now, primarily focusing on social media strategies.",
+        "annotation_token": [
+            "Of course"
+        ],
+        "rationale": "The phrase 'Of course' is a speech act that indicates agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure! Last year, I worked on a campaign for a local coffee shop.",
+        "annotation_token": [
+            "Sure"
+        ],
+        "rationale": "The word 'Sure' is a speech act that indicates agreement or willingness.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I see feedback as an opportunity to improve. I always welcome constructive criticism and use it to refine strategies.",
+        "annotation_token": [
+            "I always welcome constructive criticism"
+        ],
+        "rationale": "The phrase 'I always welcome constructive criticism' is a speech act that expresses openness and receptiveness.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’d love to know more about the team I’d be working with. What’s the dynamic like?",
+        "annotation_token": [
+            "Yes",
+            "I’d love to know more",
+            "What’s the dynamic like"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an affirmation ('Yes'), an expression of interest ('I’d love to know more'), and a question ('What’s the dynamic like?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I look forward to hearing from you. Have a great day!",
+        "annotation_token": [
+            "Thank you",
+            "I look forward to hearing from you",
+            "Have a great day"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an expression of gratitude ('Thank you'), an expression of anticipation ('I look forward to hearing from you'), and a farewell ('Have a great day').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! I'm doing well, thank you. Excited to be here. How about you?",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "Excited to be here",
+            "How about you"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hi'), an expression of gratitude ('thank you'), an expression of excitement ('Excited to be here'), and a question ('How about you?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Of course. I’ve been working in digital marketing for about three years now, primarily focusing on social media strategies.",
+        "annotation_token": [
+            "Of course"
+        ],
+        "rationale": "The phrase 'Of course' is a speech act that indicates agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure! Last year, I worked on a campaign for a local coffee shop.",
+        "annotation_token": [
+            "Sure"
+        ],
+        "rationale": "The word 'Sure' is a speech act that indicates agreement or willingness.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I see feedback as an opportunity to improve. I always welcome constructive criticism and use it to refine strategies.",
+        "annotation_token": [
+            "I always welcome constructive criticism"
+        ],
+        "rationale": "The phrase 'I always welcome constructive criticism' is a speech act that expresses openness and receptiveness.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’d love to know more about the team I’d be working with. What’s the dynamic like?",
+        "annotation_token": [
+            "Yes",
+            "I’d love to know more",
+            "What’s the dynamic like"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an affirmation ('Yes'), an expression of interest ('I’d love to know more'), and a question ('What’s the dynamic like?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I look forward to hearing from you. Have a great day!",
+        "annotation_token": [
+            "Thank you",
+            "I look forward to hearing from you",
+            "Have a great day"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an expression of gratitude ('Thank you'), an expression of anticipation ('I look forward to hearing from you'), and a well-wish ('Have a great day').",
+        "grammar_correctness": "correct"
+    }
+]

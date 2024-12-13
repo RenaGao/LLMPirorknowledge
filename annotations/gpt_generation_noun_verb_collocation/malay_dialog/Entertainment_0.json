@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I like... how to say... the one about, uh, superheroes.",
+        "annotation_token": "like superheroes",
+        "rationale": "The noun 'superheroes' and the verb 'like' form a collocation expressing a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, yes! The Avengers. I like them very much. The action is very, um, exciting.",
+        "annotation_token": "like The Avengers",
+        "rationale": "The noun 'The Avengers' and the verb 'like' form a collocation expressing a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I also like comedy. Um, like \"Friends\". It make me laugh a lot.",
+        "annotation_token": "like comedy",
+        "rationale": "The noun 'comedy' and the verb 'like' form a collocation expressing a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I also like comedy. Um, like \"Friends\". It make me laugh a lot.",
+        "annotation_token": "like \"Friends\"",
+        "rationale": "The noun '\"Friends\"' and the verb 'like' form a collocation expressing a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I want to try \"Stranger Things\". Many people say it is, uh, good.",
+        "annotation_token": "try \"Stranger Things\"",
+        "rationale": "The noun '\"Stranger Things\"' and the verb 'try' form a collocation expressing a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you! I will start soon. Talking to you is very nice!",
+        "annotation_token": "start soon",
+        "rationale": "The noun 'soon' and the verb 'start' form a collocation expressing a complete action.",
+        "grammar_correctness": true
+    }
+]

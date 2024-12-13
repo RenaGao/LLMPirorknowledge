@@ -1,0 +1,32 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, my friend invite me.",
+        "annotation_token": [
+            "friend",
+            "invite"
+        ],
+        "rationale": "The subject 'friend' is singular, so the verb should be 'invites' to agree with the singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "She say it will be fun.",
+        "annotation_token": [
+            "She",
+            "say"
+        ],
+        "rationale": "The subject 'She' is singular, so the verb should be 'says' to agree with the singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, they like it.",
+        "annotation_token": [
+            "they",
+            "like"
+        ],
+        "rationale": "The subject 'they' is plural, and the verb 'like' correctly agrees with the plural subject.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hello! I am good, thank you. Um, how about you?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I think about picnic. Family picnic, you know?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, there is park... um, big park near my house. We like to go there.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the speaker and their family or group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We will, um, play. Maybe cricket? And eat, of course.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the speaker and their family or group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, we bring biryani. And, um, tea. My mother make great chai.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and their family or group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, maybe some sandwiches and fruit. Simple things.",
+        "annotation_token": "some",
+        "rationale": "The word 'some' is a reference word referring to an unspecified quantity of sandwiches and fruit.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, I think, maybe ten? Yes, ten people. Big family.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, we have two cars. It is enough, I believe.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and their family or group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, we have two cars. It is enough, I believe.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the two cars being enough.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, but I think we okay. I do most with, um, my sister.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, but I think we okay. I do most with, um, my sister.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and their family or group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I hope no rain. That will be, uh, how to say... not good?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I hope no rain. That will be, uh, how to say... not good?",
+        "annotation_token": "That",
+        "rationale": "The word 'That' is a reference word referring to the possibility of rain.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, sunny day is best. Thank you for your, um, support.",
+        "annotation_token": "your",
+        "rationale": "The word 'your' is a reference word referring to the listener's support.",
+        "grammar_correctness": true
+    }
+]

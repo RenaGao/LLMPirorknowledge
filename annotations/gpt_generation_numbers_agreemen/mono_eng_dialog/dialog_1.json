@@ -1,0 +1,11 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Absolutely. I worked on a campaign for a local non-profit that aimed to increase volunteer sign-ups. We used targeted ads and storytelling, and it ended up boosting their numbers by 30%.",
+        "annotation_token": [
+            "numbers"
+        ],
+        "rationale": "The word 'numbers' is correctly used in plural form to refer to the increase in the count of volunteer sign-ups.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I think I will. Have nice day!",
+        "annotation_token": [
+            "think",
+            "will"
+        ],
+        "rationale": "The sentence 'I think I will.' contains a present tense verb 'think' and a future tense auxiliary 'will', which are correctly used together to express a future intention.",
+        "grammar_correctness": "correct"
+    }
+]

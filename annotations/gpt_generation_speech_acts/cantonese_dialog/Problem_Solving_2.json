@@ -1,0 +1,386 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, Mei. I have time now.",
+        "annotation_token": [
+            "Um",
+            "yes",
+            "Mei"
+        ],
+        "rationale": "The speaker is acknowledging and agreeing to a request or statement made by Mei, indicating a speech act of agreement and acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, really? I did not notice. What, uh, what is wrong?",
+        "annotation_token": [
+            "Oh",
+            "really",
+            "What",
+            "uh",
+            "what",
+            "is",
+            "wrong"
+        ],
+        "rationale": "The speaker is expressing surprise and seeking clarification, indicating a speech act of inquiry and surprise.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I see. I am... I feel sorry about that. I will look at it right away.",
+        "annotation_token": [
+            "Ah",
+            "I",
+            "see",
+            "I",
+            "am",
+            "I",
+            "feel",
+            "sorry",
+            "about",
+            "that",
+            "I",
+            "will",
+            "look",
+            "at",
+            "it",
+            "right",
+            "away"
+        ],
+        "rationale": "The speaker is acknowledging understanding and expressing an apology, indicating a speech act of acknowledgment and apology.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I can check the, how to say... original data first? And then redo the calculations.",
+        "annotation_token": [
+            "Um",
+            "I",
+            "can",
+            "check",
+            "how",
+            "to",
+            "say",
+            "original",
+            "data",
+            "first",
+            "And",
+            "then",
+            "redo",
+            "the",
+            "calculations"
+        ],
+        "rationale": "The speaker is proposing a plan of action, indicating a speech act of suggestion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe, uh, can you check other sections while I fix the sales part?",
+        "annotation_token": [
+            "Maybe",
+            "uh",
+            "can",
+            "you",
+            "check",
+            "other",
+            "sections",
+            "while",
+            "I",
+            "fix",
+            "the",
+            "sales",
+            "part"
+        ],
+        "rationale": "The speaker is making a request for assistance, indicating a speech act of request.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Mei. Really appreciate your help.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "Mei",
+            "Really",
+            "appreciate",
+            "your",
+            "help"
+        ],
+        "rationale": "The speaker is expressing gratitude, indicating a speech act of thanking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I think today... no, maybe tomorrow morning is better.",
+        "annotation_token": [
+            "Um",
+            "I",
+            "think",
+            "today",
+            "no",
+            "maybe",
+            "tomorrow",
+            "morning",
+            "is",
+            "better"
+        ],
+        "rationale": "The speaker is expressing a preference, indicating a speech act of suggestion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good, good. I will check each number carefully.",
+        "annotation_token": [
+            "Good",
+            "good",
+            "I",
+            "will",
+            "check",
+            "each",
+            "number",
+            "carefully"
+        ],
+        "rationale": "The speaker is expressing approval and commitment to an action, indicating a speech act of assurance.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will. And, um, sorry again for the mistake.",
+        "annotation_token": [
+            "I",
+            "will",
+            "And",
+            "um",
+            "sorry",
+            "again",
+            "for",
+            "the",
+            "mistake"
+        ],
+        "rationale": "The speaker is expressing commitment and an apology, indicating a speech act of assurance and apology.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, team is important. Thank you for understanding.",
+        "annotation_token": [
+            "Yes",
+            "team",
+            "is",
+            "important",
+            "Thank",
+            "you",
+            "for",
+            "understanding"
+        ],
+        "rationale": "The speaker is affirming a statement and expressing gratitude, indicating a speech act of agreement and thanking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, see you tomorrow, Mei.",
+        "annotation_token": [
+            "Okay",
+            "see",
+            "you",
+            "tomorrow",
+            "Mei"
+        ],
+        "rationale": "The speaker is concluding the conversation with a farewell, indicating a speech act of leave-taking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, Mei. I have time now.",
+        "annotation_token": [
+            "yes",
+            "I have time now"
+        ],
+        "rationale": "The speaker is agreeing and confirming availability, which are speech acts of agreement and confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, really? I did not notice. What, uh, what is wrong?",
+        "annotation_token": [
+            "Oh, really?",
+            "What, uh, what is wrong?"
+        ],
+        "rationale": "The speaker is expressing surprise and asking for clarification, which are speech acts of surprise and inquiry.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I see. I am... I feel sorry about that. I will look at it right away.",
+        "annotation_token": [
+            "Ah, I see",
+            "I feel sorry about that",
+            "I will look at it right away"
+        ],
+        "rationale": "The speaker is acknowledging understanding, expressing apology, and committing to an action, which are speech acts of acknowledgment, apology, and promise.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe, uh, can you check other sections while I fix the sales part?",
+        "annotation_token": [
+            "can you check other sections",
+            "while I fix the sales part"
+        ],
+        "rationale": "The speaker is making a request and proposing a plan, which are speech acts of request and proposal.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Mei. Really appreciate your help.",
+        "annotation_token": [
+            "Thank you",
+            "Really appreciate your help"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is a speech act of thanking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I think today... no, maybe tomorrow morning is better.",
+        "annotation_token": [
+            "I think",
+            "maybe tomorrow morning is better"
+        ],
+        "rationale": "The speaker is expressing an opinion and making a suggestion, which are speech acts of opinion and suggestion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will. And, um, sorry again for the mistake.",
+        "annotation_token": [
+            "I will",
+            "sorry again for the mistake"
+        ],
+        "rationale": "The speaker is making a promise and apologizing, which are speech acts of promise and apology.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, team is important. Thank you for understanding.",
+        "annotation_token": [
+            "Yes",
+            "team is important",
+            "Thank you for understanding"
+        ],
+        "rationale": "The speaker is agreeing, stating a fact, and expressing gratitude, which are speech acts of agreement, assertion, and thanking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, see you tomorrow, Mei.",
+        "annotation_token": [
+            "Okay",
+            "see you tomorrow"
+        ],
+        "rationale": "The speaker is agreeing and saying goodbye, which are speech acts of agreement and farewell.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, Mei. I have time now.",
+        "annotation_token": [
+            "yes",
+            "I have time now"
+        ],
+        "rationale": "The speaker is agreeing and confirming availability, which are speech acts of agreement and confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, really? I did not notice. What, uh, what is wrong?",
+        "annotation_token": [
+            "Oh, really?",
+            "What, uh, what is wrong?"
+        ],
+        "rationale": "The speaker is expressing surprise and requesting information, which are speech acts of expressing surprise and inquiry.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I see. I am... I feel sorry about that. I will look at it right away.",
+        "annotation_token": [
+            "Ah, I see",
+            "I feel sorry about that",
+            "I will look at it right away"
+        ],
+        "rationale": "The speaker is acknowledging understanding, apologizing, and promising action, which are speech acts of acknowledgment, apology, and promise.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe, uh, can you check other sections while I fix the sales part?",
+        "annotation_token": [
+            "can you check other sections",
+            "while I fix the sales part"
+        ],
+        "rationale": "The speaker is making a request and proposing a plan, which are speech acts of request and proposal.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Mei. Really appreciate your help.",
+        "annotation_token": [
+            "Thank you",
+            "Really appreciate your help"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is a speech act of thanking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I think today... no, maybe tomorrow morning is better.",
+        "annotation_token": [
+            "I think",
+            "maybe tomorrow morning is better"
+        ],
+        "rationale": "The speaker is expressing an opinion and making a suggestion, which are speech acts of opinion and suggestion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good, good. I will check each number carefully.",
+        "annotation_token": [
+            "Good, good",
+            "I will check each number carefully"
+        ],
+        "rationale": "The speaker is expressing approval and making a promise, which are speech acts of approval and promise.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will. And, um, sorry again for the mistake.",
+        "annotation_token": [
+            "I will",
+            "sorry again for the mistake"
+        ],
+        "rationale": "The speaker is making a promise and apologizing, which are speech acts of promise and apology.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, team is important. Thank you for understanding.",
+        "annotation_token": [
+            "Yes",
+            "team is important",
+            "Thank you for understanding"
+        ],
+        "rationale": "The speaker is agreeing, stating a fact, and expressing gratitude, which are speech acts of agreement, assertion, and thanking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, see you tomorrow, Mei.",
+        "annotation_token": [
+            "Okay",
+            "see you tomorrow"
+        ],
+        "rationale": "The speaker is agreeing and saying goodbye, which are speech acts of agreement and farewell.",
+        "grammar_correctness": "correct"
+    }
+]

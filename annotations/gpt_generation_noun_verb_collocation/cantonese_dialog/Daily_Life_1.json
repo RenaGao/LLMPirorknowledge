@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, um, yes, I am thinking to have picnic with family.",
+        "annotation_token": "have picnic",
+        "rationale": "The noun 'picnic' and the verb 'have' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, yes, city park. It is good for picnic, right?",
+        "annotation_token": "is good",
+        "rationale": "The noun 'park' is implied in the context, and the verb 'is' forms a collocation with the adjective 'good' to describe the park.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Uh, we bring food, like sandwiches, fruit, and maybe some, um, rice thing?",
+        "annotation_token": "bring food",
+        "rationale": "The noun 'food' and the verb 'bring' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, we bring... um, ball? For play games.",
+        "annotation_token": "bring ball",
+        "rationale": "The noun 'ball' and the verb 'bring' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, I think... um, need to bring mat to sit.",
+        "annotation_token": "bring mat",
+        "rationale": "The noun 'mat' and the verb 'bring' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, my family very excited.",
+        "annotation_token": "family excited",
+        "rationale": "The noun 'family' and the adjective 'excited' form a collocation that describes the state of the family.",
+        "grammar_correctness": true
+    }
+]

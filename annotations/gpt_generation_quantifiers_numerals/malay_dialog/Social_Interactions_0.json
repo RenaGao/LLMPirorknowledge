@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, now I work on, uh, school building. It's a big project.",
+        "annotation_token": [
+            "a",
+            "big"
+        ],
+        "rationale": "The word 'a' is a quantifier indicating a single school building, and 'big' is a quantifier describing the size of the project.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I have... um, four year. Yes, four year in construction.",
+        "annotation_token": [
+            "four"
+        ],
+        "rationale": "The word 'four' is a numeral indicating the number of years of experience in construction.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "No, I am from Malaysia. I move here two year ago.",
+        "annotation_token": [
+            "two"
+        ],
+        "rationale": "The word 'two' is a numeral indicating the number of years since moving.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, now I work on, uh, school building. It's a big project.",
+        "annotation_token": [
+            "a",
+            "big"
+        ],
+        "rationale": "The word 'a' is a quantifier indicating a single school building, and 'big' is a quantifier describing the size of the project.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I have... um, four year. Yes, four year in construction.",
+        "annotation_token": [
+            "four"
+        ],
+        "rationale": "The word 'four' is a numeral indicating the number of years of experience in construction.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "No, I am from Malaysia. I move here two year ago.",
+        "annotation_token": [
+            "two"
+        ],
+        "rationale": "The word 'two' is a numeral indicating the number of years since moving.",
+        "grammar_correctness": false
+    }
+]

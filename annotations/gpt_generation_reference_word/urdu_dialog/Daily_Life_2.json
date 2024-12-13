@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, my favorite is, uh, biryani. It is, how to say, rice with... many spices and chicken.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer back to 'biryani', which is the subject of the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It, uh, gives nice aroma.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer back to 'garam masala', which is mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I keep like, um, layer. It is better, uh, for flavor.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer back to the method of layering rice, which is described in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, we eat with, uh, yogurt. It is, um, called raita.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer back to 'yogurt', which is the subject of the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, I hope you like it! Cooking together is, how to say, fun.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer back to the experience or result of cooking together, which is implied in the context.",
+        "grammar_correctness": true
+    }
+]

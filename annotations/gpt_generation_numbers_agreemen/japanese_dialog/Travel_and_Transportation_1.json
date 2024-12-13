@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "How many lights I need to pass first?",
+        "annotation_token": "lights",
+        "rationale": "The word 'lights' is plural, which correctly agrees with the quantifier 'many'.",
+        "grammar_correctness": "correct"
+    }
+]

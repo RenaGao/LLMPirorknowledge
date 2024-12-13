@@ -1,0 +1,101 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, I get up at... 8:30.",
+        "annotation_token": [
+            "I get"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'get' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Usually, I wake up at 7 o'clock.",
+        "annotation_token": [
+            "I wake"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'wake' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "No, no. My mother make for me.",
+        "annotation_token": [
+            "My mother make"
+        ],
+        "rationale": "The subject 'My mother' does not agree with the verb 'make'. It should be 'makes' to agree with the singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Then, I study a little.",
+        "annotation_token": [
+            "I study"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'study' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It helps me... improve.",
+        "annotation_token": [
+            "It helps"
+        ],
+        "rationale": "The subject 'It' correctly agrees with the verb 'helps' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I use app on phone.",
+        "annotation_token": [
+            "I use"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'use' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is like game, very fun.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I carry it in bag... um, how to say... everywhere.",
+        "annotation_token": [
+            "I carry"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'carry' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, about 30 minutes. It is not long, but it feel good.",
+        "annotation_token": [
+            "it feel"
+        ],
+        "rationale": "The subject 'it' does not agree with the verb 'feel'. It should be 'feels' to agree with the singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I like many kind, but mostly pop music.",
+        "annotation_token": [
+            "I like"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'like' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is very... lively.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

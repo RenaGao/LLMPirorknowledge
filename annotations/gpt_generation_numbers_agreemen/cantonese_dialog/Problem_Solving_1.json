@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, hi. I need help... my, uh, computer have problem.",
+        "annotation_token": "have",
+        "rationale": "The subject 'computer' is singular, so the verb should be 'has' to agree in number.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, the screen... it not turn on. I press power, but nothing happen.",
+        "annotation_token": "happen",
+        "rationale": "The subject 'nothing' is singular, so the verb should be 'happens' to agree in number.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Oh, yes. I check wire, all is connect good.",
+        "annotation_token": "is",
+        "rationale": "The subject 'all' is plural, so the verb should be 'are' to agree in number.",
+        "grammar_correctness": "wrong"
+    }
+]

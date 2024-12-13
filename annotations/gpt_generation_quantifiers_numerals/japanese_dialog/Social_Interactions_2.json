@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, some! I, um, go to port area and also... very nice garden, Sankeien.",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "'Some' is a quantifier used to indicate an unspecified amount or number.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I use... um, coconut milk and many spice. It is little difficult, but tasty.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "'Many' is a quantifier used to indicate a large number of countable items.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I use... um, coconut milk and many spice. It is little difficult, but tasty.",
+        "annotation_token": [
+            "many",
+            "little"
+        ],
+        "rationale": "The sentence contains quantifiers 'many' and 'little' which are used to describe the quantity of 'spice' and the degree of difficulty.",
+        "grammar_correctness": true
+    }
+]

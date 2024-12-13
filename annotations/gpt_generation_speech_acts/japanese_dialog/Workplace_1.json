@@ -1,0 +1,164 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you for having me.",
+        "annotation_token": [
+            "Yes",
+            "thank",
+            "you",
+            "for",
+            "having",
+            "me"
+        ],
+        "rationale": "The sentence is a speech act of gratitude and acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I choose because I like... um, working with people and solve problems in company.",
+        "annotation_token": [
+            "Ah",
+            "I",
+            "choose",
+            "because",
+            "I",
+            "like",
+            "working",
+            "with",
+            "people",
+            "and",
+            "solve",
+            "problems",
+            "in",
+            "company"
+        ],
+        "rationale": "The sentence is a speech act of explanation and preference.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, I did project last year.",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "I",
+            "did",
+            "project",
+            "last",
+            "year"
+        ],
+        "rationale": "The sentence is a speech act of confirmation and statement.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I try to... um, stay calm and, uh, think step by step to find solution.",
+        "annotation_token": [
+            "I",
+            "try",
+            "to",
+            "stay",
+            "calm",
+            "and",
+            "think",
+            "step",
+            "by",
+            "step",
+            "to",
+            "find",
+            "solution"
+        ],
+        "rationale": "The sentence is a speech act of intention and strategy.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "very",
+            "much"
+        ],
+        "rationale": "The sentence is a speech act of gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you for having me.",
+        "annotation_token": [
+            "Yes",
+            "thank",
+            "you",
+            "for",
+            "having",
+            "me"
+        ],
+        "rationale": "The sentence is a speech act of gratitude and acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I choose because I like... um, working with people and solve problems in company.",
+        "annotation_token": [
+            "Ah",
+            "I",
+            "choose",
+            "because",
+            "I",
+            "like"
+        ],
+        "rationale": "The sentence is a speech act of explanation and preference.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, I did project last year.",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "I",
+            "did",
+            "project",
+            "last",
+            "year"
+        ],
+        "rationale": "The sentence is a speech act of confirmation and statement.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I try to... um, stay calm and, uh, think step by step to find solution.",
+        "annotation_token": [
+            "I",
+            "try",
+            "to",
+            "um",
+            "stay",
+            "calm",
+            "and",
+            "uh",
+            "think",
+            "step",
+            "by",
+            "step",
+            "to",
+            "find",
+            "solution"
+        ],
+        "rationale": "The sentence is a speech act of intention and strategy.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "very",
+            "much"
+        ],
+        "rationale": "The sentence is a speech act of gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

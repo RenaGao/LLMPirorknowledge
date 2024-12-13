@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "This one look very nice.",
+        "annotation_token": "look",
+        "rationale": "The verb 'look' should agree in number with the singular subject 'This one'. It should be 'looks'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "But, um, how much it cost?",
+        "annotation_token": "cost",
+        "rationale": "The verb 'cost' should agree in number with the singular subject 'it'. It should be 'does it cost'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I not sure...",
+        "annotation_token": "not",
+        "rationale": "The sentence is missing the auxiliary verb 'am' to agree with the singular subject 'I'. It should be 'I am not sure'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Thank you for help me.",
+        "annotation_token": "help",
+        "rationale": "The sentence is missing the preposition 'helping' to agree with the verb 'for'. It should be 'Thank you for helping me'.",
+        "grammar_correctness": "wrong"
+    }
+]

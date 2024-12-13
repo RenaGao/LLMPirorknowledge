@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "The part, um, about writing... essay? I not sure what topic to choose.",
+        "annotation_token": [
+            "I not sure"
+        ],
+        "rationale": "The sentence lacks tense agreement. The correct form should be 'I am not sure' to maintain present tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, I want to, uh, talk about both. Like, how it help but, uh, also problem.",
+        "annotation_token": [
+            "it help"
+        ],
+        "rationale": "The sentence lacks tense agreement. The correct form should be 'it helps' to maintain present tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I think... um, yes, but I need find more example. Maybe, uh, research online?",
+        "annotation_token": [
+            "need find"
+        ],
+        "rationale": "The sentence lacks tense agreement. The correct form should be 'need to find' to maintain the correct verb form.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I think so. But maybe take me long time to finish.",
+        "annotation_token": [
+            "take me long time"
+        ],
+        "rationale": "The sentence lacks tense agreement. The correct form should be 'it will take me a long time' to maintain future tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you, teacher! I will do my be",
+        "annotation_token": [
+            "do my be"
+        ],
+        "rationale": "The sentence lacks tense agreement. The correct form should be 'do my best' to maintain the correct verb form.",
+        "grammar_correctness": "wrong"
+    }
+]

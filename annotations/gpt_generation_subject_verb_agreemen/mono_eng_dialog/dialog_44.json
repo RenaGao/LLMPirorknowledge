@@ -1,0 +1,78 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I saw your company is leading in AI solutions, which really caught my interest.",
+        "annotation_token": [
+            "I saw",
+            "company is leading"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'saw', and the subject 'company' correctly agrees with the verb 'is leading'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We developed a chatbot that could assist with customer inquiries.",
+        "annotation_token": [
+            "We developed"
+        ],
+        "rationale": "The subject 'We' correctly agrees with the verb 'developed'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We had to ensure the bot understood context, which was tricky.",
+        "annotation_token": [
+            "We had",
+            "bot understood"
+        ],
+        "rationale": "The subject 'We' correctly agrees with the verb 'had', and the subject 'bot' correctly agrees with the verb 'understood'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I believe communication is crucial.",
+        "annotation_token": [
+            "I believe",
+            "communication is"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'believe', and the subject 'communication' correctly agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I like to keep the dialogue open and ensure everyone is on the same page.",
+        "annotation_token": [
+            "I like",
+            "everyone is"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'like', and the subject 'everyone' correctly agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I also make it a point to listen to others' ideas and provide constructive feedback.",
+        "annotation_token": [
+            "I make"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'make'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I appreciate the opportunity to interview today and learn more about the company.",
+        "annotation_token": [
+            "I appreciate"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'appreciate'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I look forward to hearing from you.",
+        "annotation_token": [
+            "I look"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'look'.",
+        "grammar_correctness": "correct"
+    }
+]

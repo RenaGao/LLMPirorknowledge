@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, hello! Um, I feel... a bit worry, you know? The exam, it not easy.",
+        "annotation_token": "I feel",
+        "rationale": "The subject 'I' correctly agrees with the verb 'feel' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think... the writing part. I not good with... how to say... make sentences.",
+        "annotation_token": "I think",
+        "rationale": "The subject 'I' correctly agrees with the verb 'think' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I try practice. I write essay, but sometimes I not sure... correct or not.",
+        "annotation_token": "I write",
+        "rationale": "The subject 'I' correctly agrees with the verb 'write' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Really? That so nice! Um, I think it's help a lot.",
+        "annotation_token": "I think",
+        "rationale": "The subject 'I' correctly agrees with the verb 'think' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, library is good. What time you think?",
+        "annotation_token": "library is",
+        "rationale": "The subject 'library' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "10 a.m. is perfect. Thank you for help me.",
+        "annotation_token": "10 a.m. is",
+        "rationale": "The subject '10 a.m.' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Listening, um... not so bad. I watch many English movie.",
+        "annotation_token": "I watch",
+        "rationale": "The subject 'I' correctly agrees with the verb 'watch' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Sometimes. It help me understand when they speak fast.",
+        "annotation_token": "It help",
+        "rationale": "The subject 'It' should agree with the verb 'helps' in the present tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I do some. But I still need to, um... improve speed for reading.",
+        "annotation_token": "I do",
+        "rationale": "The subject 'I' correctly agrees with the verb 'do' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

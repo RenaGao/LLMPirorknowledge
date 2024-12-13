@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Well, I’ve always admired your strong focus on research and innovation.",
+        "annotation_token": "your",
+        "rationale": "The word 'your' is a reference word that refers to the person being addressed in the dialogue.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Certainly. I was part of our school’s eco-club, where we organized community clean-ups and initiated a recycling awareness campaign.",
+        "annotation_token": "our",
+        "rationale": "The word 'our' is a reference word that refers to the speaker and others associated with the school.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It was rewarding to see the impact we could make.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word that refers to the experience of organizing community clean-ups and initiating a recycling awareness campaign.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "They solidified my passion for environmental advocacy and made me realize the importance of pursuing a career where I can contribute to sustainable solutions.",
+        "annotation_token": "They",
+        "rationale": "The word 'They' is a reference word that refers to the activities or experiences mentioned earlier, such as organizing community clean-ups and initiating a recycling awareness campaign.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I’d love to get involved in student-led research projects and perhaps start a new sustainability initiative on campus.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word that refers to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I believe in the power of collective efforts.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word that refers to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I’m curious about the opportunities for internships within the environmental science program.",
+        "annotation_token": "I’m",
+        "rationale": "The word 'I’m' is a reference word that refers to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Are there partnerships with local organizations?",
+        "annotation_token": "there",
+        "rationale": "The word 'there' is a reference word that refers to the existence of partnerships with local organizations.",
+        "grammar_correctness": true
+    }
+]

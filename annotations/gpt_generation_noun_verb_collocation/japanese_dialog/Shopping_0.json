@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, yes, please. I am looking... how to say... for a thing to cook rice?",
+        "annotation_token": "cook rice",
+        "rationale": "The noun 'rice' and the verb 'cook' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Features... Ah, I want it easy to clean. And, um, fast cooking is nice.",
+        "annotation_token": "cooking is",
+        "rationale": "The noun 'cooking' and the verb 'is' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, yes, this one look good. How much is it?",
+        "annotation_token": "look good",
+        "rationale": "The noun 'one' and the verb 'look' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "No, thank you very much. You help me a lot.",
+        "annotation_token": "help me",
+        "rationale": "The noun 'me' and the verb 'help' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    }
+]

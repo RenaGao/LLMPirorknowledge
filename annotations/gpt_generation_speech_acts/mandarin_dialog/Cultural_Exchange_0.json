@@ -1,0 +1,254 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, sure! Um, let me think... Oh! Chinese New Year is very famous. You know it?",
+        "annotation_token": [
+            "Oh",
+            "sure",
+            "Um",
+            "let me think",
+            "Oh",
+            "You know it"
+        ],
+        "rationale": "The tokens 'Oh', 'sure', 'Um', 'let me think', 'Oh', and 'You know it' are used as speech acts to express agreement, hesitation, and to check for understanding.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, we, um, have big family dinner. Very important.",
+        "annotation_token": [
+            "Ah",
+            "um"
+        ],
+        "rationale": "The tokens 'Ah' and 'um' are used as speech acts to express realization and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes. Dumpling, it look like... um... old money, so is for wealth.",
+        "annotation_token": [
+            "Yes, yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes, yes' and 'um' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, many things. We do... um, how to say... lion dance in street?",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Yes', 'um', and 'how to say' are used as speech acts to express agreement, hesitation, and searching for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it is for... scare away bad spirit, and bring good luck for year.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes, red is important. It mean... um, good luck and happiness.",
+        "annotation_token": [
+            "Yes, yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes, yes' and 'um' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, we give... uh, red envelope with money inside.",
+        "annotation_token": [
+            "Yes",
+            "uh"
+        ],
+        "rationale": "The tokens 'Yes' and 'uh' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, it depend, but usually, um, even number is better.",
+        "annotation_token": [
+            "Hmm",
+            "um"
+        ],
+        "rationale": "The tokens 'Hmm' and 'um' are used as speech acts to express thinking and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes. We... um, avoid cleaning on first day, because we don't want to... how to say... sweep away good luck.",
+        "annotation_token": [
+            "Yes, yes",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Yes, yes', 'um', and 'how to say' are used as speech acts to express agreement, hesitation, and searching for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I like, um, family dinner most.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to express hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You’re welcome! I hope you can, um, join one day.",
+        "annotation_token": [
+            "You’re welcome",
+            "um"
+        ],
+        "rationale": "The tokens 'You’re welcome' and 'um' are used as speech acts to express politeness and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No problem! I’m glad to sha",
+        "annotation_token": [
+            "No problem"
+        ],
+        "rationale": "The token 'No problem' is used as a speech act to express reassurance.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, sure! Um, let me think... Oh! Chinese New Year is very famous. You know it?",
+        "annotation_token": [
+            "Oh",
+            "sure",
+            "Um",
+            "let",
+            "me",
+            "think",
+            "Oh",
+            "You",
+            "know",
+            "it"
+        ],
+        "rationale": "The sentence contains multiple speech acts such as expressions of agreement ('Oh, sure!'), hesitation ('Um'), and a question ('You know it?').",
+        "grammar_correctness": "partially correct, but the use of 'You know it?' is informal and could be improved to 'Do you know it?' for better grammatical correctness."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, we, um, have big family dinner. Very important.",
+        "annotation_token": [
+            "Ah",
+            "um",
+            "Very",
+            "important"
+        ],
+        "rationale": "The sentence includes expressions of realization ('Ah'), hesitation ('um'), and emphasis ('Very important').",
+        "grammar_correctness": "partially correct, but the sentence structure is fragmented and could be improved for clarity."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes. Dumpling, it look like... um... old money, so is for wealth.",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "um",
+            "so",
+            "is"
+        ],
+        "rationale": "The sentence includes agreement ('Yes, yes'), hesitation ('um'), and explanation ('so is for wealth').",
+        "grammar_correctness": "incorrect, 'Dumpling, it look like' should be 'Dumplings look like' and 'so is for wealth' should be 'so they are for wealth'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, many things. We do... um, how to say... lion dance in street?",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "how",
+            "to",
+            "say"
+        ],
+        "rationale": "The sentence includes agreement ('Yes'), hesitation ('um'), and a request for assistance ('how to say').",
+        "grammar_correctness": "incorrect, 'lion dance in street?' should be 'lion dances in the street?'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it is for... scare away bad spirit, and bring good luck for year.",
+        "annotation_token": [
+            "Yes",
+            "for",
+            "scare",
+            "away",
+            "bring"
+        ],
+        "rationale": "The sentence includes agreement ('Yes') and explanation ('for scare away bad spirit').",
+        "grammar_correctness": "incorrect, 'for scare away bad spirit' should be 'to scare away bad spirits' and 'bring good luck for year' should be 'bring good luck for the year'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes, red is important. It mean... um, good luck and happiness.",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "mean",
+            "um"
+        ],
+        "rationale": "The sentence includes agreement ('Yes, yes') and explanation ('It mean... good luck and happiness').",
+        "grammar_correctness": "incorrect, 'It mean' should be 'It means'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, we give... uh, red envelope with money inside.",
+        "annotation_token": [
+            "Yes",
+            "uh",
+            "give"
+        ],
+        "rationale": "The sentence includes agreement ('Yes') and explanation ('we give... red envelope').",
+        "grammar_correctness": "partially correct, 'red envelope' should be 'red envelopes' for plural consistency."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, it depend, but usually, um, even number is better.",
+        "annotation_token": [
+            "Hmm",
+            "depend",
+            "um"
+        ],
+        "rationale": "The sentence includes hesitation ('Hmm', 'um') and explanation ('it depend, but usually...').",
+        "grammar_correctness": "incorrect, 'it depend' should be 'it depends' and 'even number is better' should be 'even numbers are better'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes. We... um, avoid cleaning on first day, because we don't want to... how to say... sweep away good luck.",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "um",
+            "how",
+            "to",
+            "say"
+        ],
+        "rationale": "The sentence includes agreement ('Yes, yes'), hesitation ('um'), and a request for assistance ('how to say').",
+        "grammar_correctness": "partially correct, 'on first day' should be 'on the first day'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You’re welcome! I hope you can, um, join one day. You will, uh, enjoy it very much.",
+        "annotation_token": [
+            "You’re",
+            "welcome",
+            "um",
+            "uh"
+        ],
+        "rationale": "The sentence includes a polite response ('You’re welcome!'), hope ('I hope you can'), and hesitation ('um', 'uh').",
+        "grammar_correctness": "correct, but 'join one day' could be improved to 'join us one day' for clarity."
+    }
+]

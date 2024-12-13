@@ -1,0 +1,75 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "That sounds really useful! Is it compatible with all file types, or are there restrictions?",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier used to refer to the entirety of the file types.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Perfect! I’ll make sure to check it out. One last thing—do users need to have an account to access these features?",
+        "annotation_token": [
+            "One"
+        ],
+        "rationale": "The word 'One' is a numeral used to indicate a single remaining thing to discuss.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "That sounds really useful! Is it compatible with all file types, or are there restrictions?",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier used to refer to the entirety of the file types.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Perfect! I’ll make sure to check it out. One last thing—do users need to have an account to access these features?",
+        "annotation_token": [
+            "One"
+        ],
+        "rationale": "The word 'One' is a numeral used to indicate a single remaining question or point.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "That sounds really useful! Is it compatible with all file types, or are there restrictions?",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier used to refer to the entirety of the file types.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Perfect! I’ll make sure to check it out. One last thing—do users need to have an account to access these features?",
+        "annotation_token": [
+            "one",
+            "last"
+        ],
+        "rationale": "The word 'one' is a numeral indicating a single item, and 'last' is a quantifier indicating the final item in a sequence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "That sounds really useful! Is it compatible with all file types, or are there restrictions?",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier used to refer to the entirety of file types.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Perfect! I’ll make sure to check it out. One last thing—do users need to have an account to access these features?",
+        "annotation_token": [
+            "One"
+        ],
+        "rationale": "The word 'One' is a numeral indicating a singular remaining item or question.",
+        "grammar_correctness": true
+    }
+]

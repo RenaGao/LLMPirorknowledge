@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I can try. I will, um, message her later. What about, uh, food? He like spicy food, kan?",
+        "annotation_token": "He like",
+        "rationale": "The subject 'He' is singular, but the verb 'like' is in the plural form. It should be 'He likes' to agree in number.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Hmm, maybe... oh, he like sports. We can do something with... um, football theme?",
+        "annotation_token": "he like",
+        "rationale": "The subject 'he' is singular, but the verb 'like' is in the plural form. It should be 'he likes' to agree in number.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, good idea! We also need, um, music. He like what type of music?",
+        "annotation_token": "He like",
+        "rationale": "The subject 'He' is singular, but the verb 'like' is in the plural form. It should be 'He likes' to agree in number.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Maybe, um, start at 5 p.m.? So, we have time for, uh, eat and talk before he come.",
+        "annotation_token": "he come",
+        "rationale": "The subject 'he' is singular, but the verb 'come' is in the base form. It should be 'he comes' to agree in number.",
+        "grammar_correctness": "wrong"
+    }
+]

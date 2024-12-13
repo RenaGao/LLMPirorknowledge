@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, yes, of course. Um, the deadline is... next Friday, right?",
+        "annotation_token": "deadline is",
+        "rationale": "The noun 'deadline' and the verb 'is' form a collocation that expresses a complete action or state.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, it is about the... ah, the design part. The design is... um, not easy for me.",
+        "annotation_token": "design is",
+        "rationale": "The noun 'design' and the verb 'is' form a collocation that expresses a complete action or state.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, the testing phase... I am worried it take long time. Is there... any advice?",
+        "annotation_token": "testing phase",
+        "rationale": "The noun 'testing' and the verb 'phase' form a collocation that expresses a complete action or state.",
+        "grammar_correctness": true
+    }
+]

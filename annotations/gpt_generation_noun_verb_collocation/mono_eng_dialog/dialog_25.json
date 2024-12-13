@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I’m hoping to get some information about the new features in the software update.",
+        "annotation_token": "get information",
+        "rationale": "The noun 'information' and the verb 'get' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I’ll make sure to check it out.",
+        "annotation_token": "make sure",
+        "rationale": "The noun 'sure' and the verb 'make' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I feel much more informed now.",
+        "annotation_token": "feel informed",
+        "rationale": "The noun 'informed' and the verb 'feel' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

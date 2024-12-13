@@ -1,0 +1,31 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, hello! Yes, about Friday... I think we say 8 p.m., not 7 p.m.?",
+        "annotation_token": [
+            "think",
+            "say"
+        ],
+        "rationale": "The verb 'think' is in the present tense, but 'say' should be in the past tense to agree with the context of a past conversation.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, maybe I mistake. I think I heard 8 p.m. from last time. Sorry.",
+        "annotation_token": [
+            "mistake"
+        ],
+        "rationale": "The verb 'mistake' should be in the past tense 'mistook' to agree with the context of a past action.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, very nice. I look forward to see you on Friday.",
+        "annotation_token": [
+            "look",
+            "to see"
+        ],
+        "rationale": "The verb 'look' is in the present tense, but 'to see' should be 'seeing' to maintain tense agreement with the gerund form.",
+        "grammar_correctness": "wrong"
+    }
+]

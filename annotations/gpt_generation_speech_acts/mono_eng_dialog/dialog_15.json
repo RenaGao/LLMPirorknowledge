@@ -1,0 +1,78 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good morning! I'm feeling a bit nervous, but mostly excited. Thank you for having me.",
+        "annotation_token": [
+            "Good morning",
+            "Thank you for having me"
+        ],
+        "rationale": "The phrase 'Good morning' is a greeting, and 'Thank you for having me' is an expression of gratitude, both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure! At my last job, I led a team to develop a recycling initiative that reduced our waste by 30% in just six months. It was challenging, but very rewarding.",
+        "annotation_token": [
+            "Sure"
+        ],
+        "rationale": "The word 'Sure' is used as an affirmative response, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I'd love to know more about the team's current projects and how this position fits into the bigger picture.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The word 'Yes' is used as an affirmative response, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! You too!",
+        "annotation_token": [
+            "Thank you",
+            "You too"
+        ],
+        "rationale": "The phrase 'Thank you' is an expression of gratitude, and 'You too' is a reciprocal expression, both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good morning! I'm feeling a bit nervous, but mostly excited. Thank you for having me.",
+        "annotation_token": [
+            "Good morning",
+            "Thank you for having me"
+        ],
+        "rationale": "The speaker is performing a greeting and expressing gratitude, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure! At my last job, I led a team to develop a recycling initiative that reduced our waste by 30% in just six months. It was challenging, but very rewarding.",
+        "annotation_token": [
+            "Sure"
+        ],
+        "rationale": "The speaker is agreeing to provide information, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I'd love to know more about the team's current projects and how this position fits into the bigger picture.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The speaker is expressing interest and agreement, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! You too!",
+        "annotation_token": [
+            "Thank you",
+            "You too"
+        ],
+        "rationale": "The speaker is expressing gratitude and reciprocating a farewell, which are both speech acts.",
+        "grammar_correctness": "correct"
+    }
+]

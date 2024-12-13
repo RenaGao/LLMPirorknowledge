@@ -1,0 +1,45 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Absolutely! I've always been passionate about environmental science, and your program's focus on sustainability really resonates with me.",
+        "annotation_token": [
+            "I've always been",
+            "resonates"
+        ],
+        "rationale": "The sentence uses present perfect tense 'I've always been' to indicate a continuous state up to the present and present simple tense 'resonates' to describe a current state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I'm really keen on exploring renewable energy solutions. I read about the solar initiative you launched last year, and I'd love to contribute to that.",
+        "annotation_token": [
+            "I'm really keen",
+            "I read",
+            "you launched",
+            "I'd love"
+        ],
+        "rationale": "The sentence uses present simple 'I'm really keen' to express a current state, past simple 'I read' and 'you launched' to describe past actions, and conditional 'I'd love' to express a future desire.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Well, during my internship at GreenTech, I helped develop a small-scale solar panel prototype. It was a hands-on experience that taught me a lot about practical applications.",
+        "annotation_token": [
+            "I helped develop",
+            "It was",
+            "taught"
+        ],
+        "rationale": "The sentence uses past simple tense 'I helped develop', 'It was', and 'taught' to describe actions and experiences that occurred in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I think that's all for now. I really appreciate your time and insights.",
+        "annotation_token": [
+            "I think",
+            "I really appreciate"
+        ],
+        "rationale": "The sentence uses present simple tense 'I think' and 'I really appreciate' to express current thoughts and feelings.",
+        "grammar_correctness": "correct"
+    }
+]

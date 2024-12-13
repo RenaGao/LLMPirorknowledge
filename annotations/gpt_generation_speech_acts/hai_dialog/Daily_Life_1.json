@@ -1,0 +1,123 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello! I am good, thank you. And you?",
+        "annotation_token": [
+            "Hello",
+            "thank you",
+            "And you"
+        ],
+        "rationale": "The tokens 'Hello', 'thank you', and 'And you' are speech acts as they perform functions such as greeting, expressing gratitude, and inquiring about the other person's well-being.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that’s right.",
+        "annotation_token": [
+            "Yes",
+            "that’s right"
+        ],
+        "rationale": "The tokens 'Yes' and 'that’s right' are speech acts as they confirm agreement or acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much! I hope it is a, um, good day with family.",
+        "annotation_token": [
+            "Thank you very much",
+            "I hope"
+        ],
+        "rationale": "The tokens 'Thank you very much' and 'I hope' are speech acts as they express gratitude and a wish or desire.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! Have a good weekend",
+        "annotation_token": [
+            "Thank you",
+            "Have a good weekend"
+        ],
+        "rationale": "The tokens 'Thank you' and 'Have a good weekend' are speech acts as they express gratitude and a wish for the other person to have a pleasant weekend.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello! I am good, thank you. And you?",
+        "annotation_token": [
+            "Hello",
+            "thank you",
+            "And you"
+        ],
+        "rationale": "The tokens 'Hello', 'thank you', and 'And you' are used as speech acts to greet, express gratitude, and inquire about the other person's well-being, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that’s right. I want to go with my family. Um, how to say... together at the park.",
+        "annotation_token": [
+            "Yes",
+            "that’s right"
+        ],
+        "rationale": "The tokens 'Yes' and 'that’s right' are used as speech acts to confirm agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much! I hope it is a, um, good day with family.",
+        "annotation_token": [
+            "Thank you very much",
+            "I hope"
+        ],
+        "rationale": "The tokens 'Thank you very much' and 'I hope' are used as speech acts to express gratitude and express a wish or hope.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! Have a good weekend",
+        "annotation_token": [
+            "Thank you",
+            "Have a good weekend"
+        ],
+        "rationale": "The tokens 'Thank you' and 'Have a good weekend' are used as speech acts to express gratitude and to wish someone well.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello! I am good, thank you. And you?",
+        "annotation_token": [
+            "Hello",
+            "thank you",
+            "And you"
+        ],
+        "rationale": "The tokens 'Hello', 'thank you', and 'And you' are speech acts as they perform functions such as greeting, expressing gratitude, and inquiring about the other person's well-being.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that’s right. I want to go with my family. Um, how to say... together at the park.",
+        "annotation_token": [
+            "Yes, that’s right"
+        ],
+        "rationale": "The token 'Yes, that’s right' is a speech act as it confirms agreement with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much! I hope it is a, um, good day with family.",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The token 'Thank you very much' is a speech act as it expresses gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! Have a good weekend",
+        "annotation_token": [
+            "Thank you",
+            "Have a good weekend"
+        ],
+        "rationale": "The tokens 'Thank you' and 'Have a good weekend' are speech acts as they express gratitude and convey a wish for the other person to have a pleasant weekend.",
+        "grammar_correctness": "correct"
+    }
+]

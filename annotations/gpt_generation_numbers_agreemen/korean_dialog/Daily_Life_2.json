@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, usually with rice. We eat with rice, and some, um, banchan. Side dish, you know?",
+        "annotation_token": "dish",
+        "rationale": "The word 'dish' should be in plural form 'dishes' to agree with 'some' which indicates a plural noun.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "No, not hard. It is easy! Just, um, practice make better taste.",
+        "annotation_token": "make",
+        "rationale": "The verb 'make' should be in singular form 'makes' to agree with the singular subject 'practice'.",
+        "grammar_correctness": "wrong"
+    }
+]

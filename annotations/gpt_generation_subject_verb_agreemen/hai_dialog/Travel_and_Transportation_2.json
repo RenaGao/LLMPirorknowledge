@@ -1,0 +1,52 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, yes! I like this idea.",
+        "annotation_token": [
+            "I",
+            "like"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'like' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is nice there, yes?",
+        "annotation_token": [
+            "It",
+            "is"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think maybe Nuch and Ploy want to come.",
+        "annotation_token": [
+            "Nuch and Ploy",
+            "want"
+        ],
+        "rationale": "The compound subject 'Nuch and Ploy' agrees with the plural verb 'want'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I ask them.",
+        "annotation_token": [
+            "I",
+            "ask"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'ask' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Okay, I ask them today.",
+        "annotation_token": [
+            "I",
+            "ask"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'ask' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, so... um, if people want more, demand curve move to right?",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an increase in quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "And if production cost, uh, decrease, supply... it shift to right too?",
+        "annotation_token": [
+            "too"
+        ],
+        "rationale": "The word 'too' is used as a quantifier to indicate an additional shift.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, so... um, if people want more, demand curve move to right?",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an increase in quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "And if production cost, uh, decrease, supply... it shift to right too?",
+        "annotation_token": [
+            "too"
+        ],
+        "rationale": "The word 'too' is used as a quantifier to indicate an additional shift.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, so if ceiling is low, it... can cause shortage?",
+        "annotation_token": [
+            "low"
+        ],
+        "rationale": "The word 'low' is a quantifier indicating a small amount or degree.",
+        "grammar_correctness": true
+    }
+]

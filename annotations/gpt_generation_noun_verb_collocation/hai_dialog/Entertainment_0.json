@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Hi! Yes, um, I watched a new movie.",
+        "annotation_token": "watched movie",
+        "rationale": "The noun 'movie' and the verb 'watched' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "It is about, um, a hero. He fight bad people to save the world.",
+        "annotation_token": "fight people",
+        "rationale": "The noun 'people' and the verb 'fight' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I saw... um, Pee Mak.",
+        "annotation_token": "saw Pee Mak",
+        "rationale": "The noun 'Pee Mak' and the verb 'saw' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

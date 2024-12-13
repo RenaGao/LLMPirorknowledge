@@ -1,0 +1,107 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, yes, sure. I wake up at seven o'clock.",
+        "annotation_token": "wake up",
+        "rationale": "The verb 'wake' and the noun 'up' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Then, um, I brush teeth and wash face.",
+        "annotation_token": "brush teeth",
+        "rationale": "The verb 'brush' and the noun 'teeth' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Then, um, I brush teeth and wash face.",
+        "annotation_token": "wash face",
+        "rationale": "The verb 'wash' and the noun 'face' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I eat breakfast.",
+        "annotation_token": "eat breakfast",
+        "rationale": "The verb 'eat' and the noun 'breakfast' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "My mom make it.",
+        "annotation_token": "make it",
+        "rationale": "The verb 'make' and the noun 'it' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "After breakfast, I, um, prepare to go to work.",
+        "annotation_token": "go to work",
+        "rationale": "The verb 'go' and the noun 'work' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I check my bag have all thing.",
+        "annotation_token": "check bag",
+        "rationale": "The verb 'check' and the noun 'bag' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I take the bus.",
+        "annotation_token": "take bus",
+        "rationale": "The verb 'take' and the noun 'bus' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I listen to music or sometimes, um, podcast for learning English.",
+        "annotation_token": "listen to music",
+        "rationale": "The verb 'listen' and the noun 'music' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I arrive at work around nine o'clock.",
+        "annotation_token": "arrive at work",
+        "rationale": "The verb 'arrive' and the noun 'work' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Then, um, I start my work, check email.",
+        "annotation_token": "check email",
+        "rationale": "The verb 'check' and the noun 'email' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Not so hard. I drink coffee, so it help me, um, to focus.",
+        "annotation_token": "drink coffee",
+        "rationale": "The verb 'drink' and the noun 'coffee' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Not every day. Um, maybe two or three times a week, we have meeting.",
+        "annotation_token": "have meeting",
+        "rationale": "The verb 'have' and the noun 'meeting' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I have a short break.",
+        "annotation_token": "have break",
+        "rationale": "The verb 'have' and the noun 'break' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I like to, um, get some air outside.",
+        "annotation_token": "get air",
+        "rationale": "The verb 'get' and the noun 'air' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

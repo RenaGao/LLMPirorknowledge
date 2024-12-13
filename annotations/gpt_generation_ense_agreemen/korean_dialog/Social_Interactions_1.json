@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Minji talk about new book she want.",
+        "annotation_token": [
+            "talk",
+            "want"
+        ],
+        "rationale": "The verbs 'talk' and 'want' are in the present tense, but they should be in the past tense to agree with the context of the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Minji like soft music, I think.",
+        "annotation_token": [
+            "like"
+        ],
+        "rationale": "The verb 'like' is in the present tense, but it should be in the past tense to agree with the context of the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I hope Minji really like.",
+        "annotation_token": [
+            "like"
+        ],
+        "rationale": "The verb 'like' is in the present tense, but it should be in the past tense to agree with the context of the sentence.",
+        "grammar_correctness": "wrong"
+    }
+]

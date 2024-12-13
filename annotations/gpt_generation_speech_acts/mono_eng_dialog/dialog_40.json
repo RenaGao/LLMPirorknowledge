@@ -1,0 +1,138 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely, thanks for having me.",
+        "annotation_token": [
+            "Absolutely",
+            "thanks",
+            "for",
+            "having",
+            "me"
+        ],
+        "rationale": "The sentence is a speech act of gratitude and acknowledgment, expressing appreciation for being included or invited.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure.",
+        "annotation_token": [
+            "Sure"
+        ],
+        "rationale": "The word 'Sure' is a speech act of agreement or affirmation, indicating willingness to proceed or answer.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I believe adaptability is crucial.",
+        "annotation_token": [
+            "I",
+            "believe",
+            "adaptability",
+            "is",
+            "crucial"
+        ],
+        "rationale": "The sentence is a speech act of stating an opinion or belief, expressing the speaker's view on the importance of adaptability.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I'm curious about the project management tools you currently use and how the team has adapted to them.",
+        "annotation_token": [
+            "Yes",
+            "I'm",
+            "curious",
+            "about",
+            "the",
+            "project",
+            "management",
+            "tools",
+            "you",
+            "currently",
+            "use",
+            "and",
+            "how",
+            "the",
+            "team",
+            "has",
+            "adapted",
+            "to",
+            "them"
+        ],
+        "rationale": "The sentence is a speech act of inquiry, expressing curiosity and asking for information about the tools and team adaptation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That's encouraging to hear.",
+        "annotation_token": [
+            "That's",
+            "encouraging",
+            "to",
+            "hear"
+        ],
+        "rationale": "The sentence is a speech act of acknowledgment, expressing a positive reaction to the information received.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I appreciate the opportunity.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "I",
+            "appreciate",
+            "the",
+            "opportunity"
+        ],
+        "rationale": "The sentence is a speech act of gratitude, expressing thanks and appreciation for the opportunity given.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely, thanks for having me.",
+        "annotation_token": [
+            "Absolutely",
+            "thanks"
+        ],
+        "rationale": "The sentence contains expressions of gratitude and affirmation, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure.",
+        "annotation_token": [
+            "Sure"
+        ],
+        "rationale": "The word 'Sure' is used as an affirmative response, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I'm curious about the project management tools you currently use and how the team has adapted to them.",
+        "annotation_token": [
+            "Yes",
+            "I'm curious"
+        ],
+        "rationale": "The sentence contains an expression of curiosity and agreement, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That's encouraging to hear.",
+        "annotation_token": [
+            "That's encouraging to hear"
+        ],
+        "rationale": "The sentence expresses a positive reaction, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I appreciate the opportunity.",
+        "annotation_token": [
+            "Thank you",
+            "I appreciate"
+        ],
+        "rationale": "The sentence contains expressions of gratitude and appreciation, which are speech acts.",
+        "grammar_correctness": "correct"
+    }
+]

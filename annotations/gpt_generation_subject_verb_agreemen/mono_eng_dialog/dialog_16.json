@@ -1,0 +1,132 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hi there, I have a few questions about my university application.",
+        "annotation_token": [
+            "I have"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'have' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I just want to make sure I’ve filled everything out correctly.",
+        "annotation_token": [
+            "I want",
+            "I’ve filled"
+        ],
+        "rationale": "The subject 'I' agrees with the verbs 'want' and 'have filled' in the present tense and present perfect tense, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I’ve done that.",
+        "annotation_token": [
+            "I’ve done"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'have done' in the present perfect tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "But I’m not sure if my references have been submitted.",
+        "annotation_token": [
+            "I’m",
+            "references have been submitted"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'am' in the present tense, and the subject 'references' agrees with the verb 'have been submitted' in the present perfect passive voice.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Can you check on that?",
+        "annotation_token": [
+            "you check"
+        ],
+        "rationale": "The subject 'you' agrees with the verb 'check' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It’s 1234567.",
+        "annotation_token": [
+            "It’s"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I hope everything’s in order.",
+        "annotation_token": [
+            "I hope",
+            "everything’s"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'hope' in the present tense, and the subject 'everything' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, great! That’s a relief.",
+        "annotation_token": [
+            "That’s"
+        ],
+        "rationale": "The subject 'That' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I was also wondering about the status of my transcripts.",
+        "annotation_token": [
+            "I was wondering"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'was wondering' in the past continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Awesome, thanks.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain a subject-verb agreement structure.",
+        "grammar_correctness": "N/A"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "One last thing—when should I expect to hear back about the decision?",
+        "annotation_token": [
+            "I expect"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'expect' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Perfect, I’ll keep an eye out for that.",
+        "annotation_token": [
+            "I’ll keep"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'will keep' in the future tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thanks so much for your help!",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain a subject-verb agreement structure.",
+        "grammar_correctness": "N/A"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Will do, thank you.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain a subject-verb agreement structure.",
+        "grammar_correctness": "N/A"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "You too!",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain a subject-verb agreement structure.",
+        "grammar_correctness": "N/A"
+    }
+]

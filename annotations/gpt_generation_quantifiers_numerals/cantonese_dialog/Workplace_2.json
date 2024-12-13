@@ -1,0 +1,96 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you! I am good, a little bit... um, how to say... overwhelmed?",
+        "annotation_token": [
+            "a little bit"
+        ],
+        "rationale": "'a little bit' is a quantifier used to express a small amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I have some question. I need to, um, understand the report. It is a bit confusing.",
+        "annotation_token": [
+            "some",
+            "a bit"
+        ],
+        "rationale": "'some' is a quantifier indicating an unspecified amount, and 'a bit' is a quantifier indicating a small amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm... there are many comment. Some good, some bad. How I should, um, use them?",
+        "annotation_token": [
+            "many",
+            "some"
+        ],
+        "rationale": "'many' is a quantifier indicating a large number, and 'some' is a quantifier indicating an unspecified amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, many say shipping is slow. I think we need change, um, process?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "'many' is a quantifier indicating a large number.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, no more question for now. I feel better after talk with you.",
+        "annotation_token": [
+            "no more"
+        ],
+        "rationale": "'no more' is a quantifier indicating the absence of additional items or instances.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you! I am good, a little bit... um, how to say... overwhelmed?",
+        "annotation_token": [
+            "a little bit"
+        ],
+        "rationale": "'a little bit' is a quantifier used to express a small amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I have some question. I need to, um, understand the report. It is a bit confusing.",
+        "annotation_token": [
+            "some",
+            "a bit"
+        ],
+        "rationale": "'some' is a quantifier indicating an unspecified amount, and 'a bit' is a quantifier indicating a small amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm... there are many comment. Some good, some bad. How I should, um, use them?",
+        "annotation_token": [
+            "many",
+            "some"
+        ],
+        "rationale": "'many' is a quantifier indicating a large number, and 'some' is a quantifier indicating an unspecified amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, many say shipping is slow. I think we need change, um, process?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "'many' is a quantifier indicating a large number.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, no more question for now. I feel better after talk with you.",
+        "annotation_token": [
+            "no more"
+        ],
+        "rationale": "'no more' is a quantifier indicating the absence of additional items or instances.",
+        "grammar_correctness": true
+    }
+]

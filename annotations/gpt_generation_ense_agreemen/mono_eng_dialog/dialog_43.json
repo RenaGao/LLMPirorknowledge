@@ -1,0 +1,124 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Sure! I recently graduated with a degree in marketing, and I'm really passionate about digital strategies.",
+        "annotation_token": [
+            "graduated",
+            "am"
+        ],
+        "rationale": "The sentence uses past tense 'graduated' to describe a completed action and present tense 'am' to describe a current state, showing correct tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Absolutely. During my internship at XYZ Corp, I led a team to develop a social media campaign that increased our client’s engagement by 30% over three months.",
+        "annotation_token": [
+            "led",
+            "increased"
+        ],
+        "rationale": "The sentence uses past tense 'led' and 'increased' to describe actions that were completed in the past, showing correct tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I see feedback as an opportunity for growth.",
+        "annotation_token": [
+            "see"
+        ],
+        "rationale": "The sentence uses present tense 'see' to describe a current action or state, showing correct tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I always listen carefully and apply it to improve my work.",
+        "annotation_token": [
+            "listen",
+            "apply"
+        ],
+        "rationale": "The sentence uses present tense 'listen' and 'apply' to describe habitual actions, showing correct tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I believe in open communication and creating a supportive work environment.",
+        "annotation_token": [
+            "believe"
+        ],
+        "rationale": "The sentence uses present tense 'believe' to describe a current belief or state, showing correct tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Sure, there was a time when our project deadline was moved up unexpectedly.",
+        "annotation_token": [
+            "was",
+            "was moved"
+        ],
+        "rationale": "The sentence uses past tense 'was' and 'was moved' to describe a past event, showing correct tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I coordinated with the team to prioritize tasks, and we managed to deliver on time without compromising quality.",
+        "annotation_token": [
+            "coordinated",
+            "managed"
+        ],
+        "rationale": "The sentence uses past tense 'coordinated' and 'managed' to describe actions completed in the past, showing correct tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It taught me a lot about adaptability and leadership.",
+        "annotation_token": [
+            "taught"
+        ],
+        "rationale": "The sentence uses past tense 'taught' to describe a completed action, showing correct tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I’m curious about the company culture.",
+        "annotation_token": [
+            "am"
+        ],
+        "rationale": "The sentence uses present tense 'am' to describe a current state, showing correct tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "How would you describe the team dynamics here?",
+        "annotation_token": [
+            "would describe"
+        ],
+        "rationale": "The sentence uses conditional tense 'would describe' to indicate a hypothetical or polite inquiry, showing correct tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "That sounds like a great fit for me.",
+        "annotation_token": [
+            "sounds"
+        ],
+        "rationale": "The sentence uses present tense 'sounds' to describe a current perception, showing correct tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you for the insight and for this opportunity to speak with you today.",
+        "annotation_token": [
+            "thank"
+        ],
+        "rationale": "The sentence uses present tense 'thank' to express a current action, showing correct tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you, you too! I look forward to hearing from you.",
+        "annotation_token": [
+            "look"
+        ],
+        "rationale": "The sentence uses present tense 'look' to describe a current expectation, showing correct tense agreement.",
+        "grammar_correctness": "correct"
+    }
+]

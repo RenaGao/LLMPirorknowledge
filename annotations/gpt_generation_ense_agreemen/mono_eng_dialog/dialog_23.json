@@ -1,0 +1,52 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hmm, I did install a couple of new apps last week. Do you think they could be causing the slowdown?",
+        "annotation_token": [
+            "did install",
+            "could be causing"
+        ],
+        "rationale": "The sentence uses past tense 'did install' to refer to an action completed in the past and present continuous 'could be causing' to refer to an ongoing potential issue.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Not really, I usually just put it to sleep. Should I try a full restart?",
+        "annotation_token": [
+            "usually put",
+            "should try"
+        ],
+        "rationale": "The sentence uses present simple 'usually put' to describe a habitual action and modal 'should try' to suggest a possible action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Okay, I’ll do that now. Is there anything else I should check while I’m at it?",
+        "annotation_token": [
+            "I'll do",
+            "should check",
+            "I'm at"
+        ],
+        "rationale": "The sentence uses future simple 'I'll do' to indicate a future action, modal 'should check' for a suggestion, and present continuous 'I'm at' to describe the current state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Got it, I’ll check for updates too. Thanks for the advice. Anything else I should keep an eye on?",
+        "annotation_token": [
+            "I'll check",
+            "should keep"
+        ],
+        "rationale": "The sentence uses future simple 'I'll check' to indicate a future action and modal 'should keep' for a suggestion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I’ll look into that as well. Thanks so much for your help!",
+        "annotation_token": [
+            "I'll look"
+        ],
+        "rationale": "The sentence uses future simple 'I'll look' to indicate a future action.",
+        "grammar_correctness": "correct"
+    }
+]

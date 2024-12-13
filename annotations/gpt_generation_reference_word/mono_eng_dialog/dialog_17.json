@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sure, your university has a great reputation for its engineering program, and I’ve heard a lot about the innovative projects students get to work on.",
+        "annotation_token": "its",
+        "rationale": "The word 'its' is a reference word that refers back to 'your university'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I'm really interested in renewable energy. I think it's crucial for our future, and I’d love to be part of that change.",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is a reference word that refers back to 'renewable energy'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I worked on a small solar panel project in high school. It was fascinating to see how much energy we could harness from the sun.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word that refers back to 'a small solar panel project'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That’s reassuring to hear. Thank you for all the information. I feel much more confident now.",
+        "annotation_token": "That’s",
+        "rationale": "The word 'That’s' is a reference word that refers back to the previous sentence about support systems.",
+        "grammar_correctness": true
+    }
+]

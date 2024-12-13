@@ -1,0 +1,29 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I buy this shirt last week, and it is, um, too big.",
+        "annotation_token": [
+            "I buy"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'buy' in terms of tense. The correct form should be 'I bought' to indicate past tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I have here. But, um, shirt not have tag.",
+        "annotation_token": [
+            "shirt not have"
+        ],
+        "rationale": "The subject 'shirt' does not agree with the verb 'have'. The correct form should be 'shirt does not have' to match singular subject with singular verb form.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I go look for, um, correct size now.",
+        "annotation_token": [
+            "I go"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'go' in terms of tense. The correct form should be 'I am going' or 'I will go' to indicate present continuous or future intention.",
+        "grammar_correctness": "wrong"
+    }
+]

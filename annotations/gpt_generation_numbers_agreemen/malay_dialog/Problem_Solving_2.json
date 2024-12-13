@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I make mistake in data.",
+        "annotation_token": "mistake",
+        "rationale": "The noun 'mistake' should be plural to agree with the context of multiple errors in data.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I, um, use wrong numbers for the sales... figures.",
+        "annotation_token": "numbers",
+        "rationale": "The noun 'numbers' is correctly used in plural form to agree with 'figures'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I will make checklist, so I not miss... um, step next time.",
+        "annotation_token": "checklist",
+        "rationale": "The noun 'checklist' should be plural to indicate multiple items to check.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "And double-check numbers.",
+        "annotation_token": "numbers",
+        "rationale": "The noun 'numbers' is correctly used in plural form to indicate multiple numerical values.",
+        "grammar_correctness": "correct"
+    }
+]

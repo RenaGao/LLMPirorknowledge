@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Certainly! I've spent the last three years working as a marketing coordinator.",
+        "annotation_token": "I've spent",
+        "rationale": "The subject 'I' agrees with the verb 'have spent' in the present perfect tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "In that role, I managed social media campaigns and organized events, which I believe aligns well with the responsibilities here.",
+        "annotation_token": "I managed",
+        "rationale": "The subject 'I' agrees with the verb 'managed' in the past tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Sure! I led a campaign for a new product launch that increased our social media engagement by 30%.",
+        "annotation_token": "I led",
+        "rationale": "The subject 'I' agrees with the verb 'led' in the past tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I learned the importance of targeting the right audience and using analytics to adjust our strategy on the go.",
+        "annotation_token": "I learned",
+        "rationale": "The subject 'I' agrees with the verb 'learned' in the past tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Absolutely. I often rely on data to guide my decisions, whether it's adjusting content strategies or evaluating campaign success.",
+        "annotation_token": "I often rely",
+        "rationale": "The subject 'I' agrees with the verb 'rely' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I tend to thrive under pressure.",
+        "annotation_token": "I tend",
+        "rationale": "The subject 'I' agrees with the verb 'tend' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I prioritize tasks and stay organized, which helps me meet deadlines without compromising on quality.",
+        "annotation_token": "I prioritize",
+        "rationale": "The subject 'I' agrees with the verb 'prioritize' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I was wondering if there are opportunities for professional development and growth within the company?",
+        "annotation_token": "I was wondering",
+        "rationale": "The subject 'I' agrees with the verb 'was wondering' in the past continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That's wonderful to hear.",
+        "annotation_token": "That is",
+        "rationale": "The subject 'That' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It sounds like a great environment to grow in.",
+        "annotation_token": "It sounds",
+        "rationale": "The subject 'It' agrees with the verb 'sounds' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

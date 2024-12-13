@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, five minutes. I understand. Thank you so much. I was, um, worried to get lost.",
+        "annotation_token": [
+            "five"
+        ],
+        "rationale": "The word 'five' is a numeral indicating a specific quantity of minutes.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, five minutes. I understand. Thank you so much. I was, um, worried to get lost.",
+        "annotation_token": [
+            "five"
+        ],
+        "rationale": "The word 'five' is a numeral indicating a specific quantity of minutes.",
+        "grammar_correctness": true
+    }
+]

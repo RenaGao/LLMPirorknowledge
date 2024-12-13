@@ -1,0 +1,119 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I was wondering about the timeline for hearing back after submitting my application.",
+        "annotation_token": [
+            "I was wondering"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'was wondering' in the past continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, it's for the marketing internship.",
+        "annotation_token": [
+            "it is"
+        ],
+        "rationale": "The subject 'it' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I've submitted everything but wanted to make sure I didn't miss any steps.",
+        "annotation_token": [
+            "I have submitted"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'have submitted' in the present perfect tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, I didn't realize that.",
+        "annotation_token": [
+            "I did not realize"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'did not realize' in the past tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Do you recommend submitting it?",
+        "annotation_token": [
+            "you recommend"
+        ],
+        "rationale": "The subject 'you' correctly agrees with the verb 'recommend' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That would be helpful, thanks.",
+        "annotation_token": [
+            "That would be"
+        ],
+        "rationale": "The subject 'That' correctly agrees with the verb phrase 'would be' in the conditional tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I'm not sure if I should focus on my academic achievements or previous work experiences.",
+        "annotation_token": [
+            "I am not sure"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That makes sense.",
+        "annotation_token": [
+            "That makes"
+        ],
+        "rationale": "The subject 'That' correctly agrees with the verb 'makes' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I'll start drafting it this evening.",
+        "annotation_token": [
+            "I will start"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'will start' in the future tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Is there a deadline for the optional essay?",
+        "annotation_token": [
+            "there is"
+        ],
+        "rationale": "The subject 'there' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I appreciate that!",
+        "annotation_token": [
+            "I appreciate"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'appreciate' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I'll definitely take you up on the offer.",
+        "annotation_token": [
+            "I will take"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'will take' in the future tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you for all your help today.",
+        "annotation_token": [
+            "you thank"
+        ],
+        "rationale": "The subject 'you' correctly agrees with the verb 'thank' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

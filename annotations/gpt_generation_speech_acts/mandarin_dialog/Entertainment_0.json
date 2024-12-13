@@ -1,0 +1,141 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, I like very much.",
+        "annotation_token": [
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The tokens 'Ah' and 'yes' are used as speech acts to express agreement and acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, I think I like Eleven.",
+        "annotation_token": [
+            "Hmm"
+        ],
+        "rationale": "The token 'Hmm' is used as a speech act to express contemplation or thoughtfulness.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes! Dustin is funny.",
+        "annotation_token": [
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The tokens 'Ah' and 'yes' are used as speech acts to express realization and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Lately, um, I watched \"Inception.\"",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to indicate hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Not all, but I try.",
+        "annotation_token": [
+            "Not all"
+        ],
+        "rationale": "The phrase 'Not all' is used as a speech act to express partial agreement or acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, I think it is very difficult!",
+        "annotation_token": [
+            "Oh"
+        ],
+        "rationale": "The token 'Oh' is used as a speech act to express surprise or realization.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I will try my best.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The phrase 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I would like that!",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement or acceptance.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, I like very much.",
+        "annotation_token": [
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The tokens 'Ah' and 'yes' are used as speech acts to express agreement and acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, I think I like Eleven.",
+        "annotation_token": [
+            "Hmm"
+        ],
+        "rationale": "The token 'Hmm' is used as a speech act to express thinking or consideration.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "And you? Do you watch it?",
+        "annotation_token": [
+            "And you?"
+        ],
+        "rationale": "The token 'And you?' is used as a speech act to prompt the listener to share their opinion or experience.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes! Dustin is funny.",
+        "annotation_token": [
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The tokens 'Ah' and 'yes' are used as speech acts to express agreement and acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, I think it is very difficult!",
+        "annotation_token": [
+            "Oh"
+        ],
+        "rationale": "The token 'Oh' is used as a speech act to express surprise or realization.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I will try my best.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I would like that!",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement or acceptance.",
+        "grammar_correctness": "correct"
+    }
+]

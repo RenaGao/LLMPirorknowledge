@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, my friend invite me. She say it will be fun.",
+        "annotation_token": [
+            "She",
+            "it"
+        ],
+        "rationale": "'She' refers to 'my friend', and 'it' refers to the event or activity that will be fun.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sometimes, yes. It's... um, challenging.",
+        "annotation_token": [
+            "It's"
+        ],
+        "rationale": "'It's' refers to the finance job mentioned earlier.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Dragon's Back. It is very famous.",
+        "annotation_token": [
+            "It"
+        ],
+        "rationale": "'It' refers to 'Dragon's Back', which is a hiking trail.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, sweet and sour pork. It is, uh, easy but very tasty.",
+        "annotation_token": [
+            "It"
+        ],
+        "rationale": "'It' refers to 'sweet and sour pork'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, they like it. I bring to party sometimes.",
+        "annotation_token": [
+            "they",
+            "it"
+        ],
+        "rationale": "'They' refers to 'my family', and 'it' refers to the food, likely 'sweet and sour pork'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, Alex. It was nice to ta",
+        "annotation_token": [
+            "It"
+        ],
+        "rationale": "'It' refers to the conversation or interaction with Alex.",
+        "grammar_correctness": true
+    }
+]

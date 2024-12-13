@@ -1,0 +1,62 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes, of course. We have Chuseok. It is very important holiday, um, like Thanksgiving in America.",
+        "annotation_token": [
+            "very"
+        ],
+        "rationale": "The word 'very' is used as a quantifier to emphasize the importance of the holiday.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Mostly, in southern Korea. But, now, many people know it.",
+        "annotation_token": [
+            "Mostly",
+            "many"
+        ],
+        "rationale": "The word 'Mostly' is a quantifier indicating the general location where the dance is performed, and 'many' is a quantifier indicating a large number of people who know the dance.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It is three days. But, uh, many people take longer holiday.",
+        "annotation_token": [
+            "three",
+            "many",
+            "longer"
+        ],
+        "rationale": "The word 'three' is a numeral indicating the number of days, 'many' is a quantifier indicating a large number of people, and 'longer' is a comparative quantifier indicating a duration longer than the specified three days.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes, of course. We have Chuseok. It is very important holiday, um, like Thanksgiving in America.",
+        "annotation_token": [
+            "very"
+        ],
+        "rationale": "The word 'very' is a quantifier used to intensify the adjective 'important'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Mostly, in southern Korea. But, now, many people know it.",
+        "annotation_token": [
+            "Mostly",
+            "many"
+        ],
+        "rationale": "'Mostly' is a quantifier indicating the majority of instances, and 'many' is a quantifier indicating a large number of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It is three days. But, uh, many people take longer holiday.",
+        "annotation_token": [
+            "three",
+            "many",
+            "longer"
+        ],
+        "rationale": "'Three' is a numeral indicating the number of days, 'many' is a quantifier indicating a large number of people, and 'longer' is a comparative quantifier indicating an extended duration.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, parks. Yes, I go last week. The weather was very nice. You like parks too, yes?",
+        "annotation_token": [
+            "go"
+        ],
+        "rationale": "The verb 'go' should be in the past tense to agree with the time expression 'last week'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "He ask about you too.",
+        "annotation_token": [
+            "ask"
+        ],
+        "rationale": "The verb 'ask' should be in the past tense to agree with the context of the conversation.",
+        "grammar_correctness": "wrong"
+    }
+]

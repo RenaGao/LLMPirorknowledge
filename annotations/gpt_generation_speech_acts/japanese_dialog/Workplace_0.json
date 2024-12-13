@@ -1,0 +1,212 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, of course. Um, the deadline is, uh, next week, right?",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "of course",
+            "Um"
+        ],
+        "rationale": "The tokens 'Ah', 'yes', 'of course', and 'Um' are used as speech acts to express agreement and confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, I think, um, maybe it's a bit... how to say... tight? Yes, tight.",
+        "annotation_token": [
+            "Hmm",
+            "I think",
+            "um",
+            "how to say",
+            "Yes"
+        ],
+        "rationale": "The tokens 'Hmm', 'I think', 'um', 'how to say', and 'Yes' are used as speech acts to express hesitation, thought process, and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that help. Maybe focus on important first... like... uh, main findings?",
+        "annotation_token": [
+            "Yes",
+            "uh"
+        ],
+        "rationale": "The tokens 'Yes' and 'uh' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, yes, that plan is better. Um, what about the... uh, presentation?",
+        "annotation_token": [
+            "Okay",
+            "yes",
+            "Um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Okay', 'yes', 'Um', and 'uh' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, later this week is good. Uh, can we do, um, Thursday?",
+        "annotation_token": [
+            "Yes",
+            "Uh",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes', 'Uh', and 'um' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, 2 p.m. is fine. Um, I will be ready by then.",
+        "annotation_token": [
+            "Yes",
+            "Um"
+        ],
+        "rationale": "The tokens 'Yes' and 'Um' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. Uh, I think I will need some help with, um, data analysis.",
+        "annotation_token": [
+            "Thank you",
+            "Uh",
+            "I think",
+            "um"
+        ],
+        "rationale": "The tokens 'Thank you', 'Uh', 'I think', and 'um' are used as speech acts to express gratitude, hesitation, and thought process.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I use Excel mainly. But, uh, still learning some function.",
+        "annotation_token": [
+            "Um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Um' and 'uh' are used as speech acts to express hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That would be very helpful. Thank you for your support.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will. Um, thank you again, and see you on Thursday.",
+        "annotation_token": [
+            "Yes",
+            "Um",
+            "thank you"
+        ],
+        "rationale": "The tokens 'Yes', 'Um', and 'thank you' are used as speech acts to express agreement, hesitation, and gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, of course. Um, the deadline is, uh, next week, right?",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "of course",
+            "Um",
+            "uh",
+            "right"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Ah', 'yes', 'of course', 'Um', 'uh', and 'right', which are used to express agreement, confirmation, and seeking confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, I think, um, maybe it's a bit... how to say... tight? Yes, tight.",
+        "annotation_token": [
+            "Hmm",
+            "um",
+            "how to say",
+            "Yes"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Hmm', 'um', 'how to say', and 'Yes', which are used to express hesitation, thinking, and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that help. Maybe focus on important first... like... uh, main findings?",
+        "annotation_token": [
+            "Yes",
+            "uh"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Yes' and 'uh', which are used to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, yes, that plan is better. Um, what about the... uh, presentation?",
+        "annotation_token": [
+            "Okay",
+            "yes",
+            "Um",
+            "uh"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Okay', 'yes', 'Um', and 'uh', which are used to express agreement, hesitation, and to introduce a new topic.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, later this week is good. Uh, can we do, um, Thursday?",
+        "annotation_token": [
+            "Yes",
+            "Uh",
+            "um"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Yes', 'Uh', and 'um', which are used to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, 2 p.m. is fine. Um, I will be ready by then.",
+        "annotation_token": [
+            "Yes",
+            "Um"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Yes' and 'Um', which are used to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. Uh, I think I will need some help with, um, data analysis.",
+        "annotation_token": [
+            "Thank you",
+            "Uh",
+            "um"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Thank you', 'Uh', and 'um', which are used to express gratitude and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That would be very helpful. Thank you for your support.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The sentence contains the speech act 'Thank you', which is used to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will. Um, thank you again, and see you on Thursday.",
+        "annotation_token": [
+            "Yes",
+            "Um",
+            "thank you"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Yes', 'Um', and 'thank you', which are used to express agreement, hesitation, and gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, yes, I have free time.",
+        "annotation_token": [
+            "I have"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'have' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, sounds good!",
+        "annotation_token": [
+            "sounds"
+        ],
+        "rationale": "The subject 'it' (implied) correctly agrees with the verb 'sounds' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Action film is good!",
+        "annotation_token": [
+            "film is"
+        ],
+        "rationale": "The subject 'film' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Okay, 6 p.m. is good.",
+        "annotation_token": [
+            "6 p.m. is"
+        ],
+        "rationale": "The subject '6 p.m.' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I look forward to it.",
+        "annotation_token": [
+            "I look"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'look' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

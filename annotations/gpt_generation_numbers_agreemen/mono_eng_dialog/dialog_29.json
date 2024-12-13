@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Absolutely! I've always been passionate about environmental science, and your program's focus on sustainability really resonates with me.",
+        "annotation_token": "program's",
+        "rationale": "The word 'program's' is singular and correctly agrees with the singular verb 'resonates'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I'm really keen on exploring renewable energy solutions. I read about the solar initiative you launched last year, and I'd love to contribute to that.",
+        "annotation_token": "solutions",
+        "rationale": "The word 'solutions' is plural and correctly agrees with the context of exploring multiple options.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Well, during my internship at GreenTech, I helped develop a small-scale solar panel prototype. It was a hands-on experience that taught me a lot about practical applications.",
+        "annotation_token": "applications",
+        "rationale": "The word 'applications' is plural and correctly agrees with the context of learning about multiple practical uses.",
+        "grammar_correctness": "correct"
+    }
+]

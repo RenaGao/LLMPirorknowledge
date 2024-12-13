@@ -1,0 +1,68 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, many. Um, in Japan, we say “Itadakimasu” before eating. Here, not so much.",
+        "annotation_token": [
+            "many",
+            "much"
+        ],
+        "rationale": "The words 'many' and 'much' are quantifiers used to indicate an unspecified amount or number.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes! In Japan, no tipping. Service fee included. Here, I must remember.",
+        "annotation_token": [
+            "no"
+        ],
+        "rationale": "The word 'no' is used as a quantifier to indicate the absence of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes. I try to be quiet when eat noodle here. Little hard!",
+        "annotation_token": [
+            "Little"
+        ],
+        "rationale": "The word 'Little' is used as a quantifier to indicate a small amount of difficulty.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, many. Um, in Japan, we say “Itadakimasu” before eating. Here, not so much.",
+        "annotation_token": [
+            "many",
+            "not so much"
+        ],
+        "rationale": "The sentence contains the quantifier 'many' and the phrase 'not so much', which includes a quantifier.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, sometimes difficult. I still practice. But I like chopsticks best.",
+        "annotation_token": [
+            "sometimes",
+            "best"
+        ],
+        "rationale": "The sentence contains the quantifier 'sometimes' and the superlative 'best', which is related to numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes! In Japan, no tipping. Service fee included. Here, I must remember.",
+        "annotation_token": [
+            "no"
+        ],
+        "rationale": "The sentence contains the quantifier 'no'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes. I try to be quiet when eat noodle here. Little hard!",
+        "annotation_token": [
+            "Little"
+        ],
+        "rationale": "The sentence contains the quantifier 'Little'.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, I think, how to say, simple is okay? Not too big.",
+        "annotation_token": [
+            "too"
+        ],
+        "rationale": "The word 'too' is used as a quantifier to indicate an excessive degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, yes, stapler! I need to buy one for my, um, my office work.",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "The word 'one' is used as a numeral to indicate a single item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, I think, how to say, simple is okay? Not too big.",
+        "annotation_token": [
+            "too"
+        ],
+        "rationale": "The word 'too' is used as a quantifier to indicate an excessive degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, yes, stapler! I need to buy one for my, um, my office work.",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "The word 'one' is a numeral indicating a single item.",
+        "grammar_correctness": true
+    }
+]

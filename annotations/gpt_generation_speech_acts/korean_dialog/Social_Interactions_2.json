@@ -1,0 +1,192 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello, uh, thank you. I am good. You are doing well too?",
+        "annotation_token": [
+            "Hello",
+            "thank you",
+            "You are doing well too?"
+        ],
+        "rationale": "The tokens 'Hello', 'thank you', and 'You are doing well too?' are speech acts as they perform functions such as greeting, expressing gratitude, and inquiring about the listener's well-being.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, I'm working in new place. It is, uh, how to say... company for design?",
+        "annotation_token": [
+            "Oh",
+            "how to say"
+        ],
+        "rationale": "The token 'Oh' is a speech act expressing realization or surprise, and 'how to say' is a speech act indicating a request for assistance in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes, design company. I do graphic design. Like, um, posters and, uh, advertisement.",
+        "annotation_token": [
+            "Yes, yes"
+        ],
+        "rationale": "The token 'Yes, yes' is a speech act confirming or agreeing with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, very much. I like to make... how you say... art for people?",
+        "annotation_token": [
+            "Yes, very much",
+            "how you say"
+        ],
+        "rationale": "The token 'Yes, very much' is a speech act expressing strong agreement or affirmation, and 'how you say' is a speech act indicating a request for assistance in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, yes, I am making project for, uh, big brand. It is, um, secret now, but very fun!",
+        "annotation_token": [
+            "Uh, yes"
+        ],
+        "rationale": "The token 'Uh, yes' is a speech act expressing agreement or confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I learn many thing, like new program and, uh, working with team.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is a speech act expressing agreement or confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, sometimes. Team is... how to say... different idea?",
+        "annotation_token": [
+            "Um, yes",
+            "how to say"
+        ],
+        "rationale": "The token 'Um, yes' is a speech act expressing agreement or confirmation, and 'how to say' is a speech act indicating a request for assistance in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We, um, talk a lot. We share, uh, opinion and, um, find best way.",
+        "annotation_token": [
+            "We, um, talk a lot"
+        ],
+        "rationale": "The token 'We, um, talk a lot' is a speech act describing a habitual action or routine.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think so. I, um, get better at, uh, speaking and, uh, listening.",
+        "annotation_token": [
+            "Yes, I think so"
+        ],
+        "rationale": "The token 'Yes, I think so' is a speech act expressing agreement or belief.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. Uh, future... I want to, um, maybe travel and learn more design.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello, uh, thank you. I am good. You are doing well too?",
+        "annotation_token": [
+            "Hello",
+            "thank you",
+            "You are doing well too?"
+        ],
+        "rationale": "The tokens 'Hello', 'thank you', and 'You are doing well too?' are speech acts as they perform the actions of greeting, expressing gratitude, and inquiring about the listener's well-being, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, I'm working in new place. It is, uh, how to say... company for design?",
+        "annotation_token": [
+            "Oh",
+            "how to say"
+        ],
+        "rationale": "The token 'Oh' is a speech act expressing realization or acknowledgment, and 'how to say' is a speech act indicating a request for assistance in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes, design company. I do graphic design. Like, um, posters and, uh, advertisement.",
+        "annotation_token": [
+            "Yes, yes"
+        ],
+        "rationale": "The token 'Yes, yes' is a speech act confirming or agreeing with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, very much. I like to make... how you say... art for people?",
+        "annotation_token": [
+            "Yes, very much",
+            "how you say"
+        ],
+        "rationale": "The token 'Yes, very much' is a speech act expressing strong agreement or affirmation, and 'how you say' is a speech act indicating a request for assistance in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, yes, I am making project for, uh, big brand. It is, um, secret now, but very fun!",
+        "annotation_token": [
+            "Uh, yes"
+        ],
+        "rationale": "The token 'Uh, yes' is a speech act expressing agreement or confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I learn many thing, like new program and, uh, working with team.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is a speech act expressing agreement or confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, sometimes. Team is... how to say... different idea?",
+        "annotation_token": [
+            "Um, yes",
+            "how to say"
+        ],
+        "rationale": "The token 'Um, yes' is a speech act expressing agreement or confirmation, and 'how to say' is a speech act indicating a request for assistance in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We, um, talk a lot. We share, uh, opinion and, um, find best way.",
+        "annotation_token": [
+            "We, um, talk a lot"
+        ],
+        "rationale": "The token 'We, um, talk a lot' is a speech act describing the action of communication within the team.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think so. I, um, get better at, uh, speaking and, uh, listening.",
+        "annotation_token": [
+            "Yes, I think so"
+        ],
+        "rationale": "The token 'Yes, I think so' is a speech act expressing agreement or belief in the statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. Uh, future... I want to, um, maybe travel and learn more design.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "We tracked metrics like reach, impressions, and engagement rates.",
+        "annotation_token": [
+            "metrics",
+            "reach",
+            "impressions",
+            "engagement rates"
+        ],
+        "rationale": "The sentence contains a list of metrics, which are plural nouns, and they agree in number with the verb 'tracked'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "We also monitored follower growth and feedback from our audience.",
+        "annotation_token": [
+            "follower growth",
+            "feedback"
+        ],
+        "rationale": "The sentence contains singular nouns 'follower growth' and 'feedback', which agree in number with the verb 'monitored'.",
+        "grammar_correctness": "correct"
+    }
+]

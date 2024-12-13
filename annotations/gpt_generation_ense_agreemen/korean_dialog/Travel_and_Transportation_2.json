@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I think so. But, um, where we should go? I mean, the place, uh, destination?",
+        "annotation_token": [
+            "should go"
+        ],
+        "rationale": "The sentence uses 'should go' which is a correct tense agreement for expressing a suggestion or possibility in the present or future.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, maybe we can go to Jeju Island? I hear it's very beautiful.",
+        "annotation_token": [
+            "can go",
+            "hear"
+        ],
+        "rationale": "The sentence uses 'can go' and 'hear' which are correct tense agreements for expressing ability and present tense respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I think one week is good. We can see many things, not rush.",
+        "annotation_token": [
+            "is",
+            "can see"
+        ],
+        "rationale": "The sentence uses 'is' and 'can see' which are correct tense agreements for present tense and expressing ability respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Great! I can help with, um, booking? Maybe the flight and our stay.",
+        "annotation_token": [
+            "can help"
+        ],
+        "rationale": "The sentence uses 'can help' which is a correct tense agreement for expressing ability in the present.",
+        "grammar_correctness": "correct"
+    }
+]

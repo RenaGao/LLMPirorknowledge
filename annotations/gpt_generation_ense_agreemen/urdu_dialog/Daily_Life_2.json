@@ -1,0 +1,63 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "First, I take rice. I wash very, very good. Then, soak... um, like, half hour.",
+        "annotation_token": [
+            "take",
+            "wash",
+            "soak"
+        ],
+        "rationale": "The verbs 'take', 'wash', and 'soak' are in the present tense, which is consistent with the narrative style of giving instructions or describing a process.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "After rice, I cut onion and... um, fry until brown. Then put, uh, chicken pieces.",
+        "annotation_token": [
+            "cut",
+            "fry",
+            "put"
+        ],
+        "rationale": "The verbs 'cut', 'fry', and 'put' are in the present tense, which is consistent with the narrative style of giving instructions or describing a process.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "After chicken is, uh, cooked little bit, I layer rice on top.",
+        "annotation_token": [
+            "is cooked",
+            "layer"
+        ],
+        "rationale": "The verb 'is cooked' is in the present perfect tense, and 'layer' is in the present tense, which is consistent with the narrative style of giving instructions or describing a process.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I cook on low flame, um, maybe 20 minutes? Until rice is, uh, soft.",
+        "annotation_token": [
+            "cook",
+            "is soft"
+        ],
+        "rationale": "The verb 'cook' is in the present tense, and 'is soft' is in the present tense, which is consistent with the narrative style of giving instructions or describing a process.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I put, uh, fried onion and, um, mint leaf. Maybe some, uh, lemon juice.",
+        "annotation_token": [
+            "put"
+        ],
+        "rationale": "The verb 'put' is in the present tense, which is consistent with the narrative style of giving instructions or describing a process.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, we eat with, uh, yogurt. It is, um, called raita.",
+        "annotation_token": [
+            "eat",
+            "is called"
+        ],
+        "rationale": "The verb 'eat' is in the present tense, and 'is called' is in the present tense, which is consistent with the narrative style of giving instructions or describing a process.",
+        "grammar_correctness": "correct"
+    }
+]

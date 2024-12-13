@@ -1,0 +1,86 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hello, I am good, thank you. Uh, how about you?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I, um, think to have picnic with family. Uh, how to say... outside eat?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We want to go park near my home. It is, um, big and have many tree.",
+        "annotation_token": "We, It",
+        "rationale": "The word 'We' is a reference word referring to the speaker and their family. 'It' refers to the park.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I think about it. We will bring, um, sandwiches and fruits. Maybe... how to say... that cold soup?",
+        "annotation_token": "I, We, it",
+        "rationale": "The word 'I' is a reference word referring to the speaker. 'We' refers to the speaker and their family. 'It' refers to the idea of having a picnic.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, yes, gazpacho! My sister like it very much.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to gazpacho.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, we think to play some games. My brother likes to play, um, flying disk. You know, the one you throw?",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and their family.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, my parents come too, and, uh, my cousin and her little baby.",
+        "annotation_token": "my",
+        "rationale": "The word 'my' is a reference word referring to the speaker's parents and cousin.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We want to go in morning, maybe... um, around 10? Is good time, you think?",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the speaker and their family.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, recently weather is very good, I hope it stay same.",
+        "annotation_token": "I, it",
+        "rationale": "The word 'I' is a reference word referring to the speaker. 'It' refers to the weather.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, yes, we bring, um, blanket and small toys for baby. He can, uh, play safely.",
+        "annotation_token": "we, He",
+        "rationale": "The word 'we' is a reference word referring to the speaker and their family. 'He' refers to the baby.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, maybe just, uh, relax and take picture. My family like to, uh, take picture for memory.",
+        "annotation_token": "My",
+        "rationale": "The word 'My' is a reference word referring to the speaker's family.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you! I hope it will be fun. Thank you for talking with me.",
+        "annotation_token": "I, it",
+        "rationale": "The word 'I' is a reference word referring to the speaker. 'It' refers to the picnic.",
+        "grammar_correctness": true
+    }
+]

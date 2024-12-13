@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, um, it is for Nok.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to something previously mentioned or understood in the context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Her birthday soon, next week.",
+        "annotation_token": "Her",
+        "rationale": "The word 'Her' is used as a reference to Nok, indicating possession.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "She like parties very much.",
+        "annotation_token": "She",
+        "rationale": "The word 'She' is used as a reference to Nok.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Nok love food, so many food.",
+        "annotation_token": "Nok",
+        "rationale": "The word 'Nok' is used as a reference to the person being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, she like, uh, Thai restaurant...",
+        "annotation_token": "she",
+        "rationale": "The word 'she' is used as a reference to Nok.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I think, uh, her family make her happy.",
+        "annotation_token": "her",
+        "rationale": "The word 'her' is used as a reference to Nok, indicating possession.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, she like, uh, music.",
+        "annotation_token": "she",
+        "rationale": "The word 'she' is used as a reference to Nok.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, she like... um, how to say... pop band?",
+        "annotation_token": "she",
+        "rationale": "The word 'she' is used as a reference to Nok.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, phone is good.",
+        "annotation_token": "phone",
+        "rationale": "The word 'phone' is used as a reference to a device that can take pictures.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Nok happy is important.",
+        "annotation_token": "Nok",
+        "rationale": "The word 'Nok' is used as a reference to the person being discussed.",
+        "grammar_correctness": true
+    }
+]

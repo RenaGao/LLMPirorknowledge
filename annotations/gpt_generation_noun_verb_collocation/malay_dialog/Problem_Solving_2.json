@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Hi, um... yes, I want to talk about the report.",
+        "annotation_token": "talk about the report",
+        "rationale": "The noun 'report' and the verb 'talk' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I make mistake in data.",
+        "annotation_token": "make mistake",
+        "rationale": "The noun 'mistake' and the verb 'make' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I check again, and my colleague also say something not... match.",
+        "annotation_token": "check again",
+        "rationale": "The noun 'check' and the verb 'again' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I think I can correct numbers and, um, update report.",
+        "annotation_token": "update report",
+        "rationale": "The noun 'report' and the verb 'update' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I think I will also add note in report about mistake and correction, so all know.",
+        "annotation_token": "add note",
+        "rationale": "The noun 'note' and the verb 'add' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I will make checklist, so I not miss... um, step next time.",
+        "annotation_token": "make checklist",
+        "rationale": "The noun 'checklist' and the verb 'make' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

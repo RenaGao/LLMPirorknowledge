@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Uh, maybe three days. It start in morning and... um, not stop until night.",
+        "annotation_token": [
+            "days",
+            "start",
+            "stop"
+        ],
+        "rationale": "The subject 'three days' is plural, so the verbs 'start' and 'stop' should be in their plural forms 'start' and 'stop' respectively.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I take, um, paracetamol. But it not help much.",
+        "annotation_token": [
+            "take",
+            "help"
+        ],
+        "rationale": "The subject 'I' is singular, so the verb 'take' is correct. However, 'it' is singular, so the verb 'help' should be 'helps'.",
+        "grammar_correctness": "wrong"
+    }
+]

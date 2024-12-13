@@ -1,0 +1,60 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes! In Korea, we usually share food. Um, how to say... like big dish for everyone.",
+        "annotation_token": [
+            "big",
+            "everyone"
+        ],
+        "rationale": "'big' is a quantifier indicating size, and 'everyone' is a quantifier indicating all people in a group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, yes. We have many side... side dishes. It’s called banchan. They are... for everyone to share.",
+        "annotation_token": [
+            "many",
+            "everyone"
+        ],
+        "rationale": "'many' is a quantifier indicating a large number, and 'everyone' is a quantifier indicating all people in a group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, yes. People have own plate. And no, um, sharing is less.",
+        "annotation_token": [
+            "less"
+        ],
+        "rationale": "'less' is a quantifier indicating a smaller amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes! In Korea, we usually share food. Um, how to say... like big dish for everyone.",
+        "annotation_token": [
+            "big",
+            "everyone"
+        ],
+        "rationale": "'big' is a quantifier indicating size, and 'everyone' is a quantifier indicating all people in the group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, yes. We have many side... side dishes. It’s called banchan. They are... for everyone to share.",
+        "annotation_token": [
+            "many",
+            "everyone"
+        ],
+        "rationale": "'many' is a quantifier indicating a large number, and 'everyone' is a quantifier indicating all people in the group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, yes. People have own plate. And no, um, sharing is less.",
+        "annotation_token": [
+            "less"
+        ],
+        "rationale": "'less' is a quantifier indicating a smaller amount.",
+        "grammar_correctness": true
+    }
+]

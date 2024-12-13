@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I try practice. I write essay, but sometimes I not sure... correct or not.",
+        "annotation_token": "write essay",
+        "rationale": "The noun 'essay' and the verb 'write' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Listening, um... not so bad. I watch many English movie.",
+        "annotation_token": "watch movie",
+        "rationale": "The noun 'movie' and the verb 'watch' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    }
+]

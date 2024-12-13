@@ -1,0 +1,39 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, yes, hello. I, um, not understand part of the homework.",
+        "annotation_token": [
+            "not understand"
+        ],
+        "rationale": "The verb 'understand' should be in the present tense form 'do not understand' to agree with the present tense context.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, math problem. I not sure how to start.",
+        "annotation_token": [
+            "not sure"
+        ],
+        "rationale": "The verb 'sure' should be in the present tense form 'am not sure' to agree with the present tense context.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, quadratic... yes, I see it before, but... um, forget.",
+        "annotation_token": [
+            "see",
+            "forget"
+        ],
+        "rationale": "The verb 'see' should be in the past tense form 'saw' to agree with the past tense context, and 'forget' should be in the past participle form 'forgotten' to agree with the past perfect context.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Great! Thank you. I try this now.",
+        "annotation_token": [
+            "try"
+        ],
+        "rationale": "The verb 'try' should be in the future tense form 'will try' to agree with the future intention context.",
+        "grammar_correctness": "wrong"
+    }
+]

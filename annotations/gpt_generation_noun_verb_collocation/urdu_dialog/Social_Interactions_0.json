@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I work in, um, how to say... computers?",
+        "annotation_token": "work computers",
+        "rationale": "The noun 'computers' and the verb 'work' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I make, uh, programs and apps.",
+        "annotation_token": "make programs",
+        "rationale": "The noun 'programs' and the verb 'make' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I make, uh, programs and apps.",
+        "annotation_token": "make apps",
+        "rationale": "The noun 'apps' and the verb 'make' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I study at Lahore University.",
+        "annotation_token": "study University",
+        "rationale": "The noun 'University' and the verb 'study' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I always like computers.",
+        "annotation_token": "like computers",
+        "rationale": "The noun 'computers' and the verb 'like' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I like solve problems.",
+        "annotation_token": "solve problems",
+        "rationale": "The noun 'problems' and the verb 'solve' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I make a, um, how to say... app for learning languages.",
+        "annotation_token": "make app",
+        "rationale": "The noun 'app' and the verb 'make' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "It help people to learn easily.",
+        "annotation_token": "help people",
+        "rationale": "The noun 'people' and the verb 'help' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I want add more soon.",
+        "annotation_token": "add more",
+        "rationale": "The noun 'more' and the verb 'add' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "It's nice talking to you also.",
+        "annotation_token": "talking you",
+        "rationale": "The noun 'you' and the verb 'talking' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    }
+]

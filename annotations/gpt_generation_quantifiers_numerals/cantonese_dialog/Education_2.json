@@ -1,0 +1,83 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, hello teacher. I have question about the homework. It's, uh, a little confusing.",
+        "annotation_token": [
+            "a little"
+        ],
+        "rationale": "'a little' is a quantifier used to indicate a small amount of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I think... um, yes, but I need find more example. Maybe, uh, research online?",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "'more' is a quantifier used to indicate a greater amount or additional quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I think so. But maybe take me long time to finish.",
+        "annotation_token": [
+            "long"
+        ],
+        "rationale": "'long' is used here as a quantifier to indicate a considerable amount of time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, hello teacher. I have question about the homework. It's, uh, a little confusing.",
+        "annotation_token": [
+            "a little"
+        ],
+        "rationale": "'a little' is a quantifier used to indicate a small amount of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, uh, I think maybe about, um, smartphone use. Is it okay?",
+        "annotation_token": [
+            "maybe"
+        ],
+        "rationale": "'maybe' is used as a quantifier to express uncertainty or possibility.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I think... um, yes, but I need find more example. Maybe, uh, research online?",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "'more' is a quantifier used to indicate a greater amount or additional quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, please. How to find, uh, good source?",
+        "annotation_token": [
+            "good"
+        ],
+        "rationale": "'good' is used as a quantifier to describe the quality of the source.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Okay, I will try. And, um, how long should the essay be?",
+        "annotation_token": [
+            "how long"
+        ],
+        "rationale": "'how long' is a quantifier used to inquire about the duration or length of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I think so. But maybe take me long time to finish.",
+        "annotation_token": [
+            "long"
+        ],
+        "rationale": "'long' is a quantifier used to describe the duration of time.",
+        "grammar_correctness": true
+    }
+]

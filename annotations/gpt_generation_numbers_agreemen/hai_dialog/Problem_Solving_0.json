@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I think it was the green curry. It remind... um, remind me of home.",
+        "annotation_token": "remind",
+        "rationale": "The verb 'remind' should agree in number with the singular subject 'it', so it should be 'reminds'.",
+        "grammar_correctness": "wrong"
+    }
+]

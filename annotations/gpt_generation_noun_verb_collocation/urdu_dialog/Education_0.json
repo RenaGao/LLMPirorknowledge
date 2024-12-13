@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I try reading notes many time.",
+        "annotation_token": "reading notes",
+        "rationale": "The noun 'notes' and the verb 'reading' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Tomorrow... um, yes, tomorrow work for me.",
+        "annotation_token": "work for me",
+        "rationale": "The noun 'tomorrow' and the verb 'work' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, examples help me learn.",
+        "annotation_token": "examples help",
+        "rationale": "The noun 'examples' and the verb 'help' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, practice test sounds good.",
+        "annotation_token": "practice test sounds",
+        "rationale": "The noun 'practice test' and the verb 'sounds' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

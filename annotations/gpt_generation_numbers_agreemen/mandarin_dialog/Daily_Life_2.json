@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, hello! It is good, thank you. I still have many box, but almost done.",
+        "annotation_token": "box",
+        "rationale": "The noun 'box' should be in plural form 'boxes' to agree with the quantifier 'many'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "First, I need to buy ingredient. I go to supermarket. Need noodle, pork, and... um, soybean paste?",
+        "annotation_token": "ingredient",
+        "rationale": "The noun 'ingredient' should be in plural form 'ingredients' to agree with the context of buying multiple items.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Need noodle, pork, and... um, soybean paste?",
+        "annotation_token": "noodle",
+        "rationale": "The noun 'noodle' should be in plural form 'noodles' to agree with the context of buying multiple items.",
+        "grammar_correctness": "wrong"
+    }
+]

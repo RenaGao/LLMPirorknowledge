@@ -1,0 +1,133 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hello! I think I am not... very ready.",
+        "annotation_token": [
+            "Um",
+            "hello"
+        ],
+        "rationale": "The tokens 'Um' and 'hello' are used as a greeting and hesitation, which are common speech acts in conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I think it will help me, uh, a lot.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The tokens 'Thank you' are used to express gratitude, which is a common speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! Exactly.",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "Exactly"
+        ],
+        "rationale": "The tokens 'Yes, yes' and 'Exactly' are used to express agreement, which is a common speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for help, uh, and patience.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The tokens 'Thank you' are used to express gratitude, which is a common speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, let's do it! I feel better n",
+        "annotation_token": [
+            "Yes",
+            "let's",
+            "do",
+            "it"
+        ],
+        "rationale": "The tokens 'Yes, let's do it' are used to express agreement and willingness to proceed, which are common speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hello! I think I am not... very ready.",
+        "annotation_token": [
+            "Um",
+            "hello",
+            "I think",
+            "I am not... very ready"
+        ],
+        "rationale": "The sentence contains speech acts such as a greeting ('hello'), a hesitation ('Um'), and an expression of uncertainty ('I think I am not... very ready').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "The... how to say... um, the theory part, you know?",
+        "annotation_token": [
+            "how to say",
+            "um",
+            "you know"
+        ],
+        "rationale": "The sentence includes speech acts like a hesitation ('um'), a request for assistance ('how to say'), and a tag question ('you know') to engage the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I think it will help me, uh, a lot.",
+        "annotation_token": [
+            "Thank you",
+            "I think",
+            "uh"
+        ],
+        "rationale": "The sentence contains a gratitude expression ('Thank you'), a hedging ('I think'), and a hesitation ('uh').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, I have it in my bag. I can... get it, wait.",
+        "annotation_token": [
+            "Uh",
+            "I can... get it",
+            "wait"
+        ],
+        "rationale": "The sentence includes a hesitation ('Uh'), an offer ('I can... get it'), and a directive ('wait').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, um, I think the key is understanding... uh, logic behind, right?",
+        "annotation_token": [
+            "Okay",
+            "um",
+            "I think",
+            "uh",
+            "right"
+        ],
+        "rationale": "The sentence contains an agreement ('Okay'), hesitations ('um', 'uh'), a hedging ('I think'), and a tag question ('right') to confirm understanding.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for help, uh, and patience.",
+        "annotation_token": [
+            "Thank you",
+            "uh"
+        ],
+        "rationale": "The sentence includes a gratitude expression ('Thank you') and a hesitation ('uh').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, let's do it! I feel better n",
+        "annotation_token": [
+            "Yes",
+            "let's do it"
+        ],
+        "rationale": "The sentence contains an agreement ('Yes') and an encouragement or suggestion ('let's do it').",
+        "grammar_correctness": "correct"
+    }
+]

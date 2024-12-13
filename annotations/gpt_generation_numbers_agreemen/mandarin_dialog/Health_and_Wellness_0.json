@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Uh, maybe three... three day? Yes, three days. It is very, um, uncomfortable.",
+        "annotation_token": [
+            "day",
+            "days"
+        ],
+        "rationale": "The speaker initially uses 'day' which is singular, but then corrects to 'days' which is plural, showing a lack of number agreement initially.",
+        "grammar_correctness": "wrong"
+    }
+]

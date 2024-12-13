@@ -1,0 +1,11 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Absolutely. During my internship at XYZ Corp, I led a team to develop a social media campaign that increased our client’s engagement by 30% over three months.",
+        "annotation_token": [
+            "months"
+        ],
+        "rationale": "The word 'months' is correctly used in plural form to agree with the quantifier 'three'.",
+        "grammar_correctness": "correct"
+    }
+]

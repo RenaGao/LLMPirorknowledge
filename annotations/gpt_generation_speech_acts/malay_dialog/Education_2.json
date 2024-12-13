@@ -1,0 +1,91 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes, I have time.",
+        "annotation_token": [
+            "Oh",
+            "yes"
+        ],
+        "rationale": "The tokens 'Oh' and 'yes' are used as speech acts to express agreement and readiness to engage in the conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, the homework is bit confusing for me.",
+        "annotation_token": [
+            "Um"
+        ],
+        "rationale": "The token 'Um' is used as a speech act to indicate hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, okay, I understand.",
+        "annotation_token": [
+            "Ah",
+            "okay"
+        ],
+        "rationale": "The tokens 'Ah' and 'okay' are used as speech acts to express realization and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, this help a lot.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The tokens 'Thank you' are used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much!",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The tokens 'Thank you' are used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes, I have time.",
+        "annotation_token": [
+            "Oh",
+            "yes"
+        ],
+        "rationale": "The tokens 'Oh' and 'yes' are used as speech acts to express agreement and acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, okay, I understand.",
+        "annotation_token": [
+            "Ah",
+            "okay"
+        ],
+        "rationale": "The tokens 'Ah' and 'okay' are used as speech acts to express realization and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, this help a lot.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The tokens 'Thank you' are used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much!",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The tokens 'Thank you' are used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

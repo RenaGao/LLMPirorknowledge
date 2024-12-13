@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Hello! Um, I am good, thank you. I was thinking... maybe we go out to eat?",
+        "annotation_token": "go out",
+        "rationale": "The noun 'we' and the verb 'go' form a collocation with 'out' to express a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I know that place! They have very nice... uh, cakes.",
+        "annotation_token": "have cakes",
+        "rationale": "The noun 'they' and the verb 'have' form a collocation with 'cakes' to express a complete action.",
+        "grammar_correctness": true
+    }
+]

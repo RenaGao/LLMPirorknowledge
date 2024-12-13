@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Maybe three time a week? I can do more if it is okay.",
+        "annotation_token": "time",
+        "rationale": "The noun 'time' should be in plural form to agree with the number 'three'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Sounds good! I am ready to learn and, uh, try new thing.",
+        "annotation_token": "thing",
+        "rationale": "The noun 'thing' should be in plural form to agree with the implied plural context of 'new'.",
+        "grammar_correctness": "wrong"
+    }
+]

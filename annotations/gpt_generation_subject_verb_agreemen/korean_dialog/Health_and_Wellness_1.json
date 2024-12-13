@@ -1,0 +1,110 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hi, um, I am good, but little tired.",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Work... it is busy.",
+        "annotation_token": [
+            "it is"
+        ],
+        "rationale": "The subject 'it' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Not really... I sleep late.",
+        "annotation_token": [
+            "I sleep"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'sleep' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I should try.",
+        "annotation_token": [
+            "I should try"
+        ],
+        "rationale": "The subject 'I' agrees with the modal verb 'should' and the base form 'try'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Also, exercise is good, right?",
+        "annotation_token": [
+            "exercise is"
+        ],
+        "rationale": "The subject 'exercise' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I can walk.",
+        "annotation_token": [
+            "I can walk"
+        ],
+        "rationale": "The subject 'I' agrees with the modal verb 'can' and the base form 'walk'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That would be, um, very nice!",
+        "annotation_token": [
+            "That would be"
+        ],
+        "rationale": "The subject 'That' agrees with the modal verb 'would' and the base form 'be'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is... peaceful and, uh, not busy.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I try, but... sometimes too much junk food.",
+        "annotation_token": [
+            "I try"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'try' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, yes, I can do that.",
+        "annotation_token": [
+            "I can do"
+        ],
+        "rationale": "The subject 'I' agrees with the modal verb 'can' and the base form 'do'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I like cooking!",
+        "annotation_token": [
+            "I like"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'like' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Let’s do that.",
+        "annotation_token": [
+            "Let’s do"
+        ],
+        "rationale": "The subject 'Let’s' (Let us) agrees with the base form 'do'.",
+        "grammar_correctness": "correct"
+    }
+]

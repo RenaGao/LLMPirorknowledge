@@ -1,0 +1,70 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I work in, um, how to say... marketing. I help company sell product.",
+        "annotation_token": [
+            "I work",
+            "I help"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'work' and 'help' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I like to cook Thai food. Um, and I also... run in the park.",
+        "annotation_token": [
+            "I like",
+            "I run"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'like' and 'run' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I like to make, um, green curry. It is spicy but very good.",
+        "annotation_token": [
+            "I like",
+            "It is"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'like', and the subject 'It' correctly agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is not hard, but must... have right ingredient. Fresh is best.",
+        "annotation_token": [
+            "It is",
+            "Fresh is"
+        ],
+        "rationale": "The subject 'It' correctly agrees with the verb 'is', and the subject 'Fresh' correctly agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I can show you. It will be fun.",
+        "annotation_token": [
+            "I can",
+            "It will be"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the modal verb 'can', and the subject 'It' correctly agrees with the modal verb 'will be'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I like to, um, watch movie. Comedy and, uh, action movie.",
+        "annotation_token": [
+            "I like"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'like' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, that is good idea. Thank you, Sarah.",
+        "annotation_token": [
+            "that is"
+        ],
+        "rationale": "The subject 'that' correctly agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    }
+]

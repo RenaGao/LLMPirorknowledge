@@ -1,0 +1,66 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, hello! I am fine, thank you.",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I do yoga sometimes.",
+        "annotation_token": [
+            "I do"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'do' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Fresh air is, um, how to say... better for me.",
+        "annotation_token": [
+            "air is"
+        ],
+        "rationale": "The subject 'air' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I can do more if it is okay.",
+        "annotation_token": [
+            "I can do",
+            "it is"
+        ],
+        "rationale": "The subject 'I' agrees with the modal verb 'can' and the base form 'do'. The subject 'it' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Morning, please. Before work is, um, how to say... good for my energy.",
+        "annotation_token": [
+            "work is"
+        ],
+        "rationale": "The subject 'work' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Sometimes it is... um, hurt when running.",
+        "annotation_token": [
+            "it is"
+        ],
+        "rationale": "The subject 'it' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "No question now. I am just, um, excited to start.",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

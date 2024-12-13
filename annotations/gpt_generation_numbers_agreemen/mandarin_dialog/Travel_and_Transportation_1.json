@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Two blocks... and hotel is on... right, yes?",
+        "annotation_token": "blocks",
+        "rationale": "The word 'blocks' is plural, indicating more than one block, but the sentence structure does not reflect this plurality in the verb 'is', which should agree with the plural subject.",
+        "grammar_correctness": "wrong"
+    }
+]

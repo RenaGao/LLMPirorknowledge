@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, thank you, but I try to find first. If not can find, I will ask you.",
+        "annotation_token": [
+            "try",
+            "can find",
+            "will ask"
+        ],
+        "rationale": "The sentence contains verbs that should agree in tense. 'Try' is in present tense, 'can find' is in present tense, and 'will ask' is in future tense. The sentence lacks tense consistency.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Excuse me, I look in aisle three, but I not see stapler.",
+        "annotation_token": [
+            "look",
+            "not see"
+        ],
+        "rationale": "The sentence contains verbs that should agree in tense. 'Look' is in present tense, and 'not see' is missing the auxiliary verb 'do' for present tense agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

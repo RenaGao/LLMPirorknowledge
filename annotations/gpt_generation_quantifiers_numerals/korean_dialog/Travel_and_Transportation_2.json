@@ -1,0 +1,42 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I think one week is good. We can see many things, not rush.",
+        "annotation_token": [
+            "one",
+            "many"
+        ],
+        "rationale": "The sentence contains the numeral 'one' and the quantifier 'many', which are used to specify the amount of time and the number of things, respectively.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, maybe, uh, six people? Enough for fun, not too many.",
+        "annotation_token": [
+            "six",
+            "many"
+        ],
+        "rationale": "The sentence contains the numeral 'six' to specify the number of people and the quantifier 'many' to indicate a large number.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I think one week is good. We can see many things, not rush.",
+        "annotation_token": [
+            "one",
+            "many"
+        ],
+        "rationale": "The sentence contains the numeral 'one' and the quantifier 'many', which are used to specify quantity and amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, maybe, uh, six people? Enough for fun, not too many.",
+        "annotation_token": [
+            "six",
+            "many"
+        ],
+        "rationale": "The sentence contains the numeral 'six' and the quantifier 'many', which are used to specify quantity and amount.",
+        "grammar_correctness": true
+    }
+]

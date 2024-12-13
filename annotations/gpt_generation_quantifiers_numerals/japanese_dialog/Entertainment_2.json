@@ -1,0 +1,60 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, there is a part, um, where they talk about music. I like music a lot, so it was... um, interesting to me.",
+        "annotation_token": [
+            "a lot"
+        ],
+        "rationale": "'a lot' is a quantifier indicating a large amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, maybe some parts are... how to say... a little difficult? But, the story is very... um, universal. Everyone can feel... um, connected?",
+        "annotation_token": [
+            "some",
+            "a little"
+        ],
+        "rationale": "'some' is a quantifier indicating an unspecified amount, and 'a little' is a quantifier indicating a small amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I want to read, um, more. Maybe “1Q84”? I hear it is very... um, long but good.",
+        "annotation_token": [
+            "more",
+            "1Q84"
+        ],
+        "rationale": "'more' is a quantifier indicating an additional amount, and '1Q84' is a numeral representing a specific title.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, there is a part, um, where they talk about music. I like music a lot, so it was... um, interesting to me.",
+        "annotation_token": [
+            "a lot"
+        ],
+        "rationale": "'a lot' is a quantifier used to express a large amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, maybe some parts are... how to say... a little difficult? But, the story is very... um, universal. Everyone can feel... um, connected?",
+        "annotation_token": [
+            "some",
+            "a little"
+        ],
+        "rationale": "'some' is a quantifier indicating an unspecified amount, and 'a little' is a quantifier indicating a small amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I want to read, um, more. Maybe “1Q84”? I hear it is very... um, long but good.",
+        "annotation_token": [
+            "more",
+            "1Q84"
+        ],
+        "rationale": "'more' is a quantifier indicating an additional amount, and '1Q84' is a numeral representing a specific title.",
+        "grammar_correctness": true
+    }
+]

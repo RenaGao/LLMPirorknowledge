@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, hi. I need help... my, uh, computer have problem.",
+        "annotation_token": [
+            "have"
+        ],
+        "rationale": "The subject 'computer' is singular, so the verb should be 'has' to agree in number and tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, the screen... it not turn on. I press power, but nothing happen.",
+        "annotation_token": [
+            "not turn",
+            "happen"
+        ],
+        "rationale": "The verb 'turn' should be 'turns' to agree with the singular subject 'it'. The verb 'happen' should be 'happens' to agree with the singular subject 'nothing'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, yes. I check wire, all is connect good.",
+        "annotation_token": [
+            "check",
+            "is connect"
+        ],
+        "rationale": "The verb 'check' should be 'checked' to agree with the past tense context. The phrase 'is connect' should be 'are connected' to agree with the plural subject 'all'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It is laptop. I think battery maybe not good?",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The article 'a' is missing before 'laptop', but the verb 'is' agrees with the singular subject 'It'.",
+        "grammar_correctness": "correct"
+    }
+]

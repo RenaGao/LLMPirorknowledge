@@ -1,0 +1,78 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I want to be... more healthy. Also, maybe lose some weight, like five kilo.",
+        "annotation_token": [
+            "some",
+            "five"
+        ],
+        "rationale": "The sentence contains the quantifier 'some' and the numeral 'five', which are used to express an indefinite amount and a specific quantity, respectively.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe three times in a week? Is this good?",
+        "annotation_token": [
+            "three"
+        ],
+        "rationale": "The numeral 'three' is used to specify the number of times an activity is performed within a week.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "My knee sometimes hurt, so maybe not too much... jumping?",
+        "annotation_token": [
+            "sometimes",
+            "too much"
+        ],
+        "rationale": "The quantifier 'sometimes' indicates an indefinite frequency, and 'too much' is used to express an excessive amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, please. I eat rice a lot. Is rice okay?",
+        "annotation_token": [
+            "a lot"
+        ],
+        "rationale": "The quantifier 'a lot' is used to express a large amount or frequency of eating rice.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I want to be... more healthy. Also, maybe lose some weight, like five kilo.",
+        "annotation_token": [
+            "some",
+            "five"
+        ],
+        "rationale": "The sentence contains the quantifier 'some' and the numeral 'five', which are used to express an indefinite amount and a specific quantity, respectively.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe three times in a week? Is this good?",
+        "annotation_token": [
+            "three"
+        ],
+        "rationale": "The sentence contains the numeral 'three', which is used to specify a precise number of times.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "My knee sometimes hurt, so maybe not too much... jumping?",
+        "annotation_token": [
+            "sometimes",
+            "too much"
+        ],
+        "rationale": "The sentence contains the quantifier 'too much', which indicates an excessive amount, and 'sometimes', which is a frequency quantifier.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, please. I eat rice a lot. Is rice okay?",
+        "annotation_token": [
+            "a lot"
+        ],
+        "rationale": "The sentence contains the quantifier 'a lot', which indicates a large amount.",
+        "grammar_correctness": true
+    }
+]

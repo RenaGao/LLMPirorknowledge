@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, it is not printing.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the 'computer printer' mentioned earlier in the dialogue.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes, it say, um, \"offline.\"",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the 'error message' on the computer printer.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, restart. Yes, okay. I do that now... (pause) Um, still same, no change.",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is used as a reference to the action of restarting the printer.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, um, I look now... Ah, it is not default. I make it default.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the printer settings.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, okay, I try... (pause) Yes! It print! Thank you!",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the printer successfully printing.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "No, I think that is all. Thank you very much for, um, your help!",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is used as a reference to the resolution of the printer issue.",
+        "grammar_correctness": true
+    }
+]

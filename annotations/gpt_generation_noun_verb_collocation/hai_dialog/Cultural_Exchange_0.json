@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We, um, throw water.",
+        "annotation_token": "throw water",
+        "rationale": "The noun 'water' and the verb 'throw' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Many tourist come.",
+        "annotation_token": "tourist come",
+        "rationale": "The noun 'tourist' and the verb 'come' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Many people go home to family.",
+        "annotation_token": "people go",
+        "rationale": "The noun 'people' and the verb 'go' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We have parade, traditional dance, and... um, beauty contest.",
+        "annotation_token": "have parade",
+        "rationale": "The noun 'parade' and the verb 'have' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Some people not like.",
+        "annotation_token": "people not like",
+        "rationale": "The noun 'people' and the verb 'like' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    }
+]

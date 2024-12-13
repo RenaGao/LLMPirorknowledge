@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, it is... I think... close? But I not sure where is.",
+        "annotation_token": "I not sure",
+        "rationale": "The subject 'I' does not agree with the verb 'not sure'. The correct form should be 'I am not sure'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, walk ten minutes. Good, good. Which way I should go?",
+        "annotation_token": "I should go",
+        "rationale": "The subject 'I' agrees with the verb 'should go'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, straight and then left, at light. Thank you. How many lights I need to pass first?",
+        "annotation_token": "I need to pass",
+        "rationale": "The subject 'I' agrees with the verb 'need to pass'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, no, I think... all okay. I try find now. Thank you again.",
+        "annotation_token": "I try find",
+        "rationale": "The subject 'I' does not agree with the verb 'try find'. The correct form should be 'I will try to find' or 'I am trying to find'.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "The part with, um, data... data analysis. It take much time.",
+        "annotation_token": "take",
+        "rationale": "The verb 'take' should agree in number with the singular subject 'It', so it should be 'takes'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I think so. But I worry about time. I have, um, many task to finish.",
+        "annotation_token": "task",
+        "rationale": "The noun 'task' should be plural to agree with the quantifier 'many', so it should be 'tasks'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Thank you. I will work hard to finish all part.",
+        "annotation_token": "part",
+        "rationale": "The noun 'part' should be plural to agree with the quantifier 'all', so it should be 'parts'.",
+        "grammar_correctness": "wrong"
+    }
+]

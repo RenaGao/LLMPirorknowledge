@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, yes, I worked on database update and, um, testing new features.",
+        "annotation_token": "testing new features",
+        "rationale": "The noun 'features' and the verb 'testing' form a collocation that expresses a meaningful and complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Plan is, um, to continue testing and more update.",
+        "annotation_token": "testing and more update",
+        "rationale": "The noun 'update' and the verb 'testing' form a collocation that expresses a meaningful and complete action.",
+        "grammar_correctness": false
+    }
+]

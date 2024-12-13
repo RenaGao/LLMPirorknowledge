@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, yes, I like reading very much.",
+        "annotation_token": "reading",
+        "rationale": "The noun 'reading' is paired with the verb 'like', forming a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, yes, that one! It is, um, very inspiring.",
+        "annotation_token": "inspiring",
+        "rationale": "The noun 'one' is paired with the verb 'inspiring', forming a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "It talk about, uh, journey and dreams.",
+        "annotation_token": "talk journey",
+        "rationale": "The noun 'journey' is paired with the verb 'talk', forming a meaningful action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I think because, um, it teach us to, uh, trust ourself and our... um, feelings?",
+        "annotation_token": "teach us",
+        "rationale": "The noun 'us' is paired with the verb 'teach', forming a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, it can help. Um, people who are, uh, confused about life maybe? It give hope.",
+        "annotation_token": "give hope",
+        "rationale": "The noun 'hope' is paired with the verb 'give', forming a meaningful action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, let me think... Yes! \"When you want something, all universe help you.\" I like this.",
+        "annotation_token": "help you",
+        "rationale": "The noun 'you' is paired with the verb 'help', forming a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, exactly. It show how important it is to, um, not give up.",
+        "annotation_token": "show how",
+        "rationale": "The noun 'how' is paired with the verb 'show', forming a meaningful action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, yes. I try to follow my dreams, even when difficult. It help me stay, uh, positive.",
+        "annotation_token": "help me",
+        "rationale": "The noun 'me' is paired with the verb 'help', forming a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, yes. It is easy to read, um, simple language. Everyone can enjoy and learn.",
+        "annotation_token": "enjoy language",
+        "rationale": "The noun 'language' is paired with the verb 'enjoy', forming a meaningful action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I think, um, it matters because it remind us to believe in ourself and our dreams.",
+        "annotation_token": "remind us",
+        "rationale": "The noun 'us' is paired with the verb 'remind', forming a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you! I am happy to talk about it.",
+        "annotation_token": "talk about",
+        "rationale": "The noun 'it' is paired with the verb 'talk', forming a meaningful action.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Well, I’ve always admired your approach to sustainability and innovation.",
+        "annotation_token": [
+            "I’ve",
+            "admired"
+        ],
+        "rationale": "The present perfect tense 'I’ve admired' is used to indicate an action that started in the past and continues to the present.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "In my last role, I led a team to develop a recycling program that reduced waste by 30%.",
+        "annotation_token": [
+            "led",
+            "reduced"
+        ],
+        "rationale": "The past tense 'led' and 'reduced' are used to describe actions that were completed in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I believe in open communication.",
+        "annotation_token": [
+            "believe"
+        ],
+        "rationale": "The present simple tense 'believe' is used to express a general truth or habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I look forward to hearing from you.",
+        "annotation_token": [
+            "look"
+        ],
+        "rationale": "The present simple tense 'look' is used to express a future intention.",
+        "grammar_correctness": "correct"
+    }
+]

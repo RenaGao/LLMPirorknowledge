@@ -1,0 +1,43 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, the report is... um, how to say... not completed. Only section three and four need more work.",
+        "annotation_token": [
+            "Only",
+            "three",
+            "four",
+            "more"
+        ],
+        "rationale": "The sentence contains quantifiers and numerals: 'Only' is a quantifier indicating limitation, 'three' and 'four' are numerals specifying sections, and 'more' is a quantifier indicating additional work needed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, yes, I think I have enough. But if, um, something not enough, I will ask you.",
+        "annotation_token": [
+            "enough"
+        ],
+        "rationale": "'Enough' is a quantifier indicating sufficiency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, the report is... um, how to say... not completed. Only section three and four need more work.",
+        "annotation_token": [
+            "Only",
+            "three",
+            "four"
+        ],
+        "rationale": "The sentence contains the quantifier 'Only' and the numerals 'three' and 'four', which specify the sections that need more work.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, yes, I think I have enough. But if, um, something not enough, I will ask you.",
+        "annotation_token": [
+            "enough"
+        ],
+        "rationale": "The sentence uses the quantifier 'enough' to indicate sufficiency.",
+        "grammar_correctness": true
+    }
+]

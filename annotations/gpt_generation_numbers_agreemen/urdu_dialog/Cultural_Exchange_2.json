@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "They become very happy.",
+        "annotation_token": "They",
+        "rationale": "The pronoun 'They' is used correctly to refer to a plural noun, which in this context is 'children'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "We fast for whole month.",
+        "annotation_token": "month",
+        "rationale": "The noun 'month' should be singular as it refers to a single period of time, which is correct in this context.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "All cousins play together.",
+        "annotation_token": "cousins",
+        "rationale": "The noun 'cousins' is correctly used in plural form to indicate more than one cousin.",
+        "grammar_correctness": "correct"
+    }
+]

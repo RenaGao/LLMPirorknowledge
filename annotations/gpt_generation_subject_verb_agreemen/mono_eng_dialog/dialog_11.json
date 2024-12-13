@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Good morning! I'm doing well, thank you. Excited to be here. How about you?",
+        "annotation_token": "I'm doing",
+        "rationale": "The subject 'I' agrees with the verb 'am' in the contraction 'I'm'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Absolutely. At my last job, I managed a team for a major product launch. It involved coordinating between different departments and ensuring we met all deadlines.",
+        "annotation_token": "I managed",
+        "rationale": "The subject 'I' agrees with the verb 'managed'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We mainly used Trello for task management and Slack for communication. I found them both very effective.",
+        "annotation_token": "We used",
+        "rationale": "The subject 'We' agrees with the verb 'used'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We did face a few hiccups, like supplier delays. I made sure to have contingency plans and kept open lines of communication with the team.",
+        "annotation_token": "We did face",
+        "rationale": "The subject 'We' agrees with the verb 'did face'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I actually enjoy learning new things. I usually start with online courses and then apply what I've learned to real projects.",
+        "annotation_token": "I enjoy",
+        "rationale": "The subject 'I' agrees with the verb 'enjoy'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I aim to advance into a senior management role, where I can lead larger projects and mentor junior team members.",
+        "annotation_token": "I aim",
+        "rationale": "The subject 'I' agrees with the verb 'aim'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you for the opportunity to discuss my experience. I look forward to the possibility of working together.",
+        "annotation_token": "I look",
+        "rationale": "The subject 'I' agrees with the verb 'look'.",
+        "grammar_correctness": "correct"
+    }
+]

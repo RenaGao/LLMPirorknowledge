@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We go to mosque in morning, pray special prayer.",
+        "annotation_token": "go to mosque",
+        "rationale": "The noun 'mosque' and the verb 'go' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We go to mosque in morning, pray special prayer.",
+        "annotation_token": "pray special prayer",
+        "rationale": "The noun 'prayer' and the verb 'pray' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Then, we have, um, big meal with family.",
+        "annotation_token": "have big meal",
+        "rationale": "The noun 'meal' and the verb 'have' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, we visit family and friends... um, like open house.",
+        "annotation_token": "visit family",
+        "rationale": "The noun 'family' and the verb 'visit' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, we visit family and friends... um, like open house.",
+        "annotation_token": "visit friends",
+        "rationale": "The noun 'friends' and the verb 'visit' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, we wear baju Melayu, baju kurung... traditional costume.",
+        "annotation_token": "wear baju Melayu",
+        "rationale": "The noun 'baju Melayu' and the verb 'wear' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, we wear baju Melayu, baju kurung... traditional costume.",
+        "annotation_token": "wear baju kurung",
+        "rationale": "The noun 'baju kurung' and the verb 'wear' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We, um, ask forgiveness from elder.",
+        "annotation_token": "ask forgiveness",
+        "rationale": "The noun 'forgiveness' and the verb 'ask' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Children get duit raya, um, like money gift... from elder.",
+        "annotation_token": "get duit raya",
+        "rationale": "The noun 'duit raya' and the verb 'get' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

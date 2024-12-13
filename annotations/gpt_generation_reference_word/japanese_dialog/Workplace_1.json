@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I study it for, uh, three years now.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to 'business management' mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It was about... how to say, marketing strategy for small business.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to 'project' mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It was, um, successful.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to 'project' mentioned earlier in the dialogue.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "The business, they have more... uh, how to say, visibility online.",
+        "annotation_token": "they",
+        "rationale": "The word 'they' refers to 'The business' mentioned in the same sentence.",
+        "grammar_correctness": true
+    }
+]

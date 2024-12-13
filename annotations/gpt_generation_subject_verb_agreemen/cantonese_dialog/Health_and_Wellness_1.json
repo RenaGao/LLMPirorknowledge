@@ -1,0 +1,52 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I sleep maybe... five hours a night?",
+        "annotation_token": [
+            "I",
+            "sleep"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'sleep' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I sit at desk all day.",
+        "annotation_token": [
+            "I",
+            "sit"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'sit' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I sometimes forget.",
+        "annotation_token": [
+            "I",
+            "forget"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'forget' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think I can do these.",
+        "annotation_token": [
+            "I",
+            "think"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'think' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I bring some to work for snack.",
+        "annotation_token": [
+            "I",
+            "bring"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'bring' in the present simple tense.",
+        "grammar_correctness": "correct"
+    }
+]

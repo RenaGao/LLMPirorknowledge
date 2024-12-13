@@ -1,0 +1,109 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, thank you. Um, I am Nadia. I from Lahore. I studied, uh, business... business management at... um, university.",
+        "annotation_token": [
+            "am",
+            "from",
+            "studied"
+        ],
+        "rationale": "The sentence contains a mix of present and past tense verbs. 'am' is present tense, 'from' should be 'am from' to maintain tense agreement, and 'studied' is past tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I, um, worked on project in university. We, uh, made plan for small business. It was, um, café plan.",
+        "annotation_token": [
+            "worked",
+            "made",
+            "was"
+        ],
+        "rationale": "The sentence maintains past tense agreement with 'worked', 'made', and 'was'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I was, um, team leader. I, uh, helped to... organize team and talks with, um, professors for advice.",
+        "annotation_token": [
+            "was",
+            "helped",
+            "talks"
+        ],
+        "rationale": "The sentence mostly maintains past tense agreement with 'was' and 'helped', but 'talks' should be 'talked' to maintain past tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We did, um, very well. Our... how to say... our professor said plan was, uh, practical and creative.",
+        "annotation_token": [
+            "did",
+            "said",
+            "was"
+        ],
+        "rationale": "The sentence maintains past tense agreement with 'did', 'said', and 'was'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, sometimes team, uh, had problem with idea. We, um, did not agree. I had to, um, manage and find, um, solution.",
+        "annotation_token": [
+            "had",
+            "did",
+            "had"
+        ],
+        "rationale": "The sentence maintains past tense agreement with 'had', 'did', and 'had'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I, um, listen to all ideas and then we, um, discuss together. We, uh, choose best idea for project.",
+        "annotation_token": [
+            "listen",
+            "discuss",
+            "choose"
+        ],
+        "rationale": "The sentence uses present tense verbs 'listen', 'discuss', and 'choose', but it lacks consistency with the past tense context of the surrounding sentences.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, I want to, uh, learn more and, um, grow. I think this job is, uh, good for my experience.",
+        "annotation_token": [
+            "want",
+            "grow",
+            "is"
+        ],
+        "rationale": "The sentence maintains present tense agreement with 'want', 'grow', and 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I am, um, very organized. And, uh, I work well in team. I also, um, like to learn new things, always.",
+        "annotation_token": [
+            "am",
+            "work",
+            "like"
+        ],
+        "rationale": "The sentence maintains present tense agreement with 'am', 'work', and 'like'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, um, how is... uh, working environment here? Is it, um, friendly?",
+        "annotation_token": [
+            "is",
+            "Is"
+        ],
+        "rationale": "The sentence maintains present tense agreement with 'is' and 'Is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you so much. I look forward for, um, opportuni",
+        "annotation_token": [
+            "look"
+        ],
+        "rationale": "The sentence uses present tense 'look', but the sentence is incomplete.",
+        "grammar_correctness": "correct"
+    }
+]

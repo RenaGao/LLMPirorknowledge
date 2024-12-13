@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, pen. I need pen. But, um, special pen for calligraphy.",
+        "annotation_token": "pen",
+        "rationale": "The speaker uses 'pen' in singular form when it should be plural 'pens' to match the context of needing more than one.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Maybe two refills. Is it okay?",
+        "annotation_token": "refills",
+        "rationale": "The speaker correctly uses 'refills' in plural form to match the number 'two'.",
+        "grammar_correctness": "correct"
+    }
+]

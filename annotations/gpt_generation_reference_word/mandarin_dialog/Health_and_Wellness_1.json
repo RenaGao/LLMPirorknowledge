@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, um, I've been okay, I think. But, you know, feeling a bit tired every day.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is used as a reference to the person being spoken to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I should try. But sometimes, I cannot stop watching... uh, how to say... TV shows?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is used as a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, limit time. I think that's good idea. I will try.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is used as a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, yes. I will look for video. Thank you, it sounds fun.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is used as a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, yes, drink more water. I often forget. I will use... um, timer to remind.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is used as a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, Xiao Ming. I will try these things. You always help me.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is used as a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, Xiao Ming. I will try these things. You always help me.",
+        "annotation_token": "You",
+        "rationale": "The word 'You' is used as a reference to the person being spoken to, Xiao Ming.",
+        "grammar_correctness": true
+    }
+]

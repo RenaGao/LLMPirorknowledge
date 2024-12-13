@@ -1,0 +1,21 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Uh, my friend invite me. She say it will be fun. And you?",
+        "annotation_token": [
+            "invite",
+            "say"
+        ],
+        "rationale": "The verbs 'invite' and 'say' do not agree in number with the singular subject 'my friend' and 'she'. The correct forms should be 'invites' and 'says'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, they like it. I bring to party sometimes. Maybe next time, I bring here.",
+        "annotation_token": [
+            "bring"
+        ],
+        "rationale": "The verb 'bring' does not agree in number with the singular subject 'I'. The correct form should be 'bring' in this context, but the sentence is missing an object, which makes it sound incomplete.",
+        "grammar_correctness": "wrong"
+    }
+]

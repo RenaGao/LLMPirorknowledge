@@ -1,0 +1,39 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I from Beijing. I move here for study. Um, university.",
+        "annotation_token": [
+            "from",
+            "move"
+        ],
+        "rationale": "The sentence lacks proper tense agreement. The speaker should use the past tense 'was' for 'from' and 'moved' for 'move' to indicate past actions.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I am... third year now. One more year to finish.",
+        "annotation_token": [
+            "am"
+        ],
+        "rationale": "The sentence lacks proper tense agreement. The speaker should use 'in' to indicate the current state, as in 'I am in my third year now.'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I work in, um, small company last summer. Very good experience.",
+        "annotation_token": [
+            "work"
+        ],
+        "rationale": "The sentence lacks proper tense agreement. The speaker should use the past tense 'worked' to indicate a past action.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I learn a lot. People there very kind and helpful.",
+        "annotation_token": [
+            "learn"
+        ],
+        "rationale": "The sentence lacks proper tense agreement. The speaker should use the past tense 'learned' to indicate a past action.",
+        "grammar_correctness": "wrong"
+    }
+]

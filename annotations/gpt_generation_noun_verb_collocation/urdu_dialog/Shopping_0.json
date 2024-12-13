@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, yes, rice cooker. I need one for home.",
+        "annotation_token": "need one",
+        "rationale": "The noun 'one' and the verb 'need' form a collocation expressing a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, good. How many cup, uh, it can make?",
+        "annotation_token": "make cup",
+        "rationale": "The noun 'cup' and the verb 'make' form a collocation expressing a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you for help. You are very kind.",
+        "annotation_token": "thank help",
+        "rationale": "The noun 'help' and the verb 'thank' form a collocation expressing a complete action.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hi, um... yes, I want to talk about the report. I make mistake in data.",
+        "annotation_token": [
+            "want",
+            "make"
+        ],
+        "rationale": "The verbs 'want' and 'make' should be in the same tense. 'Want' is in present tense, but 'make' should be 'made' to agree with the past context.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I, um, use wrong numbers for the sales... figures.",
+        "annotation_token": [
+            "use"
+        ],
+        "rationale": "The verb 'use' should be in the past tense 'used' to agree with the past context of the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I check again, and my colleague also say something not... match.",
+        "annotation_token": [
+            "check",
+            "say"
+        ],
+        "rationale": "The verbs 'check' and 'say' should be in the past tense 'checked' and 'said' to agree with the past context.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I think I can correct numbers and, um, update report. But it take... some time.",
+        "annotation_token": [
+            "take"
+        ],
+        "rationale": "The verb 'take' should be in the future tense 'will take' to agree with the future context of the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I will make checklist, so I not miss... um, step next time.",
+        "annotation_token": [
+            "not miss"
+        ],
+        "rationale": "The phrase 'not miss' should be 'do not miss' or 'will not miss' to agree with the future context.",
+        "grammar_correctness": "wrong"
+    }
+]

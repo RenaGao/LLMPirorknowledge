@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, yes. It is polite way. Also, um, chopsticks... people here not use often.",
+        "annotation_token": [
+            "is",
+            "use"
+        ],
+        "rationale": "The sentence contains a tense agreement issue where 'is' is present tense, but 'use' should be 'do not use' to maintain tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, I see. Thank you for explain. It helps a lot.",
+        "annotation_token": [
+            "explain"
+        ],
+        "rationale": "The sentence contains a tense agreement issue where 'explain' should be 'explaining' to maintain tense agreement with 'for'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I agree. I enjoy talk about cultures. Thank you for your time.",
+        "annotation_token": [
+            "talk"
+        ],
+        "rationale": "The sentence contains a tense agreement issue where 'talk' should be 'talking' to maintain tense agreement with 'enjoy'.",
+        "grammar_correctness": "wrong"
+    }
+]

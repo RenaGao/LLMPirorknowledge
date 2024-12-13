@@ -1,0 +1,84 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! I'm doing well, thank you. A little nervous, but excited to be here.",
+        "annotation_token": [
+            "Hi!",
+            "thank you",
+            "excited to be here"
+        ],
+        "rationale": "The sentence contains speech acts such as greeting ('Hi!'), expressing gratitude ('thank you'), and expressing emotion ('excited to be here').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely! In my previous role, I spearheaded a social media campaign that increased engagement by 30%.",
+        "annotation_token": [
+            "Absolutely!"
+        ],
+        "rationale": "The word 'Absolutely!' is a speech act that expresses strong agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’d love to know more about the team I’d potentially be working with and what a typical day might look like.",
+        "annotation_token": [
+            "Yes,",
+            "I’d love to know more"
+        ],
+        "rationale": "The sentence contains speech acts such as agreement ('Yes,') and expressing interest ('I’d love to know more').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds perfect. Thank you for sharing that, and for this opportunity. I truly appreciate it.",
+        "annotation_token": [
+            "That sounds perfect.",
+            "Thank you",
+            "I truly appreciate it"
+        ],
+        "rationale": "The sentence contains speech acts such as expressing approval ('That sounds perfect.'), gratitude ('Thank you'), and appreciation ('I truly appreciate it').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! I'm doing well, thank you. A little nervous, but excited to be here.",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "excited to be here"
+        ],
+        "rationale": "The sentence contains speech acts such as a greeting ('Hi'), an expression of gratitude ('thank you'), and an expression of emotion ('excited to be here').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely! In my previous role, I spearheaded a social media campaign that increased engagement by 30%.",
+        "annotation_token": [
+            "Absolutely"
+        ],
+        "rationale": "The word 'Absolutely' is a speech act that expresses agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’d love to know more about the team I’d potentially be working with and what a typical day might look like.",
+        "annotation_token": [
+            "Yes",
+            "I’d love to know more"
+        ],
+        "rationale": "The word 'Yes' is a speech act that expresses agreement, and 'I’d love to know more' is a speech act expressing interest or curiosity.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds perfect. Thank you for sharing that, and for this opportunity. I truly appreciate it.",
+        "annotation_token": [
+            "That sounds perfect",
+            "Thank you",
+            "I truly appreciate it"
+        ],
+        "rationale": "The sentence contains speech acts such as an expression of approval ('That sounds perfect'), gratitude ('Thank you'), and appreciation ('I truly appreciate it').",
+        "grammar_correctness": "correct"
+    }
+]

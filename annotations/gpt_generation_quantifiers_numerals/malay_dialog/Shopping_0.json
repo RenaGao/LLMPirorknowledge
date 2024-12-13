@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes. Not too expensive. Maybe... um, middle price?",
+        "annotation_token": [
+            "middle"
+        ],
+        "rationale": "The word 'middle' is used as a quantifier to indicate a moderate or average price range.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, it look nice. Thank you. It have... um, many setting?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of settings.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, I need... how to say... one with steam, yes.",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "The word 'one' is used as a numeral to specify a single item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes. Not too expensive. Maybe... um, middle price?",
+        "annotation_token": [
+            "middle"
+        ],
+        "rationale": "The word 'middle' is used as a quantifier to indicate a moderate or average price range.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, it look nice. Thank you. It have... um, many setting?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is used as a quantifier to indicate a large number of settings.",
+        "grammar_correctness": true
+    }
+]

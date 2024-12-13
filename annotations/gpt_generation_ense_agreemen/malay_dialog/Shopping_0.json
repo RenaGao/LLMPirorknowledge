@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, please. Uh, I not know where is that section.",
+        "annotation_token": [
+            "not know",
+            "is"
+        ],
+        "rationale": "The sentence 'I not know where is that section.' lacks proper tense agreement. The correct form should be 'I do not know where that section is.'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, it look nice. Thank you. It have... um, many setting?",
+        "annotation_token": [
+            "look",
+            "have"
+        ],
+        "rationale": "The sentence 'Oh, it look nice.' and 'It have... um, many setting?' lack proper tense agreement. The correct forms should be 'It looks nice.' and 'It has... many settings?'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, yes, please. I not use before, so I want to learn.",
+        "annotation_token": [
+            "not use"
+        ],
+        "rationale": "The sentence 'I not use before, so I want to learn.' lacks proper tense agreement. The correct form should be 'I have not used it before, so I want to learn.'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, I see. It is easy, I think. Thank you for show me.",
+        "annotation_token": [
+            "show"
+        ],
+        "rationale": "The sentence 'Thank you for show me.' lacks proper tense agreement. The correct form should be 'Thank you for showing me.'",
+        "grammar_correctness": "wrong"
+    }
+]

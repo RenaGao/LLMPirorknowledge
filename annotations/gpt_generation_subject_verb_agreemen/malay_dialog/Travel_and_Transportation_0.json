@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, yes, I go to... um... new city.",
+        "annotation_token": [
+            "I go"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'go' in the present tense. It should be 'I went' for past tense or 'I am going' for present continuous.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I take many picture... um, with my phone.",
+        "annotation_token": [
+            "I take"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'take' in the present tense. It should be 'I took' for past tense or 'I am taking' for present continuous.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I visit... um, Penang Hill.",
+        "annotation_token": [
+            "I visit"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'visit' in the present tense. It should be 'I visited' for past tense or 'I am visiting' for present continuous.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I take the... um, train.",
+        "annotation_token": [
+            "I take"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'take' in the present tense. It should be 'I took' for past tense or 'I am taking' for present continuous.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I go to... um, Kek Lok Si Temple.",
+        "annotation_token": [
+            "I go"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'go' in the present tense. It should be 'I went' for past tense or 'I am going' for present continuous.",
+        "grammar_correctness": "wrong"
+    }
+]

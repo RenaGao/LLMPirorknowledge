@@ -1,0 +1,97 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you. Um, I am Nadia.",
+        "annotation_token": [
+            "Yes",
+            "thank you"
+        ],
+        "rationale": "The tokens 'Yes' and 'thank you' are used as speech acts to acknowledge and express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think... how to say... I think it is good skill for business.",
+        "annotation_token": [
+            "how to say"
+        ],
+        "rationale": "The token 'how to say' is a speech act used to express hesitation or search for words.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We did, um, very well. Our... how to say... our professor said plan was, uh, practical and creative.",
+        "annotation_token": [
+            "how to say"
+        ],
+        "rationale": "The token 'how to say' is a speech act used to express hesitation or search for words.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, how is... uh, working environment here? Is it, um, friendly?",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to acknowledge or confirm before asking a question.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much.",
+        "annotation_token": [
+            "Thank you so much"
+        ],
+        "rationale": "The token 'Thank you so much' is a speech act used to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you. Um, I am Nadia.",
+        "annotation_token": [
+            "Yes",
+            "thank you"
+        ],
+        "rationale": "The tokens 'Yes' and 'thank you' are used as speech acts to acknowledge and express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think... how to say... I think it is good skill for business.",
+        "annotation_token": [
+            "I think",
+            "how to say"
+        ],
+        "rationale": "The tokens 'I think' and 'how to say' are used as speech acts to express an opinion and to pause for thought or clarification.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We did, um, very well. Our... how to say... our professor said plan was, uh, practical and creative.",
+        "annotation_token": [
+            "how to say"
+        ],
+        "rationale": "The token 'how to say' is used as a speech act to pause for thought or clarification.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, how is... uh, working environment here? Is it, um, friendly?",
+        "annotation_token": [
+            "Yes",
+            "how is",
+            "Is it"
+        ],
+        "rationale": "The tokens 'Yes', 'how is', and 'Is it' are used as speech acts to acknowledge, inquire, and seek confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, hello! I am good, thank you. It's been a long time, yes?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "They are all well. My father, he retire—um, no work now.",
+        "annotation_token": "he",
+        "rationale": "The word 'he' is a reference word referring to 'my father'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "He enjoy a lot. Now he can, um, do garden every day. He very happy.",
+        "annotation_token": "He",
+        "rationale": "The word 'He' is a reference word referring to 'my father'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, he grow many thing. Vegetables, um... how to say... flowers too.",
+        "annotation_token": "he",
+        "rationale": "The word 'he' is a reference word referring to 'my father'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Work is busy, but good. I... how to say... I have new job.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you! I work in office. I do, um... number? Finance, yes.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I like it. Sometimes hard, but I learn a lot.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Maybe next year. I want to visit... um, how to say... more country?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I think Japan first. I never go there, but I hear it is nice.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Maybe with friends. It's more fun, yes? We can see many thing together.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the speaker and their friends.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I will! Thank you for talk with me today. It is nice to catch up.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

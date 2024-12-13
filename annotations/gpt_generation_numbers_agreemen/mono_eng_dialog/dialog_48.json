@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "The power light is solid, but the internet light keeps blinking.",
+        "annotation_token": [
+            "light",
+            "keeps"
+        ],
+        "rationale": "The subject 'light' is singular, and the verb 'keeps' is correctly in singular form, showing proper number agreement.",
+        "grammar_correctness": "correct"
+    }
+]

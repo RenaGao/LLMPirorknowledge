@@ -1,0 +1,39 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I have. Here, please. I buy it, um, three days ago.",
+        "annotation_token": [
+            "three"
+        ],
+        "rationale": "The word 'three' is a numeral indicating the quantity of days.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, how to say... I want, uh, same product but new one. Exchange, please.",
+        "annotation_token": [
+            "same"
+        ],
+        "rationale": "The word 'same' is a quantifier indicating the identical product.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I have. Here, please. I buy it, um, three days ago.",
+        "annotation_token": [
+            "three"
+        ],
+        "rationale": "The word 'three' is a numeral indicating the quantity of days.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, how to say... I want, uh, same product but new one. Exchange, please.",
+        "annotation_token": [
+            "same",
+            "one"
+        ],
+        "rationale": "The word 'same' is a quantifier indicating the identical product, and 'one' is a numeral indicating a single item.",
+        "grammar_correctness": true
+    }
+]

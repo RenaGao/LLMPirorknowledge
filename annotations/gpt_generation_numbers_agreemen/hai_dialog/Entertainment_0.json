@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "It is about, um, a hero. He fight bad people to save the world.",
+        "annotation_token": "fight",
+        "rationale": "The subject 'He' is singular, so the verb should be 'fights' to agree in number.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, Avengers! I like it a lot. Many special effect.",
+        "annotation_token": "effect",
+        "rationale": "The word 'effect' should be plural 'effects' to agree with the quantifier 'Many'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Thank you too! I learn many new word tod",
+        "annotation_token": "word",
+        "rationale": "The word 'word' should be plural 'words' to agree with the quantifier 'many'.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! Yes, I am very, uh, interested.",
+        "annotation_token": [
+            "Hi!",
+            "Yes",
+            "I am very, uh, interested."
+        ],
+        "rationale": "The sentence contains a greeting ('Hi!') and an expression of interest ('Yes, I am very, uh, interested.') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes. I wonder about, uh, how to say... table manner?",
+        "annotation_token": [
+            "Um, yes.",
+            "I wonder about, uh, how to say... table manner?"
+        ],
+        "rationale": "The sentence includes an agreement ('Um, yes.') and a question ('I wonder about, uh, how to say... table manner?'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I see.",
+        "annotation_token": [
+            "Yes",
+            "I see."
+        ],
+        "rationale": "The sentence contains an agreement ('Yes') and an acknowledgment ('I see.'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, how about... uh, tipping?",
+        "annotation_token": [
+            "Um, how about... uh, tipping?"
+        ],
+        "rationale": "The sentence is a question ('Um, how about... uh, tipping?'), which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe we can, uh, try someday together?",
+        "annotation_token": [
+            "Maybe we can, uh, try someday together?"
+        ],
+        "rationale": "The sentence is a suggestion ('Maybe we can, uh, try someday together?'), which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, too!",
+        "annotation_token": [
+            "Thank you, too!"
+        ],
+        "rationale": "The sentence is an expression of gratitude ('Thank you, too!'), which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! Yes, I am very, uh, interested.",
+        "annotation_token": [
+            "Hi",
+            "Yes",
+            "I am very, uh, interested"
+        ],
+        "rationale": "The sentence contains a greeting ('Hi') and an expression of interest ('Yes, I am very, uh, interested'), which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes. I wonder about, uh, how to say... table manner?",
+        "annotation_token": [
+            "Um",
+            "yes",
+            "I wonder about, uh, how to say... table manner"
+        ],
+        "rationale": "The sentence includes an expression of agreement ('yes') and a question ('I wonder about, uh, how to say... table manner'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I see.",
+        "annotation_token": [
+            "Yes",
+            "I see"
+        ],
+        "rationale": "The sentence contains an expression of agreement ('Yes') and understanding ('I see'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, how about... uh, tipping?",
+        "annotation_token": [
+            "Um",
+            "how about... uh, tipping"
+        ],
+        "rationale": "The sentence includes a question ('how about... uh, tipping'), which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe we can, uh, try someday together?",
+        "annotation_token": [
+            "Maybe",
+            "we can, uh, try someday together"
+        ],
+        "rationale": "The sentence contains a suggestion ('Maybe we can, uh, try someday together'), which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, too!",
+        "annotation_token": [
+            "Thank you, too"
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you, too'), which is a speech act.",
+        "grammar_correctness": "correct"
+    }
+]

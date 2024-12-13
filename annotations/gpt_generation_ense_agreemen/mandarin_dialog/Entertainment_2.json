@@ -1,0 +1,97 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, yes, that's right. I want to, um, find something interesting. Do you have recommend?",
+        "annotation_token": [
+            "have recommend"
+        ],
+        "rationale": "The verb 'have' should be followed by a past participle to form the present perfect tense, but 'recommend' is in its base form.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "\"The Alchemist\"? Hmm, I think I not hear before. What it about?",
+        "annotation_token": [
+            "I not hear"
+        ],
+        "rationale": "The sentence should use the present perfect tense 'I have not heard' instead of 'I not hear'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, that sound very good! Why you think it good for, um, me to read?",
+        "annotation_token": [
+            "sound",
+            "you think"
+        ],
+        "rationale": "The verb 'sound' should be 'sounds' to agree with the subject 'that'. The sentence 'Why you think' should be 'Why do you think' to form a correct question.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, improving English is important for me! Uh, is it easy to understand?",
+        "annotation_token": [
+            "is it easy"
+        ],
+        "rationale": "The sentence 'is it easy to understand?' is correctly formed in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, I see. How long is the book? Because sometimes, long book can be... um, difficult for me.",
+        "annotation_token": [
+            "is",
+            "can be"
+        ],
+        "rationale": "The verbs 'is' and 'can be' are correctly used in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "That is good. Maybe I try read it little by little.",
+        "annotation_token": [
+            "try read"
+        ],
+        "rationale": "The sentence should use 'try to read' to correctly form the infinitive.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, reflect... like think about meaning, right?",
+        "annotation_token": [
+            "reflect",
+            "think"
+        ],
+        "rationale": "The verbs 'reflect' and 'think' are correctly used in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you, I will do that! Um, where can I get the book? Is it in library?",
+        "annotation_token": [
+            "will do",
+            "can I get",
+            "is"
+        ],
+        "rationale": "The verbs 'will do', 'can I get', and 'is' are correctly used in the future and present tenses.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Great! I will start look for it this weekend.",
+        "annotation_token": [
+            "will start look"
+        ],
+        "rationale": "The sentence should use 'will start to look' to correctly form the infinitive.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I will tell you. Thank you so much for the recommend!",
+        "annotation_token": [
+            "will tell"
+        ],
+        "rationale": "The verb 'will tell' is correctly used in the future tense.",
+        "grammar_correctness": "correct"
+    }
+]

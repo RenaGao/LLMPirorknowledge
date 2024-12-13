@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes. I like to make, um, kimchi jjigae. It's, uh, kimchi stew. Very popular in Korea.",
+        "annotation_token": "It's",
+        "rationale": "The word 'It's' is a contraction of 'It is', referring to 'kimchi jjigae'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes, I use, uh, gochujang. It is like spicy paste. And also gochugaru, spicy powder.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to 'gochujang'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sometimes, yes. But often, I buy. It is, uh, easier when busy.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the act of buying rather than making.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I use, uh, shiitake mushroom. It is my favorite.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to 'shiitake mushroom'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "No, not hard. It is easy! Just, um, practice make better taste.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the process of making kimchi jjigae.",
+        "grammar_correctness": true
+    }
+]

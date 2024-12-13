@@ -1,6 +1,7 @@
 import os
 import openai
 import json
+import argparse
 
 
 def extract_speaker_lines(input_dir, output_dir):
@@ -84,22 +85,32 @@ def request(samples_path, output_path, system_instruction, prompt_type):  # para
 
 
 if __name__ == '__main__':
-    input_dir = "../gpt_generation_data/data_0"
-    output_dir = "../datasets/gpt_generation_0"
+    parser = argparse.ArgumentParser(description="Process input and output paths for the script.")
+    parser.add_argument("--input_dir", required=True, default="../gpt_generation_data/data_0", help="Path to the input directory")
+    parser.add_argument("--output_dir", required=True, default="../gpt_generation_annotations/annotations_0", help="Path to the output directory")
+    parser.add_argument("--system_instruction_path", "-sip", required=False, default="instructions/annotation_instructions/system_instruction.txt", help="Path to the system instruction file")
+    parser.add_argument("--assist_instruction_dir", "-aid", required=False, default="instructions/annotation_instructions/assist_instructions", help="Path to the assist instruction directory")
+    parser.add_argument("--samples_dir", required=True, default="../datasets/gpt_generation_0",help="Path to the samples directory")
+    parser.add_argument("--openai_api_key", required=True, help="OpenAI API key")
+    parser.add_argument("--openai_org", required=False, help="OpenAI organization ID")
+
+    args = parser.parse_args()
+
+    input_dir = args.input_dir
+    output_dir = args.output_dir
     if not os.path.exists(output_dir):
         os.mkdir(output_dir)
     extract_speaker_lines(input_dir, output_dir)
 
-    os.environ["OPENAI_API_KEY"] = ("")
-    openai.organization = ""
+    os.environ["OPENAI_API_KEY"] = args.openai_api_key
+    openai.organization = args.openai_org
     openai.api_key = os.environ.get("OPENAI_API_KEY")
     MODEL = "gpt-4o"
 
-    system_instruction_path = "instructions/annotation_instructions/system_instruction.txt"
+    system_instruction_path = args.sip
     system_instruction = read_instruction(system_instruction_path)
-    assist_instruction_dir = "instructions/annotation_instructions/assist_instructions"
-    samples_dir = "../datasets/gpt_generation_0"
-    output_dir = "../gpt_generation_annotations/annotations_0"
+    assist_instruction_dir = args.aid
+    samples_dir = args.samples_dir  # intermedia sample
     if not os.path.exists(output_dir):
         os.mkdir(output_dir)
 

@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "My family like medium spicy.",
+        "annotation_token": "like",
+        "rationale": "The subject 'My family' is a collective noun and should be treated as singular in this context, so the verb should be 'likes' to agree in number.",
+        "grammar_correctness": "wrong"
+    }
+]

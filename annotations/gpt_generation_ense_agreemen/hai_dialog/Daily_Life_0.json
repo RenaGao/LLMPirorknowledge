@@ -1,0 +1,33 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Good morning! Um, today my morning is good. I wake up at, um... 6 o'clock.",
+        "annotation_token": [
+            "is",
+            "wake"
+        ],
+        "rationale": "The sentence contains a mix of present simple tense ('is') and past simple tense ('wake') which should be consistent.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I like to, um, go running. But today I not run. Too tired.",
+        "annotation_token": [
+            "like",
+            "not run"
+        ],
+        "rationale": "The sentence uses present simple tense ('like') and incorrect past simple tense ('not run') which should be 'did not run'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Then I ready for work. I... um, choose clothes and dress up.",
+        "annotation_token": [
+            "ready",
+            "choose",
+            "dress"
+        ],
+        "rationale": "The sentence uses present simple tense ('choose', 'dress') but lacks the auxiliary verb 'am' for 'ready'.",
+        "grammar_correctness": "wrong"
+    }
+]

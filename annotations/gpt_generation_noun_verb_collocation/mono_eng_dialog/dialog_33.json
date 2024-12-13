@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Certainly. I was part of our school’s eco-club, where we organized community clean-ups and initiated a recycling awareness campaign.",
+        "annotation_token": "organized community clean-ups",
+        "rationale": "The noun 'community clean-ups' and the verb 'organized' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Certainly. I was part of our school’s eco-club, where we organized community clean-ups and initiated a recycling awareness campaign.",
+        "annotation_token": "initiated a recycling awareness campaign",
+        "rationale": "The noun 'recycling awareness campaign' and the verb 'initiated' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "They solidified my passion for environmental advocacy and made me realize the importance of pursuing a career where I can contribute to sustainable solutions.",
+        "annotation_token": "solidified my passion",
+        "rationale": "The noun 'my passion' and the verb 'solidified' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, I cook maybe... 20 minute? Until everything is, uh, soft... and good flavor.",
+        "annotation_token": [
+            "cook",
+            "is"
+        ],
+        "rationale": "The verb 'cook' is in the present tense, which is consistent with the present tense 'is' used later in the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "No, not hard. It is easy! Just, um, practice make better taste.",
+        "annotation_token": [
+            "is",
+            "make"
+        ],
+        "rationale": "The verb 'is' is in the present tense, but 'make' should be 'makes' to agree with the singular subject 'practice'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Great! I look forward to it too.",
+        "annotation_token": [
+            "look"
+        ],
+        "rationale": "The verb 'look' is in the present tense, which is consistent with the context of expressing a current feeling or intention.",
+        "grammar_correctness": "correct"
+    }
+]

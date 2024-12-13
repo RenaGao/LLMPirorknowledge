@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, thank you. My name is Minji Lee. I am from Seoul. I study Business Administration at university. I, um, finished last year.",
+        "annotation_token": [
+            "study Business Administration"
+        ],
+        "rationale": "The noun 'Business Administration' and the verb 'study' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, we have group project. We make business plan for, um, new coffee shop. It was very exciting.",
+        "annotation_token": [
+            "make business plan"
+        ],
+        "rationale": "The noun 'business plan' and the verb 'make' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I, um, I was leader. I organize meeting and, uh, make sure everyone do their part. Also, I present it in class.",
+        "annotation_token": [
+            "organize meeting"
+        ],
+        "rationale": "The noun 'meeting' and the verb 'organize' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We have problem with finance part. It was hard, but we ask professor for help and, um, research more. Finally, we find good solution.",
+        "annotation_token": [
+            "ask professor"
+        ],
+        "rationale": "The noun 'professor' and the verb 'ask' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, in university, we make, um, marketing plan for real company. Our plan was, uh, chosen by company, and they use it. It was great success.",
+        "annotation_token": [
+            "make marketing plan"
+        ],
+        "rationale": "The noun 'marketing plan' and the verb 'make' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I work on, um, research part and also help with presentation. I, uh, give idea for online campaign.",
+        "annotation_token": [
+            "give idea"
+        ],
+        "rationale": "The noun 'idea' and the verb 'give' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    }
+]

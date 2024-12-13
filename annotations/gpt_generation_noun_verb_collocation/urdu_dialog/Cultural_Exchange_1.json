@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, etiquette! I watch a show, and it show how people eat in, um, places like France and Japan.",
+        "annotation_token": "watch a show",
+        "rationale": "The noun 'show' and the verb 'watch' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "In France, they use many, um, forks and knives. And in Japan, they use chopsticks, no forks.",
+        "annotation_token": "use chopsticks",
+        "rationale": "The noun 'chopsticks' and the verb 'use' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, in Pakistan, we eat with hands sometimes, right hand.",
+        "annotation_token": "eat with hands",
+        "rationale": "The noun 'hands' and the verb 'eat' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "In Pakistan, we give tip, but it is not always.",
+        "annotation_token": "give tip",
+        "rationale": "The noun 'tip' and the verb 'give' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you! I enjoy talking about this.",
+        "annotation_token": "enjoy talking",
+        "rationale": "The noun 'talking' and the verb 'enjoy' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

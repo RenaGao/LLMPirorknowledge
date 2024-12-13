@@ -1,0 +1,62 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sure! Last year, I led a campaign for a new mobile app. We focused heavily on social media engagement, which increased our user base by 40% in just three months.",
+        "annotation_token": [
+            "40%",
+            "three"
+        ],
+        "rationale": "The sentence contains numerals '40%' and 'three', which are used to quantify the increase in user base and the time period respectively.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sure! Last year, I led a campaign for a new mobile app. We focused heavily on social media engagement, which increased our user base by 40% in just three months.",
+        "annotation_token": [
+            "40%",
+            "three"
+        ],
+        "rationale": "The sentence contains numerals '40%' and 'three' which quantify the increase in user base and the duration of time respectively.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sure! Last year, I led a campaign for a new mobile app. We focused heavily on social media engagement, which increased our user base by 40% in just three months.",
+        "annotation_token": [
+            "Last year",
+            "40%",
+            "three months"
+        ],
+        "rationale": "The sentence contains quantifiers and numerals: 'Last year' indicates a specific time period, '40%' is a numeral representing a percentage, and 'three months' is a numeral indicating a duration.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely, thanks for having me. I'm Alex, and I've been working in digital marketing for about five years. Your company has a great reputation for innovation, and I'm really excited about the possibility of contributing to your projects.",
+        "annotation_token": [
+            "about",
+            "five"
+        ],
+        "rationale": "'About' is a quantifier indicating an approximate number, and 'five' is a numeral representing a specific quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sure! Last year, I led a campaign for a new mobile app. We focused heavily on social media engagement, which increased our user base by 40% in just three months. It was rewarding to see our strategies pay off.",
+        "annotation_token": [
+            "40%",
+            "three"
+        ],
+        "rationale": "'40%' is a numeral indicating a specific percentage, and 'three' is a numeral indicating a specific quantity of time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I believe it was our ability to adapt quickly to user feedback. We made several adjustments to our approach based on what our audience was responding to, which kept them engaged.",
+        "annotation_token": [
+            "several"
+        ],
+        "rationale": "'Several' is a quantifier indicating an indefinite, but not too large number.",
+        "grammar_correctness": true
+    }
+]

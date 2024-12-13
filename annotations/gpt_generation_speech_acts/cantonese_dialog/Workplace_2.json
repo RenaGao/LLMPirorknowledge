@@ -1,0 +1,281 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I am good, a little bit... um, how to say... overwhelmed?",
+        "annotation_token": [
+            "Thank you",
+            "how to say"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act of gratitude, and 'how to say' is a speech act of seeking clarification or expression.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I have some question. I need to, um, understand the report. It is a bit confusing.",
+        "annotation_token": [
+            "Yes",
+            "I need to",
+            "um"
+        ],
+        "rationale": "'Yes' is a speech act of agreement, 'I need to' is a speech act of expressing necessity, and 'um' is a hesitation marker indicating the speaker is thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I will try my best! Can you show me who to contact?",
+        "annotation_token": [
+            "Thank you",
+            "Can you show me"
+        ],
+        "rationale": "'Thank you' is a speech act of gratitude, and 'Can you show me' is a request for assistance.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much! I’m happy to be he",
+        "annotation_token": [
+            "Thank you so much"
+        ],
+        "rationale": "'Thank you so much' is a speech act of expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I am good, a little bit... um, how to say... overwhelmed?",
+        "annotation_token": [
+            "Thank you!",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The sentence contains expressions of gratitude ('Thank you!'), hesitation ('um'), and a request for assistance in finding the right words ('how to say'). These are all speech acts as they perform actions through language.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I have some question. I need to, um, understand the report. It is a bit confusing.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The sentence includes an affirmation ('Yes') and a hesitation ('um'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "The part with... data analysis. I not sure how to, um, interpret the numbers.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The sentence contains a hesitation ('um'), which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I know line graph. But... the trend, I not sure how to describe.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The sentence includes an affirmation ('Yes'), which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, it go up in March and April. That mean more sales?",
+        "annotation_token": [
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The sentence contains an expression of realization or understanding ('Ah') and an affirmation ('yes'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um... it go down. So less sales, right?",
+        "annotation_token": [
+            "Um"
+        ],
+        "rationale": "The sentence includes a hesitation ('Um'), which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm... there are many comment. Some good, some bad. How I should, um, use them?",
+        "annotation_token": [
+            "Hmm",
+            "um"
+        ],
+        "rationale": "The sentence contains a hesitation or thinking sound ('Hmm') and another hesitation ('um'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, many say shipping is slow. I think we need change, um, process?",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The sentence includes an affirmation ('Yes') and a hesitation ('um'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I want to help. But... I not know the process well.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The sentence includes an affirmation ('Yes'), which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I will try my best! Can you show me who to contact?",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you'), which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, no more question for now. I feel better after talk with you.",
+        "annotation_token": [
+            "Um"
+        ],
+        "rationale": "The sentence includes a hesitation ('Um'), which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much! I’m happy to be he",
+        "annotation_token": [
+            "Thank you so much"
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you so much'), which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I am good, a little bit... um, how to say... overwhelmed?",
+        "annotation_token": [
+            "Thank you",
+            "how to say"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act of gratitude, and 'how to say' is a speech act of seeking clarification or expression.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I have some question. I need to, um, understand the report. It is a bit confusing.",
+        "annotation_token": [
+            "Yes",
+            "I need to",
+            "um"
+        ],
+        "rationale": "'Yes' is a speech act of agreement, 'I need to' is a speech act of expressing necessity, and 'um' is a filler indicating hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "The part with... data analysis. I not sure how to, um, interpret the numbers.",
+        "annotation_token": [
+            "I not sure",
+            "um"
+        ],
+        "rationale": "'I not sure' is a speech act of expressing uncertainty, and 'um' is a filler indicating hesitation or thinking.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I know line graph. But... the trend, I not sure how to describe.",
+        "annotation_token": [
+            "Yes",
+            "I not sure"
+        ],
+        "rationale": "'Yes' is a speech act of agreement, and 'I not sure' is a speech act of expressing uncertainty.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, it go up in March and April. That mean more sales?",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "That mean"
+        ],
+        "rationale": "'Ah' is a speech act of realization, 'yes' is a speech act of agreement, and 'That mean' is a speech act of seeking confirmation.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um... it go down. So less sales, right?",
+        "annotation_token": [
+            "Um",
+            "right"
+        ],
+        "rationale": "'Um' is a filler indicating hesitation or thinking, and 'right' is a speech act of seeking confirmation.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm... there are many comment. Some good, some bad. How I should, um, use them?",
+        "annotation_token": [
+            "Hmm",
+            "How I should",
+            "um"
+        ],
+        "rationale": "'Hmm' is a filler indicating thinking, 'How I should' is a speech act of seeking advice, and 'um' is a filler indicating hesitation.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, many say shipping is slow. I think we need change, um, process?",
+        "annotation_token": [
+            "Yes",
+            "I think",
+            "um"
+        ],
+        "rationale": "'Yes' is a speech act of agreement, 'I think' is a speech act of expressing opinion, and 'um' is a filler indicating hesitation.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I want to help. But... I not know the process well.",
+        "annotation_token": [
+            "Yes",
+            "I want to help",
+            "I not know"
+        ],
+        "rationale": "'Yes' is a speech act of agreement, 'I want to help' is a speech act of offering assistance, and 'I not know' is a speech act of expressing lack of knowledge.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I will try my best! Can you show me who to contact?",
+        "annotation_token": [
+            "Thank you",
+            "Can you show me"
+        ],
+        "rationale": "'Thank you' is a speech act of gratitude, and 'Can you show me' is a speech act of requesting assistance.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, no more question for now. I feel better after talk with you.",
+        "annotation_token": [
+            "Um",
+            "I feel better"
+        ],
+        "rationale": "'Um' is a filler indicating hesitation, and 'I feel better' is a speech act of expressing improved emotional state.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much! I’m happy to be he",
+        "annotation_token": [
+            "Thank you so much",
+            "I’m happy"
+        ],
+        "rationale": "'Thank you so much' is a speech act of expressing gratitude, and 'I’m happy' is a speech act of expressing positive emotion.",
+        "grammar_correctness": "correct"
+    }
+]

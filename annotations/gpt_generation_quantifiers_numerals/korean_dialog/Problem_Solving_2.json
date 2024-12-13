@@ -1,0 +1,168 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, um, I see. I am very sorry. What mistake is there?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, I understand. I will check files again. Sorry for trouble.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I think I can find, but maybe I ask help if I cannot. Thank you.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, I can send today, maybe in one hour? Is it okay?",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "The word 'one' is a numeral indicating a specific quantity of time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you for understanding. I make sure it not happen again.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, thank you. I feel better now.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, maybe, how to organize files better?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, please. That will help me very much.",
+        "annotation_token": [
+            "very much"
+        ],
+        "rationale": "The phrase 'very much' is a quantifier indicating a large degree of help.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, tomorrow is good. What time you suggest?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "10 a.m. is perfect. I will prepare questions for meeting.",
+        "annotation_token": [
+            "10"
+        ],
+        "rationale": "The number '10' is a numeral indicating a specific time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Me too. Thank you aga",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, um, I see. I am very sorry. What mistake is there?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, I understand. I will check files again. Sorry for trouble.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I think I can find, but maybe I ask help if I cannot. Thank you.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, I can send today, maybe in one hour? Is it okay?",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "The word 'one' is a numeral indicating a specific quantity of time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you for understanding. I make sure it not happen again.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, thank you. I feel better now.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, maybe, how to organize files better?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, please. That will help me very much.",
+        "annotation_token": [
+            "very much"
+        ],
+        "rationale": "The phrase 'very much' is a quantifier indicating a large degree of help.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, tomorrow is good. What time you suggest?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "10 a.m. is perfect. I will prepare questions for meeting.",
+        "annotation_token": [
+            "10"
+        ],
+        "rationale": "The number '10' is a numeral indicating a specific time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Me too. Thank you aga",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    }
+]

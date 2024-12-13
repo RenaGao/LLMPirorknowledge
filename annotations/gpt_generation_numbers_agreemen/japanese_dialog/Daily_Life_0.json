@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I make. It is easy. But sometimes my mother help... helps me.",
+        "annotation_token": "help... helps",
+        "rationale": "The verb 'help' should agree in number with the subject 'my mother', which is singular. Therefore, the correct form is 'helps'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, train. It is... um, many people, busy. But I bring book to read.",
+        "annotation_token": "book",
+        "rationale": "The noun 'book' should agree in number with the context, as 'many people' suggests multiple items, so it should be 'books'.",
+        "grammar_correctness": "wrong"
+    }
+]

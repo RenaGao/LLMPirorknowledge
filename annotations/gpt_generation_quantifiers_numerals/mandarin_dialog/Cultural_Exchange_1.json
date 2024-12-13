@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Also, we like to share dish. Everything is, um, put in middle of table.",
+        "annotation_token": [
+            "Everything"
+        ],
+        "rationale": "The word 'Everything' is a quantifier indicating the totality of items being referred to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, tea is very common. We have many, uh, types of tea. It is, um, important in culture.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of items.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Also, we like to share dish. Everything is, um, put in middle of table.",
+        "annotation_token": [
+            "Everything"
+        ],
+        "rationale": "The word 'Everything' is a quantifier used to refer to all things collectively.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, tea is very common. We have many, uh, types of tea.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of items.",
+        "grammar_correctness": true
+    }
+]

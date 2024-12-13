@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, hi! Yes, um, I think... it's a little difficult.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to something previously mentioned or understood in the context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I not sure what Xiaohua like.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, she... she like, uh, music and outdoor, you know, like park?",
+        "annotation_token": "she",
+        "rationale": "The word 'she' is a reference to Xiaohua, who was mentioned earlier.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay, okay. I will, uh, talk to, um, Mei and Jun? They both close with Xiaohua.",
+        "annotation_token": "They",
+        "rationale": "The word 'They' is a reference to Mei and Jun, who were mentioned earlier.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I have speaker. It's small but loud. We can use it.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference to the speaker mentioned earlier.",
+        "grammar_correctness": true
+    }
+]

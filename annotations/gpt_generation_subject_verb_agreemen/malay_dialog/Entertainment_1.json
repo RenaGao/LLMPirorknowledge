@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, not really. I thinking to do something, but not sure yet.",
+        "annotation_token": "I thinking",
+        "rationale": "The subject 'I' should be followed by the verb 'am' to form the present continuous tense, making it 'I am thinking'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah yes, I hear about nice place... um, how to say... they have good, uh, spicy food.",
+        "annotation_token": "I hear",
+        "rationale": "The subject 'I' should be followed by the verb 'heard' to correctly form the past tense, making it 'I heard'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, yes, that the one! I think it called... um, Red Chili or something like that.",
+        "annotation_token": "it called",
+        "rationale": "The subject 'it' should be followed by the verb 'is' to form the passive voice, making it 'it is called'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I hear about new action film. Everyone say it very good.",
+        "annotation_token": "Everyone say",
+        "rationale": "The subject 'Everyone' is singular and should be followed by the verb 'says', making it 'Everyone says'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, good plan. I looking forward to tonight!",
+        "annotation_token": "I looking",
+        "rationale": "The subject 'I' should be followed by the verb 'am' to form the present continuous tense, making it 'I am looking'.",
+        "grammar_correctness": "wrong"
+    }
+]

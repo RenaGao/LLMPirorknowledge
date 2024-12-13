@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Absolutely. I’ve been working in digital marketing for about five years now.",
+        "annotation_token": "working in digital marketing",
+        "rationale": "The noun 'digital marketing' and the verb 'working' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Sure, last year I led a campaign for a tech startup that increased their engagement by 40% over three months.",
+        "annotation_token": "led a campaign",
+        "rationale": "The noun 'campaign' and the verb 'led' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We focused on creating interactive content that resonated with their audience.",
+        "annotation_token": "creating interactive content",
+        "rationale": "The noun 'interactive content' and the verb 'creating' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We look at several metrics, including engagement rates, click-through rates, and conversion rates.",
+        "annotation_token": "look at several metrics",
+        "rationale": "The noun 'metrics' and the verb 'look at' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I’d analyze the data to identify any patterns or issues, then adjust our strategy accordingly.",
+        "annotation_token": "analyze the data",
+        "rationale": "The noun 'data' and the verb 'analyze' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    }
+]

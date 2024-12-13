@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "The last chapter is... um, very complex for me.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The verb 'is' is in present tense and agrees with the subject 'The last chapter'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I don't understand when to use it.",
+        "annotation_token": [
+            "don't understand"
+        ],
+        "rationale": "The verb phrase 'don't understand' is in present tense and agrees with the subject 'I'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I have it in my bag.",
+        "annotation_token": [
+            "have"
+        ],
+        "rationale": "The verb 'have' is in present tense and agrees with the subject 'I'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I can... get it, wait.",
+        "annotation_token": [
+            "can get"
+        ],
+        "rationale": "The modal verb 'can' is followed by the base form 'get', which is correct tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I will try to focus on the logic more.",
+        "annotation_token": [
+            "will try"
+        ],
+        "rationale": "The future tense 'will try' is correctly used with the subject 'I'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Practice is best for, um, remembering.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The verb 'is' is in present tense and agrees with the subject 'Practice'.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes, it is Nuch. Who is speaking, please?",
+        "annotation_token": [
+            "Who",
+            "is",
+            "speaking",
+            "please"
+        ],
+        "rationale": "The sentence contains a speech act of inquiry, asking for the identity of the person speaking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh! Lek! I am good, thank you. How about you?",
+        "annotation_token": [
+            "How",
+            "about",
+            "you"
+        ],
+        "rationale": "The sentence contains a speech act of inquiry, asking about the other person's well-being.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "And your family?",
+        "annotation_token": [
+            "And",
+            "your",
+            "family"
+        ],
+        "rationale": "The sentence contains a speech act of inquiry, asking about the other person's family.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "How about you?",
+        "annotation_token": [
+            "How",
+            "about",
+            "you"
+        ],
+        "rationale": "The sentence contains a speech act of inquiry, asking about the other person's plans.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, try the market at night. Very good food!",
+        "annotation_token": [
+            "try",
+            "the",
+            "market",
+            "at",
+            "night"
+        ],
+        "rationale": "The sentence contains a speech act of suggestion, recommending an activity to the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes. Let’s talk again soon. Bye-bye!",
+        "annotation_token": [
+            "Let’s",
+            "talk",
+            "again",
+            "soon"
+        ],
+        "rationale": "The sentence contains a speech act of suggestion, proposing a future conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes, it is Nuch. Who is speaking, please?",
+        "annotation_token": [
+            "Who",
+            "is",
+            "speaking",
+            "please"
+        ],
+        "rationale": "The sentence contains a speech act in the form of a question, which is a request for information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh! Lek! I am good, thank you. How about you?",
+        "annotation_token": [
+            "How",
+            "about",
+            "you"
+        ],
+        "rationale": "The sentence contains a speech act in the form of a question, which is a request for information about the other person's well-being.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "And your family?",
+        "annotation_token": [
+            "And",
+            "your",
+            "family"
+        ],
+        "rationale": "The sentence contains a speech act in the form of a question, which is a request for information about the other person's family.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "How about you?",
+        "annotation_token": [
+            "How",
+            "about",
+            "you"
+        ],
+        "rationale": "The sentence contains a speech act in the form of a question, which is a request for information about the other person's plans.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think so too. Well, it’s very nice to talk, Lek.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "think",
+            "so",
+            "too"
+        ],
+        "rationale": "The sentence contains a speech act in the form of an agreement, which is a response to a previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes. Let’s talk again soon. Bye-bye!",
+        "annotation_token": [
+            "Let’s",
+            "talk",
+            "again",
+            "soon"
+        ],
+        "rationale": "The sentence contains a speech act in the form of a suggestion or invitation to continue communication in the future.",
+        "grammar_correctness": "correct"
+    }
+]

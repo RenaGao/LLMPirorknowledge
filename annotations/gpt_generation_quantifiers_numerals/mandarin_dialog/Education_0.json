@@ -1,0 +1,34 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you! I think it will help me, uh, a lot.",
+        "annotation_token": [
+            "a lot"
+        ],
+        "rationale": "'A lot' is a quantifier used to express a large amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I like it! Practice is best for, um, remembering.",
+        "annotation_token": [
+            "best"
+        ],
+        "rationale": "'Best' is a superlative form used to indicate the highest degree of quality, often considered a quantifier in context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you! I think it will help me, uh, a lot.",
+        "annotation_token": "a lot",
+        "rationale": "'A lot' is a quantifier used to indicate a large amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I like it! Practice is best for, um, remembering.",
+        "annotation_token": "best",
+        "rationale": "'Best' is a superlative form used to indicate the highest degree of quality or extent.",
+        "grammar_correctness": true
+    }
+]

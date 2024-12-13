@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "The testing part, I think. We need more, um, time to make sure everything working good.",
+        "annotation_token": "testing part",
+        "rationale": "The noun 'part' and the verb 'testing' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you! I will work hard, uh, to make it on time.",
+        "annotation_token": "work hard",
+        "rationale": "The noun 'work' and the verb 'hard' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    }
+]

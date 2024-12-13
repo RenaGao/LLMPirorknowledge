@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Sometimes, yes. But mostly, my mother make it. Her rendang very good!",
+        "annotation_token": [
+            "make"
+        ],
+        "rationale": "The verb 'make' should be in the third person singular form 'makes' to agree with the subject 'my mother'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "You’re welcome! I happy to tell you about",
+        "annotation_token": [
+            "happy"
+        ],
+        "rationale": "The verb 'am' is missing before 'happy' to form the correct present tense 'I am happy'.",
+        "grammar_correctness": "wrong"
+    }
+]

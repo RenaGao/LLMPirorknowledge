@@ -1,0 +1,206 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes, Xiao Ming. I was a bit... um, how to say... confused?",
+        "annotation_token": [
+            "how to say"
+        ],
+        "rationale": "The phrase 'how to say' is a speech act indicating the speaker is searching for the right words or expression.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, you say we meet at, uh, nine o'clock, but I think you mean the morning?",
+        "annotation_token": [
+            "you say",
+            "I think",
+            "you mean"
+        ],
+        "rationale": "The phrases 'you say', 'I think', and 'you mean' are speech acts indicating the speaker is confirming or clarifying information.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, okay! I thought you say a.m.",
+        "annotation_token": [
+            "I thought",
+            "you say"
+        ],
+        "rationale": "The phrases 'I thought' and 'you say' are speech acts indicating the speaker is expressing a belief or assumption.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, but now is okay. I just want to understand. Thank you for explain.",
+        "annotation_token": [
+            "I just want to understand",
+            "Thank you for explain"
+        ],
+        "rationale": "The phrases 'I just want to understand' and 'Thank you for explain' are speech acts indicating the speaker's intention to comprehend and express gratitude.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that is good idea. We can say \"p.m.\" or \"a.m.\" also, right?",
+        "annotation_token": [
+            "We can say",
+            "right"
+        ],
+        "rationale": "The phrases 'We can say' and 'right' are speech acts indicating the speaker is suggesting a solution and seeking confirmation.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, maybe we have coffee next time? I, um, still enjoy our talk.",
+        "annotation_token": [
+            "maybe we have",
+            "I enjoy"
+        ],
+        "rationale": "The phrases 'maybe we have' and 'I enjoy' are speech acts indicating the speaker is making a suggestion and expressing enjoyment.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Perfect! I look forward to it. Thank you for being so understanding.",
+        "annotation_token": [
+            "I look forward",
+            "Thank you"
+        ],
+        "rationale": "The phrases 'I look forward' and 'Thank you' are speech acts indicating anticipation and gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think it is good to talk about... um, problem. It makes things better.",
+        "annotation_token": [
+            "I think",
+            "It makes"
+        ],
+        "rationale": "The phrases 'I think' and 'It makes' are speech acts indicating the speaker's opinion and a causal relationship.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you too. See you at the café!",
+        "annotation_token": [
+            "thank you",
+            "See you"
+        ],
+        "rationale": "The phrases 'thank you' and 'See you' are speech acts indicating gratitude and a farewell.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes, Xiao Ming. I was a bit... um, how to say... confused?",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "um",
+            "how to say",
+            "confused"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Oh', 'yes', 'um', and 'how to say', which are used to express hesitation, agreement, and seeking clarification.",
+        "grammar_correctness": "The use of these speech acts is aligned with native English speaker's grammar usage, although 'how to say' is a non-standard expression."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, okay! I thought you say a.m.",
+        "annotation_token": [
+            "Ah",
+            "okay"
+        ],
+        "rationale": "The sentence contains speech acts 'Ah' and 'okay', which are used to express realization and agreement.",
+        "grammar_correctness": "The use of these speech acts is aligned with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, a little bit. I wait for one hour and then go home.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The word 'Yes' is a speech act used to express agreement or confirmation.",
+        "grammar_correctness": "The use of 'Yes' is aligned with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, but now is okay. I just want to understand. Thank you for explain.",
+        "annotation_token": [
+            "Yes",
+            "Thank you"
+        ],
+        "rationale": "The words 'Yes' and 'Thank you' are speech acts used to express agreement and gratitude.",
+        "grammar_correctness": "The use of 'Yes' and 'Thank you' is aligned with native English speaker's grammar usage, although 'Thank you for explain' is grammatically incorrect."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that is good idea. We can say \"p.m.\" or \"a.m.\" also, right?",
+        "annotation_token": [
+            "Yes",
+            "right"
+        ],
+        "rationale": "The words 'Yes' and 'right' are speech acts used to express agreement and seeking confirmation.",
+        "grammar_correctness": "The use of 'Yes' and 'right' is aligned with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, maybe we have coffee next time? I, um, still enjoy our talk.",
+        "annotation_token": [
+            "Um",
+            "maybe"
+        ],
+        "rationale": "The words 'Um' and 'maybe' are speech acts used to express hesitation and suggestion.",
+        "grammar_correctness": "The use of 'Um' and 'maybe' is aligned with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, this weekend is good. Um, around, uh, afternoon?",
+        "annotation_token": [
+            "Yes",
+            "Um",
+            "uh"
+        ],
+        "rationale": "The words 'Yes', 'Um', and 'uh' are speech acts used to express agreement and hesitation.",
+        "grammar_correctness": "The use of 'Yes', 'Um', and 'uh' is aligned with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Perfect! I look forward to it. Thank you for being so understanding.",
+        "annotation_token": [
+            "Perfect",
+            "Thank you"
+        ],
+        "rationale": "The words 'Perfect' and 'Thank you' are speech acts used to express satisfaction and gratitude.",
+        "grammar_correctness": "The use of 'Perfect' and 'Thank you' is aligned with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think it is good to talk about... um, problem. It makes things better.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The word 'um' is a speech act used to express hesitation.",
+        "grammar_correctness": "The use of 'um' is aligned with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you too. See you at the café!",
+        "annotation_token": [
+            "Yes",
+            "thank you",
+            "See you"
+        ],
+        "rationale": "The words 'Yes', 'thank you', and 'See you' are speech acts used to express agreement, gratitude, and farewell.",
+        "grammar_correctness": "The use of 'Yes', 'thank you', and 'See you' is aligned with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, take care. Bye-bye.",
+        "annotation_token": [
+            "Okay",
+            "take care",
+            "Bye-bye"
+        ],
+        "rationale": "The words 'Okay', 'take care', and 'Bye-bye' are speech acts used to express agreement, well-wishing, and farewell.",
+        "grammar_correctness": "The use of 'Okay', 'take care', and 'Bye-bye' is aligned with native English speaker's grammar usage."
+    }
+]

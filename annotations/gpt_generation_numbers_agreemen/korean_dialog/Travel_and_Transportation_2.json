@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, maybe, uh, six people? Enough for fun, not too many.",
+        "annotation_token": "people",
+        "rationale": "The word 'people' is a plural noun and correctly agrees with the number 'six'.",
+        "grammar_correctness": "correct"
+    }
+]

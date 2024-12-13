@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Oh, so... um, if people want more, demand curve move to right?",
+        "annotation_token": "move",
+        "rationale": "The subject 'demand curve' is singular, so the verb should be 'moves' to agree in number.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "And if production cost, uh, decrease, supply... it shift to right too?",
+        "annotation_token": "decrease",
+        "rationale": "The subject 'production cost' is singular, so the verb should be 'decreases' to agree in number.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "And if production cost, uh, decrease, supply... it shift to right too?",
+        "annotation_token": "shift",
+        "rationale": "The subject 'supply' is singular, so the verb should be 'shifts' to agree in number.",
+        "grammar_correctness": "wrong"
+    }
+]

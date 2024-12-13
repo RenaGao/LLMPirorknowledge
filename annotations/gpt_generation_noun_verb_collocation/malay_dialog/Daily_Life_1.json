@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Hello! Um, yes, I think to have picnic with my family. Not sure yet.",
+        "annotation_token": "have picnic",
+        "rationale": "The noun 'picnic' and the verb 'have' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We bring, um, like sandwiches, fruits... and my mother make, uh, nasi lemak.",
+        "annotation_token": "make nasi lemak",
+        "rationale": "The noun 'nasi lemak' and the verb 'make' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "My brother want to play, um, football. My sister like... uh, flying kite.",
+        "annotation_token": "play football",
+        "rationale": "The noun 'football' and the verb 'play' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "My brother want to play, um, football. My sister like... uh, flying kite.",
+        "annotation_token": "flying kite",
+        "rationale": "The noun 'kite' and the verb 'flying' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We take car. My father, he drive us.",
+        "annotation_token": "take car",
+        "rationale": "The noun 'car' and the verb 'take' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We take car. My father, he drive us.",
+        "annotation_token": "drive us",
+        "rationale": "The noun 'us' is not a pronoun in this context, and the verb 'drive' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

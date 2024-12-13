@@ -1,0 +1,47 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good morning! Uh, my morning... um, it start early.",
+        "annotation_token": [
+            "Good morning!"
+        ],
+        "rationale": "The phrase 'Good morning!' is a speech act as it is a greeting.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! Neighborhood.",
+        "annotation_token": [
+            "Yes, yes!"
+        ],
+        "rationale": "The phrase 'Yes, yes!' is a speech act as it is an affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I try to keep it, um, same every day.",
+        "annotation_token": [
+            "Thank you!"
+        ],
+        "rationale": "The phrase 'Thank you!' is a speech act as it is an expression of gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good morning! Uh, my morning... um, it start early.",
+        "annotation_token": [
+            "Good morning!"
+        ],
+        "rationale": "The phrase 'Good morning!' is a speech act used as a greeting.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I try to keep it, um, same every day.",
+        "annotation_token": [
+            "Thank you!"
+        ],
+        "rationale": "The phrase 'Thank you!' is a speech act used to express gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

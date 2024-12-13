@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi, um, I am good, but little tired. Work... it is busy.",
+        "annotation_token": [
+            "little"
+        ],
+        "rationale": "The word 'little' is a quantifier used to describe the amount of tiredness.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Not really... I sleep late. Maybe... um... five hours? Not enough, I think.",
+        "annotation_token": [
+            "five"
+        ],
+        "rationale": "The word 'five' is a numeral indicating the number of hours slept.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I try, but... sometimes too much junk food. Like pizza, you know?",
+        "annotation_token": [
+            "too much"
+        ],
+        "rationale": "The phrase 'too much' is a quantifier indicating an excessive amount of junk food.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi, um, I am good, but little tired. Work... it is busy.",
+        "annotation_token": [
+            "little"
+        ],
+        "rationale": "The word 'little' is a quantifier indicating a small amount of tiredness.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Not really... I sleep late. Maybe... um... five hours? Not enough, I think.",
+        "annotation_token": [
+            "five"
+        ],
+        "rationale": "The word 'five' is a numeral indicating the number of hours slept.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I try, but... sometimes too much junk food. Like pizza, you know?",
+        "annotation_token": [
+            "too much"
+        ],
+        "rationale": "The phrase 'too much' is a quantifier indicating an excessive amount of junk food.",
+        "grammar_correctness": true
+    }
+]

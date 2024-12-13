@@ -1,0 +1,50 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hi, thank you for having me. I recently applied for a position at your company and wanted to check on the status of my application.",
+        "annotation_token": [
+            "I applied",
+            "I wanted"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the past tense verbs 'applied' and 'wanted'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Sure, my application ID is 12345, and the email is emily.johnson@example.com.",
+        "annotation_token": [
+            "ID is",
+            "email is"
+        ],
+        "rationale": "The subjects 'ID' and 'email' correctly agree with the singular verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Great, thank you for checking. Do you know when I might hear back from them?",
+        "annotation_token": [
+            "I might hear"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the modal verb 'might' and the base form 'hear'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, that's perfect. I appreciate the update. Is there anything else I should prepare in the meantime?",
+        "annotation_token": [
+            "I appreciate",
+            "I should prepare"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'appreciate' and 'should prepare'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Got it, I’ll keep an eye on my email. Thanks again for your help today.",
+        "annotation_token": [
+            "I’ll keep"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the future tense construction 'will keep'.",
+        "grammar_correctness": "correct"
+    }
+]

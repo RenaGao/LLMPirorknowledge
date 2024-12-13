@@ -1,0 +1,35 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, enjoy. I like see project finish, but also tired sometimes.",
+        "annotation_token": [
+            "enjoy",
+            "like see",
+            "finish",
+            "tired"
+        ],
+        "rationale": "The sentence lacks tense agreement. The verbs 'enjoy', 'like', 'see', 'finish', and 'tired' are not consistently in the same tense, which disrupts the flow and clarity of the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I want see... um, new places. Your family all well, yes?",
+        "annotation_token": [
+            "want see",
+            "all well"
+        ],
+        "rationale": "The sentence 'I want see' lacks the 'to' infinitive form, and 'Your family all well' lacks a verb to indicate tense, such as 'is'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I will plan. Thank you for call. It was nice talk, Aina.",
+        "annotation_token": [
+            "will plan",
+            "for call",
+            "was nice talk"
+        ],
+        "rationale": "The sentence 'Thank you for call' lacks the article 'the' before 'call', and 'It was nice talk' lacks the article 'a' before 'talk'.",
+        "grammar_correctness": "wrong"
+    }
+]

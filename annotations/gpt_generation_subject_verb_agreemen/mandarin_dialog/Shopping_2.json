@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, hello. I buy, uh, a thing here last week.",
+        "annotation_token": "I buy",
+        "rationale": "The subject 'I' does not agree with the verb 'buy'. The correct form should be 'I bought'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It not working well.",
+        "annotation_token": "It not working",
+        "rationale": "The subject 'It' does not agree with the verb 'working'. The correct form should be 'It is not working'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, blender! It make noise, but no mix well.",
+        "annotation_token": "It make",
+        "rationale": "The subject 'It' does not agree with the verb 'make'. The correct form should be 'It makes'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Okay, I write... it not work, make loud noise.",
+        "annotation_token": "it not work",
+        "rationale": "The subject 'it' does not agree with the verb 'work'. The correct form should be 'it does not work'.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I go to Lahore. It is very... um, big and busy.",
+        "annotation_token": [
+            "go",
+            "is"
+        ],
+        "rationale": "The verb 'go' is in the present tense, while the context suggests a past action. The verb 'is' is correctly in the present tense as it describes the current state of Lahore.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I see many place. How to say... like, um, old... old building?",
+        "annotation_token": [
+            "see"
+        ],
+        "rationale": "The verb 'see' is in the present tense, while the context suggests a past action.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I take many pictures. Uh, but my phone... how to say... run out of battery?",
+        "annotation_token": [
+            "take",
+            "run"
+        ],
+        "rationale": "The verb 'take' is in the present tense, while the context suggests a past action. The verb 'run' is also in the present tense, while the context suggests a past action.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I try... um, biryani and some... uh, spicy food. It was very... tasty.",
+        "annotation_token": [
+            "try"
+        ],
+        "rationale": "The verb 'try' is in the present tense, while the context suggests a past action.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I go to Shalimar Garden. It was very... um, peaceful and green.",
+        "annotation_token": [
+            "go"
+        ],
+        "rationale": "The verb 'go' is in the present tense, while the context suggests a past action.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I tell you. Thank you for listening about my tr",
+        "annotation_token": [
+            "tell"
+        ],
+        "rationale": "The verb 'tell' is in the present tense, while the context suggests a past action.",
+        "grammar_correctness": "wrong"
+    }
+]

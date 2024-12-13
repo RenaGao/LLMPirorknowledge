@@ -1,0 +1,108 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hello. I have problem with my laptop.",
+        "annotation_token": [
+            "Um",
+            "hello"
+        ],
+        "rationale": "The tokens 'Um' and 'hello' are used as a greeting and an attention-getting device, which are common speech acts in conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, uh, when I turn on, it... um, how to say... screen is black.",
+        "annotation_token": [
+            "Yes",
+            "uh",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Yes', 'uh', 'um', and 'how to say' are used as fillers and hesitation markers, which are speech acts indicating the speaker is thinking or trying to find the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I do now... (pause) Um, still same.",
+        "annotation_token": [
+            "Okay",
+            "Um"
+        ],
+        "rationale": "The tokens 'Okay' and 'Um' are used as a response and a hesitation marker, which are speech acts indicating agreement and thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, how to do that? I... I not know.",
+        "annotation_token": [
+            "Uh",
+            "how to do that"
+        ],
+        "rationale": "The token 'Uh' is a hesitation marker, and 'how to do that' is a request for information, both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, thank you. You help a lot. I... um, appreciate it.",
+        "annotation_token": [
+            "No",
+            "thank you",
+            "um"
+        ],
+        "rationale": "The tokens 'No', 'thank you', and 'um' are used as a polite refusal, expression of gratitude, and hesitation marker, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. Have nice day.",
+        "annotation_token": [
+            "Thank you",
+            "Have nice day"
+        ],
+        "rationale": "The tokens 'Thank you' and 'Have nice day' are expressions of gratitude and a farewell, which are common speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hello. I have problem with my laptop.",
+        "annotation_token": [
+            "Um",
+            "hello"
+        ],
+        "rationale": "The tokens 'Um' and 'hello' are used as a greeting and an attention-getting device, which are common speech acts in conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, uh, when I turn on, it... um, how to say... screen is black.",
+        "annotation_token": [
+            "Yes",
+            "uh",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Yes', 'uh', 'um', and 'how to say' are used as discourse markers and hesitation devices, which are speech acts to manage the flow of conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, thank you. You help a lot. I... um, appreciate it.",
+        "annotation_token": [
+            "No",
+            "thank you",
+            "um"
+        ],
+        "rationale": "The tokens 'No', 'thank you', and 'um' are used as a refusal, expression of gratitude, and hesitation device, which are common speech acts in conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. Have nice day",
+        "annotation_token": [
+            "Thank you",
+            "Have nice day"
+        ],
+        "rationale": "The tokens 'Thank you' and 'Have nice day' are used as an expression of gratitude and a farewell, which are common speech acts in conversation.",
+        "grammar_correctness": "correct"
+    }
+]

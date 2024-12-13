@@ -1,0 +1,200 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, um, I am not, uh, clear about the homework assignment.",
+        "annotation_token": [
+            "Hi",
+            "I am not clear about the homework assignment"
+        ],
+        "rationale": "The sentence contains a greeting ('Hi') and a statement of lack of understanding ('I am not clear about the homework assignment'), which are both speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We need to, uh, write essay, yes?",
+        "annotation_token": [
+            "We need to write essay",
+            "yes"
+        ],
+        "rationale": "The sentence contains a statement of necessity ('We need to write essay') and a confirmation request ('yes?'), which are both speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, the topic is... um, importance of... uh, reading.",
+        "annotation_token": [
+            "Yes",
+            "the topic is importance of reading"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes') and a statement of information ('the topic is importance of reading'), which are both speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it help. But, um, I not sure... how to start?",
+        "annotation_token": [
+            "Yes",
+            "it help",
+            "I not sure how to start"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes'), a statement of assistance ('it help'), and an expression of uncertainty ('I not sure how to start'), which are all speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, okay. Explain why I choose... um, reading?",
+        "annotation_token": [
+            "Ah, okay",
+            "Explain why I choose reading"
+        ],
+        "rationale": "The sentence contains an acknowledgment ('Ah, okay') and a request for explanation ('Explain why I choose reading'), which are both speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I understand. And, um, how many paragraph... need?",
+        "annotation_token": [
+            "Okay, I understand",
+            "how many paragraph need"
+        ],
+        "rationale": "The sentence contains an acknowledgment of understanding ('Okay, I understand') and a request for information ('how many paragraph need'), which are both speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I see. And conclusion is, um, summary?",
+        "annotation_token": [
+            "Ah, I see",
+            "conclusion is summary"
+        ],
+        "rationale": "The sentence contains an acknowledgment of understanding ('Ah, I see') and a request for confirmation ('conclusion is summary'), which are both speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, thank you. This help much!",
+        "annotation_token": [
+            "Okay, thank you",
+            "This help much"
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Okay, thank you') and a statement of assistance ('This help much'), which are both speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, if I have question, I will ask you. Thank you, teacher!",
+        "annotation_token": [
+            "Yes",
+            "if I have question, I will ask you",
+            "Thank you, teacher"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes'), a conditional statement of future action ('if I have question, I will ask you'), and an expression of gratitude ('Thank you, teacher'), which are all speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, um, I am not, uh, clear about the homework assignment.",
+        "annotation_token": [
+            "Hi",
+            "I am not clear about the homework assignment"
+        ],
+        "rationale": "The speaker is initiating a conversation and expressing a lack of understanding, which are both speech acts.",
+        "grammar_correctness": "partially correct, 'I am not clear about the homework assignment' is correct, but the use of fillers 'um' and 'uh' is not typical in written English."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "The, um, writing part. We need to, uh, write essay, yes?",
+        "annotation_token": [
+            "We need to write essay, yes?"
+        ],
+        "rationale": "The speaker is making a request for confirmation, which is a speech act.",
+        "grammar_correctness": "incorrect, 'write essay' should be 'write an essay'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, the topic is... um, importance of... uh, reading.",
+        "annotation_token": [
+            "Yes",
+            "the topic is importance of reading"
+        ],
+        "rationale": "The speaker is confirming information and stating a topic, which are both speech acts.",
+        "grammar_correctness": "partially correct, 'importance of reading' should be 'the importance of reading'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, yes. How many, um, words we need write?",
+        "annotation_token": [
+            "How many words we need write?"
+        ],
+        "rationale": "The speaker is asking a question, which is a speech act.",
+        "grammar_correctness": "incorrect, 'we need write' should be 'do we need to write'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it help. But, um, I not sure... how to start?",
+        "annotation_token": [
+            "Yes, it help",
+            "I not sure how to start"
+        ],
+        "rationale": "The speaker is acknowledging assistance and expressing uncertainty, which are both speech acts.",
+        "grammar_correctness": "incorrect, 'it help' should be 'it helps' and 'I not sure' should be 'I am not sure'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, okay. Explain why I choose... um, reading?",
+        "annotation_token": [
+            "Explain why I choose reading?"
+        ],
+        "rationale": "The speaker is seeking clarification, which is a speech act.",
+        "grammar_correctness": "incorrect, 'choose' should be 'chose' or 'have chosen'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I understand. And, um, how many paragraph... need?",
+        "annotation_token": [
+            "I understand",
+            "how many paragraph need?"
+        ],
+        "rationale": "The speaker is expressing understanding and asking a question, which are both speech acts.",
+        "grammar_correctness": "incorrect, 'how many paragraph need?' should be 'how many paragraphs are needed?'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, three to five. Um, body paragraph is... details?",
+        "annotation_token": [
+            "body paragraph is details?"
+        ],
+        "rationale": "The speaker is asking for confirmation, which is a speech act.",
+        "grammar_correctness": "incorrect, 'body paragraph is details?' should be 'is the body paragraph for details?'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I see. And conclusion is, um, summary?",
+        "annotation_token": [
+            "I see",
+            "conclusion is summary?"
+        ],
+        "rationale": "The speaker is expressing understanding and asking for confirmation, which are both speech acts.",
+        "grammar_correctness": "incorrect, 'conclusion is summary?' should be 'is the conclusion a summary?'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, thank you. This help much!",
+        "annotation_token": [
+            "thank you",
+            "This help much!"
+        ],
+        "rationale": "The speaker is expressing gratitude and acknowledging assistance, which are both speech acts.",
+        "grammar_correctness": "incorrect, 'This help much!' should be 'This helps a lot!'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, if I have question, I will ask you. Thank you, teacher!",
+        "annotation_token": [
+            "if I have question, I will ask you",
+            "Thank you, teacher!"
+        ],
+        "rationale": "The speaker is making a conditional statement and expressing gratitude, which are both speech acts.",
+        "grammar_correctness": "incorrect, 'if I have question' should be 'if I have a question'."
+    }
+]

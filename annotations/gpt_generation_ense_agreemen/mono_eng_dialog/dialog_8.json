@@ -1,0 +1,63 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hi there! I’m having a bit of trouble with my laptop. It's been running really slow lately. Do you have any suggestions on what I might try?",
+        "annotation_token": [
+            "I’m having",
+            "It's been running"
+        ],
+        "rationale": "The present continuous tense 'I’m having' and the present perfect continuous tense 'It's been running' are used correctly to describe ongoing actions or states.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I’ve restarted it a couple of times, but I’m not sure about the programs. How can I check that?",
+        "annotation_token": [
+            "I’ve restarted",
+            "I’m not sure"
+        ],
+        "rationale": "The present perfect tense 'I’ve restarted' is used correctly to indicate an action completed at some indefinite time in the past, and the present simple tense 'I’m not sure' is used correctly to express a current state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I’ve got it open. Wow, there are a lot of things running. Should I just end everything?",
+        "annotation_token": [
+            "I’ve got",
+            "are running"
+        ],
+        "rationale": "The present perfect tense 'I’ve got' is used correctly to indicate possession, and the present continuous tense 'are running' is used correctly to describe ongoing actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Okay, I see a bunch of tabs open in my browser. I’ll start with those.",
+        "annotation_token": [
+            "I see",
+            "I’ll start"
+        ],
+        "rationale": "The present simple tense 'I see' is used correctly to describe a current perception, and the future simple tense 'I’ll start' is used correctly to indicate a future action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Got it. I’ll give that a shot. Is there anything else I should be aware of?",
+        "annotation_token": [
+            "I’ll give",
+            "Is",
+            "I should be"
+        ],
+        "rationale": "The future simple tense 'I’ll give' is used correctly to indicate a future action, the present simple tense 'Is' is used correctly to ask about a current state, and the modal 'should be' is used correctly to express necessity.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I’ll check on that as well. Thanks for all your help! Hopefully, these steps will make a difference.",
+        "annotation_token": [
+            "I’ll check",
+            "will make"
+        ],
+        "rationale": "The future simple tense 'I’ll check' and 'will make' are used correctly to indicate future actions.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. At my last job, I managed a team for a major product launch. It involved coordinating between different departments and ensuring we met all deadlines.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier used to refer to the entirety of the deadlines.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We mainly used Trello for task management and Slack for communication. I found them both very effective.",
+        "annotation_token": [
+            "both"
+        ],
+        "rationale": "The word 'both' is a quantifier used to refer to two items, Trello and Slack, indicating that each was effective.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I aim to advance into a senior management role, where I can lead larger projects and mentor junior team members.",
+        "annotation_token": [
+            "larger"
+        ],
+        "rationale": "The word 'larger' is a comparative quantifier used to describe projects that are bigger in size or scope.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. At my last job, I managed a team for a major product launch. It involved coordinating between different departments and ensuring we met all deadlines.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier used to refer to the entirety of the deadlines.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We mainly used Trello for task management and Slack for communication. I found them both very effective.",
+        "annotation_token": [
+            "both"
+        ],
+        "rationale": "The word 'both' is a quantifier used to refer to two items, Trello and Slack, indicating that they were both effective.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I aim to advance into a senior management role, where I can lead larger projects and mentor junior team members.",
+        "annotation_token": [
+            "larger"
+        ],
+        "rationale": "The word 'larger' is a comparative quantifier used to describe projects that are bigger in size or scope.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. At my last job, I managed a team for a major product launch. It involved coordinating between different departments and ensuring we met all deadlines.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier used to refer to the entirety of the deadlines.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We mainly used Trello for task management and Slack for communication. I found them both very effective.",
+        "annotation_token": [
+            "both"
+        ],
+        "rationale": "The word 'both' is a quantifier used to refer to two items, Trello and Slack, indicating that each was effective.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I aim to advance into a senior management role, where I can lead larger projects and mentor junior team members.",
+        "annotation_token": [
+            "larger"
+        ],
+        "rationale": "The word 'larger' is a comparative quantifier used to describe projects that are bigger in size or scope.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. At my last job, I managed a team for a major product launch. It involved coordinating between different departments and ensuring we met all deadlines.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "'All' is a quantifier used to indicate every one of the deadlines in the context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I aim to advance into a senior management role, where I can lead larger projects and mentor junior team members.",
+        "annotation_token": [
+            "larger",
+            "junior"
+        ],
+        "rationale": "'Larger' is a comparative adjective indicating quantity or size relative to something else, and 'junior' is used to specify members with less experience or of a lower rank.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. At my last job, I managed a team for a major product launch. It involved coordinating between different departments and ensuring we met all deadlines.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is used as a quantifier to indicate that every deadline was met.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We mainly used Trello for task management and Slack for communication. I found them both very effective.",
+        "annotation_token": [
+            "both"
+        ],
+        "rationale": "The word 'both' is a quantifier used to indicate that two items (Trello and Slack) were effective.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I aim to advance into a senior management role, where I can lead larger projects and mentor junior team members.",
+        "annotation_token": [
+            "larger"
+        ],
+        "rationale": "The word 'larger' is a comparative adjective but serves a quantifying function by indicating size or extent of future projects relative to current ones.",
+        "grammar_correctness": true
+    }
+]

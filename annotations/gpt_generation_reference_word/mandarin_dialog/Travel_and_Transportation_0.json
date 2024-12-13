@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, hi! It was very... um, interesting.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the speaker's previous experience or event being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I go to top. The view... very beautiful. Can see all city!",
+        "annotation_token": "The view",
+        "rationale": "The phrase 'The view' refers to the specific sight or scenery observed from the top of the tower.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I take many photos. But... uh, some too cloudy. Hard to see.",
+        "annotation_token": "some",
+        "rationale": "The word 'some' refers to some of the photos that were taken.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes! I eat... um, xiaolongbao. It’s very... delicious!",
+        "annotation_token": "It’s",
+        "rationale": "The contraction 'It’s' refers to the xiaolongbao that the speaker ate.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, they very kind. Make trip more... um, better.",
+        "annotation_token": "they",
+        "rationale": "The word 'they' refers to the people who were helpful to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, yes! I want to go again. There is still much, um, to see.",
+        "annotation_token": "There",
+        "rationale": "The word 'There' refers to the location or place the speaker visited, which is Shanghai.",
+        "grammar_correctness": true
+    }
+]

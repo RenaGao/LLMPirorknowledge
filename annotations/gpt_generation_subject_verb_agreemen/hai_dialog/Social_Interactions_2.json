@@ -1,0 +1,62 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Family is very okay.",
+        "annotation_token": [
+            "Family",
+            "is"
+        ],
+        "rationale": "The subject 'Family' is singular, and the verb 'is' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "My mom, she has new hobby... um, plant... planting tree.",
+        "annotation_token": [
+            "she",
+            "has"
+        ],
+        "rationale": "The subject 'she' is singular, and the verb 'has' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I still work there.",
+        "annotation_token": [
+            "I",
+            "work"
+        ],
+        "rationale": "The subject 'I' is singular, and the verb 'work' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is... um, quite busy.",
+        "annotation_token": [
+            "It",
+            "is"
+        ],
+        "rationale": "The subject 'It' is singular, and the verb 'is' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Many project now.",
+        "annotation_token": [
+            "Many",
+            "project"
+        ],
+        "rationale": "The subject 'Many project' is incorrect as 'project' should be plural to agree with 'Many'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I think so too.",
+        "annotation_token": [
+            "I",
+            "think"
+        ],
+        "rationale": "The subject 'I' is singular, and the verb 'think' correctly agrees with it.",
+        "grammar_correctness": "correct"
+    }
+]

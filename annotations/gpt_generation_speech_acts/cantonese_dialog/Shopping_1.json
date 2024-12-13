@@ -1,0 +1,228 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, $50... um, how to say... it's a bit high for me. Can you make it lower?",
+        "annotation_token": [
+            "Can",
+            "you",
+            "make",
+            "it",
+            "lower"
+        ],
+        "rationale": "The speaker is making a request for a lower price, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, $45... still a bit much. Um, maybe $40?",
+        "annotation_token": [
+            "maybe",
+            "$40"
+        ],
+        "rationale": "The speaker is making a suggestion or proposal for a new price, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, $42... Let me think... Okay, I like it. I will take for $42.",
+        "annotation_token": [
+            "I",
+            "will",
+            "take",
+            "for",
+            "$42"
+        ],
+        "rationale": "The speaker is making a decision or commitment to purchase at the proposed price, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, not now. But, um, can I ask about your store... open time?",
+        "annotation_token": [
+            "can",
+            "I",
+            "ask",
+            "about",
+            "your",
+            "store",
+            "open",
+            "time"
+        ],
+        "rationale": "The speaker is making a request for information, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "9 to 6... okay, thank you. I will remember.",
+        "annotation_token": [
+            "thank",
+            "you"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much. You are... um, very helpful.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will, thank you. Have a good day!",
+        "annotation_token": [
+            "Have",
+            "a",
+            "good",
+            "day"
+        ],
+        "rationale": "The speaker is giving a farewell or well-wishing, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, $50... um, how to say... it's a bit high for me. Can you make it lower?",
+        "annotation_token": [
+            "how to say",
+            "Can you make it lower"
+        ],
+        "rationale": "The phrase 'how to say' is a speech act indicating hesitation or searching for words, and 'Can you make it lower?' is a request.",
+        "grammar_correctness": "The speech acts are grammatically correct and align with native English speaker's usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, $45... still a bit much. Um, maybe $40?",
+        "annotation_token": [
+            "maybe $40"
+        ],
+        "rationale": "The phrase 'maybe $40?' is a suggestion or proposal.",
+        "grammar_correctness": "The speech act is grammatically correct and aligns with native English speaker's usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, $42... Let me think... Okay, I like it. I will take for $42.",
+        "annotation_token": [
+            "Let me think",
+            "I will take for $42"
+        ],
+        "rationale": "'Let me think' is a speech act indicating a pause for consideration, and 'I will take for $42' is a decision or acceptance.",
+        "grammar_correctness": "The speech acts are grammatically correct and align with native English speaker's usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, uh, no need. It's for me... for myself.",
+        "annotation_token": [
+            "no need"
+        ],
+        "rationale": "'No need' is a speech act indicating refusal or declining an offer.",
+        "grammar_correctness": "The speech act is grammatically correct and aligns with native English speaker's usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, not now. But, um, can I ask about your store... open time?",
+        "annotation_token": [
+            "can I ask about your store... open time"
+        ],
+        "rationale": "The phrase 'can I ask about your store... open time?' is a request for information.",
+        "grammar_correctness": "The speech act is grammatically correct and aligns with native English speaker's usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much. You are... um, very helpful.",
+        "annotation_token": [
+            "Thank you very much",
+            "You are... um, very helpful"
+        ],
+        "rationale": "'Thank you very much' is an expression of gratitude, and 'You are... um, very helpful' is a compliment.",
+        "grammar_correctness": "The speech acts are grammatically correct and align with native English speaker's usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will, thank you. Have a good day!",
+        "annotation_token": [
+            "Have a good day"
+        ],
+        "rationale": "'Have a good day' is a farewell or well-wishing speech act.",
+        "grammar_correctness": "The speech act is grammatically correct and aligns with native English speaker's usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, $50... um, how to say... it's a bit high for me. Can you make it lower?",
+        "annotation_token": [
+            "Can",
+            "you",
+            "make",
+            "it",
+            "lower"
+        ],
+        "rationale": "The sentence contains a request speech act, where the speaker is asking the listener to lower the price.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, $45... still a bit much. Um, maybe $40?",
+        "annotation_token": [
+            "maybe",
+            "$40"
+        ],
+        "rationale": "The sentence contains a suggestion speech act, where the speaker is suggesting a new price.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, $42... Let me think... Okay, I like it. I will take for $42.",
+        "annotation_token": [
+            "I",
+            "will",
+            "take",
+            "for",
+            "$42"
+        ],
+        "rationale": "The sentence contains a decision speech act, where the speaker decides to accept the price.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, not now. But, um, can I ask about your store... open time?",
+        "annotation_token": [
+            "can",
+            "I",
+            "ask",
+            "about",
+            "your",
+            "store",
+            "open",
+            "time"
+        ],
+        "rationale": "The sentence contains a request for information speech act, where the speaker is asking about the store's opening time.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much. You are... um, very helpful.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "very",
+            "much"
+        ],
+        "rationale": "The sentence contains an expression of gratitude speech act, where the speaker is thanking the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will, thank you. Have a good day!",
+        "annotation_token": [
+            "Have",
+            "a",
+            "good",
+            "day"
+        ],
+        "rationale": "The sentence contains a wish speech act, where the speaker is wishing the listener a good day.",
+        "grammar_correctness": "correct"
+    }
+]

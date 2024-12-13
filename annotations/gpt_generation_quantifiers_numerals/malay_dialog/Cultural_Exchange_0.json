@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, yes! We have, um, many festival... but one big is Hari Raya. You know it?",
+        "annotation_token": [
+            "many",
+            "one"
+        ],
+        "rationale": "The word 'many' is a quantifier indicating a large number of festivals, and 'one' is a numeral specifying a single festival.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Children get duit raya, um, like money gift... from elder. They really happy!",
+        "annotation_token": [
+            "money"
+        ],
+        "rationale": "The word 'money' is used as a quantifier in the context of 'money gift', indicating an unspecified amount of money given as a gift.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, yes! We have, um, many festival... but one big is Hari Raya. You know it?",
+        "annotation_token": [
+            "many",
+            "one"
+        ],
+        "rationale": "The sentence contains the quantifier 'many' and the numeral 'one'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Children get duit raya, um, like money gift... from elder. They really happy!",
+        "annotation_token": [
+            "money"
+        ],
+        "rationale": "The word 'money' is used as a quantifier in the context of 'money gift'.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, yes, that's right. I want to, um, find something interesting.",
+        "annotation_token": "find something",
+        "rationale": "The noun 'something' and the verb 'find' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, improving English is important for me!",
+        "annotation_token": "improving English",
+        "rationale": "The noun 'English' and the verb 'improving' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, I see. How long is the book? Because sometimes, long book can be... um, difficult for me.",
+        "annotation_token": "see book",
+        "rationale": "The noun 'book' and the verb 'see' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "That is good. Maybe I try read it little by little.",
+        "annotation_token": "read it",
+        "rationale": "The noun 'it' (referring to the book) and the verb 'read' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, reflect... like think about meaning, right?",
+        "annotation_token": "think about meaning",
+        "rationale": "The noun 'meaning' and the verb 'think' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you, I will do that! Um, where can I get the book? Is it in library?",
+        "annotation_token": "get the book",
+        "rationale": "The noun 'book' and the verb 'get' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Great! I will start look for it this weekend.",
+        "annotation_token": "look for it",
+        "rationale": "The noun 'it' (referring to the book) and the verb 'look' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

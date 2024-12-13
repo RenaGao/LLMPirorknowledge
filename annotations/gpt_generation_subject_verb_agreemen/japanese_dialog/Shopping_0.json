@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I think... small one is good.",
+        "annotation_token": "one is",
+        "rationale": "The subject 'one' is singular and correctly agrees with the singular verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes, this one look good.",
+        "annotation_token": "one look",
+        "rationale": "The subject 'one' is singular and should agree with the singular verb 'looks'. The verb 'look' is incorrectly used in its plural form.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That is helpful.",
+        "annotation_token": "That is",
+        "rationale": "The subject 'That' is singular and correctly agrees with the singular verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, card is fine.",
+        "annotation_token": "card is",
+        "rationale": "The subject 'card' is singular and correctly agrees with the singular verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "You help me a lot.",
+        "annotation_token": "You help",
+        "rationale": "The subject 'You' is plural or singular and correctly agrees with the plural verb 'help'.",
+        "grammar_correctness": "correct"
+    }
+]

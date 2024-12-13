@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I will. Thank you! I go now to... um, check-in?",
+        "annotation_token": "I go",
+        "rationale": "The subject 'I' does not agree with the verb 'go' in the context of the sentence. It should be 'I am going' or 'I will go' to maintain subject-verb agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

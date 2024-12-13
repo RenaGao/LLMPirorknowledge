@@ -1,0 +1,86 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You must try!",
+        "annotation_token": [
+            "must",
+            "try"
+        ],
+        "rationale": "The sentence 'You must try!' is a directive speech act, where the speaker is giving a suggestion or command to the listener to try the dish.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I can show you how to cook sambal.",
+        "annotation_token": [
+            "can",
+            "show"
+        ],
+        "rationale": "The sentence 'I can show you how to cook sambal.' is a commissive speech act, where the speaker is offering to demonstrate the cooking process.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We can go shopping for ingredients first.",
+        "annotation_token": [
+            "can",
+            "go",
+            "shopping"
+        ],
+        "rationale": "The sentence 'We can go shopping for ingredients first.' is a commissive speech act, where the speaker is suggesting a plan or action to be taken together.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I hope you will like it.",
+        "annotation_token": [
+            "Thank",
+            "hope",
+            "like"
+        ],
+        "rationale": "The sentence 'Thank you! I hope you will like it.' contains an expressive speech act ('Thank you') and an assertive speech act ('I hope you will like it'), where the speaker is expressing gratitude and a wish for the listener's enjoyment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You must try!",
+        "annotation_token": [
+            "must",
+            "try"
+        ],
+        "rationale": "The sentence 'You must try!' is a directive speech act, where the speaker is giving a suggestion or recommendation to the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I can show you how to cook sambal.",
+        "annotation_token": [
+            "can",
+            "show"
+        ],
+        "rationale": "The sentence 'I can show you how to cook sambal.' is a commissive speech act, where the speaker is offering to demonstrate something to the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We can go shopping for ingredients first.",
+        "annotation_token": [
+            "can",
+            "go",
+            "shopping"
+        ],
+        "rationale": "The sentence 'We can go shopping for ingredients first.' is a commissive speech act, where the speaker is suggesting a plan or action to be taken together with the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I hope you will like it.",
+        "annotation_token": [
+            "Thank",
+            "hope",
+            "like"
+        ],
+        "rationale": "The sentence 'Thank you! I hope you will like it.' contains an expressive speech act ('Thank you') and an assertive speech act ('I hope you will like it'), where the speaker is expressing gratitude and a wish or expectation.",
+        "grammar_correctness": "correct"
+    }
+]

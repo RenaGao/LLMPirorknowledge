@@ -1,0 +1,194 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, hello! Um, exam is... difficult for me.",
+        "annotation_token": [
+            "Ah",
+            "hello",
+            "Um"
+        ],
+        "rationale": "The tokens 'Ah', 'hello', and 'Um' are used as speech acts to initiate the conversation and express hesitation or uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, um... the writing part.",
+        "annotation_token": [
+            "Okay",
+            "um"
+        ],
+        "rationale": "The tokens 'Okay' and 'um' are used as speech acts to acknowledge the previous statement and express hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. Small paragraph is easier.",
+        "annotation_token": [
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The tokens 'Ah' and 'yes' are used as speech acts to express realization and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Eh, listening is also hard.",
+        "annotation_token": [
+            "Eh"
+        ],
+        "rationale": "The token 'Eh' is used as a speech act to express hesitation or uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, slow down... that is good idea.",
+        "annotation_token": [
+            "Oh"
+        ],
+        "rationale": "The token 'Oh' is used as a speech act to express realization or surprise.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. Break is... very important.",
+        "annotation_token": [
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The tokens 'Ah' and 'yes' are used as speech acts to express realization and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um... I think that is all.",
+        "annotation_token": [
+            "Um"
+        ],
+        "rationale": "The token 'Um' is used as a speech act to express hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I feel better now.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will! Thank you again for your help.",
+        "annotation_token": [
+            "Yes",
+            "Thank you"
+        ],
+        "rationale": "The tokens 'Yes' and 'Thank you' are used as speech acts to express agreement and gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Goodbye!",
+        "annotation_token": [
+            "Goodbye"
+        ],
+        "rationale": "The token 'Goodbye' is used as a speech act to end the conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, hello! Um, exam is... difficult for me.",
+        "annotation_token": [
+            "Ah",
+            "hello",
+            "Um"
+        ],
+        "rationale": "The tokens 'Ah', 'hello', and 'Um' are used as speech acts to initiate the conversation and express hesitation or uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, um... the writing part.",
+        "annotation_token": [
+            "Okay",
+            "um"
+        ],
+        "rationale": "The tokens 'Okay' and 'um' are used as speech acts to acknowledge the previous statement and express hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. Small paragraph is easier.",
+        "annotation_token": [
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The tokens 'Ah' and 'yes' are used as speech acts to express realization and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Eh, listening is also hard.",
+        "annotation_token": [
+            "Eh"
+        ],
+        "rationale": "The token 'Eh' is used as a speech act to express hesitation or uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, slow down... that is good idea.",
+        "annotation_token": [
+            "Oh"
+        ],
+        "rationale": "The token 'Oh' is used as a speech act to express realization or acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. Break is... very important.",
+        "annotation_token": [
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The tokens 'Ah' and 'yes' are used as speech acts to express realization and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um... I think that is all.",
+        "annotation_token": [
+            "Um"
+        ],
+        "rationale": "The token 'Um' is used as a speech act to express hesitation or uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I feel better now.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will! Thank you again for your help.",
+        "annotation_token": [
+            "Yes",
+            "Thank you"
+        ],
+        "rationale": "The tokens 'Yes' and 'Thank you' are used as speech acts to express agreement and gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Goodbye!",
+        "annotation_token": [
+            "Goodbye"
+        ],
+        "rationale": "The token 'Goodbye' is used as a speech act to end the conversation.",
+        "grammar_correctness": "correct"
+    }
+]

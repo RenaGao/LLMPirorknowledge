@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I will do it. I will send message today evening.",
+        "annotation_token": [
+            "will do",
+            "will send"
+        ],
+        "rationale": "The use of 'will' indicates future tense, and it is consistently applied to both actions 'do' and 'send', showing correct tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I think guesthouse maybe better. It feel more, um, personal and also less money.",
+        "annotation_token": [
+            "feel"
+        ],
+        "rationale": "The verb 'feel' should be in the present tense 'feels' to agree with the singular subject 'It'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I am very excited! Thank you for help in planni",
+        "annotation_token": [
+            "am"
+        ],
+        "rationale": "The use of 'am' indicates present tense, which is appropriate for expressing a current state of being 'excited'.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, hello. I have, um, problem with product I buy.",
+        "annotation_token": "I have",
+        "rationale": "The subject 'I' correctly agrees with the verb 'have' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, it is not working.",
+        "annotation_token": "it is",
+        "rationale": "The subject 'it' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think... ah, maybe it is broken when I open.",
+        "annotation_token": "it is",
+        "rationale": "The subject 'it' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I have. Here, please.",
+        "annotation_token": "I have",
+        "rationale": "The subject 'I' correctly agrees with the verb 'have' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I buy it, um, three days ago.",
+        "annotation_token": "I buy",
+        "rationale": "The subject 'I' does not correctly agree with the verb 'buy' in the past tense. It should be 'I bought'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, how to say... I want, uh, same product but new one.",
+        "annotation_token": "I want",
+        "rationale": "The subject 'I' correctly agrees with the verb 'want' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, here it is.",
+        "annotation_token": "it is",
+        "rationale": "The subject 'it' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you very much. I wait here, yes?",
+        "annotation_token": "I wait",
+        "rationale": "The subject 'I' does not correctly agree with the verb 'wait' in the present continuous tense. It should be 'I am waiting'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, okay. Let me see... Ah, yes, this one looks good.",
+        "annotation_token": "this one looks",
+        "rationale": "The subject 'this one' correctly agrees with the verb 'looks' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, I think... no.",
+        "annotation_token": "I think",
+        "rationale": "The subject 'I' correctly agrees with the verb 'think' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you for help.",
+        "annotation_token": "Thank you",
+        "rationale": "The subject 'you' correctly agrees with the verb 'thank' in the imperative form.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I will.",
+        "annotation_token": "I will",
+        "rationale": "The subject 'I' correctly agrees with the auxiliary verb 'will' in the future tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you. Have nice day!",
+        "annotation_token": "Thank you",
+        "rationale": "The subject 'you' correctly agrees with the verb 'thank' in the imperative form.",
+        "grammar_correctness": "correct"
+    }
+]

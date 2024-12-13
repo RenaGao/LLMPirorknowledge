@@ -1,0 +1,104 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I think, yes. But some part is... um, taking more time. Uh, the design section is... a little slow.",
+        "annotation_token": [
+            "some",
+            "a little"
+        ],
+        "rationale": "The words 'some' and 'a little' are quantifiers used to indicate an unspecified amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I believe so. After fix, it should be... um, faster. But I need also more, um, time to test.",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier used to indicate a greater amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, yes! That would be... very helpful. Can we have, um, more people for testing?",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier used to indicate a greater amount or number.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, that is good. With more help, we finish on time, I think.",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier used to indicate a greater amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, next week is... um, good. Maybe Tuesday? I can update then.",
+        "annotation_token": [
+            "next",
+            "Tuesday"
+        ],
+        "rationale": "The word 'next' is a quantifier indicating the following in a sequence, and 'Tuesday' is a numeral indicating a specific day of the week.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I think, yes. But some part is... um, taking more time.",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier used to indicate an unspecified amount or number.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, not yet. I plan to do it today. I think they can help fix... uh, problem quickly.",
+        "annotation_token": [
+            "they"
+        ],
+        "rationale": "The word 'they' is used as a pronoun referring to an unspecified group, which can be considered a quantifier in this context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I believe so. After fix, it should be... um, faster. But I need also more, um, time to test.",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating a greater amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, yes! That would be... very helpful. Can we have, um, more people for testing?",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an additional amount or number.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, that is good. With more help, we finish on time, I think.",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an additional amount or number.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, next week is... um, good. Maybe Tuesday? I can update then.",
+        "annotation_token": [
+            "next",
+            "Tuesday"
+        ],
+        "rationale": "The word 'next' is a quantifier indicating the following in a sequence, and 'Tuesday' is a numeral indicating a specific day of the week.",
+        "grammar_correctness": true
+    }
+]

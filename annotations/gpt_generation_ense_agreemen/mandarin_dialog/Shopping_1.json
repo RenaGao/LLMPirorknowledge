@@ -1,0 +1,39 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "This one look very nice. But, um, how much it cost?",
+        "annotation_token": [
+            "look",
+            "cost"
+        ],
+        "rationale": "The verbs 'look' and 'cost' should be in the present tense form 'looks' and 'costs' to agree with the singular subject 'this one' and the question form 'how much does it cost?' respectively.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "So, I pay now, yes?",
+        "annotation_token": [
+            "pay"
+        ],
+        "rationale": "The verb 'pay' should be in the present continuous form 'am paying' to indicate the action happening at the moment.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I not sure...",
+        "annotation_token": [
+            "not sure"
+        ],
+        "rationale": "The sentence should use the present tense form 'am not sure' to agree with the subject 'I'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you for help me.",
+        "annotation_token": [
+            "help"
+        ],
+        "rationale": "The verb 'help' should be in the gerund form 'helping' to follow the preposition 'for'.",
+        "grammar_correctness": "wrong"
+    }
+]

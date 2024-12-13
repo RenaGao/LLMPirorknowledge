@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, thank you very much. My name is Farah. I come from Malaysia. I am study, um, business... business management at university.",
+        "annotation_token": [
+            "I am study"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'am study'. The correct form should be 'I am studying' or 'I study'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, yes. I organize event at my university. It was, um, career fair for students.",
+        "annotation_token": [
+            "I organize event"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'organize' in terms of number. It should be 'I organize events' or 'I organized an event'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I was the... um, leader for the team. I, uh, make schedule and talk to companies for coming.",
+        "annotation_token": [
+            "I make schedule"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'make'. It should be 'I make schedules' or 'I made a schedule'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I want to learn more and, um, grow in a company. I like challenge and, um, new opportunity.",
+        "annotation_token": [
+            "I like challenge"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'like' in terms of number. It should be 'I like challenges' or 'I liked a challenge'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I have, uh, good team work and, uh, planning skills. I also, um, very dedicated.",
+        "annotation_token": [
+            "I also, um, very dedicated"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'am' which is missing. It should be 'I am also very dedicated'.",
+        "grammar_correctness": "wrong"
+    }
+]

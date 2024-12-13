@@ -1,0 +1,107 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, thank you for having me. My name is Yuki. I am from Osaka, and I study, um, business management.",
+        "annotation_token": [
+            "I am",
+            "I study"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'am' and 'study' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I study it for, uh, three years now. I am... how to say, in my last year of university.",
+        "annotation_token": [
+            "I study",
+            "I am"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'study' and 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, I choose because I like... um, working with people and solve problems in company.",
+        "annotation_token": [
+            "I choose",
+            "I like"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'choose' and 'like' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, um, I did project last year. It was about... how to say, marketing strategy for small business.",
+        "annotation_token": [
+            "I did",
+            "It was"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'did' in the past tense, and the subject 'It' correctly agrees with the verb 'was' in the past tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We focus on... um, social media... and, uh, online advertisement to reach more customer.",
+        "annotation_token": [
+            "We focus"
+        ],
+        "rationale": "The subject 'We' correctly agrees with the verb 'focus' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "The business, they have more... uh, how to say, visibility online.",
+        "annotation_token": [
+            "they have"
+        ],
+        "rationale": "The subject 'they' correctly agrees with the verb 'have' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I try to... um, stay calm and, uh, think step by step to find solution.",
+        "annotation_token": [
+            "I try"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'try' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think my strength is... I am good at, um, communication and teamwork.",
+        "annotation_token": [
+            "I think",
+            "I am"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'think' and 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, in university, I work in group project, and, um, I help to... how to say, organize meeting and talk with team.",
+        "annotation_token": [
+            "I work",
+            "I help"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'work' and 'help' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, yes, I want to improve... um, my, how to say, time management skill.",
+        "annotation_token": [
+            "I want"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'want' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I am trying to, uh, make schedule and, um, follow it more... consistently.",
+        "annotation_token": [
+            "I am trying"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb phrase 'am trying' in the present continuous tense.",
+        "grammar_correctness": "correct"
+    }
+]

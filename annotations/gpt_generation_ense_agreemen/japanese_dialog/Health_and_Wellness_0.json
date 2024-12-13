@@ -1,0 +1,41 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It come... um, how to say... it is not all time.",
+        "annotation_token": [
+            "come",
+            "is"
+        ],
+        "rationale": "The verb 'come' should be in the present tense 'comes' to agree with the present tense 'is' in the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "When I eat, it become more... uh, strong, more painful.",
+        "annotation_token": [
+            "eat",
+            "become"
+        ],
+        "rationale": "The verb 'become' should be in the present tense 'becomes' to agree with the present tense 'eat' in the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "No travel, but I eat new restaurant last week.",
+        "annotation_token": [
+            "eat"
+        ],
+        "rationale": "The verb 'eat' should be in the past tense 'ate' to agree with the past time reference 'last week' in the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I take, um, painkiller, but it not help much.",
+        "annotation_token": [
+            "take",
+            "not help"
+        ],
+        "rationale": "The verb 'take' should be in the past tense 'took' to agree with the past context of the sentence, and 'not help' should be 'did not help' to maintain past tense agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

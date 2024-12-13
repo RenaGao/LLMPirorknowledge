@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I like it. It is, um, satisfying when finish project.",
+        "annotation_token": "finish project",
+        "rationale": "The noun 'project' and the verb 'finish' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I like to go, um, park. And sometimes, mall for, um, shopping.",
+        "annotation_token": "go park",
+        "rationale": "The noun 'park' and the verb 'go' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    }
+]

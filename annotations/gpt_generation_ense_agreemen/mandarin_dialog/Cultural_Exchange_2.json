@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, yes. I remember, um, when I was little, I like dragon dance.",
+        "annotation_token": [
+            "was",
+            "like"
+        ],
+        "rationale": "The sentence contains a tense agreement issue. 'Was' is in the past tense, while 'like' is in the present tense. For tense agreement, 'like' should be in the past tense ('liked') to match 'was'.",
+        "grammar_correctness": "wrong"
+    }
+]

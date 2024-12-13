@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I like one called \"Detective Conan.\" It is, um, a Japanese anime.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer back to 'Detective Conan,' which is a Japanese anime.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I enjoy... um, how Conan solve, uh, mystery. It is very smart and, um, surprising.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers back to the act of solving mysteries by Conan.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes. I like \"Friends.\" It is funny and, uh, good for learn English.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers back to the TV show 'Friends.'",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, I like Chandler. He is... how to say... very funny and make joke.",
+        "annotation_token": "He",
+        "rationale": "The word 'He' refers back to 'Chandler,' a character from 'Friends.'",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I think... um, it help. I learn many new words and, uh, phrases.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers back to the act of watching shows with subtitles.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I want to watch \"Breaking Bad.\" I hear it is very... um, exciting and good story.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers back to the TV show 'Breaking Bad.'",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I will tell you. Thank you for... uh, recommending. I look forward to it.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers back to the act of watching 'Breaking Bad.'",
+        "grammar_correctness": true
+    }
+]

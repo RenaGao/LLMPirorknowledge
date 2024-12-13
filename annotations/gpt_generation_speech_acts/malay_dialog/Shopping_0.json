@@ -1,0 +1,123 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hello. I, uh, need help to find something.",
+        "annotation_token": [
+            "hello",
+            "need help"
+        ],
+        "rationale": "The speaker is initiating a conversation and requesting assistance, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, iron! Thank you.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. Uh, I not know where is that section.",
+        "annotation_token": [
+            "Yes, please"
+        ],
+        "rationale": "The speaker is accepting an offer, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, please. I not use before, so I want to learn.",
+        "annotation_token": [
+            "yes, please"
+        ],
+        "rationale": "The speaker is agreeing to a suggestion, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I see. It is easy, I think. Thank you for show me.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, that is all. Thank you very much for your help.",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! You too, have a good day.",
+        "annotation_token": [
+            "Thank you",
+            "have a good day"
+        ],
+        "rationale": "The speaker is expressing gratitude and offering a farewell wish, both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hello. I, uh, need help to find something.",
+        "annotation_token": [
+            "hello",
+            "need help"
+        ],
+        "rationale": "The tokens 'hello' and 'need help' are used as speech acts to greet and request assistance.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, iron! Thank you.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is a speech act used to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. Uh, I not know where is that section.",
+        "annotation_token": [
+            "Yes, please"
+        ],
+        "rationale": "The token 'Yes, please' is a speech act used to accept an offer or request assistance.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I see. It is easy, I think. Thank you for show me.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is a speech act used to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, that is all. Thank you very much for your help.",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The token 'Thank you very much' is a speech act used to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! You too, have a good d",
+        "annotation_token": [
+            "Thank you",
+            "have a good d"
+        ],
+        "rationale": "The token 'Thank you' is a speech act used to express gratitude, and 'have a good d' is an incomplete speech act intended to wish someone well.",
+        "grammar_correctness": "correct"
+    }
+]

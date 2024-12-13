@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, your place. Yes, that is good idea.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The sentence 'Yes, that is good idea.' lacks the article 'a' before 'good idea', but the tense agreement is correct with 'is' matching the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, there is one near my house.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The sentence 'Yes, there is one near my house.' correctly uses the present tense 'is' to describe the current location of 'one'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Friday evening is good.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The sentence 'Friday evening is good.' correctly uses the present tense 'is' to describe the suitability of 'Friday evening'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I am excited!",
+        "annotation_token": [
+            "am"
+        ],
+        "rationale": "The sentence 'Yes, I am excited!' correctly uses the present tense 'am' to express the speaker's current state of excitement.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes. I charge it full last night. Battery is good.",
+        "annotation_token": [
+            "full"
+        ],
+        "rationale": "The word 'full' is used as a quantifier to indicate the battery was completely charged.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "No, thank you. You help a lot. I... um, appreciate it.",
+        "annotation_token": [
+            "a lot"
+        ],
+        "rationale": "The phrase 'a lot' is used as a quantifier to indicate a large amount of help.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes. I charge it full last night. Battery is good.",
+        "annotation_token": [
+            "full"
+        ],
+        "rationale": "The word 'full' is used as a quantifier to indicate the battery was completely charged.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "No, thank you. You help a lot. I... um, appreciate it.",
+        "annotation_token": [
+            "a lot"
+        ],
+        "rationale": "The phrase 'a lot' is used as a quantifier to indicate a large amount of help.",
+        "grammar_correctness": true
+    }
+]

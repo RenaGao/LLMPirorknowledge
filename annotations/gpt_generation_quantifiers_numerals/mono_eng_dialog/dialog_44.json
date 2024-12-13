@@ -1,0 +1,211 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sure, thanks for having me. I recently graduated with a degree in computer science, and I'm eager to dive into a tech role where I can grow and contribute to exciting projects. I saw your company is leading in AI solutions, which really caught my interest.",
+        "annotation_token": [
+            "a",
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier used to indicate a single instance of 'degree' and 'tech role'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Definitely. During my last semester, I worked on a project involving natural language processing. We developed a chatbot that could assist with customer inquiries. It was challenging but rewarding to see it come to life.",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier used to indicate a single instance of 'project'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I believe communication is crucial. I like to keep the dialogue open and ensure everyone is on the same page. I also make it a point to listen to others' ideas and provide constructive feedback.",
+        "annotation_token": [
+            "the",
+            "a"
+        ],
+        "rationale": "The word 'the' is a definite article used as a quantifier to specify 'dialogue', and 'a' is an indefinite article used to specify 'point'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I was curious about the team's current projects and how you see this position contributing to those.",
+        "annotation_token": [
+            "the"
+        ],
+        "rationale": "The word 'the' is a definite article used as a quantifier to specify 'team's current projects'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "That sounds exactly like the kind of challenge I’m looking for. I appreciate the opportunity to interview today and learn more about the company.",
+        "annotation_token": [
+            "the"
+        ],
+        "rationale": "The word 'the' is a definite article used as a quantifier to specify 'kind of challenge' and 'opportunity'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sure, thanks for having me. I recently graduated with a degree in computer science, and I'm eager to dive into a tech role where I can grow and contribute to exciting projects. I saw your company is leading in AI solutions, which really caught my interest.",
+        "annotation_token": [
+            "a",
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier used to indicate a single instance of 'degree' and 'tech role'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Definitely. During my last semester, I worked on a project involving natural language processing. We developed a chatbot that could assist with customer inquiries. It was challenging but rewarding to see it come to life.",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier used to indicate a single instance of 'project'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I believe communication is crucial. I like to keep the dialogue open and ensure everyone is on the same page. I also make it a point to listen to others' ideas and provide constructive feedback.",
+        "annotation_token": [
+            "the",
+            "a"
+        ],
+        "rationale": "The word 'the' is a definite article used as a quantifier to specify 'dialogue', and 'a' is an indefinite article used to indicate a single instance of 'point'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I was curious about the team's current projects and how you see this position contributing to those.",
+        "annotation_token": [
+            "the"
+        ],
+        "rationale": "The word 'the' is a definite article used as a quantifier to specify 'team's current projects'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sure, thanks for having me. I recently graduated with a degree in computer science, and I'm eager to dive into a tech role where I can grow and contribute to exciting projects. I saw your company is leading in AI solutions, which really caught my interest.",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier used to indicate a single, unspecified item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Definitely. During my last semester, I worked on a project involving natural language processing. We developed a chatbot that could assist with customer inquiries. It was challenging but rewarding to see it come to life.",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier used to indicate a single, unspecified item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We had to ensure the bot understood context, which was tricky. I focused on refining the training data and tweaking the algorithms to improve its accuracy. Constant testing and feedback were key.",
+        "annotation_token": [
+            "the"
+        ],
+        "rationale": "The word 'the' is a definite article used as a quantifier to specify a particular item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I believe communication is crucial. I like to keep the dialogue open and ensure everyone is on the same page. I also make it a point to listen to others' ideas and provide constructive feedback.",
+        "annotation_token": [
+            "the",
+            "a"
+        ],
+        "rationale": "The word 'the' is a definite article used as a quantifier to specify a particular item, and 'a' is an indefinite article used to indicate a single, unspecified item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I was curious about the team's current projects and how you see this position contributing to those.",
+        "annotation_token": [
+            "the"
+        ],
+        "rationale": "The word 'the' is a definite article used as a quantifier to specify a particular item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "That sounds exactly like the kind of challenge I’m looking for. I appreciate the opportunity to interview today and learn more about the company.",
+        "annotation_token": [
+            "the"
+        ],
+        "rationale": "The word 'the' is a definite article used as a quantifier to specify a particular item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you! I look forward to hearing from you.",
+        "annotation_token": [],
+        "rationale": "There are no quantifiers or numerals in this sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sure, thanks for having me. I recently graduated with a degree in computer science, and I'm eager to dive into a tech role where I can grow and contribute to exciting projects. I saw your company is leading in AI solutions, which really caught my interest.",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The word 'a' is used as an indefinite article serving as a quantifier for the noun 'degree'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Definitely. During my last semester, I worked on a project involving natural language processing. We developed a chatbot that could assist with customer inquiries. It was challenging but rewarding to see it come to life.",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The word 'a' is used as an indefinite article serving as a quantifier for the noun 'project'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We had to ensure the bot understood context, which was tricky. I focused on refining the training data and tweaking the algorithms to improve its accuracy. Constant testing and feedback were key.",
+        "annotation_token": [
+            "the"
+        ],
+        "rationale": "The word 'the' is a definite article that quantifies the noun 'bot' and 'algorithms', indicating specific ones.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I believe communication is crucial. I like to keep the dialogue open and ensure everyone is on the same page. I also make it a point to listen to others' ideas and provide constructive feedback.",
+        "annotation_token": [
+            "the",
+            "a"
+        ],
+        "rationale": "The word 'the' is a definite article quantifying 'same page', and 'a' is an indefinite article quantifying 'point'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I was curious about the team's current projects and how you see this position contributing to those.",
+        "annotation_token": [
+            "the"
+        ],
+        "rationale": "The word 'the' is a definite article that quantifies 'team', indicating a specific team known to both speaker and listener.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "That sounds exactly like the kind of challenge I’m looking for. I appreciate the opportunity to interview today and learn more about the company.",
+        "annotation_token": [
+            "the"
+        ],
+        "rationale": "The word 'the' is a definite article that quantifies 'kind' and 'company', indicating a specific kind and company.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you! I look forward to hearing from you.",
+        "annotation_token": [],
+        "rationale": "There are no quantifiers or numerals in this sentence.",
+        "grammar_correctness": true
+    }
+]

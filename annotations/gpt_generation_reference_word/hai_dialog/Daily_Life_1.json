@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, that’s right. I want to go with my family. Um, how to say... together at the park.",
+        "annotation_token": "that’s",
+        "rationale": "The word 'that’s' is a contraction of 'that is', which refers to the previous statement or idea.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We think about Lumphini Park. It is, uh, big and have many space for children to play.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to 'Lumphini Park', which was mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We think about, um, 9:30 in morning. It is, uh, not too hot.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the time '9:30 in the morning', which was mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you very much! I hope it is a, um, good day with family.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers to the day they are planning to spend with family.",
+        "grammar_correctness": true
+    }
+]

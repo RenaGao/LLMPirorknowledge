@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Ah, maybe... at cafe? Minji like coffee very much.",
+        "annotation_token": "Minji like",
+        "rationale": "The subject 'Minji' is singular, so the verb should be 'likes' to agree in number.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I think small is better. Minji like small group, yes?",
+        "annotation_token": "Minji like",
+        "rationale": "The subject 'Minji' is singular, so the verb should be 'likes' to agree in number.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Minji talk about new book she want. We can buy that?",
+        "annotation_token": "Minji talk",
+        "rationale": "The subject 'Minji' is singular, so the verb should be 'talks' to agree in number.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, maybe music? Minji like soft music, I think.",
+        "annotation_token": "Minji like",
+        "rationale": "The subject 'Minji' is singular, so the verb should be 'likes' to agree in number.",
+        "grammar_correctness": "wrong"
+    }
+]

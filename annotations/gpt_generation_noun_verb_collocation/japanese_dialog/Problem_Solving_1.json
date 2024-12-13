@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, it is not printing.",
+        "annotation_token": "it is printing",
+        "rationale": "The sentence contains a noun 'it' and a verb 'is printing' which together form a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, um, I look now... Ah, it is not default. I make it default.",
+        "annotation_token": "I make it",
+        "rationale": "The sentence contains a noun 'I' and a verb 'make' which together form a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, okay, I try... (pause) Yes! It print! Thank you!",
+        "annotation_token": "It print",
+        "rationale": "The sentence contains a noun 'It' and a verb 'print' which together form a meaningful action.",
+        "grammar_correctness": false
+    }
+]

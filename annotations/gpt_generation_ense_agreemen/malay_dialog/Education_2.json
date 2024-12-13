@@ -1,0 +1,77 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, yes, I have time. Um, the homework is bit confusing for me.",
+        "annotation_token": [
+            "have",
+            "is"
+        ],
+        "rationale": "The verbs 'have' and 'is' are in present tense, which is consistent with the context of the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "The question number three. It ask about, um, how to say... comparing two things?",
+        "annotation_token": [
+            "ask"
+        ],
+        "rationale": "The verb 'ask' should be in present tense to agree with the subject 'It', but it is missing the third person singular 's'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I not sure what to write.",
+        "annotation_token": [
+            "not sure"
+        ],
+        "rationale": "The sentence is missing the auxiliary verb 'am' for the present tense, which should be 'I am not sure'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, okay, I understand. So, I write about effect on people?",
+        "annotation_token": [
+            "understand",
+            "write"
+        ],
+        "rationale": "The verbs 'understand' and 'write' are in present tense, which is consistent with the context of the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you, this help a lot.",
+        "annotation_token": [
+            "help"
+        ],
+        "rationale": "The verb 'help' should be in present tense to agree with the subject 'this', but it is missing the third person singular 's'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Two pages... um, I think I can do.",
+        "annotation_token": [
+            "think",
+            "can do"
+        ],
+        "rationale": "The verbs 'think' and 'can do' are in present tense, which is consistent with the context of the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "But what if I no finish?",
+        "annotation_token": [
+            "no finish"
+        ],
+        "rationale": "The sentence is missing the auxiliary verb 'do' for the present tense, which should be 'I do not finish'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you so much! I feel better now about this homework.",
+        "annotation_token": [
+            "feel"
+        ],
+        "rationale": "The verb 'feel' is in present tense, which is consistent with the context of the sentence.",
+        "grammar_correctness": "correct"
+    }
+]

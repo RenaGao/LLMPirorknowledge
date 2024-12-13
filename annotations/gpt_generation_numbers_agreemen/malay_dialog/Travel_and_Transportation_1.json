@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Oh, banyak terima kasih! Five minute walk only?",
+        "annotation_token": "minute",
+        "rationale": "The noun 'minute' should be in plural form 'minutes' to agree with the number 'Five'.",
+        "grammar_correctness": "wrong"
+    }
+]

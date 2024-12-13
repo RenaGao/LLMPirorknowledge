@@ -1,0 +1,11 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I will. Thank you! I go now to... um, check-in?",
+        "annotation_token": [
+            "I go now"
+        ],
+        "rationale": "The sentence 'I go now' lacks tense agreement. The speaker should use the future tense 'I will go now' to match the context of future action.",
+        "grammar_correctness": "wrong"
+    }
+]

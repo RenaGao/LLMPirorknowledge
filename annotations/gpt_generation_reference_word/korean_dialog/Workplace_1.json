@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, I chose because, um, I want to learn how to, like, manage company and people. I think it is very important skill.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers to the skill of managing a company and people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I, um, I was leader. I organize meeting and, uh, make sure everyone do their part. Also, I present it in class.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers to the business plan or project that was presented in class.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We have problem with finance part. It was hard, but we ask professor for help and, um, research more. Finally, we find good solution.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the finance part of the project.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I like your company because, um, it is global. I want to work with different culture and, uh, learn more about international business.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers to the company being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I think it is important to, um, listen careful and respect other ideas. I always try to understand, uh, different view.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers to the importance of listening carefully and respecting other ideas.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, in university, we make, um, marketing plan for real company. Our plan was, uh, chosen by company, and they use it. It was great success.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers to the marketing plan that was used by the company.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, in university, we make, um, marketing plan for real company. Our plan was, uh, chosen by company, and they use it. It was great success.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the success of the marketing plan.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes. What is, um, company culture like? I mean, how do people work together here?",
+        "annotation_token": "What",
+        "rationale": "The word 'What' refers to the inquiry about the company culture.",
+        "grammar_correctness": true
+    }
+]

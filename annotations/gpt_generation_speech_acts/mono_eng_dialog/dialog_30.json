@@ -1,0 +1,96 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good morning! Sure, I recently graduated with a degree in computer science and have been working on developing my skills in software development.",
+        "annotation_token": [
+            "Good morning!",
+            "Sure,"
+        ],
+        "rationale": "The tokens 'Good morning!' and 'Sure,' are speech acts as they perform the function of greeting and expressing agreement, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely. I developed a mobile app for a local charity that helps organize volunteer events.",
+        "annotation_token": [
+            "Absolutely."
+        ],
+        "rationale": "The token 'Absolutely.' is a speech act as it expresses strong agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’d love to know more about the team dynamics and how new ideas are typically integrated into ongoing projects.",
+        "annotation_token": [
+            "Yes,"
+        ],
+        "rationale": "The token 'Yes,' is a speech act as it expresses agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds fantastic. I really appreciate the opportunity to discuss this role with you today.",
+        "annotation_token": [
+            "That sounds fantastic."
+        ],
+        "rationale": "The token 'That sounds fantastic.' is a speech act as it expresses a positive evaluation or reaction.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! Looking forward to it. Have a great day as well!",
+        "annotation_token": [
+            "Thank you!",
+            "Have a great day as well!"
+        ],
+        "rationale": "The tokens 'Thank you!' and 'Have a great day as well!' are speech acts as they perform the functions of expressing gratitude and offering a farewell wish, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good morning! Sure, I recently graduated with a degree in computer science and have been working on developing my skills in software development.",
+        "annotation_token": [
+            "Good morning!",
+            "Sure,"
+        ],
+        "rationale": "The tokens 'Good morning!' and 'Sure,' are speech acts as they perform the function of greeting and expressing agreement, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely. I developed a mobile app for a local charity that helps organize volunteer events.",
+        "annotation_token": [
+            "Absolutely."
+        ],
+        "rationale": "The token 'Absolutely.' is a speech act as it expresses strong agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’d love to know more about the team dynamics and how new ideas are typically integrated into ongoing projects.",
+        "annotation_token": [
+            "Yes,"
+        ],
+        "rationale": "The token 'Yes,' is a speech act as it expresses agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds fantastic. I really appreciate the opportunity to discuss this role with you today.",
+        "annotation_token": [
+            "That sounds fantastic."
+        ],
+        "rationale": "The token 'That sounds fantastic.' is a speech act as it expresses a positive evaluation or reaction.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! Looking forward to it. Have a great day as well!",
+        "annotation_token": [
+            "Thank you!",
+            "Have a great day as well!"
+        ],
+        "rationale": "The tokens 'Thank you!' and 'Have a great day as well!' are speech acts as they perform the functions of expressing gratitude and giving a farewell wish, respectively.",
+        "grammar_correctness": "correct"
+    }
+]

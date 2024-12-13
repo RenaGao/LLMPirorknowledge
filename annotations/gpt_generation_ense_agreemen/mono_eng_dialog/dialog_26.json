@@ -1,0 +1,48 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I have most of them ready, but I'm unsure about the recommendation letters.",
+        "annotation_token": [
+            "have",
+            "am"
+        ],
+        "rationale": "The sentence uses present tense verbs 'have' and 'am' to describe the current state of readiness and uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I wanted to ask a few questions about the university admission process.",
+        "annotation_token": [
+            "wanted"
+        ],
+        "rationale": "The sentence uses past tense 'wanted' to indicate a past desire to ask questions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I’ll make sure to get those.",
+        "annotation_token": [
+            "will make"
+        ],
+        "rationale": "The sentence uses future tense 'will make' to indicate a future action of ensuring to get the recommendation letters.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "This has been really helpful.",
+        "annotation_token": [
+            "has been"
+        ],
+        "rationale": "The sentence uses present perfect tense 'has been' to describe an action that started in the past and continues to the present.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I feel more prepared now.",
+        "annotation_token": [
+            "feel"
+        ],
+        "rationale": "The sentence uses present tense 'feel' to describe the current state of feeling prepared.",
+        "grammar_correctness": "correct"
+    }
+]

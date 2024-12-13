@@ -1,0 +1,237 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, um, yes, I am thinking to have picnic with family.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We not decide yet. Maybe... um, how to say... the big park? With the lake?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, yes, city park. It is good for picnic, right?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, we bring food, like sandwiches, fruit, and maybe some, um, rice thing?",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier indicating an unspecified amount of food.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, rice balls, that's it! My children like them very much.",
+        "annotation_token": [
+            "very much"
+        ],
+        "rationale": "The phrase 'very much' is a quantifier indicating the degree to which the children like the rice balls.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, we bring... um, ball? For play games. And maybe kite if wind is strong.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, I think... um, need to bring mat to sit. And also, how to say... sun protection?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, sunscreen and hat! So we don't get, um, too hot and burn.",
+        "annotation_token": [
+            "too"
+        ],
+        "rationale": "The word 'too' is a quantifier indicating an excessive degree of heat.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, my family very excited. We not have picnic for long time.",
+        "annotation_token": [
+            "long"
+        ],
+        "rationale": "The word 'long' is a quantifier indicating an extended period of time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, thank you for help. I will tell you aft",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, um, yes, I am thinking to have picnic with family.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We not decide yet. Maybe... um, how to say... the big park? With the lake?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, yes, city park. It is good for picnic, right?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, we bring food, like sandwiches, fruit, and maybe some, um, rice thing?",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier indicating an unspecified amount of food.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, rice balls, that's it! My children like them very much.",
+        "annotation_token": [
+            "very much"
+        ],
+        "rationale": "The phrase 'very much' is a quantifier indicating the degree of liking.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, we bring... um, ball? For play games. And maybe kite if wind is strong.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, I think... um, need to bring mat to sit. And also, how to say... sun protection?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, sunscreen and hat! So we don't get, um, too hot and burn.",
+        "annotation_token": [
+            "too"
+        ],
+        "rationale": "The word 'too' is a quantifier indicating an excessive degree of heat.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, my family very excited. We not have picnic for long time.",
+        "annotation_token": [
+            "very",
+            "long"
+        ],
+        "rationale": "The word 'very' is a quantifier indicating the degree of excitement, and 'long' is a quantifier indicating the duration of time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, thank you for help. I will tell you aft",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, um, yes, I am thinking to have picnic with family.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We not decide yet. Maybe... um, how to say... the big park? With the lake?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, yes, city park. It is good for picnic, right?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, we bring food, like sandwiches, fruit, and maybe some, um, rice thing?",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier indicating an unspecified amount of food.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, rice balls, that's it! My children like them very much.",
+        "annotation_token": [
+            "very much"
+        ],
+        "rationale": "The phrase 'very much' is a quantifier indicating the degree to which the children like the rice balls.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, we bring... um, ball? For play games. And maybe kite if wind is strong.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, I think... um, need to bring mat to sit. And also, how to say... sun protection?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, sunscreen and hat! So we don't get, um, too hot and burn.",
+        "annotation_token": [
+            "too"
+        ],
+        "rationale": "The word 'too' is a quantifier indicating an excessive degree of heat.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, my family very excited. We not have picnic for long time.",
+        "annotation_token": [
+            "long"
+        ],
+        "rationale": "The word 'long' is a quantifier indicating an extended period of time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, thank you for help. I will tell you aft",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    }
+]

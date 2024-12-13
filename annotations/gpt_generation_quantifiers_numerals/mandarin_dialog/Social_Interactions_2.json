@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "My favorite... um, is dumplings. Many flavors. You like dumplings?",
+        "annotation_token": [
+            "Many"
+        ],
+        "rationale": "The word 'Many' is a quantifier used to indicate a large number of flavors.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, of course! We make together. I bring all things we need.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier used to indicate the entirety of things needed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe next month?",
+        "annotation_token": [
+            "next"
+        ],
+        "rationale": "The word 'next' is a numeral indicating the following month in sequence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "My favorite... um, is dumplings. Many flavors. You like dumplings?",
+        "annotation_token": [
+            "Many"
+        ],
+        "rationale": "The word 'Many' is a quantifier used to indicate a large number of flavors.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, of course! We make together. I bring all things we need.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier used to indicate the entirety of the things needed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe next month?",
+        "annotation_token": [
+            "next"
+        ],
+        "rationale": "The word 'next' is a numeral indicating the following month in sequence.",
+        "grammar_correctness": true
+    }
+]

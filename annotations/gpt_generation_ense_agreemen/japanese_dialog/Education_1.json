@@ -1,0 +1,41 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It is about, uh, economics. The supply and... um, demand? I not understand well.",
+        "annotation_token": [
+            "is",
+            "not understand"
+        ],
+        "rationale": "The sentence contains a tense agreement error. The verb 'is' is in the present tense, but 'not understand' should be 'do not understand' to agree with the present tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, okay. It makes sense now. But, um, what about equilibrium? I hear this word many time.",
+        "annotation_token": [
+            "makes",
+            "hear"
+        ],
+        "rationale": "The sentence contains a tense agreement error. 'Makes' is in the present tense, but 'hear' should be 'have heard' to agree with the present perfect tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "So, price not go up or down when equilibrium?",
+        "annotation_token": [
+            "not go"
+        ],
+        "rationale": "The sentence contains a tense agreement error. 'Not go' should be 'does not go' to agree with the present tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, like when new phone come out and everyone want it?",
+        "annotation_token": [
+            "come",
+            "want"
+        ],
+        "rationale": "The sentence contains a tense agreement error. 'Come' and 'want' should be 'comes' and 'wants' to agree with the present tense.",
+        "grammar_correctness": "wrong"
+    }
+]

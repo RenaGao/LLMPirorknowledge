@@ -1,0 +1,250 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello! I’m here for my interview regarding the master's program in Environmental Science.",
+        "annotation_token": [
+            "Hello!",
+            "I’m here for my interview regarding the master's program in Environmental Science."
+        ],
+        "rationale": "The sentence contains a greeting ('Hello!') and a statement of purpose ('I’m here for my interview regarding the master's program in Environmental Science.') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I believe it’s scheduled for 10 a.m.?",
+        "annotation_token": [
+            "I believe",
+            "it’s scheduled for 10 a.m.?"
+        ],
+        "rationale": "The sentence contains an expression of belief ('I believe') and a question ('it’s scheduled for 10 a.m.?') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Certainly! I completed my undergraduate degree in Biology and have a keen interest in sustainability and conservation.",
+        "annotation_token": [
+            "Certainly!",
+            "I completed my undergraduate degree in Biology and have a keen interest in sustainability and conservation."
+        ],
+        "rationale": "The sentence contains an affirmation ('Certainly!') and a statement of fact ('I completed my undergraduate degree in Biology and have a keen interest in sustainability and conservation.') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I’m drawn to your program because of its strong focus on practical fieldwork and research opportunities.",
+        "annotation_token": [
+            "I’m drawn to your program because of its strong focus on practical fieldwork and research opportunities."
+        ],
+        "rationale": "The sentence contains a statement of preference ('I’m drawn to your program because of its strong focus on practical fieldwork and research opportunities.') which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I interned with a local conservation group last summer, where I contributed to habitat restoration projects.",
+        "annotation_token": [
+            "Yes,",
+            "I interned with a local conservation group last summer,",
+            "where I contributed to habitat restoration projects."
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes,') and a statement of past experience ('I interned with a local conservation group last summer, where I contributed to habitat restoration projects.') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It was a rewarding experience.",
+        "annotation_token": [
+            "It was a rewarding experience."
+        ],
+        "rationale": "The sentence contains a statement of evaluation ('It was a rewarding experience.') which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It taught me the importance of community engagement in environmental projects, and I hope to incorporate that perspective into my studies and future research here.",
+        "annotation_token": [
+            "It taught me the importance of community engagement in environmental projects,",
+            "and I hope to incorporate that perspective into my studies and future research here."
+        ],
+        "rationale": "The sentence contains a statement of learning ('It taught me the importance of community engagement in environmental projects,') and a statement of intention ('and I hope to incorporate that perspective into my studies and future research here.') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I’m curious about the mentoring opportunities.",
+        "annotation_token": [
+            "I’m curious about the mentoring opportunities."
+        ],
+        "rationale": "The sentence contains a statement of curiosity ('I’m curious about the mentoring opportunities.') which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "How accessible are faculty members for guidance and support?",
+        "annotation_token": [
+            "How accessible are faculty members for guidance and support?"
+        ],
+        "rationale": "The sentence contains a question ('How accessible are faculty members for guidance and support?') which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That would be wonderful, if possible!",
+        "annotation_token": [
+            "That would be wonderful,",
+            "if possible!"
+        ],
+        "rationale": "The sentence contains a statement of approval ('That would be wonderful,') and a conditional statement ('if possible!') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I’d love to connect with someone from the environmental policy faculty.",
+        "annotation_token": [
+            "I’d love to connect with someone from the environmental policy faculty."
+        ],
+        "rationale": "The sentence contains a statement of desire ('I’d love to connect with someone from the environmental policy faculty.') which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much for your help.",
+        "annotation_token": [
+            "Thank you so much for your help."
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you so much for your help.') which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I’m feeling even more excited about the possibilities here!",
+        "annotation_token": [
+            "I’m feeling even more excited about the possibilities here!"
+        ],
+        "rationale": "The sentence contains a statement of emotion ('I’m feeling even more excited about the possibilities here!') which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello! I’m here for my interview regarding the master's program in Environmental Science.",
+        "annotation_token": [
+            "Hello!",
+            "I’m here for my interview regarding the master's program in Environmental Science."
+        ],
+        "rationale": "The sentence contains a greeting ('Hello!') and a statement of purpose ('I’m here for my interview regarding the master's program in Environmental Science.') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I believe it’s scheduled for 10 a.m.?",
+        "annotation_token": [
+            "I believe",
+            "it’s scheduled for 10 a.m.?"
+        ],
+        "rationale": "The sentence contains an expression of belief ('I believe') and a question ('it’s scheduled for 10 a.m.?') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Certainly! I completed my undergraduate degree in Biology and have a keen interest in sustainability and conservation.",
+        "annotation_token": [
+            "Certainly!",
+            "I completed my undergraduate degree in Biology and have a keen interest in sustainability and conservation."
+        ],
+        "rationale": "The sentence contains an affirmation ('Certainly!') and a statement of past achievement and interest ('I completed my undergraduate degree in Biology and have a keen interest in sustainability and conservation.') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I’m drawn to your program because of its strong focus on practical fieldwork and research opportunities.",
+        "annotation_token": [
+            "I’m drawn to your program because of its strong focus on practical fieldwork and research opportunities."
+        ],
+        "rationale": "The sentence contains an expression of interest ('I’m drawn to your program because of its strong focus on practical fieldwork and research opportunities.') which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I interned with a local conservation group last summer, where I contributed to habitat restoration projects.",
+        "annotation_token": [
+            "Yes,",
+            "I interned with a local conservation group last summer,",
+            "where I contributed to habitat restoration projects."
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes,') and a statement of past experience ('I interned with a local conservation group last summer, where I contributed to habitat restoration projects.') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It was a rewarding experience.",
+        "annotation_token": [
+            "It was a rewarding experience."
+        ],
+        "rationale": "The sentence contains an evaluation ('It was a rewarding experience.') which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It taught me the importance of community engagement in environmental projects, and I hope to incorporate that perspective into my studies and future research here.",
+        "annotation_token": [
+            "It taught me the importance of community engagement in environmental projects,",
+            "and I hope to incorporate that perspective into my studies and future research here."
+        ],
+        "rationale": "The sentence contains a statement of learning ('It taught me the importance of community engagement in environmental projects,') and an expression of future intention ('and I hope to incorporate that perspective into my studies and future research here.') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I’m curious about the mentoring opportunities.",
+        "annotation_token": [
+            "I’m curious about the mentoring opportunities."
+        ],
+        "rationale": "The sentence contains an expression of curiosity ('I’m curious about the mentoring opportunities.') which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "How accessible are faculty members for guidance and support?",
+        "annotation_token": [
+            "How accessible are faculty members for guidance and support?"
+        ],
+        "rationale": "The sentence contains a question ('How accessible are faculty members for guidance and support?') which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That would be wonderful, if possible!",
+        "annotation_token": [
+            "That would be wonderful,",
+            "if possible!"
+        ],
+        "rationale": "The sentence contains an expression of approval ('That would be wonderful,') and a conditional statement ('if possible!') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I’d love to connect with someone from the environmental policy faculty.",
+        "annotation_token": [
+            "I’d love to connect with someone from the environmental policy faculty."
+        ],
+        "rationale": "The sentence contains an expression of desire ('I’d love to connect with someone from the environmental policy faculty.') which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much for your help.",
+        "annotation_token": [
+            "Thank you so much for your help."
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you so much for your help.') which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I’m feeling even more excited about the possibilities here!",
+        "annotation_token": [
+            "I’m feeling even more excited about the possibilities here!"
+        ],
+        "rationale": "The sentence contains an expression of emotion ('I’m feeling even more excited about the possibilities here!') which is a speech act.",
+        "grammar_correctness": "correct"
+    }
+]

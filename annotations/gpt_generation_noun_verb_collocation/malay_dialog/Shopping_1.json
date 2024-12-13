@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I like speaking English.",
+        "annotation_token": "speaking English",
+        "rationale": "The noun 'English' and the verb 'speaking' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I see one very nice.",
+        "annotation_token": "see one",
+        "rationale": "The noun 'one' and the verb 'see' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "He say okay, can give... bigger discount, but only if I buy three items.",
+        "annotation_token": "buy three items",
+        "rationale": "The noun 'items' and the verb 'buy' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, um, yes, I am thinking to have picnic with family.",
+        "annotation_token": [
+            "am thinking"
+        ],
+        "rationale": "The present continuous tense 'am thinking' is used correctly to indicate an ongoing action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We not decide yet.",
+        "annotation_token": [
+            "not decide"
+        ],
+        "rationale": "The sentence lacks the auxiliary verb 'have' for the present perfect tense, which should be 'have not decided'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, we bring... um, ball? For play games.",
+        "annotation_token": [
+            "bring"
+        ],
+        "rationale": "The simple present tense 'bring' is used, but it should be 'will bring' to indicate a future action.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, my family very excited.",
+        "annotation_token": [
+            "very excited"
+        ],
+        "rationale": "The sentence lacks the auxiliary verb 'is' for the present continuous tense, which should be 'is very excited'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We not have picnic for long time.",
+        "annotation_token": [
+            "not have"
+        ],
+        "rationale": "The sentence lacks the auxiliary verb 'have' for the present perfect tense, which should be 'have not had'.",
+        "grammar_correctness": "wrong"
+    }
+]

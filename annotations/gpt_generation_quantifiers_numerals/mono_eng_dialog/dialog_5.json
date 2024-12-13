@@ -1,0 +1,11 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I’ve begun drafting my personal statement. Do you have any tips on what to include?",
+        "annotation_token": [
+            "any"
+        ],
+        "rationale": "'Any' is a quantifier used to refer to an unspecified amount or number of something.",
+        "grammar_correctness": true
+    }
+]

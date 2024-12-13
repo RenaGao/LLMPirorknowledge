@@ -1,0 +1,264 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi there, I have a few questions about my university application.",
+        "annotation_token": [
+            "Hi",
+            "I have a few questions"
+        ],
+        "rationale": "The speaker is initiating a conversation and expressing a request for information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I just want to make sure I’ve filled everything out correctly.",
+        "annotation_token": [
+            "I just want to make sure"
+        ],
+        "rationale": "The speaker is expressing a desire for confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’ve done that.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The speaker is confirming a previous action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "But I’m not sure if my references have been submitted.",
+        "annotation_token": [
+            "I’m not sure"
+        ],
+        "rationale": "The speaker is expressing uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Can you check on that?",
+        "annotation_token": [
+            "Can you check"
+        ],
+        "rationale": "The speaker is making a request for action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I hope everything’s in order.",
+        "annotation_token": [
+            "I hope"
+        ],
+        "rationale": "The speaker is expressing a wish or hope.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, great! That’s a relief.",
+        "annotation_token": [
+            "Oh, great",
+            "That’s a relief"
+        ],
+        "rationale": "The speaker is expressing relief and satisfaction.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I was also wondering about the status of my transcripts.",
+        "annotation_token": [
+            "I was also wondering"
+        ],
+        "rationale": "The speaker is expressing curiosity or inquiry.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Awesome, thanks.",
+        "annotation_token": [
+            "Awesome",
+            "thanks"
+        ],
+        "rationale": "The speaker is expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "One last thing—when should I expect to hear back about the decision?",
+        "annotation_token": [
+            "when should I expect"
+        ],
+        "rationale": "The speaker is asking for information about future events.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Perfect, I’ll keep an eye out for that.",
+        "annotation_token": [
+            "Perfect",
+            "I’ll keep an eye out"
+        ],
+        "rationale": "The speaker is expressing agreement and intention to monitor.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thanks so much for your help!",
+        "annotation_token": [
+            "Thanks so much"
+        ],
+        "rationale": "The speaker is expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Will do, thank you.",
+        "annotation_token": [
+            "Will do",
+            "thank you"
+        ],
+        "rationale": "The speaker is expressing agreement to perform an action and gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You too!",
+        "annotation_token": [
+            "You too"
+        ],
+        "rationale": "The speaker is reciprocating a wish or sentiment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi there, I have a few questions about my university application.",
+        "annotation_token": [
+            "Hi",
+            "I have a few questions"
+        ],
+        "rationale": "The speaker is initiating a conversation and expressing a request for information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I just want to make sure I’ve filled everything out correctly.",
+        "annotation_token": [
+            "I just want to make sure"
+        ],
+        "rationale": "The speaker is expressing a desire for confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’ve done that.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The speaker is confirming a previous action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "But I’m not sure if my references have been submitted.",
+        "annotation_token": [
+            "I’m not sure"
+        ],
+        "rationale": "The speaker is expressing uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Can you check on that?",
+        "annotation_token": [
+            "Can you check"
+        ],
+        "rationale": "The speaker is making a request for action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I hope everything’s in order.",
+        "annotation_token": [
+            "I hope"
+        ],
+        "rationale": "The speaker is expressing a wish or hope.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, great! That’s a relief.",
+        "annotation_token": [
+            "Oh, great",
+            "That’s a relief"
+        ],
+        "rationale": "The speaker is expressing relief and satisfaction.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I was also wondering about the status of my transcripts.",
+        "annotation_token": [
+            "I was also wondering"
+        ],
+        "rationale": "The speaker is expressing curiosity or inquiry.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Awesome, thanks.",
+        "annotation_token": [
+            "Awesome",
+            "thanks"
+        ],
+        "rationale": "The speaker is expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "One last thing—when should I expect to hear back about the decision?",
+        "annotation_token": [
+            "when should I expect"
+        ],
+        "rationale": "The speaker is asking for information about future events.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Perfect, I’ll keep an eye out for that.",
+        "annotation_token": [
+            "Perfect",
+            "I’ll keep an eye out"
+        ],
+        "rationale": "The speaker is expressing agreement and intention to monitor.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thanks so much for your help!",
+        "annotation_token": [
+            "Thanks so much"
+        ],
+        "rationale": "The speaker is expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Will do, thank you.",
+        "annotation_token": [
+            "Will do",
+            "thank you"
+        ],
+        "rationale": "The speaker is expressing agreement to perform an action and gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You too!",
+        "annotation_token": [
+            "You too"
+        ],
+        "rationale": "The speaker is reciprocating a wish or sentiment.",
+        "grammar_correctness": "correct"
+    }
+]

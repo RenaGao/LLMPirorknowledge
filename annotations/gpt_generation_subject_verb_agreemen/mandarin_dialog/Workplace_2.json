@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, thank you! I happy to be here.",
+        "annotation_token": "I happy",
+        "rationale": "The subject 'I' does not agree with the verb 'happy'. The correct form should be 'I am happy'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Before, I work in marketing.",
+        "annotation_token": "I work",
+        "rationale": "The subject 'I' does not agree with the verb 'work' in the past tense context. The correct form should be 'I worked'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I think is okay.",
+        "annotation_token": "I think is",
+        "rationale": "The subject 'I' does not agree with the verb 'is'. The correct form should be 'I think it is okay'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Audience is, uh, young adults?",
+        "annotation_token": "Audience is",
+        "rationale": "The subject 'Audience' is singular, but the context suggests it refers to 'young adults', which is plural. The correct form should be 'The audience are young adults?' or 'The audience is a group of young adults?'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Sounds good. I will prepare some idea for content.",
+        "annotation_token": "some idea",
+        "rationale": "The noun 'idea' should be plural to agree with 'some'. The correct form should be 'some ideas'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Is this okay?",
+        "annotation_token": "Is this",
+        "rationale": "The subject 'this' agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, 10 a.m. is good.",
+        "annotation_token": "10 a.m. is",
+        "rationale": "The subject '10 a.m.' agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "End of month, I understand.",
+        "annotation_token": "I understand",
+        "rationale": "The subject 'I' agrees with the verb 'understand'.",
+        "grammar_correctness": "correct"
+    }
+]

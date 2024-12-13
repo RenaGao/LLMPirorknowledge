@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, I see. And, uh, how many... words? How long?",
+        "annotation_token": [
+            "how many"
+        ],
+        "rationale": "The phrase 'how many' is a quantifier used to ask about the number of words required.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, many things to think. I will try my best.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier indicating a large number of things to consider.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, I see. And, uh, how many... words? How long?",
+        "annotation_token": [
+            "how many"
+        ],
+        "rationale": "The phrase 'how many' is a quantifier used to ask about the number of words required.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, many things to think. I will try my best.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier indicating a large number of things to consider.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I think, um, because... family come together.",
+        "annotation_token": "come",
+        "rationale": "The subject 'family' is singular, so the verb should be 'comes' to agree in number.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "We, um, gather with family. And, uh, we eat special food.",
+        "annotation_token": "eat",
+        "rationale": "The subject 'we' is plural, and the verb 'eat' correctly agrees in number.",
+        "grammar_correctness": "correct"
+    }
+]

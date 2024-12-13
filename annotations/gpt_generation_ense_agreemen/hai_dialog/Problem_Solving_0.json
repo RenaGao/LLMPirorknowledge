@@ -1,0 +1,21 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I think it was the green curry. It remind... um, remind me of home.",
+        "annotation_token": [
+            "was",
+            "remind"
+        ],
+        "rationale": "The sentence contains a tense agreement error. 'Was' is in the past tense, while 'remind' should be in the past tense to agree with 'was'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, let's do that. I look forward to",
+        "annotation_token": [
+            "look"
+        ],
+        "rationale": "The sentence is in the present tense, and 'look' is correctly used in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

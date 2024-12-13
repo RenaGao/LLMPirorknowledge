@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes, I am free.",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hmm, I like both.",
+        "annotation_token": [
+            "I like"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'like' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I love sushi!",
+        "annotation_token": [
+            "I love"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'love' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Karaoke is very fun!",
+        "annotation_token": [
+            "Karaoke is"
+        ],
+        "rationale": "The subject 'Karaoke' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We can sing many songs.",
+        "annotation_token": [
+            "We can sing"
+        ],
+        "rationale": "The subject 'We' correctly agrees with the modal verb 'can' and the base form 'sing'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, 6:45 is good.",
+        "annotation_token": [
+            "6:45 is"
+        ],
+        "rationale": "The subject '6:45' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I will be there.",
+        "annotation_token": [
+            "I will be"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the modal verb 'will' and the base form 'be'.",
+        "grammar_correctness": "correct"
+    }
+]

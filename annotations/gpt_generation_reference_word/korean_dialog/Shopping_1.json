@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes. Um, I look for good price on this, how to say... bag?",
+        "annotation_token": "this",
+        "rationale": "The word 'this' is used as a reference to the bag the speaker is talking about.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "This one! It is very... um, beautiful.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the bag the speaker is talking about.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, it is good, but maybe more?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the bag the speaker is talking about.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "In Korea, we... um, often bargain.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is used as a reference to people in Korea, including the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you! You very kind.",
+        "annotation_token": "You",
+        "rationale": "The word 'You' is used as a reference to the person the speaker is talking to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you very much. You very helpful.",
+        "annotation_token": "You",
+        "rationale": "The word 'You' is used as a reference to the person the speaker is talking to.",
+        "grammar_correctness": true
+    }
+]

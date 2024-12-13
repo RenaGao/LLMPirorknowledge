@@ -1,0 +1,95 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, yes! There are many difference, um... how to say... like, how people use chopsticks and fork.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of differences.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, exactly! We put many dish in middle and everyone take, um, little by little.",
+        "annotation_token": [
+            "many",
+            "little by little"
+        ],
+        "rationale": "The word 'many' is a quantifier indicating a large number of dishes, and 'little by little' is a phrase indicating a small amount taken gradually.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, when going someone home, it is good to bring gift. Maybe fruit or... um, what is word... dessert?",
+        "annotation_token": [
+            "someone"
+        ],
+        "rationale": "The word 'someone' is a quantifier used to refer to an unspecified person.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "No, we wait for elder to start first. Respect for them, you know?",
+        "annotation_token": [
+            "first"
+        ],
+        "rationale": "The word 'first' is a numeral indicating the initial position in a sequence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, yes! There are many difference, um... how to say... like, how people use chopsticks and fork.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of differences.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, exactly! We put many dish in middle and everyone take, um, little by little.",
+        "annotation_token": [
+            "many",
+            "little by little"
+        ],
+        "rationale": "The word 'many' is a quantifier indicating a large number of dishes, and 'little by little' is a phrase indicating a small amount taken gradually.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, when going someone home, it is good to bring gift. Maybe fruit or... um, what is word... dessert?",
+        "annotation_token": [
+            "someone"
+        ],
+        "rationale": "The word 'someone' is a quantifier used to refer to an unspecified person.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, yes! There are many difference, um... how to say... like, how people use chopsticks and fork.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of differences.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, exactly! We put many dish in middle and everyone take, um, little by little.",
+        "annotation_token": [
+            "many",
+            "little by little"
+        ],
+        "rationale": "The word 'many' is a quantifier indicating a large number of dishes, and 'little by little' is a phrase indicating a small amount taken gradually.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, when going someone home, it is good to bring gift. Maybe fruit or... um, what is word... dessert?",
+        "annotation_token": [
+            "Maybe"
+        ],
+        "rationale": "The word 'Maybe' is used as a quantifier to indicate a possibility or uncertainty about the number of items to bring.",
+        "grammar_correctness": true
+    }
+]

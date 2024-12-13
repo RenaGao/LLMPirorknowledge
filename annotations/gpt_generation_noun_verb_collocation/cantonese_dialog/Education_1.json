@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, okay. Data analysis, it can be difficult, um, sometimes.",
+        "annotation_token": "Data analysis",
+        "rationale": "The noun 'Data' and the verb 'analysis' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Uh, clean data, I think... but not sure. How to clean well?",
+        "annotation_token": "clean data",
+        "rationale": "The noun 'data' and the verb 'clean' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I think bar chart. It show clear... how to say... comparison?",
+        "annotation_token": "show comparison",
+        "rationale": "The noun 'comparison' and the verb 'show' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    }
+]

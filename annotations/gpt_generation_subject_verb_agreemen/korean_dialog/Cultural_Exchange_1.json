@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, mostly chopsticks and spoon. But, uh, no knife and fork like here.",
+        "annotation_token": "chopsticks and spoon",
+        "rationale": "The subject 'chopsticks and spoon' is a compound subject, which should be followed by a plural verb form. However, the verb is missing, making it difficult to assess the agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "They are... for everyone to share.",
+        "annotation_token": "They are",
+        "rationale": "The subject 'They' is plural and correctly agrees with the plural verb 'are'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "People have own plate.",
+        "annotation_token": "People have",
+        "rationale": "The subject 'People' is plural and correctly agrees with the plural verb 'have'.",
+        "grammar_correctness": "correct"
+    }
+]

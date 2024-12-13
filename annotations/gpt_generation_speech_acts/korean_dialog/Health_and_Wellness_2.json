@@ -1,0 +1,157 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello. Um, I want to start exercise routine. I am not sure... how to begin.",
+        "annotation_token": [
+            "Hello",
+            "I want",
+            "I am not sure"
+        ],
+        "rationale": "The tokens 'Hello', 'I want', and 'I am not sure' are speech acts as they perform the actions of greeting, expressing desire, and expressing uncertainty, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I want to... lose weight and be strong. Maybe, um, build muscle?",
+        "annotation_token": [
+            "I want",
+            "Maybe"
+        ],
+        "rationale": "The tokens 'I want' and 'Maybe' are speech acts as they express a desire and a possibility, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think... three times in a week? Is that good?",
+        "annotation_token": [
+            "I think",
+            "Is that good"
+        ],
+        "rationale": "The tokens 'I think' and 'Is that good' are speech acts as they express an opinion and ask for confirmation, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. I really need... some guide for eating.",
+        "annotation_token": [
+            "Yes, please",
+            "I really need"
+        ],
+        "rationale": "The tokens 'Yes, please' and 'I really need' are speech acts as they express agreement and a request, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sounds good. I like, um, chicken and vegetables.",
+        "annotation_token": [
+            "Sounds good",
+            "I like"
+        ],
+        "rationale": "The tokens 'Sounds good' and 'I like' are speech acts as they express approval and preference, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think yoga is good for me. I want to join.",
+        "annotation_token": [
+            "Yes",
+            "I think",
+            "I want to join"
+        ],
+        "rationale": "The tokens 'Yes', 'I think', and 'I want to join' are speech acts as they express agreement, an opinion, and a desire to participate, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I am ready. Thank you for he",
+        "annotation_token": [
+            "Yes",
+            "I am ready",
+            "Thank you"
+        ],
+        "rationale": "The tokens 'Yes', 'I am ready', and 'Thank you' are speech acts as they express agreement, readiness, and gratitude, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello. Um, I want to start exercise routine. I am not sure... how to begin.",
+        "annotation_token": [
+            "Hello",
+            "I want",
+            "I am not sure"
+        ],
+        "rationale": "The tokens 'Hello', 'I want', and 'I am not sure' are speech acts. 'Hello' is a greeting, 'I want' is an expression of desire, and 'I am not sure' is an expression of uncertainty.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I want to... lose weight and be strong. Maybe, um, build muscle?",
+        "annotation_token": [
+            "I want",
+            "Maybe"
+        ],
+        "rationale": "The tokens 'I want' and 'Maybe' are speech acts. 'I want' is an expression of desire, and 'Maybe' is an expression of uncertainty or possibility.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think... three times in a week? Is that good?",
+        "annotation_token": [
+            "I think",
+            "Is that good"
+        ],
+        "rationale": "The tokens 'I think' and 'Is that good' are speech acts. 'I think' is an expression of opinion, and 'Is that good' is a request for confirmation or opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. I really need... some guide for eating.",
+        "annotation_token": [
+            "Yes, please",
+            "I really need"
+        ],
+        "rationale": "The tokens 'Yes, please' and 'I really need' are speech acts. 'Yes, please' is an expression of agreement and politeness, and 'I really need' is an expression of necessity.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sounds good. I like, um, chicken and vegetables.",
+        "annotation_token": [
+            "Sounds good",
+            "I like"
+        ],
+        "rationale": "The tokens 'Sounds good' and 'I like' are speech acts. 'Sounds good' is an expression of agreement or approval, and 'I like' is an expression of preference.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, is there... some group class for beginner?",
+        "annotation_token": [
+            "is there"
+        ],
+        "rationale": "The token 'is there' is a speech act as it is a request for information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think yoga is good for me. I want to join.",
+        "annotation_token": [
+            "Yes",
+            "I think",
+            "I want"
+        ],
+        "rationale": "The tokens 'Yes', 'I think', and 'I want' are speech acts. 'Yes' is an expression of agreement, 'I think' is an expression of opinion, and 'I want' is an expression of desire.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I am ready. Thank you for he",
+        "annotation_token": [
+            "Yes",
+            "I am ready",
+            "Thank you"
+        ],
+        "rationale": "The tokens 'Yes', 'I am ready', and 'Thank you' are speech acts. 'Yes' is an expression of agreement, 'I am ready' is an expression of preparedness, and 'Thank you' is an expression of gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

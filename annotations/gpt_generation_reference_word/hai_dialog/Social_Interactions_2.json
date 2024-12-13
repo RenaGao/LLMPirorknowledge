@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, yes, it is Nuch.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to identify the speaker, Nuch.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is... um, quite busy.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer to the speaker's workplace or job situation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I think so too.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    }
+]

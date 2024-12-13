@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Oh, hi Wing! It was very nice. I enjoy... um, the city a lot. Many thing to see.",
+        "annotation_token": "thing",
+        "rationale": "The word 'thing' should be in plural form 'things' to agree with the quantifier 'many'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I go to the... um, big park with lake and many bird.",
+        "annotation_token": "bird",
+        "rationale": "The word 'bird' should be in plural form 'birds' to agree with the quantifier 'many'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I meet some traveler from other country. We talk... um, about trip and share story.",
+        "annotation_token": "traveler",
+        "rationale": "The word 'traveler' should be in plural form 'travelers' to agree with the quantifier 'some'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I meet some traveler from other country. We talk... um, about trip and share story.",
+        "annotation_token": "story",
+        "rationale": "The word 'story' should be in plural form 'stories' to agree with the context of sharing multiple stories.",
+        "grammar_correctness": "wrong"
+    }
+]

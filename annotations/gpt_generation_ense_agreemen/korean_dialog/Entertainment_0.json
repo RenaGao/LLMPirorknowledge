@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I watch movie... um, \"Parasite.\" It is very... how to say... thought-provoking?",
+        "annotation_token": [
+            "watch"
+        ],
+        "rationale": "The verb 'watch' is in the present tense, but the context suggests a past action since the speaker is referring to a specific movie they have already seen.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "The ending was... surprising. Um, it make me think a lot about... society and class.",
+        "annotation_token": [
+            "make"
+        ],
+        "rationale": "The verb 'make' should be in the past tense 'made' to agree with the past tense 'was' used earlier in the sentence.",
+        "grammar_correctness": "wrong"
+    }
+]

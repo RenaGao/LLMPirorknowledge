@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, hello... I have, uh, problem with my... my phone. It not work... properly.",
+        "annotation_token": "problem",
+        "rationale": "The noun 'problem' should be plural to agree with the verb 'have'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, so... the phone, it... um, how to say... freeze? Yes, freeze, and sometimes... restart by itself.",
+        "annotation_token": "restart",
+        "rationale": "The verb 'restart' should be in the plural form 'restarts' to agree with the singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Uh, I think... general? When I use... um, many app together, it happen.",
+        "annotation_token": "app",
+        "rationale": "The noun 'app' should be plural 'apps' to agree with the quantifier 'many'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Uh, I think... general? When I use... um, many app together, it happen.",
+        "annotation_token": "happen",
+        "rationale": "The verb 'happen' should be in the plural form 'happens' to agree with the singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, yes... battery, it... die fast. Is this... normal?",
+        "annotation_token": "die",
+        "rationale": "The verb 'die' should be in the plural form 'dies' to agree with the singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    }
+]

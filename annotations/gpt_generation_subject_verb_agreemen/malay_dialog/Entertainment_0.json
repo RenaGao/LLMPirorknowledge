@@ -1,0 +1,130 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I like... how to say... the one about, uh, superheroes.",
+        "annotation_token": [
+            "I like"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'like' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, yes! The Avengers. I like them very much.",
+        "annotation_token": [
+            "I like"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'like' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "The action is very, um, exciting.",
+        "annotation_token": [
+            "action is"
+        ],
+        "rationale": "The subject 'The action' agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think... maybe Iron Man. He is... um, funny and smart.",
+        "annotation_token": [
+            "He is"
+        ],
+        "rationale": "The subject 'He' agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I watch many.",
+        "annotation_token": [
+            "I watch"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'watch' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, yes! I try to watch... um, when I have time.",
+        "annotation_token": [
+            "I try",
+            "I have"
+        ],
+        "rationale": "The subject 'I' agrees with the verbs 'try' and 'have' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is... many story, very interesting.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hmm... maybe Meredith. She is... um, strong and... how to say... brave?",
+        "annotation_token": [
+            "She is"
+        ],
+        "rationale": "The subject 'She' agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I also like comedy.",
+        "annotation_token": [
+            "I like"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'like' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It make me laugh a lot.",
+        "annotation_token": [
+            "It make"
+        ],
+        "rationale": "The subject 'It' should agree with the verb 'makes' in the present simple tense. The correct form should be 'It makes'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I watch with subtitle, easier to understand.",
+        "annotation_token": [
+            "I watch"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'watch' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I want to try \"Stranger Things\".",
+        "annotation_token": [
+            "I want"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'want' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Many people say it is, uh, good.",
+        "annotation_token": [
+            "people say",
+            "it is"
+        ],
+        "rationale": "The subject 'people' agrees with the verb 'say' and the subject 'it' agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Talking to you is very nice!",
+        "annotation_token": [
+            "Talking is"
+        ],
+        "rationale": "The subject 'Talking' agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    }
+]

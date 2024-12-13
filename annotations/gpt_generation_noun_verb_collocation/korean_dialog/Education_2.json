@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Hello. Um, I have question about homework. Is it okay?",
+        "annotation_token": "have question",
+        "rationale": "The noun 'question' and the verb 'have' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, thank you. In the assignment, we need to, um, find... information? Or do we write essay?",
+        "annotation_token": "write essay",
+        "rationale": "The noun 'essay' and the verb 'write' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, one more. The sources... where I find? Internet okay?",
+        "annotation_token": "find sources",
+        "rationale": "The noun 'sources' and the verb 'find' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you very much for help. I will do my best!",
+        "annotation_token": "do best",
+        "rationale": "The noun 'best' and the verb 'do' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, really? I did not notice.",
+        "annotation_token": [
+            "did",
+            "notice"
+        ],
+        "rationale": "The sentence uses past tense 'did' with the base form 'notice' to indicate a past action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, I see. I am... I feel sorry about that.",
+        "annotation_token": [
+            "am",
+            "feel"
+        ],
+        "rationale": "The sentence uses present tense 'am' and 'feel' to indicate a current state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I will look at it right away.",
+        "annotation_token": [
+            "will",
+            "look"
+        ],
+        "rationale": "The sentence uses future tense 'will' with the base form 'look' to indicate a future action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, I can check the, how to say... original data first?",
+        "annotation_token": [
+            "can",
+            "check"
+        ],
+        "rationale": "The sentence uses modal 'can' with the base form 'check' to indicate ability in the present.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Maybe, uh, can you check other sections while I fix the sales part?",
+        "annotation_token": [
+            "can",
+            "check",
+            "fix"
+        ],
+        "rationale": "The sentence uses modal 'can' with the base form 'check' and present tense 'fix' to indicate actions in the present.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I will. And, um, sorry again for the mistake.",
+        "annotation_token": [
+            "will"
+        ],
+        "rationale": "The sentence uses future tense 'will' to indicate a future action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, team is important.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The sentence uses present tense 'is' to indicate a current state.",
+        "grammar_correctness": "correct"
+    }
+]

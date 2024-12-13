@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hmm, maybe, uh, the one near station? It is called... um, Sakura Park.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring back to 'the one near station'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I want to play... how to say... ball game with kids. And maybe kite?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I hope so too. Kids like sunny day for play.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "After picnic, maybe, um, relax at home. Watch movie with family.",
+        "annotation_token": "movie",
+        "rationale": "The word 'movie' is a reference word referring to a specific type of entertainment.",
+        "grammar_correctness": true
+    }
+]
