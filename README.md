@@ -1,6 +1,6 @@
 # LLMPirorknowledge
 
-This is the code for *Prior Knowledge Matters: LLMs Capability via In Context Learning L2 Dialogues under Information-Theoretic Approach*
+This is the code,dialogue datasets, and results for *Prior Knowledge Matters: LLMs Capability via In Context Learning L2 Dialogues under Information-Theoretic Approach*
 
 ### The Distribution Divergence Results
 
