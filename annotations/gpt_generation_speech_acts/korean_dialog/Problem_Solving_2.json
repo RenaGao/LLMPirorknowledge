@@ -1,0 +1,238 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, I see. I am very sorry.",
+        "annotation_token": [
+            "Oh",
+            "um",
+            "I see",
+            "I am very sorry"
+        ],
+        "rationale": "The tokens 'Oh', 'um', and 'I see' are expressions of realization or acknowledgment, while 'I am very sorry' is an apology, both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I understand. I will check files again. Sorry for trouble.",
+        "annotation_token": [
+            "Ah",
+            "I understand",
+            "Sorry for trouble"
+        ],
+        "rationale": "The tokens 'Ah' and 'I understand' are expressions of realization or acknowledgment, while 'Sorry for trouble' is an apology, both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think I can find, but maybe I ask help if I cannot. Thank you.",
+        "annotation_token": [
+            "I think",
+            "I ask help",
+            "Thank you"
+        ],
+        "rationale": "The token 'I think' is an expression of belief, 'I ask help' is a request, and 'Thank you' is an expression of gratitude, all of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I can send today, maybe in one hour? Is it okay?",
+        "annotation_token": [
+            "Um",
+            "I can send today",
+            "Is it okay"
+        ],
+        "rationale": "The token 'Um' is a hesitation marker, 'I can send today' is an offer, and 'Is it okay' is a request for confirmation, all of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for understanding. I make sure it not happen again.",
+        "annotation_token": [
+            "Thank you for understanding",
+            "I make sure it not happen again"
+        ],
+        "rationale": "The token 'Thank you for understanding' is an expression of gratitude, and 'I make sure it not happen again' is a promise, both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you. I feel better now.",
+        "annotation_token": [
+            "Yes",
+            "thank you",
+            "I feel better now"
+        ],
+        "rationale": "The token 'Yes' is an affirmation, 'thank you' is an expression of gratitude, and 'I feel better now' is a statement of personal state, all of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, maybe, how to organize files better?",
+        "annotation_token": [
+            "Um",
+            "how to organize files better"
+        ],
+        "rationale": "The token 'Um' is a hesitation marker, and 'how to organize files better' is a request for advice, both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. That will help me very much.",
+        "annotation_token": [
+            "Yes",
+            "please",
+            "That will help me very much"
+        ],
+        "rationale": "The token 'Yes' is an affirmation, 'please' is a polite request, and 'That will help me very much' is an expression of appreciation, all of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, tomorrow is good. What time you suggest?",
+        "annotation_token": [
+            "Yes",
+            "tomorrow is good",
+            "What time you suggest"
+        ],
+        "rationale": "The token 'Yes' is an affirmation, 'tomorrow is good' is an agreement, and 'What time you suggest' is a request for information, all of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "10 a.m. is perfect. I will prepare questions for meeting.",
+        "annotation_token": [
+            "10 a.m. is perfect",
+            "I will prepare questions for meeting"
+        ],
+        "rationale": "The token '10 a.m. is perfect' is an expression of agreement, and 'I will prepare questions for meeting' is a statement of intention, both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Me too. Thank you aga",
+        "annotation_token": [
+            "Me too",
+            "Thank you"
+        ],
+        "rationale": "The token 'Me too' is an expression of agreement, and 'Thank you' is an expression of gratitude, both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, I see. I am very sorry.",
+        "annotation_token": [
+            "Oh",
+            "um",
+            "I see",
+            "I am very sorry"
+        ],
+        "rationale": "The sentence contains expressions of realization ('I see') and apology ('I am very sorry'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I understand. I will check files again. Sorry for trouble.",
+        "annotation_token": [
+            "Ah",
+            "I understand",
+            "Sorry for trouble"
+        ],
+        "rationale": "The sentence contains expressions of understanding ('I understand') and apology ('Sorry for trouble'), which are speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think I can find, but maybe I ask help if I cannot. Thank you.",
+        "annotation_token": [
+            "I think",
+            "I ask help",
+            "Thank you"
+        ],
+        "rationale": "The sentence contains expressions of belief ('I think'), request for help ('I ask help'), and gratitude ('Thank you'), which are speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I can send today, maybe in one hour? Is it okay?",
+        "annotation_token": [
+            "Um",
+            "I can send",
+            "Is it okay"
+        ],
+        "rationale": "The sentence contains expressions of uncertainty ('Um'), offer ('I can send'), and request for confirmation ('Is it okay'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for understanding. I make sure it not happen again.",
+        "annotation_token": [
+            "Thank you for understanding",
+            "I make sure"
+        ],
+        "rationale": "The sentence contains expressions of gratitude ('Thank you for understanding') and promise ('I make sure'), which are speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you. I feel better now.",
+        "annotation_token": [
+            "Yes",
+            "thank you",
+            "I feel better now"
+        ],
+        "rationale": "The sentence contains expressions of agreement ('Yes'), gratitude ('thank you'), and statement of feeling ('I feel better now'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, maybe, how to organize files better?",
+        "annotation_token": [
+            "Um",
+            "how to organize files better"
+        ],
+        "rationale": "The sentence contains expressions of uncertainty ('Um') and inquiry ('how to organize files better'), which are speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. That will help me very much.",
+        "annotation_token": [
+            "Yes",
+            "please",
+            "That will help me very much"
+        ],
+        "rationale": "The sentence contains expressions of agreement ('Yes'), politeness ('please'), and statement of benefit ('That will help me very much'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, tomorrow is good. What time you suggest?",
+        "annotation_token": [
+            "Yes",
+            "tomorrow is good",
+            "What time you suggest"
+        ],
+        "rationale": "The sentence contains expressions of agreement ('Yes'), preference ('tomorrow is good'), and inquiry ('What time you suggest'), which are speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "10 a.m. is perfect. I will prepare questions for meeting.",
+        "annotation_token": [
+            "10 a.m. is perfect",
+            "I will prepare questions for meeting"
+        ],
+        "rationale": "The sentence contains expressions of preference ('10 a.m. is perfect') and intention ('I will prepare questions for meeting'), which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Me too. Thank you aga",
+        "annotation_token": [
+            "Me too",
+            "Thank you"
+        ],
+        "rationale": "The sentence contains expressions of agreement ('Me too') and gratitude ('Thank you'), which are speech acts.",
+        "grammar_correctness": "partially correct"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, please! I not so good with... um, bargain, yes?",
+        "annotation_token": [
+            "I not so good"
+        ],
+        "rationale": "The sentence lacks the auxiliary verb 'am' for present tense agreement, which should be 'I am not so good'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, thank you! I happy with this price.",
+        "annotation_token": [
+            "I happy"
+        ],
+        "rationale": "The sentence lacks the auxiliary verb 'am' for present tense agreement, which should be 'I am happy'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you for help. I learn much today.",
+        "annotation_token": [
+            "I learn"
+        ],
+        "rationale": "The sentence should use the present perfect tense 'I have learned' to indicate the action completed today.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, um, I like \"Rush Hour\" a lot. It have good action and... uh, makes me laugh much.",
+        "annotation_token": "makes me laugh",
+        "rationale": "The verb 'makes' and the noun 'laugh' form a collocation expressing a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "TV shows, um... I watch \"Friends\" many time. It is very funny. I also learn... um, English from it.",
+        "annotation_token": "watch \"Friends\"",
+        "rationale": "The verb 'watch' and the noun '\"Friends\"' form a collocation expressing a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Uh, yes, I see... uh, \"Avengers: Endgame.\" Very big movie, many heroes.",
+        "annotation_token": "see \"Avengers: Endgame\"",
+        "rationale": "The verb 'see' and the noun '\"Avengers: Endgame\"' form a collocation expressing a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, um, yes, I see \"Toy Story.\" It is... uh, nice for both children and adults, I think.",
+        "annotation_token": "see \"Toy Story\"",
+        "rationale": "The verb 'see' and the noun '\"Toy Story\"' form a collocation expressing a complete action.",
+        "grammar_correctness": true
+    }
+]

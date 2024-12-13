@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Hello, teacher. Um, I have question... about homework.",
+        "annotation_token": "question",
+        "rationale": "The noun 'question' should be in plural form 'questions' to agree with the context, as it implies more than one question.",
+        "grammar_correctness": "wrong"
+    }
+]

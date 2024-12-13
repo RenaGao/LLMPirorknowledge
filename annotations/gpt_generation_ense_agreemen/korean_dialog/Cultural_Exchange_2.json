@@ -1,0 +1,21 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, um, when I was child, I made songpyeon with my grandmother.",
+        "annotation_token": [
+            "was",
+            "made"
+        ],
+        "rationale": "The sentence uses past tense consistently with 'was' and 'made' to describe a past event.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I think, um, because... family come together.",
+        "annotation_token": [
+            "come"
+        ],
+        "rationale": "The sentence lacks tense agreement as 'come' should be in past tense to match the context of past events.",
+        "grammar_correctness": "wrong"
+    }
+]

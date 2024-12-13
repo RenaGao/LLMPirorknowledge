@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, yes, Mei. I have time now.",
+        "annotation_token": "have time",
+        "rationale": "The noun 'time' and the verb 'have' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I will look at it right away.",
+        "annotation_token": "look at",
+        "rationale": "The noun 'it' is not explicit, so this does not qualify as a noun & verb collocation.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, I can check the, how to say... original data first?",
+        "annotation_token": "check data",
+        "rationale": "The noun 'data' and the verb 'check' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Good, good. I will check each number carefully.",
+        "annotation_token": "check number",
+        "rationale": "The noun 'number' and the verb 'check' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    }
+]

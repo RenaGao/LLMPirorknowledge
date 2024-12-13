@@ -1,0 +1,93 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, yes, please. I am looking... how to say... for a thing to cook rice?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I think... small one is good. For two people, maybe.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Features... Ah, I want it easy to clean. And, um, fast cooking is nice.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes, this one look good. How much is it?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the item being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, that is good price. Um, do you have warranty?",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is a reference word referring to the price mentioned.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, please. What does it cover?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the warranty.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That is helpful. Um, I think I will buy it.",
+        "annotation_token": "That",
+        "rationale": "The word 'That' is a reference word referring to the information provided about the warranty.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That is helpful. Um, I think I will buy it.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That is helpful. Um, I think I will buy it.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the item being purchased.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, card is fine. Do I need to sign?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay, I do it now. Ah, it is done.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay, I do it now. Ah, it is done.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the action of signing or completing the transaction.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "No, thank you very much. You help me a lot.",
+        "annotation_token": "You",
+        "rationale": "The word 'You' is a reference word referring to the person being thanked.",
+        "grammar_correctness": true
+    }
+]

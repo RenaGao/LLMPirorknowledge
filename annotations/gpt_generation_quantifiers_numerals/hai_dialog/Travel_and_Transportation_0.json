@@ -1,0 +1,94 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I see many temple and... uh, how to say... mountains?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of temples.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, not too much. I go early morning, so not many people.",
+        "annotation_token": [
+            "not too much",
+            "not many"
+        ],
+        "rationale": "'Not too much' and 'not many' are quantifiers used to indicate a small amount or number of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I visit night market. There are many... uh, how to say... hand things?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of handmade crafts.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, many photos! I like to take photo of, um... old building.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of photos.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I think many people will like. It is very peaceful and nice.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I see many temple and... uh, how to say... mountains?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of temples and mountains.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, not too much. I go early morning, so not many people.",
+        "annotation_token": [
+            "not too much",
+            "not many"
+        ],
+        "rationale": "'Not too much' and 'not many' are quantifiers used to indicate a small amount or number of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I visit night market. There are many... uh, how to say... hand things?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of handmade crafts.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, many photos! I like to take photo of, um... old building.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of photos.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I think many people will like. It is very peaceful and nice.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of people.",
+        "grammar_correctness": true
+    }
+]

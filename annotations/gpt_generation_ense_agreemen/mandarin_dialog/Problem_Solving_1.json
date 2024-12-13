@@ -1,0 +1,71 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, hello... I have, uh, problem with my... my phone. It not work... properly.",
+        "annotation_token": [
+            "have",
+            "not work"
+        ],
+        "rationale": "The sentence 'I have, uh, problem with my... my phone. It not work... properly.' contains a tense agreement issue. The verb 'have' is in the present tense, but 'not work' should be 'does not work' to agree with the present tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, so... the phone, it... um, how to say... freeze? Yes, freeze, and sometimes... restart by itself.",
+        "annotation_token": [
+            "freeze",
+            "restart"
+        ],
+        "rationale": "The sentence 'Yes, so... the phone, it... um, how to say... freeze? Yes, freeze, and sometimes... restart by itself.' contains a tense agreement issue. The verbs 'freeze' and 'restart' should be 'freezes' and 'restarts' to agree with the third person singular subject 'the phone'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, I think... general? When I use... um, many app together, it happen.",
+        "annotation_token": [
+            "use",
+            "happen"
+        ],
+        "rationale": "The sentence 'When I use... um, many app together, it happen.' contains a tense agreement issue. The verb 'use' is in the present tense, but 'happen' should be 'happens' to agree with the third person singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I... restart, but... problem come back.",
+        "annotation_token": [
+            "restart",
+            "come"
+        ],
+        "rationale": "The sentence 'Yes, I... restart, but... problem come back.' contains a tense agreement issue. The verb 'restart' is in the present tense, but 'come' should be 'comes' to agree with the third person singular subject 'problem'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, I check, but... how to update? I not sure.",
+        "annotation_token": [
+            "check",
+            "not sure"
+        ],
+        "rationale": "The sentence 'Um, I check, but... how to update? I not sure.' contains a tense agreement issue. The verb 'check' is in the present tense, but 'not sure' should be 'am not sure' to agree with the present tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, okay, I will try. But if update, it... need long time?",
+        "annotation_token": [
+            "will try",
+            "need"
+        ],
+        "rationale": "The sentence 'Ah, okay, I will try. But if update, it... need long time?' contains a tense agreement issue. The verb 'will try' is in the future tense, but 'need' should be 'needs' to agree with the third person singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, yes... battery, it... die fast. Is this... normal?",
+        "annotation_token": [
+            "die"
+        ],
+        "rationale": "The sentence 'Um, yes... battery, it... die fast. Is this... normal?' contains a tense agreement issue. The verb 'die' should be 'dies' to agree with the third person singular subject 'battery'.",
+        "grammar_correctness": "wrong"
+    }
+]

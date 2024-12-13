@@ -1,0 +1,31 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, um, people write wishes on paper. We call it tanzaku. Then, we hang on bamboo.",
+        "annotation_token": [
+            "wishes",
+            "it",
+            "tanzaku"
+        ],
+        "rationale": "The sentence 'We call it tanzaku.' uses 'it' to refer to 'wishes', which is plural. The correct pronoun should be 'them'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Uh, many kind. Like, for good health, or... um, success in study. Children write, too.",
+        "annotation_token": [
+            "kind"
+        ],
+        "rationale": "The sentence 'Uh, many kind.' uses 'kind' which is singular, but 'many' requires a plural noun. The correct form should be 'kinds'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, sometimes there are festival... uh, matsuri. With food stands and fireworks.",
+        "annotation_token": [
+            "festival"
+        ],
+        "rationale": "The sentence 'Yes, sometimes there are festival...' uses 'festival' which is singular, but 'are' requires a plural noun. The correct form should be 'festivals'.",
+        "grammar_correctness": "wrong"
+    }
+]

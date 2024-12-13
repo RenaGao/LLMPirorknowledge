@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I write notes, but sometimes it’s too much.",
+        "annotation_token": "write notes",
+        "rationale": "The noun 'notes' and the verb 'write' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I find some question very confusing.",
+        "annotation_token": "find question",
+        "rationale": "The noun 'question' and the verb 'find' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, thank you. Yes, the algebra question with, uh, equation. Very hard to solve.",
+        "annotation_token": "solve equation",
+        "rationale": "The noun 'equation' and the verb 'solve' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I see. I often forget formula, maybe need practice more.",
+        "annotation_token": "forget formula",
+        "rationale": "The noun 'formula' and the verb 'forget' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

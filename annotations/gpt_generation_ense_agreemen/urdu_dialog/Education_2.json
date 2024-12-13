@@ -1,0 +1,42 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It's, uh, the math problem. I not understand how to, um, solve it.",
+        "annotation_token": [
+            "It's",
+            "I not understand"
+        ],
+        "rationale": "The sentence 'It's, uh, the math problem.' uses the present tense correctly with 'It's'. However, 'I not understand' lacks the auxiliary verb 'do' for the negative form in the present tense, which should be 'I do not understand'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Pythagorean... um, I not sure what it mean.",
+        "annotation_token": [
+            "I not sure",
+            "it mean"
+        ],
+        "rationale": "The sentence 'I not sure what it mean.' lacks the auxiliary verb 'am' for the present tense, which should be 'I am not sure'. Additionally, 'it mean' should be 'it means' to agree with the present tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, please. I not remember how it work.",
+        "annotation_token": [
+            "I not remember",
+            "it work"
+        ],
+        "rationale": "The sentence 'I not remember how it work.' lacks the auxiliary verb 'do' for the negative form in the present tense, which should be 'I do not remember'. Additionally, 'it work' should be 'it works' to agree with the present tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "No, I think I good for now.",
+        "annotation_token": [
+            "I think",
+            "I good"
+        ],
+        "rationale": "The sentence 'I think I good for now.' uses 'I think' correctly in the present tense. However, 'I good' lacks the verb 'am', which should be 'I am good'.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I take many picture... um, with my phone.",
+        "annotation_token": "picture",
+        "rationale": "The noun 'picture' should be in plural form 'pictures' to agree with the quantifier 'many'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I go to... um, Kek Lok Si Temple. Very big and... um, many steps.",
+        "annotation_token": "steps",
+        "rationale": "The noun 'steps' correctly agrees in number with the quantifier 'many'.",
+        "grammar_correctness": "correct"
+    }
+]

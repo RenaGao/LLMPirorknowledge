@@ -1,0 +1,13 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I’ve begun drafting my personal statement.",
+        "annotation_token": [
+            "I’ve",
+            "begun",
+            "drafting"
+        ],
+        "rationale": "The sentence uses present perfect tense 'I’ve begun' to indicate an action that started in the past and is relevant to the present. The verb 'drafting' is in the present participle form, agreeing with the present perfect tense.",
+        "grammar_correctness": "correct"
+    }
+]

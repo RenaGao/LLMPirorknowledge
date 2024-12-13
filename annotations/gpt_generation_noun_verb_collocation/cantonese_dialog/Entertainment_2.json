@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, yes, I think... um, \"The Joy Luck Club\" is very good.",
+        "annotation_token": "think \"The Joy Luck Club\"",
+        "rationale": "The noun 'The Joy Luck Club' and the verb 'think' form a collocation where the speaker expresses their opinion about the book.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I like story of, uh, Jing-Mei.",
+        "annotation_token": "like story",
+        "rationale": "The noun 'story' and the verb 'like' form a collocation where the speaker expresses their preference for the story.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "She learn about... her mother's past.",
+        "annotation_token": "learn about",
+        "rationale": "The noun 'her mother's past' and the verb 'learn' form a collocation where the speaker describes the action of gaining knowledge about the past.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I think it good for, um, understanding different culture and, uh, family value.",
+        "annotation_token": "understanding culture",
+        "rationale": "The noun 'culture' and the verb 'understanding' form a collocation where the speaker describes the action of comprehending different cultures.",
+        "grammar_correctness": true
+    }
+]

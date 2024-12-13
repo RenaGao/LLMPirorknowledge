@@ -1,0 +1,27 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It's, uh, the math problem. I not understand how to, um, solve it. It is the one with, um, triangles and angles. I think number five.",
+        "annotation_token": [
+            "the",
+            "one",
+            "number",
+            "five"
+        ],
+        "rationale": "The sentence contains quantifiers 'the' and 'one', and numerals 'number' and 'five' referring to a specific math problem.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, please. I have side a is 3 and side b is 4. Um, 9 plus 16. That is 25.",
+        "annotation_token": [
+            "3",
+            "4",
+            "9",
+            "16",
+            "25"
+        ],
+        "rationale": "These are all numerals referring to the sides of a triangle and the operation performed on them.",
+        "grammar_correctness": true
+    }
+]

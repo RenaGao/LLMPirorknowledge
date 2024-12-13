@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, um, I think you say you not invite everyone? Is it correct?",
+        "annotation_token": [
+            "say",
+            "not invite"
+        ],
+        "rationale": "The sentence lacks tense agreement. The correct form should be 'you said you did not invite everyone' to maintain past tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "No problem. I bring something sweet. Everyone like sweets, yes?",
+        "annotation_token": [
+            "bring",
+            "like"
+        ],
+        "rationale": "The sentence lacks tense agreement. The correct form should be 'I will bring something sweet. Everyone likes sweets, yes?' to maintain future and present tense agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, sure. I have time now.",
+        "annotation_token": [
+            "Yes",
+            "sure"
+        ],
+        "rationale": "The tokens 'Yes' and 'sure' are used to perform the speech act of agreeing or confirming availability.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I will work hard, uh, to make it on time.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The tokens 'Thank you' are used to perform the speech act of expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That is very helpful, thank you so much.",
+        "annotation_token": [
+            "thank",
+            "you"
+        ],
+        "rationale": "The tokens 'thank you' are used to perform the speech act of expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I will.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The tokens 'Thank you' are used to perform the speech act of expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I hope so too.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used to perform the speech act of agreeing or expressing hope.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, sure. I have time now.",
+        "annotation_token": [
+            "Yes",
+            "sure"
+        ],
+        "rationale": "The tokens 'Yes' and 'sure' are used to perform the speech act of agreeing or confirming availability.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I will work hard, uh, to make it on time.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The tokens 'Thank you' are used to perform the speech act of expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That is very helpful, thank you so much.",
+        "annotation_token": [
+            "thank",
+            "you"
+        ],
+        "rationale": "The tokens 'thank you' are used to perform the speech act of expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I will.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The tokens 'Thank you' are used to perform the speech act of expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I hope so too.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used to perform the speech act of agreeing or expressing hope.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, sure. I have time now.",
+        "annotation_token": [
+            "Yes",
+            "sure"
+        ],
+        "rationale": "The tokens 'Yes' and 'sure' are used to perform the speech act of agreeing or confirming availability.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I will work hard, uh, to make it on time.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The tokens 'Thank you' are used to perform the speech act of expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That is very helpful, thank you so much.",
+        "annotation_token": [
+            "thank",
+            "you"
+        ],
+        "rationale": "The tokens 'thank you' are used to perform the speech act of expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I will.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The tokens 'Thank you' are used to perform the speech act of expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I hope so too.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used to perform the speech act of agreeing or expressing hope.",
+        "grammar_correctness": "correct"
+    }
+]

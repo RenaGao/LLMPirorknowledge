@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Oh, hi! It was very... um, interesting. I visit many places.",
+        "annotation_token": "visit",
+        "rationale": "The verb 'visit' should be in the past tense 'visited' to agree with the past context of the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I go to top. The view... very beautiful. Can see all city!",
+        "annotation_token": "go",
+        "rationale": "The verb 'go' should be in the past tense 'went' to agree with the past context of the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I take many photos. But... uh, some too cloudy. Hard to see.",
+        "annotation_token": "take",
+        "rationale": "The verb 'take' should be in the past tense 'took' to agree with the past context of the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I go to... um, Shanghai Museum. So many... uh, history things.",
+        "annotation_token": "go",
+        "rationale": "The verb 'go' should be in the past tense 'went' to agree with the past context of the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, yes. Sometimes... I, uh, lost way. But people very helpful.",
+        "annotation_token": "lost",
+        "rationale": "The verb 'lost' should be in the present tense 'lose' to agree with the present context of the sentence.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Ah, yes. Small paragraph is easier. I will, um, try this today.",
+        "annotation_token": "paragraph",
+        "rationale": "The noun 'paragraph' is singular, and it correctly agrees with the singular verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Reading is okay, but some words are, um... new for me.",
+        "annotation_token": "words",
+        "rationale": "The noun 'words' is plural, and it correctly agrees with the plural verb 'are'.",
+        "grammar_correctness": "correct"
+    }
+]

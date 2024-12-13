@@ -1,0 +1,114 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hi, thank you for having me. I’m a little nervous but excited.",
+        "annotation_token": "I’m",
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' (contracted as 'I'm').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Well, I’ve always been passionate about marketing, and your company’s innovative approach really appeals to me.",
+        "annotation_token": "approach appeals",
+        "rationale": "The subject 'approach' correctly agrees with the verb 'appeals'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’m eager to bring my skills to your team.",
+        "annotation_token": "I’m",
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' (contracted as 'I'm').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Certainly. I led a social media campaign last year that increased engagement by 30%.",
+        "annotation_token": "campaign increased",
+        "rationale": "The subject 'campaign' correctly agrees with the verb 'increased'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It taught me a lot about audience interaction.",
+        "annotation_token": "It taught",
+        "rationale": "The subject 'It' correctly agrees with the verb 'taught'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We used analytics tools to track likes, shares, and comments, and compared them to our baseline data from previous campaigns.",
+        "annotation_token": "We used",
+        "rationale": "The subject 'We' correctly agrees with the verb 'used'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’m quite organized.",
+        "annotation_token": "I’m",
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' (contracted as 'I'm').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I prioritize tasks and make sure to communicate with my team to ensure everything stays on track.",
+        "annotation_token": "I prioritize",
+        "rationale": "The subject 'I' correctly agrees with the verb 'prioritize'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’d say my biggest strength is collaboration.",
+        "annotation_token": "strength is",
+        "rationale": "The subject 'strength' correctly agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’m good at listening to others and integrating different perspectives into a cohesive plan.",
+        "annotation_token": "I’m",
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' (contracted as 'I'm').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I’m curious about the team dynamics here.",
+        "annotation_token": "I’m",
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' (contracted as 'I'm').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "How would you describe the company culture?",
+        "annotation_token": "you describe",
+        "rationale": "The subject 'you' correctly agrees with the verb 'describe'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That sounds wonderful.",
+        "annotation_token": "That sounds",
+        "rationale": "The subject 'That' correctly agrees with the verb 'sounds'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’m eager to potentially be a part of it.",
+        "annotation_token": "I’m",
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' (contracted as 'I'm').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you so much for the opportunity.",
+        "annotation_token": "you thank",
+        "rationale": "The subject 'you' correctly agrees with the verb 'thank'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I look forward to hearing from you.",
+        "annotation_token": "I look",
+        "rationale": "The subject 'I' correctly agrees with the verb 'look'.",
+        "grammar_correctness": "correct"
+    }
+]

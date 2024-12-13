@@ -1,0 +1,86 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes. I want to come in, uh, how to say... maybe in December.",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "I want to come in",
+            "uh",
+            "how to say",
+            "maybe in December"
+        ],
+        "rationale": "The speaker is expressing agreement and intention, using fillers to think about how to express themselves, and making a tentative plan.",
+        "grammar_correctness": "partially correct, but 'I want to come in' is not a complete expression in native English; it should be 'I want to come in December.'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. I might need help with, uh, finding hotel. You can suggest some?",
+        "annotation_token": [
+            "Yes",
+            "please",
+            "I might need help",
+            "uh",
+            "finding hotel",
+            "You can suggest some"
+        ],
+        "rationale": "The speaker is expressing agreement, making a polite request for assistance, using fillers, and asking for suggestions.",
+        "grammar_correctness": "partially correct, but 'finding hotel' should be 'finding a hotel' in native English."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, that is all for now, thank you. I will call if anything else, okay?",
+        "annotation_token": [
+            "No",
+            "that is all for now",
+            "thank you",
+            "I will call",
+            "if anything else",
+            "okay"
+        ],
+        "rationale": "The speaker is expressing negation, concluding the conversation, showing gratitude, making a future plan, and seeking confirmation.",
+        "grammar_correctness": "partially correct, but 'if anything else' should be 'if there is anything else' in native English."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes. I want to come in, uh, how to say... maybe in December.",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "I want to come in",
+            "uh",
+            "how to say",
+            "maybe in December"
+        ],
+        "rationale": "The speaker is expressing agreement and intention, using fillers to think about how to express themselves, and making a tentative plan.",
+        "grammar_correctness": "partially correct, but 'I want to come in' is not a complete expression in native English; it should be 'I want to come in December.'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. I might need help with, uh, finding hotel. You can suggest some?",
+        "annotation_token": [
+            "Yes",
+            "please",
+            "I might need help",
+            "uh",
+            "finding hotel",
+            "You can suggest some"
+        ],
+        "rationale": "The speaker is expressing agreement, making a polite request for assistance, using fillers, and asking for suggestions.",
+        "grammar_correctness": "partially correct, but 'finding hotel' should be 'finding a hotel' in native English."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, that is all for now, thank you. I will call if anything else, okay?",
+        "annotation_token": [
+            "No",
+            "that is all for now",
+            "thank you",
+            "I will call",
+            "if anything else",
+            "okay"
+        ],
+        "rationale": "The speaker is expressing negation, concluding the conversation, showing gratitude, making a future plan, and seeking confirmation.",
+        "grammar_correctness": "partially correct, but 'if anything else' should be 'if there is anything else' in native English."
+    }
+]

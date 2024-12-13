@@ -1,0 +1,47 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good morning! I'm doing well, thank you. A bit nervous, to be honest, but excited to be here.",
+        "annotation_token": [
+            "Good morning",
+            "thank you",
+            "to be honest",
+            "excited to be here"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Good morning'), an expression of gratitude ('thank you'), an expression of honesty ('to be honest'), and an expression of excitement ('excited to be here').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for the opportunity. I appreciate it, and I look forward to hearing from you.",
+        "annotation_token": [
+            "Thank you",
+            "I appreciate it",
+            "I look forward to hearing from you"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an expression of gratitude ('Thank you'), an expression of appreciation ('I appreciate it'), and an expression of anticipation ('I look forward to hearing from you').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good morning! I'm doing well, thank you. A bit nervous, to be honest, but excited to be here.",
+        "annotation_token": [
+            "Good morning",
+            "thank you",
+            "excited to be here"
+        ],
+        "rationale": "The sentence contains speech acts such as greetings ('Good morning'), expressions of gratitude ('thank you'), and expressions of emotion ('excited to be here').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for the opportunity. I appreciate it, and I look forward to hearing from you.",
+        "annotation_token": [
+            "Thank you",
+            "I appreciate it",
+            "look forward to hearing from you"
+        ],
+        "rationale": "The sentence contains speech acts such as expressions of gratitude ('Thank you', 'I appreciate it') and expressions of anticipation ('look forward to hearing from you').",
+        "grammar_correctness": "correct"
+    }
+]

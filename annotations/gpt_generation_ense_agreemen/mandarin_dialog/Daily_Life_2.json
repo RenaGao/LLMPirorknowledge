@@ -1,0 +1,124 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, hello! It is good, thank you. I still have many box, but almost done.",
+        "annotation_token": [
+            "is",
+            "have"
+        ],
+        "rationale": "The sentence uses present tense verbs 'is' and 'have' to describe the current state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Not yet. I think... uh, maybe tomorrow. I want to make my favorite meal.",
+        "annotation_token": [
+            "think",
+            "want"
+        ],
+        "rationale": "The sentence uses present tense verbs 'think' and 'want' to express current thoughts and desires.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "First, I need to buy ingredient. I go to supermarket. Need noodle, pork, and... um, soybean paste?",
+        "annotation_token": [
+            "need",
+            "go",
+            "Need"
+        ],
+        "rationale": "The sentence uses present tense verbs 'need' and 'go' to describe current actions and requirements.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I cook pork with oil and onion. Then add paste, and, uh... some sugar and soy sauce for taste.",
+        "annotation_token": [
+            "cook",
+            "add"
+        ],
+        "rationale": "The sentence uses present tense verbs 'cook' and 'add' to describe the process of cooking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, yes. I use... um, cucumber and carrot. I cut, uh... slice them small.",
+        "annotation_token": [
+            "use",
+            "cut"
+        ],
+        "rationale": "The sentence uses present tense verbs 'use' and 'cut' to describe the actions being performed.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, no. I, uh... put noodle and then sauce on top. Vegetables last. Mix on plate.",
+        "annotation_token": [
+            "put",
+            "Mix"
+        ],
+        "rationale": "The sentence uses present tense verbs 'put' and 'Mix' to describe the sequence of actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Sometimes I add chili. But, um, not too much. Do you like spicy?",
+        "annotation_token": [
+            "add",
+            "like"
+        ],
+        "rationale": "The sentence uses present tense verbs 'add' and 'like' to describe habitual actions and preferences.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Maybe... um, cook pork just right. Not too dry. It need practice, I think.",
+        "annotation_token": [
+            "need",
+            "think"
+        ],
+        "rationale": "The sentence uses present tense verbs 'need' and 'think' to express current needs and thoughts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Sometimes soup. But usually, just noodle is okay. Easy to eat.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The sentence uses present tense verb 'is' to describe the current state of the noodles.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, yes! That would be fun. I can show you more Chinese food.",
+        "annotation_token": [
+            "can",
+            "show"
+        ],
+        "rationale": "The sentence uses present tense modal 'can' and verb 'show' to express ability and intention.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you for listening. I hope you like it when I make.",
+        "annotation_token": [
+            "hope",
+            "like",
+            "make"
+        ],
+        "rationale": "The sentence uses present tense verbs 'hope', 'like', and 'make' to express current feelings and actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Okay, thank you! I will ask if I need he",
+        "annotation_token": [
+            "will",
+            "ask",
+            "need"
+        ],
+        "rationale": "The sentence uses future tense modal 'will' and present tense verbs 'ask' and 'need' to express future intention and current need.",
+        "grammar_correctness": "correct"
+    }
+]

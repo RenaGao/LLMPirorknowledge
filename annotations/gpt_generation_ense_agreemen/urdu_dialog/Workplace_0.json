@@ -1,0 +1,49 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, so, uh, the first is with the, um, software. It have some bugs we not, uh, expected.",
+        "annotation_token": [
+            "have",
+            "expected"
+        ],
+        "rationale": "The verb 'have' should agree in tense with the subject 'It', which requires 'has'. The verb 'expected' should be in the past participle form 'have expected' to agree with the present perfect tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, some bugs from the new update. We, uh, fixing them now, but it take time.",
+        "annotation_token": [
+            "fixing",
+            "take"
+        ],
+        "rationale": "The verb 'fixing' should be preceded by 'are' to form the present continuous tense 'are fixing'. The verb 'take' should be 'takes' to agree with the singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, and, uh, the data for analysis. We still waiting for, um, some files.",
+        "annotation_token": [
+            "waiting"
+        ],
+        "rationale": "The verb 'waiting' should be preceded by 'are' to form the present continuous tense 'are waiting'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I send them email, but, uh, no reply yet. Maybe you can, um, follow up?",
+        "annotation_token": [
+            "send"
+        ],
+        "rationale": "The verb 'send' should be in the past tense 'sent' to agree with the past action.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you, I will. I want to, uh, make sure everything done on time.",
+        "annotation_token": [
+            "done"
+        ],
+        "rationale": "The verb 'done' should be preceded by 'is' to form the passive voice 'is done'.",
+        "grammar_correctness": "wrong"
+    }
+]

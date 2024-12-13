@@ -1,0 +1,60 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I think is okay. One month, good. Um, sometimes, I do only two weeks before.",
+        "annotation_token": [
+            "One",
+            "two"
+        ],
+        "rationale": "The sentence contains numerals 'One' and 'two' which are used to quantify time periods.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, Hootsuite, I know little. Buffer... not much. Maybe... you show me?",
+        "annotation_token": [
+            "little",
+            "much"
+        ],
+        "rationale": "The sentence contains quantifiers 'little' and 'much' which are used to express the amount of knowledge.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "End of month, I understand. I will work hard to meet.",
+        "annotation_token": [
+            "End"
+        ],
+        "rationale": "The word 'End' is used as a quantifier to specify the time period within the month.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I think is okay. One month, good. Um, sometimes, I do only two weeks before.",
+        "annotation_token": [
+            "One",
+            "two"
+        ],
+        "rationale": "The sentence contains numerals 'One' and 'two' which are used to quantify time periods.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, Hootsuite, I know little. Buffer... not much. Maybe... you show me?",
+        "annotation_token": [
+            "little",
+            "much"
+        ],
+        "rationale": "The sentence contains quantifiers 'little' and 'much' which are used to express the amount of knowledge.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "End of month, I understand. I will work hard to meet.",
+        "annotation_token": [
+            "End"
+        ],
+        "rationale": "The word 'End' is used as a quantifier to specify the time period within the month.",
+        "grammar_correctness": true
+    }
+]

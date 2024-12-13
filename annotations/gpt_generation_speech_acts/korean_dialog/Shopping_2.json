@@ -1,0 +1,200 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, hello. I have, um, problem with product I buy. Can I, uh, return it?",
+        "annotation_token": [
+            "Ah",
+            "hello",
+            "Can",
+            "I",
+            "return",
+            "it"
+        ],
+        "rationale": "The sentence contains a greeting ('Ah, hello') and a request ('Can I, uh, return it?'), both of which are speech acts.",
+        "grammar_correctness": "partially correct, but lacks articles and proper tense usage"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it is not working. I think... ah, maybe it is broken when I open.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "think",
+            "ah",
+            "maybe"
+        ],
+        "rationale": "The sentence contains an assertion ('Yes, it is not working') and an expression of uncertainty ('I think... ah, maybe'), both of which are speech acts.",
+        "grammar_correctness": "partially correct, but lacks proper tense usage"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, how to say... I want, uh, same product but new one. Exchange, please.",
+        "annotation_token": [
+            "Um",
+            "how",
+            "to",
+            "say",
+            "I",
+            "want",
+            "Exchange",
+            "please"
+        ],
+        "rationale": "The sentence contains a request for clarification ('Um, how to say...') and a request for exchange ('Exchange, please'), both of which are speech acts.",
+        "grammar_correctness": "partially correct, but lacks articles and proper sentence structure"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much. I wait here, yes?",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "I",
+            "wait",
+            "yes"
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you very much') and a request for confirmation ('I wait here, yes?'), both of which are speech acts.",
+        "grammar_correctness": "partially correct, but lacks proper tense usage"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, okay. Let me see... Ah, yes, this one looks good.",
+        "annotation_token": [
+            "Yes",
+            "okay",
+            "Let",
+            "me",
+            "see",
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The sentence contains an agreement ('Yes, okay') and an expression of approval ('Ah, yes, this one looks good'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I think... no. That is all. Thank you for help.",
+        "annotation_token": [
+            "Um",
+            "I",
+            "think",
+            "no",
+            "Thank",
+            "you"
+        ],
+        "rationale": "The sentence contains an expression of uncertainty ('Um, I think... no') and an expression of gratitude ('Thank you for help'), both of which are speech acts.",
+        "grammar_correctness": "partially correct, but lacks articles"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will. Thank you. Have nice day!",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "will",
+            "Thank",
+            "you",
+            "Have"
+        ],
+        "rationale": "The sentence contains an agreement ('Yes, I will') and an expression of gratitude ('Thank you'), both of which are speech acts.",
+        "grammar_correctness": "partially correct, but lacks articles"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, hello. I have, um, problem with product I buy. Can I, uh, return it?",
+        "annotation_token": [
+            "Ah",
+            "hello",
+            "Can",
+            "I",
+            "return",
+            "it"
+        ],
+        "rationale": "The sentence contains a greeting ('Ah, hello') and a request ('Can I, uh, return it?'), both of which are speech acts.",
+        "grammar_correctness": "partially correct, but lacks articles and proper verb tense"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it is not working. I think... ah, maybe it is broken when I open.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "think",
+            "ah",
+            "maybe"
+        ],
+        "rationale": "The sentence includes an assertion ('Yes, it is not working') and an expression of uncertainty ('I think... ah, maybe'), both of which are speech acts.",
+        "grammar_correctness": "partially correct, but lacks proper verb tense"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, how to say... I want, uh, same product but new one. Exchange, please.",
+        "annotation_token": [
+            "Um",
+            "how",
+            "to",
+            "say",
+            "I",
+            "want",
+            "Exchange",
+            "please"
+        ],
+        "rationale": "The sentence includes a request for clarification ('Um, how to say...') and a request for exchange ('Exchange, please'), both of which are speech acts.",
+        "grammar_correctness": "partially correct, but lacks articles and proper sentence structure"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much. I wait here, yes?",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "I",
+            "wait",
+            "yes"
+        ],
+        "rationale": "The sentence includes an expression of gratitude ('Thank you very much') and a request for confirmation ('I wait here, yes?'), both of which are speech acts.",
+        "grammar_correctness": "partially correct, but lacks proper verb tense"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, okay. Let me see... Ah, yes, this one looks good.",
+        "annotation_token": [
+            "Yes",
+            "okay",
+            "Let",
+            "me",
+            "see",
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The sentence includes an agreement ('Yes, okay') and an expression of approval ('Ah, yes, this one looks good'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I think... no. That is all. Thank you for help.",
+        "annotation_token": [
+            "Um",
+            "I",
+            "think",
+            "no",
+            "Thank",
+            "you"
+        ],
+        "rationale": "The sentence includes an expression of uncertainty ('Um, I think... no') and an expression of gratitude ('Thank you for help'), both of which are speech acts.",
+        "grammar_correctness": "partially correct, but lacks articles"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will. Thank you. Have nice day!",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "will",
+            "Thank",
+            "you",
+            "Have"
+        ],
+        "rationale": "The sentence includes an agreement ('Yes, I will') and an expression of gratitude ('Thank you'), both of which are speech acts.",
+        "grammar_correctness": "partially correct, but lacks articles"
+    }
+]

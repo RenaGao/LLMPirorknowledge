@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "The numbers, they not match.",
+        "annotation_token": "they not match",
+        "rationale": "The subject 'numbers' is plural, so the verb should be 'do not match' to agree in number.",
+        "grammar_correctness": "wrong"
+    }
+]

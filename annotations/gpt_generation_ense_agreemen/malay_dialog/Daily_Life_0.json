@@ -1,0 +1,34 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Good morning! Uh, my morning... um, it start early. I wake up at, um, six o'clock.",
+        "annotation_token": [
+            "start",
+            "wake"
+        ],
+        "rationale": "The verbs 'start' and 'wake' should be in the present tense to agree with the subject 'it' and 'I'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I work at office. So, I need to drive there. It take, um, 30 minutes.",
+        "annotation_token": [
+            "work",
+            "need",
+            "take"
+        ],
+        "rationale": "The verbs 'work', 'need', and 'take' should be in the present tense to agree with the subject 'I' and 'It'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you! I try to keep it, um, same every day. Help me start go",
+        "annotation_token": [
+            "try",
+            "keep",
+            "Help"
+        ],
+        "rationale": "The verbs 'try', 'keep', and 'Help' should be in the present tense to agree with the subject 'I'.",
+        "grammar_correctness": "wrong"
+    }
+]

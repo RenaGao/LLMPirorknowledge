@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, yes, my favorite meal is nasi lemak. It is, um, rice with coconut... coconut, uh, flavor.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer back to 'nasi lemak', which is the subject of the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Next, I prepare sambal. It's... uh, spicy chili sauce.",
+        "annotation_token": "It's",
+        "rationale": "The contraction 'It's' refers back to 'sambal', which is the subject of the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, not every day. Maybe... once a week. It is special, you know?",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers back to 'nasi lemak', which is the subject being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you! I hope you will like it. It is very... um, how to say... meaningful to share this food with you.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers back to 'nasi lemak', which is the subject being discussed.",
+        "grammar_correctness": true
+    }
+]

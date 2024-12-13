@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hello! Yes, I am ready. I want to buy... um, how to say... bracelet, yes, bracelet.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hmm, I think maybe, uh... not too expensive. Maybe... 300 baht?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, please! I not so good with... um, bargain, yes?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay! Um, this shop looks nice. Can we look here?",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and another person.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, this one is very nice. How to say... colorful?",
+        "annotation_token": "this one",
+        "rationale": "The phrase 'this one' is a reference word referring to a specific item being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, uh, it more than I think. Can we ask for lower?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the price.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, okay. Can you give me, uh, discount?",
+        "annotation_token": "me",
+        "rationale": "The word 'me' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, still a little high. What should I do?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay. How about 350 baht?",
+        "annotation_token": "How",
+        "rationale": "The word 'How' is a reference word referring to the manner or way of doing something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, thank you! I happy with this price.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you for help. I learn much today.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": false
+    }
+]

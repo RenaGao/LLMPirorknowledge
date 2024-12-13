@@ -1,0 +1,11 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, yes! It work. Which time we meet?",
+        "annotation_token": [
+            "It work"
+        ],
+        "rationale": "The subject 'It' is singular, but the verb 'work' is in the plural form. The correct form should be 'It works'.",
+        "grammar_correctness": "wrong"
+    }
+]

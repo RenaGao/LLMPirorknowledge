@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hi, um, I am not, uh, clear about the homework assignment.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, the topic is... um, importance of... uh, reading.",
+        "annotation_token": "the",
+        "rationale": "The word 'the' is a reference word referring to a specific topic previously mentioned or understood in the context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, yes. How many, um, words we need write?",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and others involved in the conversation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, it help. But, um, I not sure... how to start?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the help or information previously mentioned.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, okay. Explain why I choose... um, reading?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay, I understand. And, um, how many paragraph... need?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay, three to five. Um, body paragraph is... details?",
+        "annotation_token": "body",
+        "rationale": "The word 'body' is a reference word referring to a specific part of the essay structure.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, I see. And conclusion is, um, summary?",
+        "annotation_token": "conclusion",
+        "rationale": "The word 'conclusion' is a reference word referring to a specific part of the essay structure.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, if I have question, I will ask you. Thank you, teacher!",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I not understand how to, um, solve it.",
+        "annotation_token": "I not understand",
+        "rationale": "The subject 'I' does not agree with the verb 'understand'. The correct form should be 'I do not understand'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Pythagorean... um, I not sure what it mean.",
+        "annotation_token": "I not sure",
+        "rationale": "The subject 'I' does not agree with the verb 'sure'. The correct form should be 'I am not sure'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, please. I not remember how it work.",
+        "annotation_token": "I not remember",
+        "rationale": "The subject 'I' does not agree with the verb 'remember'. The correct form should be 'I do not remember'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes, but I confuse about which is hypotenuse.",
+        "annotation_token": "I confuse",
+        "rationale": "The subject 'I' does not agree with the verb 'confuse'. The correct form should be 'I am confused'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "No, I think I good for now.",
+        "annotation_token": "I good",
+        "rationale": "The subject 'I' does not agree with the verb 'good'. The correct form should be 'I am good'.",
+        "grammar_correctness": "wrong"
+    }
+]

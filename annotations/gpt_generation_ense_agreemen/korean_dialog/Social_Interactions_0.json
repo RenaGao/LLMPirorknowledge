@@ -1,0 +1,21 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, my friend invite me. He say it will be fun.",
+        "annotation_token": [
+            "invite",
+            "say"
+        ],
+        "rationale": "The verbs 'invite' and 'say' should be in the past tense to agree with the context of the sentence, which is referring to a past event.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, we study... um, business together. But now, I work in marketing.",
+        "annotation_token": [
+            "study"
+        ],
+        "rationale": "The verb 'study' should be in the past tense to agree with the context of the sentence, which is referring to a past event.",
+        "grammar_correctness": "wrong"
+    }
+]

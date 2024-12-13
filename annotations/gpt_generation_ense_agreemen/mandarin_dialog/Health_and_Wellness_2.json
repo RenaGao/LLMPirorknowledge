@@ -1,0 +1,73 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, yes, thank you. I, um, like to do... uh, running. I run in park, maybe three times week.",
+        "annotation_token": [
+            "like",
+            "run"
+        ],
+        "rationale": "The verbs 'like' and 'run' are in the present tense, which is consistent with the habitual action described in the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I run, um, maybe... thirty minutes? Sometimes more, if I have, uh... how to say... energy.",
+        "annotation_token": [
+            "run",
+            "have"
+        ],
+        "rationale": "The verbs 'run' and 'have' are in the present tense, which is consistent with the habitual action described in the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I want to, uh, lose weight and maybe... build muscle, too.",
+        "annotation_token": [
+            "want",
+            "lose",
+            "build"
+        ],
+        "rationale": "The verbs 'want', 'lose', and 'build' are in the present tense, which is consistent with the speaker's current desires and intentions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Okay, sounds good. I am, uh, excited to learn. Is it, um, difficult?",
+        "annotation_token": [
+            "am",
+            "is"
+        ],
+        "rationale": "The verbs 'am' and 'is' are in the present tense, which is consistent with the speaker's current state and inquiry.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, diet... um, I try to eat healthy, but sometimes I eat... um, fast food?",
+        "annotation_token": [
+            "try",
+            "eat"
+        ],
+        "rationale": "The verbs 'try' and 'eat' are in the present tense, which is consistent with the habitual actions described in the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I would like that. I think it's, um, hard to know what is best.",
+        "annotation_token": [
+            "would like",
+            "think",
+            "is"
+        ],
+        "rationale": "The verbs 'would like' and 'think' are in the present tense, and 'is' is in the present tense, which is consistent with the speaker's current thoughts and desires.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Okay, I am ready. Thank you for help.",
+        "annotation_token": [
+            "am"
+        ],
+        "rationale": "The verb 'am' is in the present tense, which is consistent with the speaker's current state of readiness.",
+        "grammar_correctness": "correct"
+    }
+]

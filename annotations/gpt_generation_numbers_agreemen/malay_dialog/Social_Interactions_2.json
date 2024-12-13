@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I want see... um, new places. Your family all well, yes?",
+        "annotation_token": "places",
+        "rationale": "The noun 'places' is plural, but the verb 'want' is not directly related to the number agreement. However, the sentence structure suggests a missing auxiliary verb 'to' before 'see', which is not a number agreement issue.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I will plan. Thank you for call. It was nice talk, Aina.",
+        "annotation_token": "call, talk",
+        "rationale": "The nouns 'call' and 'talk' are singular, and the sentence structure is correct in terms of number agreement. However, the article 'a' is missing before 'call' and 'talk', which is not a number agreement issue.",
+        "grammar_correctness": "correct"
+    }
+]

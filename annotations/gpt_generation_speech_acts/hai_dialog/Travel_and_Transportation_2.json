@@ -1,0 +1,187 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello! Everything good. How about you?",
+        "annotation_token": [
+            "Hello",
+            "How about you"
+        ],
+        "rationale": "The tokens 'Hello' and 'How about you' are used as speech acts to greet and inquire about the other person's well-being.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes! I like this idea. Um, we need to choose place, right?",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "I like this idea",
+            "we need to choose place, right"
+        ],
+        "rationale": "The tokens 'Oh, yes' express agreement, 'I like this idea' expresses a positive opinion, and 'we need to choose place, right' is a suggestion and request for confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, maybe go to Chiang Mai. It is nice there, yes?",
+        "annotation_token": [
+            "Hmm",
+            "maybe go to Chiang Mai",
+            "It is nice there, yes"
+        ],
+        "rationale": "The token 'Hmm' indicates thinking, 'maybe go to Chiang Mai' is a suggestion, and 'It is nice there, yes' is a request for confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, night market good. And, uh, we can also go to... um, mountain? How to say...",
+        "annotation_token": [
+            "Yes",
+            "night market good",
+            "we can also go to",
+            "How to say"
+        ],
+        "rationale": "The token 'Yes' expresses agreement, 'night market good' is an opinion, 'we can also go to' is a suggestion, and 'How to say' is a request for help with language.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, Doi Suthep! We can see view from there.",
+        "annotation_token": [
+            "Yes",
+            "Doi Suthep",
+            "We can see view from there"
+        ],
+        "rationale": "The token 'Yes' expresses agreement, 'Doi Suthep' is a suggestion, and 'We can see view from there' is an informative statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe three day? Not too long, not too short.",
+        "annotation_token": [
+            "Maybe three day",
+            "Not too long, not too short"
+        ],
+        "rationale": "The token 'Maybe three day' is a suggestion, and 'Not too long, not too short' is an opinion.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think we can, um, do cooking class. Thai food class is famous.",
+        "annotation_token": [
+            "I think we can",
+            "do cooking class",
+            "Thai food class is famous"
+        ],
+        "rationale": "The token 'I think we can' is a suggestion, 'do cooking class' is a proposal, and 'Thai food class is famous' is an informative statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, and then we eat what we cook. Very tasty!",
+        "annotation_token": [
+            "Yes",
+            "we eat what we cook",
+            "Very tasty"
+        ],
+        "rationale": "The token 'Yes' expresses agreement, 'we eat what we cook' is a plan, and 'Very tasty' is an opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think maybe Nuch and Ploy want to come. I ask them.",
+        "annotation_token": [
+            "I think maybe",
+            "Nuch and Ploy want to come",
+            "I ask them"
+        ],
+        "rationale": "The token 'I think maybe' is a suggestion, 'Nuch and Ploy want to come' is a prediction, and 'I ask them' is a plan.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I ask them today. And we can discuss more later.",
+        "annotation_token": [
+            "Okay",
+            "I ask them today",
+            "we can discuss more later"
+        ],
+        "rationale": "The token 'Okay' expresses agreement, 'I ask them today' is a plan, and 'we can discuss more later' is a suggestion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, me too! Will be fun trip. Thank you for plan this.",
+        "annotation_token": [
+            "Yes",
+            "me too",
+            "Will be fun trip",
+            "Thank you for plan this"
+        ],
+        "rationale": "The token 'Yes' expresses agreement, 'me too' expresses shared sentiment, 'Will be fun trip' is an opinion, and 'Thank you for plan this' is an expression of gratitude.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello! Everything good. How about you?",
+        "annotation_token": [
+            "Hello",
+            "How about you"
+        ],
+        "rationale": "The sentence contains speech acts of greeting ('Hello') and inquiry ('How about you?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes! I like this idea. Um, we need to choose place, right?",
+        "annotation_token": [
+            "Oh, yes",
+            "I like this idea",
+            "we need to choose place, right"
+        ],
+        "rationale": "The sentence contains speech acts of agreement ('Oh, yes'), expressing preference ('I like this idea'), and suggestion ('we need to choose place, right?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, night market good.",
+        "annotation_token": [
+            "Yes",
+            "night market good"
+        ],
+        "rationale": "The sentence contains speech acts of agreement ('Yes') and suggestion ('night market good').",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think maybe Nuch and Ploy want to come. I ask them.",
+        "annotation_token": [
+            "I think",
+            "I ask them"
+        ],
+        "rationale": "The sentence contains speech acts of expressing opinion ('I think') and intention ('I ask them').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I ask them today. And we can discuss more later.",
+        "annotation_token": [
+            "Okay",
+            "I ask them today",
+            "we can discuss more later"
+        ],
+        "rationale": "The sentence contains speech acts of agreement ('Okay'), intention ('I ask them today'), and suggestion ('we can discuss more later').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, me too! Will be fun trip. Thank you for plan this.",
+        "annotation_token": [
+            "Yes",
+            "me too",
+            "Thank you for plan this"
+        ],
+        "rationale": "The sentence contains speech acts of agreement ('Yes'), expressing shared feeling ('me too'), and gratitude ('Thank you for plan this').",
+        "grammar_correctness": "incorrect"
+    }
+]

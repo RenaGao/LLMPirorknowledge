@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, um, I can talk now. The project, it is, uh, almost done, but some thing, uh, not finished.",
+        "annotation_token": "some thing",
+        "rationale": "The phrase 'some thing' should be 'some things' to agree in number with the context of multiple unfinished items.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Uh, the report is... um, how to say... not completed. Only section three and four need more work.",
+        "annotation_token": "section three and four",
+        "rationale": "The phrase 'section three and four' should be 'sections three and four' to agree in number with the plural context.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Uh, no, I think others are okay now. Just need, um, more focus.",
+        "annotation_token": "others",
+        "rationale": "The word 'others' is correctly used to refer to multiple items or people, showing correct number agreement.",
+        "grammar_correctness": "correct"
+    }
+]

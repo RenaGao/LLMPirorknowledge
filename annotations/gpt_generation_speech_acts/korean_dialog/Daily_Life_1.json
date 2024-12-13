@@ -1,0 +1,58 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello, I am good, thank you.",
+        "annotation_token": [
+            "Hello",
+            "thank you"
+        ],
+        "rationale": "The tokens 'Hello' and 'thank you' are used as speech acts to greet and express gratitude, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you.",
+        "annotation_token": [
+            "thank you"
+        ],
+        "rationale": "The token 'thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much!",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The phrase 'Thank you very much' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello, I am good, thank you.",
+        "annotation_token": [
+            "Hello",
+            "thank you"
+        ],
+        "rationale": "The tokens 'Hello' and 'thank you' are used as speech acts to greet and express gratitude, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you.",
+        "annotation_token": [
+            "thank you"
+        ],
+        "rationale": "The token 'thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much!",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The phrase 'Thank you very much' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

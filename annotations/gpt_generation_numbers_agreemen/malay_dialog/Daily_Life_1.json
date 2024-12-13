@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "We maybe go... how to say... the big park near river. What it call?",
+        "annotation_token": "it call",
+        "rationale": "The subject 'it' is singular, but the verb 'call' should be 'calls' to agree in number with the singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "It very nice there.",
+        "annotation_token": "It very",
+        "rationale": "The subject 'It' is singular, but the verb 'is' is missing to agree in number with the singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "My brother want to play, um, football. My sister like... uh, flying kite.",
+        "annotation_token": "brother want, sister like",
+        "rationale": "The subjects 'brother' and 'sister' are singular, but the verbs 'want' and 'like' should be 'wants' and 'likes' to agree in number with the singular subjects.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I must remember... um, bring water, and maybe... mats for sit.",
+        "annotation_token": "mats for sit",
+        "rationale": "The noun 'mats' is plural, but the verb 'sit' should be 'sitting' to correctly form the phrase 'mats for sitting'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I will tell you how it go",
+        "annotation_token": "it go",
+        "rationale": "The subject 'it' is singular, but the verb 'go' should be 'goes' to agree in number with the singular subject.",
+        "grammar_correctness": "wrong"
+    }
+]

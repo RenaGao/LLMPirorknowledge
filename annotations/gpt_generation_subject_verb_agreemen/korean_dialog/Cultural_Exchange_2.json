@@ -1,0 +1,155 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We, um, gather with family.",
+        "annotation_token": [
+            "We",
+            "gather"
+        ],
+        "rationale": "The subject 'We' is plural and the verb 'gather' correctly agrees with it in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "And, uh, we eat special food.",
+        "annotation_token": [
+            "we",
+            "eat"
+        ],
+        "rationale": "The subject 'we' is plural and the verb 'eat' correctly agrees with it in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is called... songpyeon.",
+        "annotation_token": [
+            "It",
+            "is"
+        ],
+        "rationale": "The subject 'It' is singular and the verb 'is' correctly agrees with it in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is sweet a little bit.",
+        "annotation_token": [
+            "It",
+            "is"
+        ],
+        "rationale": "The subject 'It' is singular and the verb 'is' correctly agrees with it in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, we, uh, visit... ancestors' graves.",
+        "annotation_token": [
+            "we",
+            "visit"
+        ],
+        "rationale": "The subject 'we' is plural and the verb 'visit' correctly agrees with it in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We also, um, play games.",
+        "annotation_token": [
+            "We",
+            "play"
+        ],
+        "rationale": "The subject 'We' is plural and the verb 'play' correctly agrees with it in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is a board game with, um, sticks.",
+        "annotation_token": [
+            "It",
+            "is"
+        ],
+        "rationale": "The subject 'It' is singular and the verb 'is' correctly agrees with it in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, it is, um, hard to explain.",
+        "annotation_token": [
+            "it",
+            "is"
+        ],
+        "rationale": "The subject 'it' is singular and the verb 'is' correctly agrees with it in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is very fun.",
+        "annotation_token": [
+            "It",
+            "is"
+        ],
+        "rationale": "The subject 'It' is singular and the verb 'is' correctly agrees with it in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, um, when I was child, I made songpyeon with my grandmother.",
+        "annotation_token": [
+            "I",
+            "was"
+        ],
+        "rationale": "The subject 'I' is singular and the verb 'was' correctly agrees with it in the past tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It was... very special.",
+        "annotation_token": [
+            "It",
+            "was"
+        ],
+        "rationale": "The subject 'It' is singular and the verb 'was' correctly agrees with it in the past tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "My mother makes it better!",
+        "annotation_token": [
+            "My mother",
+            "makes"
+        ],
+        "rationale": "The subject 'My mother' is singular and the verb 'makes' correctly agrees with it in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We, uh, talk and eat.",
+        "annotation_token": [
+            "We",
+            "talk",
+            "eat"
+        ],
+        "rationale": "The subject 'We' is plural and the verbs 'talk' and 'eat' correctly agree with it in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It's, uh, warm feeling.",
+        "annotation_token": [
+            "It",
+            "is"
+        ],
+        "rationale": "The subject 'It' is singular and the verb 'is' correctly agrees with it in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "But I, um, call them, and we talk.",
+        "annotation_token": [
+            "I",
+            "call",
+            "we",
+            "talk"
+        ],
+        "rationale": "The subject 'I' is singular and the verb 'call' correctly agrees with it in the present tense. The subject 'we' is plural and the verb 'talk' correctly agrees with it in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

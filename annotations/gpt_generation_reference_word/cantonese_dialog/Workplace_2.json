@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I have some question. I need to, um, understand the report. It is a bit confusing.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to 'the report' mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes, it go up in March and April. That mean more sales?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to 'the trend' or 'the line graph' mentioned earlier.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um... it go down. So less sales, right?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to 'the trend' or 'the line graph' mentioned earlier.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, I will try my best! Can you show me who to contact?",
+        "annotation_token": "who",
+        "rationale": "The word 'who' is used as a reference to a person or people the speaker needs to contact.",
+        "grammar_correctness": true
+    }
+]

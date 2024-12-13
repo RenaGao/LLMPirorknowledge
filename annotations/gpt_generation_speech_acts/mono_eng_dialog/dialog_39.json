@@ -1,0 +1,124 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi Alex, nice to meet you.",
+        "annotation_token": [
+            "Hi",
+            "nice to meet you"
+        ],
+        "rationale": "The sentence contains a greeting and a polite expression of pleasure in meeting someone, which are common speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure!",
+        "annotation_token": [
+            "Sure"
+        ],
+        "rationale": "The word 'Sure' is used as an affirmative response, which is a speech act of agreement or consent.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I believe my greatest strength is my ability to communicate effectively.",
+        "annotation_token": [
+            "I believe",
+            "my greatest strength",
+            "my ability to communicate effectively"
+        ],
+        "rationale": "The sentence includes an expression of belief and self-assessment, which are speech acts of stating personal opinion and self-evaluation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I was wondering about the team dynamics here.",
+        "annotation_token": [
+            "Yes",
+            "I was wondering"
+        ],
+        "rationale": "The sentence includes an affirmative response and an expression of curiosity or inquiry, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for the information and for the opportunity to interview, Alex.",
+        "annotation_token": [
+            "Thank you",
+            "for the information",
+            "for the opportunity to interview"
+        ],
+        "rationale": "The sentence includes expressions of gratitude, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Alex. Looking forward to it.",
+        "annotation_token": [
+            "Thank you",
+            "Looking forward to it"
+        ],
+        "rationale": "The sentence includes an expression of gratitude and anticipation, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi Alex, nice to meet you.",
+        "annotation_token": [
+            "Hi",
+            "nice to meet you"
+        ],
+        "rationale": "The sentence contains a greeting and a polite expression of pleasure in meeting someone, which are common speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure!",
+        "annotation_token": [
+            "Sure"
+        ],
+        "rationale": "The word 'Sure' is used as an affirmative response, which is a speech act of agreement or consent.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I believe my greatest strength is my ability to communicate effectively.",
+        "annotation_token": [
+            "I believe",
+            "my greatest strength",
+            "my ability to communicate effectively"
+        ],
+        "rationale": "The sentence includes an expression of belief and self-assessment, which are speech acts of stating personal opinion and self-evaluation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I was wondering about the team dynamics here.",
+        "annotation_token": [
+            "Yes",
+            "I was wondering"
+        ],
+        "rationale": "The sentence includes an affirmative response and an expression of curiosity or inquiry, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for the information and for the opportunity to interview, Alex.",
+        "annotation_token": [
+            "Thank you",
+            "for the information",
+            "for the opportunity to interview"
+        ],
+        "rationale": "The sentence includes expressions of gratitude, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Alex. Looking forward to it.",
+        "annotation_token": [
+            "Thank you",
+            "Looking forward to it"
+        ],
+        "rationale": "The sentence includes an expression of gratitude and anticipation, which are speech acts.",
+        "grammar_correctness": "correct"
+    }
+]

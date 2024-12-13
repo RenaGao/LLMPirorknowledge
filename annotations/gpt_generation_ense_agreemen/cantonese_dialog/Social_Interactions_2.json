@@ -1,0 +1,50 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "They are all well. My father, he retire—um, no work now.",
+        "annotation_token": [
+            "are",
+            "retire"
+        ],
+        "rationale": "The sentence contains a tense agreement error. 'They are all well' is in present tense, but 'he retire' should be 'he has retired' to maintain tense consistency.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "He enjoy a lot. Now he can, um, do garden every day. He very happy.",
+        "annotation_token": [
+            "enjoy",
+            "do",
+            "is"
+        ],
+        "rationale": "The sentence contains tense agreement errors. 'He enjoy' should be 'He enjoys' and 'He very happy' should be 'He is very happy' to maintain present tense consistency.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, he grow many thing. Vegetables, um... how to say... flowers too.",
+        "annotation_token": [
+            "grow"
+        ],
+        "rationale": "The sentence contains a tense agreement error. 'He grow' should be 'He grows' to maintain present tense consistency.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I think Japan first. I never go there, but I hear it is nice.",
+        "annotation_token": [
+            "go"
+        ],
+        "rationale": "The sentence contains a tense agreement error. 'I never go there' should be 'I have never gone there' to maintain present perfect tense consistency.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Maybe with friends. It's more fun, yes? We can see many thing together.",
+        "annotation_token": [
+            "see"
+        ],
+        "rationale": "The sentence contains a tense agreement error. 'We can see many thing' should be 'We can see many things' to maintain present tense consistency and correct plural form.",
+        "grammar_correctness": "wrong"
+    }
+]

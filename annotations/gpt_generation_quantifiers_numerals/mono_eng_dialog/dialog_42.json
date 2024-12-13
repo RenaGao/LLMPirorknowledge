@@ -1,0 +1,43 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It started yesterday after I installed some updates.",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier used to indicate an unspecified amount or number of updates.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It started yesterday after I installed some updates.",
+        "annotation_token": "some",
+        "rationale": "The word 'some' is a quantifier used to indicate an unspecified amount or number of updates.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I haven’t tried that yet.",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is used as a demonstrative pronoun, which can function similarly to a quantifier in this context, referring to a specific action or thing.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It started yesterday after I installed some updates.",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier used to indicate an unspecified amount or number of updates.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "quantifiers_and_numerals",
+        "annotation_sentence": "It started yesterday after I installed some updates. I'm not sure if that's related, though.",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier used here to indicate an unspecified quantity of updates.",
+        "grammar_correctness": true
+    }
+]

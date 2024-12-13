@@ -1,0 +1,87 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Not yet, but I want to try. You have any suggestion for me to read?",
+        "annotation_token": [
+            "Not yet",
+            "I want to try",
+            "You have any suggestion"
+        ],
+        "rationale": "The sentence contains multiple speech acts: 'Not yet' is a response to a previous question, 'I want to try' is an expression of intention, and 'You have any suggestion' is a request for information.",
+        "grammar_correctness": "The sentence has grammatical errors. 'You have any suggestion' should be 'Do you have any suggestions?' to align with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I hear about it. It is good book, right? What is it about?",
+        "annotation_token": [
+            "I hear about it",
+            "It is good book",
+            "What is it about"
+        ],
+        "rationale": "The sentence contains multiple speech acts: 'I hear about it' is a statement of knowledge, 'It is good book, right?' is a request for confirmation, and 'What is it about?' is a request for information.",
+        "grammar_correctness": "The sentence has grammatical errors. 'It is good book' should be 'It is a good book' to align with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, sound interesting. Why you think I should read it?",
+        "annotation_token": [
+            "sound interesting",
+            "Why you think I should read it"
+        ],
+        "rationale": "The sentence contains multiple speech acts: 'sound interesting' is an expression of opinion, and 'Why you think I should read it?' is a request for justification.",
+        "grammar_correctness": "The sentence has grammatical errors. 'sound interesting' should be 'sounds interesting' and 'Why you think I should read it?' should be 'Why do you think I should read it?' to align with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will check it out. Thank you for recommend... um, the recommendation!",
+        "annotation_token": [
+            "I will check it out",
+            "Thank you for recommend",
+            "the recommendation"
+        ],
+        "rationale": "The sentence contains multiple speech acts: 'I will check it out' is a promise or intention, 'Thank you for recommend' is an expression of gratitude, and 'the recommendation' is a correction or clarification.",
+        "grammar_correctness": "The sentence has grammatical errors. 'Thank you for recommend' should be 'Thank you for recommending' to align with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will tell you. Thank you again for suggestion!",
+        "annotation_token": [
+            "I will tell you",
+            "Thank you again for suggestion"
+        ],
+        "rationale": "The sentence contains multiple speech acts: 'I will tell you' is a promise or intention, and 'Thank you again for suggestion' is an expression of gratitude.",
+        "grammar_correctness": "The sentence has grammatical errors. 'Thank you again for suggestion' should be 'Thank you again for the suggestion' to align with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Not yet, but I want to try. You have any suggestion for me to read?",
+        "annotation_token": [
+            "Not yet",
+            "I want to try",
+            "You have any suggestion for me to read"
+        ],
+        "rationale": "The sentence contains multiple speech acts: expressing a state (Not yet), expressing a desire (I want to try), and making a request (You have any suggestion for me to read).",
+        "grammar_correctness": "The grammar is mostly correct, but 'You have any suggestion for me to read?' should be 'Do you have any suggestions for me to read?' to align with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I hear about it. It is good book, right? What is it about?",
+        "annotation_token": [
+            "I hear about it",
+            "It is good book, right?",
+            "What is it about?"
+        ],
+        "rationale": "The sentence contains multiple speech acts: stating knowledge (I hear about it), seeking confirmation (It is good book, right?), and asking for information (What is it about?).",
+        "grammar_correctness": "The grammar is mostly correct, but 'It is good book, right?' should be 'It is a good book, right?' to align with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, sound interesting. Why you think I should read it?",
+        "annotation_token": [
+            "Oh, sound interesting",
+            "Why you think I should read it?"
+        ],
+        "rationale": "The sentence contains multiple speech acts: expressing an opinion (Oh, sound interesting) and asking for a reason (Why you think I should read it?).",
+        "grammar_correctness": "The grammar is mostly correct, but 'Oh, sound interesting' should be 'Oh, it sounds interesting' and 'Why you think I should read it?' should be 'Why do you think I should read it?' to align with native English speaker's grammar usage."
+    }
+]

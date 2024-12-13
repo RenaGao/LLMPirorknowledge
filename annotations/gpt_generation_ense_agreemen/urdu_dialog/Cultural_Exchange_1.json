@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, etiquette! I watch a show, and it show how people eat in, um, places like France and Japan.",
+        "annotation_token": [
+            "watch",
+            "show"
+        ],
+        "rationale": "The verbs 'watch' and 'show' should agree in tense. 'Watch' is in present tense, but 'show' should be 'shows' to agree with the singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, we not use left hand, it is seen not proper.",
+        "annotation_token": [
+            "not use"
+        ],
+        "rationale": "The verb phrase 'not use' should be 'do not use' to correctly form the negative in present tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I agree. I think it make world feel, um, smaller and friendly.",
+        "annotation_token": [
+            "make"
+        ],
+        "rationale": "The verb 'make' should be 'makes' to agree with the singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    }
+]

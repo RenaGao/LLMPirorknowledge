@@ -1,0 +1,76 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hi! I'm a bit nervous, to be honest, but I'm also excited. This role sounds like a great fit for me.",
+        "annotation_token": [
+            "I'm",
+            "sounds"
+        ],
+        "rationale": "The sentence uses present tense consistently to describe the speaker's current feelings and the role's suitability.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Sure! I recently led a team on a marketing campaign for a tech startup. We focused on boosting online engagement through social media.",
+        "annotation_token": [
+            "led",
+            "focused"
+        ],
+        "rationale": "The sentence uses past tense consistently to describe actions that have been completed.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We implemented a mix of creative content and interactive posts. We also ran a series of live Q&A sessions, which really helped engage our audience.",
+        "annotation_token": [
+            "implemented",
+            "ran",
+            "helped"
+        ],
+        "rationale": "The sentence uses past tense consistently to describe actions that have been completed.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We tracked metrics like reach, impressions, and engagement rates. We also monitored follower growth and feedback from our audience.",
+        "annotation_token": [
+            "tracked",
+            "monitored"
+        ],
+        "rationale": "The sentence uses past tense consistently to describe actions that have been completed.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Communication was key. We held regular check-ins to address any issues promptly, and I made sure everyone felt supported.",
+        "annotation_token": [
+            "was",
+            "held",
+            "made",
+            "felt"
+        ],
+        "rationale": "The sentence uses past tense consistently to describe actions and states that have been completed.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I'm passionate about innovative marketing solutions, and I admire your company's forward-thinking approach. I believe my skills and values align well with your goals.",
+        "annotation_token": [
+            "I'm",
+            "admire",
+            "believe",
+            "align"
+        ],
+        "rationale": "The sentence uses present tense consistently to describe the speaker's current beliefs and admiration.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you for the opportunity! I look forward to hearing from you.",
+        "annotation_token": [
+            "look forward"
+        ],
+        "rationale": "The sentence uses present tense to express the speaker's current anticipation.",
+        "grammar_correctness": "correct"
+    }
+]

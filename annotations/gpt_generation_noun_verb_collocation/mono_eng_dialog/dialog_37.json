@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Well, your university's focus on research and innovation really appeals to me.",
+        "annotation_token": "focus on research",
+        "rationale": "The noun 'focus' and the verb 'appeals' form a collocation where 'focus' is the subject of the verb 'appeals'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I've read about the projects in renewable energy you're involved in, and I'd love to contribute to that field.",
+        "annotation_token": "projects in renewable energy",
+        "rationale": "The noun 'projects' and the verb 'contribute' form a collocation where 'projects' is the object of the verb 'contribute'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I completed a summer internship last year at a solar energy startup.",
+        "annotation_token": "completed a summer internship",
+        "rationale": "The noun 'internship' and the verb 'completed' form a collocation where 'internship' is the object of the verb 'completed'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "It taught me the importance of teamwork and adaptability.",
+        "annotation_token": "taught the importance",
+        "rationale": "The noun 'importance' and the verb 'taught' form a collocation where 'importance' is the object of the verb 'taught'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We faced some unexpected issues, and collaborating with others to find solutions was a big learning curve.",
+        "annotation_token": "faced some unexpected issues",
+        "rationale": "The noun 'issues' and the verb 'faced' form a collocation where 'issues' is the object of the verb 'faced'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Academically, I aim to deepen my knowledge and eventually work on impactful projects.",
+        "annotation_token": "deepen my knowledge",
+        "rationale": "The noun 'knowledge' and the verb 'deepen' form a collocation where 'knowledge' is the object of the verb 'deepen'.",
+        "grammar_correctness": true
+    }
+]

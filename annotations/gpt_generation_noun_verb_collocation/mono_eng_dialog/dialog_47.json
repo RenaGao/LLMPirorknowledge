@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Sure! I recently led a team on a marketing campaign for a tech startup.",
+        "annotation_token": "led a team",
+        "rationale": "The noun 'team' and the verb 'led' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We focused on boosting online engagement through social media.",
+        "annotation_token": "boosting online engagement",
+        "rationale": "The noun 'engagement' and the verb 'boosting' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We implemented a mix of creative content and interactive posts.",
+        "annotation_token": "implemented a mix",
+        "rationale": "The noun 'mix' and the verb 'implemented' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We also ran a series of live Q&A sessions, which really helped engage our audience.",
+        "annotation_token": "ran a series",
+        "rationale": "The noun 'series' and the verb 'ran' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We tracked metrics like reach, impressions, and engagement rates.",
+        "annotation_token": "tracked metrics",
+        "rationale": "The noun 'metrics' and the verb 'tracked' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We also monitored follower growth and feedback from our audience.",
+        "annotation_token": "monitored follower growth",
+        "rationale": "The noun 'growth' and the verb 'monitored' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Communication was key.",
+        "annotation_token": "was key",
+        "rationale": "The noun 'key' and the verb 'was' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We held regular check-ins to address any issues promptly, and I made sure everyone felt supported.",
+        "annotation_token": "held regular check-ins",
+        "rationale": "The noun 'check-ins' and the verb 'held' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    }
+]

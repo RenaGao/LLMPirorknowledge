@@ -1,0 +1,48 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, hello. I buy this jacket last week, but, uh, it not fit well.",
+        "annotation_token": [
+            "I buy",
+            "it not fit"
+        ],
+        "rationale": "The subject 'I' should be followed by the past tense verb 'bought' to agree in tense, and 'it' should be followed by 'does not fit' or 'did not fit' to agree in tense and form.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, here is receipt. I keep it always.",
+        "annotation_token": [
+            "here is receipt"
+        ],
+        "rationale": "The subject 'receipt' is singular and should be preceded by 'the' to form 'here is the receipt' for correct subject-verb agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, good. I was worry, maybe too late.",
+        "annotation_token": [
+            "I was worry"
+        ],
+        "rationale": "The subject 'I' should be followed by the past participle 'worried' to agree in form.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "No, no. I just try it at home. It is too big for me.",
+        "annotation_token": [
+            "I just try"
+        ],
+        "rationale": "The subject 'I' should be followed by the past tense verb 'tried' to agree in tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, tags still on jacket. I think it is important.",
+        "annotation_token": [
+            "tags still on jacket"
+        ],
+        "rationale": "The subject 'tags' should be followed by 'are' to form 'tags are still on the jacket' for correct subject-verb agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

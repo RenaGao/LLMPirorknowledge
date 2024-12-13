@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, many. Um, in Japan, we say “Itadakimasu” before eating.",
+        "annotation_token": "say “Itadakimasu”",
+        "rationale": "The noun 'Itadakimasu' and the verb 'say' form a collocation as they express a complete action of saying a specific phrase.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes! In Japan, no tipping. Service fee included.",
+        "annotation_token": "Service fee included",
+        "rationale": "The noun 'Service fee' and the verb 'included' form a collocation as they express a complete action of including a service fee.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I try to be quiet when eat noodle here.",
+        "annotation_token": "eat noodle",
+        "rationale": "The noun 'noodle' and the verb 'eat' form a collocation as they express a complete action of eating noodles.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you. I learn new things every day.",
+        "annotation_token": "learn new things",
+        "rationale": "The noun 'things' and the verb 'learn' form a collocation as they express a complete action of learning new things.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I enjoy talk about cultures.",
+        "annotation_token": "talk about cultures",
+        "rationale": "The noun 'cultures' and the verb 'talk' form a collocation as they express a complete action of talking about cultures.",
+        "grammar_correctness": false
+    }
+]

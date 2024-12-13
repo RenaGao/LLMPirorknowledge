@@ -1,0 +1,108 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, thanks for having me.",
+        "annotation_token": [
+            "Hi",
+            "thanks",
+            "for",
+            "having",
+            "me"
+        ],
+        "rationale": "The sentence is a greeting and an expression of gratitude, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Certainly.",
+        "annotation_token": [
+            "Certainly"
+        ],
+        "rationale": "The word 'Certainly' is used as an affirmative response, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure.",
+        "annotation_token": [
+            "Sure"
+        ],
+        "rationale": "The word 'Sure' is used as an affirmative response, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I'm proficient with Google Analytics, Hootsuite, and even some custom dashboard solutions.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The word 'Yes' is used as an affirmative response, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for the opportunity.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "for",
+            "the",
+            "opportunity"
+        ],
+        "rationale": "The sentence is an expression of gratitude, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, thanks for having me.",
+        "annotation_token": [
+            "Hi",
+            "thanks",
+            "for",
+            "having",
+            "me"
+        ],
+        "rationale": "The sentence is a greeting and an expression of gratitude, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Certainly.",
+        "annotation_token": [
+            "Certainly"
+        ],
+        "rationale": "The word 'Certainly' is used as an affirmative response, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure.",
+        "annotation_token": [
+            "Sure"
+        ],
+        "rationale": "The word 'Sure' is used as an affirmative response, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I'm proficient with Google Analytics, Hootsuite, and even some custom dashboard solutions.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The word 'Yes' is used as an affirmative response, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for the opportunity.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "for",
+            "the",
+            "opportunity"
+        ],
+        "rationale": "The sentence is an expression of gratitude, which is a speech act.",
+        "grammar_correctness": "correct"
+    }
+]

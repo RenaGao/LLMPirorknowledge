@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, yes, I read a book... how to say... about life, um, story.",
+        "annotation_token": "read a book",
+        "rationale": "The noun 'book' and the verb 'read' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "The character, he... he follow his heart.",
+        "annotation_token": "follow his heart",
+        "rationale": "The noun 'heart' and the verb 'follow' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I like when he... um, listen to omens.",
+        "annotation_token": "listen to omens",
+        "rationale": "The noun 'omens' and the verb 'listen' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I recommend.",
+        "annotation_token": "recommend",
+        "rationale": "The verb 'recommend' is typically used with a noun object, but in this context, it is implied and understood, forming a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, maybe I read... um, \"The Little Prince.\"",
+        "annotation_token": "read \"The Little Prince\"",
+        "rationale": "The noun 'The Little Prince' and the verb 'read' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

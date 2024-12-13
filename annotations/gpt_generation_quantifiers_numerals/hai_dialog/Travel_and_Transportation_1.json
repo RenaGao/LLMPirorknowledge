@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Two blocks, okay. What is block? Like... um, street?",
+        "annotation_token": [
+            "Two"
+        ],
+        "rationale": "The word 'Two' is a numeral indicating the quantity of blocks.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I understand. So I go straight, two blocks...",
+        "annotation_token": [
+            "two"
+        ],
+        "rationale": "The word 'two' is a numeral indicating the quantity of blocks.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Two blocks, okay. What is block? Like... um, street?",
+        "annotation_token": [
+            "Two"
+        ],
+        "rationale": "The word 'Two' is a numeral indicating the quantity of blocks.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I understand. So I go straight, two blocks...",
+        "annotation_token": [
+            "two"
+        ],
+        "rationale": "The word 'two' is a numeral indicating the quantity of blocks.",
+        "grammar_correctness": true
+    }
+]

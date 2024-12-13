@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, I want to see family, of course.",
+        "annotation_token": "see family",
+        "rationale": "The noun 'family' and the verb 'see' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "And maybe go to, um, new mall?",
+        "annotation_token": "go mall",
+        "rationale": "The noun 'mall' and the verb 'go' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "My children want shopping.",
+        "annotation_token": "want shopping",
+        "rationale": "The noun 'shopping' and the verb 'want' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "They miss playing with them.",
+        "annotation_token": "miss playing",
+        "rationale": "The noun 'playing' and the verb 'miss' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

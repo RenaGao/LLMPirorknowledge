@@ -1,0 +1,115 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hi! I'm doing well, thank you. A little nervous, but excited to be here.",
+        "annotation_token": [
+            "I'm"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'am' in the contraction 'I'm'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’ve always been passionate about marketing, and your company’s innovative approach really resonates with me.",
+        "annotation_token": [
+            "I’ve",
+            "resonates"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'have' in the contraction 'I’ve'. The subject 'approach' agrees with the verb 'resonates'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Absolutely! In my previous role, I spearheaded a social media campaign that increased engagement by 30%.",
+        "annotation_token": [
+            "I spearheaded",
+            "campaign increased"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'spearheaded'. The subject 'campaign' agrees with the verb 'increased'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I believe open communication is essential.",
+        "annotation_token": [
+            "I believe",
+            "communication is"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'believe'. The subject 'communication' agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I always aim to understand different perspectives and find common ground.",
+        "annotation_token": [
+            "I aim"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'aim'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It's about what's best for the project, not personal preferences.",
+        "annotation_token": [
+            "It's"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is' in the contraction 'It's'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I often find myself in a leadership role, but I’m also comfortable being a supportive team member.",
+        "annotation_token": [
+            "I find",
+            "I’m"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'find'. The subject 'I' agrees with the verb 'am' in the contraction 'I’m'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Flexibility is important to me.",
+        "annotation_token": [
+            "Flexibility is"
+        ],
+        "rationale": "The subject 'Flexibility' agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I’d love to know more about the team I’d potentially be working with and what a typical day might look like.",
+        "annotation_token": [
+            "I’d love",
+            "I’d be working"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'would' in the contraction 'I’d'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That sounds perfect.",
+        "annotation_token": [
+            "That sounds"
+        ],
+        "rationale": "The subject 'That' agrees with the verb 'sounds'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you for sharing that, and for this opportunity.",
+        "annotation_token": [
+            "Thank"
+        ],
+        "rationale": "The implied subject 'I' agrees with the verb 'thank'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I truly appreciate it.",
+        "annotation_token": [
+            "I appreciate"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'appreciate'.",
+        "grammar_correctness": "correct"
+    }
+]

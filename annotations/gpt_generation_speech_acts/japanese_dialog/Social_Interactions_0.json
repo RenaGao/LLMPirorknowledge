@@ -1,0 +1,79 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, hello. My name is Yuki. Nice to meet you, Sarah.",
+        "annotation_token": [
+            "Uh",
+            "hello",
+            "Nice to meet you"
+        ],
+        "rationale": "The tokens 'Uh', 'hello', and 'Nice to meet you' are used as speech acts to initiate conversation and express politeness.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. I, um, try to learn every day. It is not easy.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is a speech act used to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Sarah! I will. Nice talking with you",
+        "annotation_token": [
+            "Thank you",
+            "Nice talking with you"
+        ],
+        "rationale": "The tokens 'Thank you' and 'Nice talking with you' are speech acts used to express gratitude and conclude the conversation politely.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, hello. My name is Yuki. Nice to meet you, Sarah.",
+        "annotation_token": [
+            "hello",
+            "Nice to meet you"
+        ],
+        "rationale": "The tokens 'hello' and 'Nice to meet you' are speech acts as they perform the action of greeting and expressing pleasure in meeting someone.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it is very... um, how to say... lively! Many people here.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is a speech act as it performs the action of agreeing or affirming.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, I from Osaka. I visit my friend here.",
+        "annotation_token": [
+            "No"
+        ],
+        "rationale": "The token 'No' is a speech act as it performs the action of negating or disagreeing.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. I, um, try to learn every day. It is not easy.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is a speech act as it performs the action of expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Sarah! I will. Nice talking with you",
+        "annotation_token": [
+            "Thank you",
+            "Nice talking with you"
+        ],
+        "rationale": "The tokens 'Thank you' and 'Nice talking with you' are speech acts as they perform the actions of expressing gratitude and closing a conversation.",
+        "grammar_correctness": "correct"
+    }
+]

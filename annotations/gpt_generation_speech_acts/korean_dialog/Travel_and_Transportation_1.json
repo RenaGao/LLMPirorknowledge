@@ -1,0 +1,121 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, please. I am looking for a, um, hotel nearby.",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "please"
+        ],
+        "rationale": "The speaker is using 'Ah, yes, please' as a speech act to acknowledge and politely request information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. Can you, um, tell me the direction?",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "Can",
+            "you"
+        ],
+        "rationale": "The speaker is using 'Thank you' as a speech act to express gratitude and 'Can you' to make a polite request for directions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, five minutes. I understand. Thank you so much.",
+        "annotation_token": [
+            "Ah",
+            "I",
+            "understand",
+            "Thank",
+            "you"
+        ],
+        "rationale": "The speaker uses 'Ah' to acknowledge understanding, 'I understand' to confirm comprehension, and 'Thank you so much' to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you again for your help.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The speaker is using 'Thank you again' as a speech act to express repeated gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will. Thank you, have a nice day!",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "have",
+            "a",
+            "nice",
+            "day"
+        ],
+        "rationale": "The speaker uses 'Thank you' to express gratitude and 'have a nice day' as a polite farewell.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, please. I am looking for a, um, hotel nearby.",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "please"
+        ],
+        "rationale": "The tokens 'Ah', 'yes', and 'please' are used as speech acts to express agreement and politeness.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. Can you, um, tell me the direction?",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The tokens 'Thank you' are used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, five minutes. I understand. Thank you so much.",
+        "annotation_token": [
+            "Ah",
+            "Thank",
+            "you",
+            "so",
+            "much"
+        ],
+        "rationale": "The tokens 'Ah' and 'Thank you so much' are used as speech acts to express realization and gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you again for your help.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "again"
+        ],
+        "rationale": "The tokens 'Thank you again' are used as a speech act to express repeated gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will. Thank you, have a nice day!",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "have",
+            "a",
+            "nice",
+            "day"
+        ],
+        "rationale": "The tokens 'Thank you' and 'have a nice day' are used as speech acts to express gratitude and a polite farewell.",
+        "grammar_correctness": "correct"
+    }
+]

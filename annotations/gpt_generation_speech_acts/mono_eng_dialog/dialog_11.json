@@ -1,0 +1,64 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good morning! I'm doing well, thank you. Excited to be here. How about you?",
+        "annotation_token": [
+            "Good morning",
+            "thank you",
+            "Excited to be here",
+            "How about you"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Good morning'), an expression of gratitude ('thank you'), an expression of excitement ('Excited to be here'), and a question ('How about you?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely. At my last job, I managed a team for a major product launch.",
+        "annotation_token": [
+            "Absolutely"
+        ],
+        "rationale": "The word 'Absolutely' is a speech act as it expresses agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for the opportunity to discuss my experience. I look forward to the possibility of working together.",
+        "annotation_token": [
+            "Thank you",
+            "I look forward to the possibility of working together"
+        ],
+        "rationale": "The sentence contains expressions of gratitude ('Thank you') and anticipation ('I look forward to the possibility of working together'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good morning! I'm doing well, thank you. Excited to be here. How about you?",
+        "annotation_token": [
+            "Good morning",
+            "thank you",
+            "Excited to be here",
+            "How about you"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Good morning'), an expression of gratitude ('thank you'), an expression of excitement ('Excited to be here'), and a question ('How about you?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely. At my last job, I managed a team for a major product launch.",
+        "annotation_token": [
+            "Absolutely"
+        ],
+        "rationale": "The word 'Absolutely' is a speech act as it expresses agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for the opportunity to discuss my experience. I look forward to the possibility of working together.",
+        "annotation_token": [
+            "Thank you",
+            "I look forward to the possibility of working together"
+        ],
+        "rationale": "The sentence contains expressions of gratitude ('Thank you') and anticipation ('I look forward to the possibility of working together'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, yes, hello. I, um, not understand part of the homework.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "The, um, part about... how to say... calculating... um, numbers?",
+        "annotation_token": "The",
+        "rationale": "The word 'The' is a reference word referring to a specific part of the homework.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, math problem. I not sure how to start.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Formula... uh, not really. Can you tell more about it?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the formula.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, quadratic... yes, I see it before, but... um, forget.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, yes! Now, I remember. But, um, \"a\" and \"b\"... what are they?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, constants. So, I need to, um, find these and put in formula?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I see. And, um, what is next step after?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Discriminant... um, yes, this help to find solution, right?",
+        "annotation_token": "this",
+        "rationale": "The word 'this' is a reference word referring to the discriminant.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Roots... ah, solutions! So, if I find, um, two numbers, it is done?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Great! Thank you. I try this now.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

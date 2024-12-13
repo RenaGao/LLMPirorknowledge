@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Langkawi is nice! I hear they have nice beach... beaches, right?",
+        "annotation_token": [
+            "beach",
+            "beaches"
+        ],
+        "rationale": "The speaker initially uses the singular form 'beach' but then corrects to the plural 'beaches' to agree with 'they have', indicating multiple beaches.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I think so. Everyone like holiday. I will, um... message them today.",
+        "annotation_token": [
+            "like",
+            "holiday"
+        ],
+        "rationale": "The subject 'Everyone' is singular and should be followed by 'likes' instead of 'like'. Additionally, 'holiday' should be plural 'holidays' to match the context of multiple holidays.",
+        "grammar_correctness": "wrong"
+    }
+]

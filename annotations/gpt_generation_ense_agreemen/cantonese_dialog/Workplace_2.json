@@ -1,0 +1,106 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I have some question. I need to, um, understand the report. It is a bit confusing.",
+        "annotation_token": [
+            "have",
+            "need",
+            "is"
+        ],
+        "rationale": "The verbs 'have', 'need', and 'is' are in present tense, which is consistent with the context of the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "The part with... data analysis. I not sure how to, um, interpret the numbers.",
+        "annotation_token": [
+            "not sure",
+            "interpret"
+        ],
+        "rationale": "The verb 'interpret' should be in the present tense to agree with 'not sure', but 'not sure' is missing the auxiliary verb 'am'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I know line graph. But... the trend, I not sure how to describe.",
+        "annotation_token": [
+            "know",
+            "not sure",
+            "describe"
+        ],
+        "rationale": "The verb 'know' is in present tense, but 'not sure' is missing the auxiliary verb 'am'. 'Describe' should be in the present tense to agree with 'not sure'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, yes, it go up in March and April. That mean more sales?",
+        "annotation_token": [
+            "go",
+            "mean"
+        ],
+        "rationale": "The verbs 'go' and 'mean' should be in the present tense, but 'go' should be 'goes' and 'mean' should be 'means' to agree with the singular subject 'it' and 'that'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um... it go down. So less sales, right?",
+        "annotation_token": [
+            "go"
+        ],
+        "rationale": "The verb 'go' should be in the present tense, but it should be 'goes' to agree with the singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hmm... there are many comment. Some good, some bad. How I should, um, use them?",
+        "annotation_token": [
+            "are",
+            "should",
+            "use"
+        ],
+        "rationale": "The verb 'are' is in present tense, which is correct. 'Should' is a modal verb, and 'use' is in base form, which is correct after 'should'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, many say shipping is slow. I think we need change, um, process?",
+        "annotation_token": [
+            "say",
+            "is",
+            "think",
+            "need"
+        ],
+        "rationale": "The verbs 'say', 'is', 'think', and 'need' are in present tense, which is consistent with the context of the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I want to help. But... I not know the process well.",
+        "annotation_token": [
+            "want",
+            "not know"
+        ],
+        "rationale": "The verb 'want' is in present tense, but 'not know' is missing the auxiliary verb 'do'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you, I will try my best! Can you show me who to contact?",
+        "annotation_token": [
+            "will try",
+            "show"
+        ],
+        "rationale": "The verb phrase 'will try' is in future tense, which is correct for expressing future intention. 'Show' is in base form, which is correct after 'can'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, no more question for now. I feel better after talk with you.",
+        "annotation_token": [
+            "feel",
+            "talk"
+        ],
+        "rationale": "The verb 'feel' is in present tense, which is correct. 'Talk' should be 'talking' to agree with the preposition 'after'.",
+        "grammar_correctness": "wrong"
+    }
+]

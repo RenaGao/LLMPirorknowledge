@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Karaoke is very fun! We can sing many songs. Do you like it?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of songs.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes, I hear it is very popular. Many songs, many rooms.",
+        "annotation_token": [
+            "Many",
+            "many"
+        ],
+        "rationale": "The word 'many' is used twice as a quantifier to indicate a large number of songs and rooms.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, 6:45 is good. I will be there. Looking forward!",
+        "annotation_token": [
+            "6:45"
+        ],
+        "rationale": "The numeral '6:45' is used to specify a particular time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Karaoke is very fun! We can sing many songs. Do you like it?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of songs.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes, I hear it is very popular. Many songs, many rooms.",
+        "annotation_token": [
+            "Many",
+            "many"
+        ],
+        "rationale": "The word 'many' is used twice as a quantifier to indicate a large number of songs and rooms.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, 6:45 is good. I will be there. Looking forward!",
+        "annotation_token": [
+            "6:45"
+        ],
+        "rationale": "The numeral '6:45' is used to specify a particular time.",
+        "grammar_correctness": true
+    }
+]

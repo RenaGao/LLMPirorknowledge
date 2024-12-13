@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I ask Wing and Tom. They say they want to come. More people, more fun!",
+        "annotation_token": [
+            "people",
+            "fun"
+        ],
+        "rationale": "The word 'people' is a plural noun, and 'more fun' suggests an increase in enjoyment with more people, which aligns with the plural context.",
+        "grammar_correctness": "correct"
+    }
+]

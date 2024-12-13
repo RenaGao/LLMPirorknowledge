@@ -1,0 +1,186 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, yes. I am having a problem with my, uh, computer.",
+        "annotation_token": [
+            "I am having"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'am having' in the present continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is not, um, starting.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is' in the present continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "When I push the button, it is only, um, light blink and then nothing.",
+        "annotation_token": [
+            "I push",
+            "it is"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'push' in the simple present tense. The subject 'it' agrees with the verb 'is' in the present continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I check.",
+        "annotation_token": [
+            "I check"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'check' in the simple present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is all fine.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is' in the simple present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Plug in the wall and in the computer.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain a subject-verb agreement structure.",
+        "grammar_correctness": "N/A"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, no. I not try that.",
+        "annotation_token": [
+            "I not try"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'not try' as it lacks the auxiliary 'do' for negation in the simple present tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Should I change it now?",
+        "annotation_token": [
+            "I change"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'change' in the question form with the auxiliary 'should'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Okay, one moment... Um, still same problem.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain a subject-verb agreement structure.",
+        "grammar_correctness": "N/A"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Light blink again, no start.",
+        "annotation_token": [
+            "Light blink"
+        ],
+        "rationale": "The subject 'Light' does not agree with the verb 'blink' as it should be 'blinks' in the simple present tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is laptop, but battery is inside.",
+        "annotation_token": [
+            "It is",
+            "battery is"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is' in the simple present tense. The subject 'battery' agrees with the verb 'is' in the simple present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Not able to take out.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain a subject-verb agreement structure.",
+        "grammar_correctness": "N/A"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Okay, I do this...",
+        "annotation_token": [
+            "I do"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'do' in the simple present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Press and hold...",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain a subject-verb agreement structure.",
+        "grammar_correctness": "N/A"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, now what?",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain a subject-verb agreement structure.",
+        "grammar_correctness": "N/A"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Let me see...",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain a subject-verb agreement structure.",
+        "grammar_correctness": "N/A"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, okay, it start!",
+        "annotation_token": [
+            "it start"
+        ],
+        "rationale": "The subject 'it' does not agree with the verb 'start' as it should be 'starts' in the simple present tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I see the logo now.",
+        "annotation_token": [
+            "I see"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'see' in the simple present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, screen is showing.",
+        "annotation_token": [
+            "screen is"
+        ],
+        "rationale": "The subject 'screen' agrees with the verb 'is' in the present continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you very much for help.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain a subject-verb agreement structure.",
+        "grammar_correctness": "N/A"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, yes. I will do.",
+        "annotation_token": [
+            "I will do"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'will do' in the future tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you for patience and help.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain a subject-verb agreement structure.",
+        "grammar_correctness": "N/A"
+    }
+]

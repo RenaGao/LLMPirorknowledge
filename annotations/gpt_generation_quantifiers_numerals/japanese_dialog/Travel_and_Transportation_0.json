@@ -1,0 +1,94 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I see... many things. Um, I go to Osaka Castle. Very big and, uh, historical.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of things.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, very much. The view from top is beautiful. I take many pictures.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of pictures.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I go to Dotonbori. Very... lively, and many shops.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of shops.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, I buy some souvenirs and gift for family. Small things.",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier used to indicate an unspecified amount of souvenirs and gifts.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, very much! I want to go again. So much more to see.",
+        "annotation_token": [
+            "much",
+            "more"
+        ],
+        "rationale": "The word 'much' is a quantifier indicating a large amount, and 'more' is a comparative quantifier indicating a greater amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I see... many things. Um, I go to Osaka Castle. Very big and, uh, historical.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of things.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, very much. The view from top is beautiful. I take many pictures.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of pictures.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I go to Dotonbori. Very... lively, and many shops.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of shops.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, I buy some souvenirs and gift for family. Small things.",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier used to indicate an unspecified amount of souvenirs and gifts.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, very much! I want to go again. So much more to see.",
+        "annotation_token": [
+            "much",
+            "more"
+        ],
+        "rationale": "The word 'much' is a quantifier indicating a large amount, and 'more' is a comparative quantifier indicating an additional amount.",
+        "grammar_correctness": true
+    }
+]

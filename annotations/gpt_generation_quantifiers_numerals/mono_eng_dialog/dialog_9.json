@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I've been working in digital marketing for the past three years and I'm looking to take the next step in my career.",
+        "annotation_token": [
+            "the past three years"
+        ],
+        "rationale": "The phrase 'the past three years' includes a numeral indicating a specific duration of time within which the speaker has been working in digital marketing.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Last year, I led a campaign for a local charity event that doubled their online engagement through targeted content and strategic partnerships.",
+        "annotation_token": [
+            "Last year",
+            "doubled"
+        ],
+        "rationale": "'Last year' specifies a particular past time and 'doubled' indicates a quantifiable increase in online engagement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I focus on key performance indicators like engagement rates, conversion metrics, and audience growth.",
+        "annotation_token": [
+            "key performance indicators"
+        ],
+        "rationale": "'Key performance indicators' are measurable values used to evaluate the success of a campaign, involving quantifiable metrics such as engagement rates and conversion metrics.",
+        "grammar_correctness": true
+    }
+]

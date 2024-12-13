@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, uh, maybe we can meet for lunch this week?",
+        "annotation_token": "meet for lunch",
+        "rationale": "The noun 'lunch' and the verb 'meet' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, yes! I want to go there. They have good cake, I hear.",
+        "annotation_token": "have good cake",
+        "rationale": "The noun 'cake' and the verb 'have' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, no. Just happy we talk about this. I feel better now.",
+        "annotation_token": "talk about this",
+        "rationale": "The noun 'this' and the verb 'talk' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

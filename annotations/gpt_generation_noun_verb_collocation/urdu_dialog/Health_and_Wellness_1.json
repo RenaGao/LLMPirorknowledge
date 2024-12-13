@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Hello, Ayesha! I am good, thank you. Uh, just feeling little tired these days.",
+        "annotation_token": "feeling tired",
+        "rationale": "The noun 'feeling' and the verb 'tired' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Sleep is not so good. I sleep late and wake up early. So, um... tired.",
+        "annotation_token": "sleep late",
+        "rationale": "The noun 'sleep' and the verb 'late' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Walking is good. I can walk to shop instead of, um, driving.",
+        "annotation_token": "Walking is",
+        "rationale": "The noun 'Walking' and the verb 'is' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you, Ayesha. I, uh, feel better talking with you.",
+        "annotation_token": "feel better",
+        "rationale": "The noun 'feel' and the verb 'better' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

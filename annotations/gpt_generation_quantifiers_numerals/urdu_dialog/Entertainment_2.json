@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes, many parts. But, um, the part where he meet, uh, wise king.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier, indicating a large number of parts.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, people who are, uh, confused about life maybe? It give hope.",
+        "annotation_token": [
+            "people"
+        ],
+        "rationale": "The word 'people' is often used with quantifiers and can imply numerals without explicitly using them.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, it can help. Um, people who are, uh, confused about life maybe? It give hope.",
+        "annotation_token": [
+            "It"
+        ],
+        "rationale": "While not a quantifier or numeral, 'it' is used to quantify an idea or object that has been previously mentioned.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes! \"When you want something, all universe help you.\" I like this.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier, referring to the entirety of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, yes. It is easy to read, um, simple language. Everyone can enjoy and learn.",
+        "annotation_token": [
+            "Everyone"
+        ],
+        "rationale": "The word 'Everyone' acts as a quantifier, implying all people.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, um, hello! My morning... it is busy, you know? I wake... woke up late today.",
+        "annotation_token": "wake up",
+        "rationale": "The verb 'wake' and the noun 'morning' form a collocation as they express a complete action of waking up in the morning.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Uh, I get up at... 8:30. Usually, I wake up at 7 o'clock.",
+        "annotation_token": "wake up",
+        "rationale": "The verb 'wake' and the noun 'morning' form a collocation as they express a complete action of waking up in the morning.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, yes. I eat... um, how to say... Chinese pancake, and drink tea.",
+        "annotation_token": "eat Chinese pancake",
+        "rationale": "The verb 'eat' and the noun 'Chinese pancake' form a collocation as they express a complete action of eating a specific food item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "No, no. My mother make for me. She is very good cook.",
+        "annotation_token": "make for me",
+        "rationale": "The verb 'make' and the noun 'mother' form a collocation as they express a complete action of making something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "After eat, I... um, I wash face and brush teeth. Then, I study a little.",
+        "annotation_token": "wash face",
+        "rationale": "The verb 'wash' and the noun 'face' form a collocation as they express a complete action of washing a part of the body.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "After eat, I... um, I wash face and brush teeth. Then, I study a little.",
+        "annotation_token": "brush teeth",
+        "rationale": "The verb 'brush' and the noun 'teeth' form a collocation as they express a complete action of brushing a part of the body.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes! I try to, um, practice new words. It helps me... improve.",
+        "annotation_token": "practice new words",
+        "rationale": "The verb 'practice' and the noun 'words' form a collocation as they express a complete action of practicing vocabulary.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, sometimes. Today no time. But, usually, I run in park.",
+        "annotation_token": "run in park",
+        "rationale": "The verb 'run' and the noun 'park' form a collocation as they express a complete action of running in a specific location.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Uh, about 30 minutes. It is not long, but it feel good.",
+        "annotation_token": "feel good",
+        "rationale": "The verb 'feel' and the noun 'good' form a collocation as they express a complete action of feeling a certain way.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, music can make me... um, how to say... excited?",
+        "annotation_token": "make me excited",
+        "rationale": "The verb 'make' and the noun 'music' form a collocation as they express a complete action of causing a feeling.",
+        "grammar_correctness": true
+    }
+]

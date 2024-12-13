@@ -1,0 +1,68 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Absolutely. I’ve been working in digital marketing for about five years now.",
+        "annotation_token": [
+            "I’ve been working"
+        ],
+        "rationale": "The present perfect continuous tense 'I’ve been working' is used to indicate an action that started in the past and is still continuing in the present.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Sure, last year I led a campaign for a tech startup that increased their engagement by 40% over three months.",
+        "annotation_token": [
+            "I led",
+            "increased"
+        ],
+        "rationale": "The past simple tense 'I led' and 'increased' are used to describe actions that were completed in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We look at several metrics, including engagement rates, click-through rates, and conversion rates.",
+        "annotation_token": [
+            "look"
+        ],
+        "rationale": "The present simple tense 'look' is used to describe a habitual action or general truth.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I believe in being proactive.",
+        "annotation_token": [
+            "believe"
+        ],
+        "rationale": "The present simple tense 'believe' is used to express a general truth or belief.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I’d analyze the data to identify any patterns or issues, then adjust our strategy accordingly.",
+        "annotation_token": [
+            "I’d analyze",
+            "adjust"
+        ],
+        "rationale": "The conditional 'I’d analyze' and the base form 'adjust' are used to describe a hypothetical situation or future possibility.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I’m curious about the team I’d be working with.",
+        "annotation_token": [
+            "I’m",
+            "I’d be working"
+        ],
+        "rationale": "The present simple 'I’m' is used to express a current state, and the conditional 'I’d be working' is used to describe a hypothetical future situation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you! I look forward to hearing from you.",
+        "annotation_token": [
+            "look forward"
+        ],
+        "rationale": "The present simple tense 'look forward' is used to express a future intention or expectation.",
+        "grammar_correctness": "correct"
+    }
+]

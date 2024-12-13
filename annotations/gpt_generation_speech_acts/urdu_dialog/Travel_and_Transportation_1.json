@@ -1,0 +1,200 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, please. I am looking for a hotel... nearby?",
+        "annotation_token": [
+            "Um",
+            "yes",
+            "please"
+        ],
+        "rationale": "The tokens 'Um', 'yes', and 'please' are used as speech acts to express hesitation, agreement, and politeness respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I forget name. It is, um, not far... big and nice?",
+        "annotation_token": [
+            "Ah",
+            "um"
+        ],
+        "rationale": "The tokens 'Ah' and 'um' are used as speech acts to express realization and hesitation respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, Grand Hotel! How can I reach there?",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, straight and then left. Is it, uh... how many minute walk?",
+        "annotation_token": [
+            "Okay",
+            "uh"
+        ],
+        "rationale": "The tokens 'Okay' and 'uh' are used as speech acts to express agreement and hesitation respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. And, um, any good restaurant there?",
+        "annotation_token": [
+            "Thank you",
+            "um"
+        ],
+        "rationale": "The tokens 'Thank you' and 'um' are used as speech acts to express gratitude and hesitation respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, local food good. I hear, um, spice is special?",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes' and 'um' are used as speech acts to express agreement and hesitation respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. And, uh, anything else I should, um, see around?",
+        "annotation_token": [
+            "Thank you",
+            "uh",
+            "um"
+        ],
+        "rationale": "The tokens 'Thank you', 'uh', and 'um' are used as speech acts to express gratitude, hesitation, and hesitation respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Park sounds nice. Maybe after hotel. Thank you very much!",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The token 'Thank you very much' is used as a speech act to express strong gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will. Thank you again for kindness.",
+        "annotation_token": [
+            "Yes",
+            "Thank you"
+        ],
+        "rationale": "The tokens 'Yes' and 'Thank you' are used as speech acts to express agreement and gratitude respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You too! Goodb",
+        "annotation_token": [
+            "You too"
+        ],
+        "rationale": "The token 'You too' is used as a speech act to reciprocate a farewell wish.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, please. I am looking for a hotel... nearby?",
+        "annotation_token": [
+            "Um",
+            "yes",
+            "please"
+        ],
+        "rationale": "The tokens 'Um', 'yes', and 'please' are used as speech acts to express hesitation, agreement, and politeness respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I forget name. It is, um, not far... big and nice?",
+        "annotation_token": [
+            "Ah",
+            "um"
+        ],
+        "rationale": "The tokens 'Ah' and 'um' are used as speech acts to express realization and hesitation respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, Grand Hotel! How can I reach there?",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, straight and then left. Is it, uh... how many minute walk?",
+        "annotation_token": [
+            "Okay",
+            "uh"
+        ],
+        "rationale": "The tokens 'Okay' and 'uh' are used as speech acts to express agreement and hesitation respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. And, um, any good restaurant there?",
+        "annotation_token": [
+            "Thank you",
+            "um"
+        ],
+        "rationale": "The tokens 'Thank you' and 'um' are used as speech acts to express gratitude and hesitation respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, local food good. I hear, um, spice is special?",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes' and 'um' are used as speech acts to express agreement and hesitation respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. And, uh, anything else I should, um, see around?",
+        "annotation_token": [
+            "Thank you",
+            "uh",
+            "um"
+        ],
+        "rationale": "The tokens 'Thank you', 'uh', and 'um' are used as speech acts to express gratitude, hesitation, and hesitation respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Park sounds nice. Maybe after hotel. Thank you very much!",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The token 'Thank you very much' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will. Thank you again for kindness.",
+        "annotation_token": [
+            "Yes",
+            "Thank you"
+        ],
+        "rationale": "The tokens 'Yes' and 'Thank you' are used as speech acts to express agreement and gratitude respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You too! Goodb",
+        "annotation_token": [
+            "You too"
+        ],
+        "rationale": "The token 'You too' is used as a speech act to reciprocate a farewell wish.",
+        "grammar_correctness": "correct"
+    }
+]

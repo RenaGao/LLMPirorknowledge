@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Six cup... um, it is enough for family.",
+        "annotation_token": [
+            "Six"
+        ],
+        "rationale": "The word 'Six' is a numeral indicating the quantity of cups the rice cooker can make.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "How many cup, uh, it can make?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to inquire about the number of cups.",
+        "grammar_correctness": true
+    }
+]

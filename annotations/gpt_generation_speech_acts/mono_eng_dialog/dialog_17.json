@@ -1,0 +1,133 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, thank you. I'm here for my admission interview. A little nervous, to be honest!",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "I'm here for my admission interview",
+            "A little nervous, to be honest"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hi'), an expression of gratitude ('thank you'), a statement of purpose ('I'm here for my admission interview'), and an expression of emotion ('A little nervous, to be honest').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, your university has a great reputation for its engineering program, and I’ve heard a lot about the innovative projects students get to work on.",
+        "annotation_token": [
+            "Sure",
+            "your university has a great reputation for its engineering program",
+            "I’ve heard a lot about the innovative projects students get to work on"
+        ],
+        "rationale": "The sentence contains an agreement ('Sure'), a statement of fact ('your university has a great reputation for its engineering program'), and a statement of experience ('I’ve heard a lot about the innovative projects students get to work on').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I'm really interested in renewable energy. I think it's crucial for our future, and I’d love to be part of that change.",
+        "annotation_token": [
+            "Yes",
+            "I'm really interested in renewable energy",
+            "I think it's crucial for our future",
+            "I’d love to be part of that change"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes'), an expression of interest ('I'm really interested in renewable energy'), a statement of belief ('I think it's crucial for our future'), and an expression of desire ('I’d love to be part of that change').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I worked on a small solar panel project in high school. It was fascinating to see how much energy we could harness from the sun.",
+        "annotation_token": [
+            "I worked on a small solar panel project in high school",
+            "It was fascinating to see how much energy we could harness from the sun"
+        ],
+        "rationale": "The sentence contains a statement of past experience ('I worked on a small solar panel project in high school') and an expression of opinion ('It was fascinating to see how much energy we could harness from the sun').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Academically, I hope to bring a fresh perspective and perhaps collaborate on innovative projects. Socially, I'm keen on joining the environmental club and maybe starting a new initiative related to sustainability.",
+        "annotation_token": [
+            "Academically, I hope to bring a fresh perspective and perhaps collaborate on innovative projects",
+            "Socially, I'm keen on joining the environmental club and maybe starting a new initiative related to sustainability"
+        ],
+        "rationale": "The sentence contains an expression of hope and intention ('Academically, I hope to bring a fresh perspective and perhaps collaborate on innovative projects') and an expression of social interest and intention ('Socially, I'm keen on joining the environmental club and maybe starting a new initiative related to sustainability').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, actually. Could you tell me more about the support systems available for students, especially for those working on independent projects?",
+        "annotation_token": [
+            "Yes, actually",
+            "Could you tell me more about the support systems available for students, especially for those working on independent projects"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes, actually') and a request for information ('Could you tell me more about the support systems available for students, especially for those working on independent projects').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That’s reassuring to hear. Thank you for all the information. I feel much more confident now.",
+        "annotation_token": [
+            "That’s reassuring to hear",
+            "Thank you for all the information",
+            "I feel much more confident now"
+        ],
+        "rationale": "The sentence contains an expression of reassurance ('That’s reassuring to hear'), an expression of gratitude ('Thank you for all the information'), and an expression of emotion ('I feel much more confident now').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much for your time. Have a great day!",
+        "annotation_token": [
+            "Thank you so much for your time",
+            "Have a great day"
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you so much for your time') and a farewell wish ('Have a great day').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, thank you. I'm here for my admission interview. A little nervous, to be honest!",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "I'm here for my admission interview",
+            "A little nervous, to be honest"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hi'), an expression of gratitude ('thank you'), a statement of purpose ('I'm here for my admission interview'), and an expression of emotion ('A little nervous, to be honest').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, your university has a great reputation for its engineering program, and I’ve heard a lot about the innovative projects students get to work on.",
+        "annotation_token": [
+            "Sure",
+            "your university has a great reputation for its engineering program",
+            "I’ve heard a lot about the innovative projects students get to work on"
+        ],
+        "rationale": "The sentence contains an agreement ('Sure'), a statement of fact ('your university has a great reputation for its engineering program'), and a statement of experience ('I’ve heard a lot about the innovative projects students get to work on').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I'm really interested in renewable energy. I think it's crucial for our future, and I’d love to be part of that change.",
+        "annotation_token": [
+            "Yes",
+            "I'm really interested in renewable energy",
+            "I think it's crucial for our future",
+            "I’d love to be part of that change"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes'), an expression of interest ('I'm really interested in renewable energy'), a statement of belief ('I think it's crucial for our future'), and an expression of desire ('I’d love to be part of that change').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much for your time. Have a great day!",
+        "annotation_token": [
+            "Thank you so much for your time",
+            "Have a great day"
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you so much for your time') and a farewell wish ('Have a great day').",
+        "grammar_correctness": "correct"
+    }
+]

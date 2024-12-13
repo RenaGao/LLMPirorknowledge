@@ -1,0 +1,200 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, hello! Um, my favorite holiday is, how to say... Spring Festival, yes!",
+        "annotation_token": [
+            "Oh",
+            "hello",
+            "how to say",
+            "yes"
+        ],
+        "rationale": "The tokens 'Oh', 'hello', 'how to say', and 'yes' are used as speech acts to initiate conversation, express uncertainty, and confirm understanding.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! Chinese New Year. It is very, um, important. Big holiday.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree, and 'um' is used as a filler to indicate hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We... ah, we have big meal with family. Many, many food. And we do fire... um, fireworks, yes!",
+        "annotation_token": [
+            "ah",
+            "um",
+            "yes"
+        ],
+        "rationale": "The tokens 'ah' and 'um' are used as fillers indicating hesitation or thinking, and 'yes' is used to confirm or agree.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, many special food. Um, dumplings are very common. And fish... for good luck, you know?",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "you know"
+        ],
+        "rationale": "The token 'Yes' is used to confirm or agree, 'um' is a filler indicating hesitation, and 'you know' is used to engage the listener or seek agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes. We visit family, friends. And... how to say... give red envelopes?",
+        "annotation_token": [
+            "Yes",
+            "how to say"
+        ],
+        "rationale": "The token 'Yes' is used to confirm or agree, and 'how to say' is used to express uncertainty or search for the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes! Hongbao. Good for children, and sometimes adults too. For happiness.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used to confirm or agree.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes. I remember, um, when I was little, I like dragon dance. Very, uh, colorful and noisy.",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Oh' and 'yes' are used to express realization or agreement, 'um' and 'uh' are fillers indicating hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, no. I just watch. But I like it very much. Maybe one day!",
+        "annotation_token": [
+            "Ah",
+            "no"
+        ],
+        "rationale": "The token 'Ah' is used to express realization or understanding, and 'no' is used to negate or disagree.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, not same. But I try to cook same food and call family, you know, video call.",
+        "annotation_token": [
+            "Um",
+            "you know"
+        ],
+        "rationale": "The token 'Um' is a filler indicating hesitation or thinking, and 'you know' is used to engage the listener or seek agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for asking! It makes me happy to talk about th",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, hello! Um, my favorite holiday is, how to say... Spring Festival, yes!",
+        "annotation_token": [
+            "Oh",
+            "hello",
+            "how to say",
+            "yes"
+        ],
+        "rationale": "The tokens 'Oh', 'hello', 'how to say', and 'yes' are used as speech acts to initiate conversation, express uncertainty, and confirm understanding.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! Chinese New Year. It is very, um, important. Big holiday.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree, and 'um' is used to fill a pause while thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We... ah, we have big meal with family. Many, many food. And we do fire... um, fireworks, yes!",
+        "annotation_token": [
+            "ah",
+            "um",
+            "yes"
+        ],
+        "rationale": "The tokens 'ah' and 'um' are used as speech acts to fill pauses, and 'yes' is used to confirm or agree.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, many special food. Um, dumplings are very common. And fish... for good luck, you know?",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "you know"
+        ],
+        "rationale": "The token 'Yes' is used to confirm, 'um' is a filler, and 'you know' is used to engage the listener or seek agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes! Hongbao. Good for children, and sometimes adults too. For happiness.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes. I remember, um, when I was little, I like dragon dance. Very, uh, colorful and noisy.",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Oh' and 'yes' are used to express realization and agreement, while 'um' and 'uh' are fillers.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, no. I just watch. But I like it very much. Maybe one day!",
+        "annotation_token": [
+            "Ah",
+            "no"
+        ],
+        "rationale": "The tokens 'Ah' and 'no' are used to express realization and disagreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, not same. But I try to cook same food and call family, you know, video call.",
+        "annotation_token": [
+            "Um",
+            "you know"
+        ],
+        "rationale": "The token 'Um' is a filler, and 'you know' is used to engage the listener or seek agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for asking! It makes me happy to talk about th",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

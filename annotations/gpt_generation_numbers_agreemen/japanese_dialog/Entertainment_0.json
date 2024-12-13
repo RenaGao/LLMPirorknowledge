@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Ah, hello! Yes, I like... um, how to say... detective shows? Yes, detective shows very much.",
+        "annotation_token": "detective shows",
+        "rationale": "The speaker correctly uses the plural form 'detective shows' to refer to multiple shows.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I like one called \"Detective Conan.\" It is, um, a Japanese anime. Many episodes, very exciting.",
+        "annotation_token": "episodes",
+        "rationale": "The speaker correctly uses the plural form 'episodes' to refer to multiple episodes.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, I like Chandler. He is... how to say... very funny and make joke.",
+        "annotation_token": "make joke",
+        "rationale": "The speaker incorrectly uses the singular form 'joke' when it should be plural 'jokes' to agree with the verb 'make'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Sometimes, um, jokes are hard. But, I try to understand with, um, subtitle.",
+        "annotation_token": "subtitle",
+        "rationale": "The speaker incorrectly uses the singular form 'subtitle' when it should be plural 'subtitles' to agree with the context of multiple subtitles.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I think... um, it help. I learn many new words and, uh, phrases.",
+        "annotation_token": "words",
+        "rationale": "The speaker correctly uses the plural form 'words' to refer to multiple words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I think... um, it help. I learn many new words and, uh, phrases.",
+        "annotation_token": "phrases",
+        "rationale": "The speaker correctly uses the plural form 'phrases' to refer to multiple phrases.",
+        "grammar_correctness": "correct"
+    }
+]

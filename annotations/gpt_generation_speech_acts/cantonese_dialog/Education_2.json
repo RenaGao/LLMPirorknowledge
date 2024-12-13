@@ -1,0 +1,133 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hello teacher. I have question about the homework.",
+        "annotation_token": [
+            "hello",
+            "I have question about the homework"
+        ],
+        "rationale": "The speaker is greeting the teacher and making a request for information.",
+        "grammar_correctness": "partially correct, 'I have question' should be 'I have a question'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, uh, I think maybe about, um, smartphone use. Is it okay?",
+        "annotation_token": [
+            "Is it okay"
+        ],
+        "rationale": "The speaker is seeking confirmation or permission.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. How to find, uh, good source?",
+        "annotation_token": [
+            "How to find, uh, good source"
+        ],
+        "rationale": "The speaker is requesting information or guidance.",
+        "grammar_correctness": "incorrect, should be 'How do I find a good source?'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, no, I think that is all. Thank you for help!",
+        "annotation_token": [
+            "Thank you for help"
+        ],
+        "rationale": "The speaker is expressing gratitude.",
+        "grammar_correctness": "incorrect, should be 'Thank you for your help'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hello teacher. I have question about the homework.",
+        "annotation_token": [
+            "hello",
+            "I have question about the homework"
+        ],
+        "rationale": "The speaker is greeting the teacher and making a request for information.",
+        "grammar_correctness": "partially correct, 'I have question' should be 'I have a question'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, uh, I think maybe about, um, smartphone use. Is it okay?",
+        "annotation_token": [
+            "Is it okay"
+        ],
+        "rationale": "The speaker is seeking confirmation or permission.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. How to find, uh, good source?",
+        "annotation_token": [
+            "How to find, uh, good source"
+        ],
+        "rationale": "The speaker is requesting information or guidance.",
+        "grammar_correctness": "incorrect, should be 'How do I find a good source?'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, no, I think that is all. Thank you for help!",
+        "annotation_token": [
+            "Thank you for help"
+        ],
+        "rationale": "The speaker is expressing gratitude.",
+        "grammar_correctness": "incorrect, should be 'Thank you for your help'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, teacher! I will do my be",
+        "annotation_token": [
+            "Thank you, teacher"
+        ],
+        "rationale": "The speaker is expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hello teacher. I have question about the homework.",
+        "annotation_token": [
+            "hello",
+            "I have question about the homework"
+        ],
+        "rationale": "The speaker is greeting the teacher and making a request for information, which are both speech acts.",
+        "grammar_correctness": "partially correct, 'I have question' should be 'I have a question'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, uh, I think maybe about, um, smartphone use. Is it okay?",
+        "annotation_token": [
+            "I think",
+            "Is it okay"
+        ],
+        "rationale": "The speaker is expressing an opinion and asking for confirmation, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I want to, uh, talk about both.",
+        "annotation_token": [
+            "I want to talk about both"
+        ],
+        "rationale": "The speaker is expressing a desire, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. How to find, uh, good source?",
+        "annotation_token": [
+            "How to find good source"
+        ],
+        "rationale": "The speaker is making a request for information, which is a speech act.",
+        "grammar_correctness": "incorrect, should be 'How do I find a good source?'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, no, I think that is all. Thank you for help!",
+        "annotation_token": [
+            "I think that is all",
+            "Thank you for help"
+        ],
+        "rationale": "The speaker is concluding the conversation and expressing gratitude, which are both speech acts.",
+        "grammar_correctness": "partially correct, 'Thank you for help' should be 'Thank you for your help'"
+    }
+]

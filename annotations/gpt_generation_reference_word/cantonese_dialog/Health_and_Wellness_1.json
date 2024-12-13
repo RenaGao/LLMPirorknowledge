@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hi! Um, everything is okay. But I feel a bit... tired these days. Yeah.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hmm, not really. I sleep maybe... five hours a night? Busy with work.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I know. But hard to find time. How you manage your time?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Avoid screens... Ah, that’s good idea. I will try. Um, what else you do for health?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Exercise, yes. I think I should do more. I sit at desk all day.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Stretching, yes. I can do that. Easy to start, right?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes, water. I sometimes forget. Maybe put bottle on desk, hmm?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I think I can do these. Oh, and eat health... uh, healthy food?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I like fruits. Maybe I bring some to work for snack.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, I will try these. You are very helpful always!",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sure, I tell you. See you later!",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

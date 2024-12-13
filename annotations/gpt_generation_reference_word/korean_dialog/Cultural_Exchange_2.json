@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes, of course. Um, my favorite holiday is Chuseok. It's like, uh, Korean Thanksgiving.",
+        "annotation_token": "It's",
+        "rationale": "The word 'It's' is a reference to 'Chuseok', which is the subject of the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We, um, gather with family. And, uh, we eat special food. Like... um, rice cake. It is called... songpyeon.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to 'rice cake', which is mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Inside, we put, uh, sesame or, um, bean... red beans. It is sweet a little bit.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the rice cake mentioned earlier, which is filled with sesame or beans.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, we, uh, visit... ancestors' graves. It's called... um, seongmyo. We clean and... uh, pay respect.",
+        "annotation_token": "It's",
+        "rationale": "The word 'It's' refers to the act of visiting ancestors' graves, which is called 'seongmyo'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We also, um, play games. Like, uh, yutnori. It is a board game with, um, sticks.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to 'yutnori', which is the board game mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, it is, um, hard to explain. You throw sticks, and... uh, move pieces on board. It is very fun.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers to the game 'yutnori', which is being described.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, um, when I was child, I made songpyeon with my grandmother. It was... very special.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the experience of making songpyeon with the grandmother.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I think, um, because... family come together. We, uh, talk and eat. It's, uh, warm feeling.",
+        "annotation_token": "It's",
+        "rationale": "The word 'It's' refers to the feeling of family coming together, talking, and eating.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, but... it's different. Less family here. But I, um, call them, and we talk.",
+        "annotation_token": "it's",
+        "rationale": "The word 'it's' refers to the situation of celebrating Chuseok with less family present.",
+        "grammar_correctness": true
+    }
+]

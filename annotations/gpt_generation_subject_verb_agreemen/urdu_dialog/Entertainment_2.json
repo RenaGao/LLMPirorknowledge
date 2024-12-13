@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, yes, that one! It is, um, very inspiring. It talk about, uh, journey and dreams.",
+        "annotation_token": "It talk",
+        "rationale": "The subject 'It' does not agree with the verb 'talk'. The correct form should be 'It talks'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes, many parts. But, um, the part where he meet, uh, wise king. It is very... how to say... insightful?",
+        "annotation_token": "he meet",
+        "rationale": "The subject 'he' does not agree with the verb 'meet'. The correct form should be 'he meets'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think because, um, it teach us to, uh, trust ourself and our... um, feelings?",
+        "annotation_token": "it teach",
+        "rationale": "The subject 'it' does not agree with the verb 'teach'. The correct form should be 'it teaches'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, it can help. Um, people who are, uh, confused about life maybe? It give hope.",
+        "annotation_token": "It give",
+        "rationale": "The subject 'It' does not agree with the verb 'give'. The correct form should be 'It gives'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, let me think... Yes! \"When you want something, all universe help you.\" I like this.",
+        "annotation_token": "all universe help",
+        "rationale": "The subject 'all universe' does not agree with the verb 'help'. The correct form should be 'all universe helps'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, exactly. It show how important it is to, um, not give up.",
+        "annotation_token": "It show",
+        "rationale": "The subject 'It' does not agree with the verb 'show'. The correct form should be 'It shows'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, yes. I try to follow my dreams, even when difficult. It help me stay, uh, positive.",
+        "annotation_token": "It help",
+        "rationale": "The subject 'It' does not agree with the verb 'help'. The correct form should be 'It helps'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think, um, it matters because it remind us to believe in ourself and our dreams.",
+        "annotation_token": "it remind",
+        "rationale": "The subject 'it' does not agree with the verb 'remind'. The correct form should be 'it reminds'.",
+        "grammar_correctness": "wrong"
+    }
+]

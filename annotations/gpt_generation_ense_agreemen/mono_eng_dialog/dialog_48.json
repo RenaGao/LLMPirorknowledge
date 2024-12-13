@@ -1,0 +1,32 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I did that this morning, but it didn’t seem to help much.",
+        "annotation_token": [
+            "did",
+            "didn't seem"
+        ],
+        "rationale": "The sentence uses past tense consistently with 'did' and 'didn't seem', maintaining tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "The power light is solid, but the internet light keeps blinking.",
+        "annotation_token": [
+            "is",
+            "keeps"
+        ],
+        "rationale": "The sentence uses present tense consistently with 'is' and 'keeps', maintaining tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I can definitely try that. How long do you think the issue will last?",
+        "annotation_token": [
+            "can",
+            "will last"
+        ],
+        "rationale": "The sentence uses present and future tense appropriately with 'can' and 'will last', maintaining tense agreement.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I make. It is easy. But sometimes my mother help... helps me.",
+        "annotation_token": [
+            "help",
+            "helps"
+        ],
+        "rationale": "The speaker initially uses 'help' which is incorrect for the third person singular subject 'my mother'. The correct form 'helps' is then used, showing an attempt to correct the tense agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

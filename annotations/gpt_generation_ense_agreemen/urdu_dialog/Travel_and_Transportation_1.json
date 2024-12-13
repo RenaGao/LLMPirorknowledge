@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, I forget name. It is, um, not far... big and nice?",
+        "annotation_token": [
+            "forget",
+            "is"
+        ],
+        "rationale": "The verb 'forget' is in the present tense, which does not agree with the context that suggests a past action. The verb 'is' is correctly in the present tense, agreeing with the current state of the hotel being 'not far... big and nice'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, local food good. I hear, um, spice is special?",
+        "annotation_token": [
+            "hear",
+            "is"
+        ],
+        "rationale": "The verb 'hear' is in the present tense, which is appropriate as the speaker is currently hearing about the spice. The verb 'is' is also in the present tense, correctly describing the current state of the spice being special.",
+        "grammar_correctness": "correct"
+    }
+]

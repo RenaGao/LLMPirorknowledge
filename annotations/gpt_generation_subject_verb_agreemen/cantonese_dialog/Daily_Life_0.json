@@ -1,0 +1,42 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "My mom make it.",
+        "annotation_token": [
+            "My mom",
+            "make"
+        ],
+        "rationale": "The subject 'My mom' is singular, so the verb should be 'makes' to agree with the subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I check my bag have all thing.",
+        "annotation_token": [
+            "my bag",
+            "have"
+        ],
+        "rationale": "The subject 'my bag' is singular, so the verb should be 'has' to agree with the subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I take the bus. Sometimes, um, too many people, so it slow.",
+        "annotation_token": [
+            "it",
+            "slow"
+        ],
+        "rationale": "The subject 'it' is singular, so the verb should be 'slows' to agree with the subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Not so hard. I drink coffee, so it help me, um, to focus.",
+        "annotation_token": [
+            "it",
+            "help"
+        ],
+        "rationale": "The subject 'it' is singular, so the verb should be 'helps' to agree with the subject.",
+        "grammar_correctness": "wrong"
+    }
+]

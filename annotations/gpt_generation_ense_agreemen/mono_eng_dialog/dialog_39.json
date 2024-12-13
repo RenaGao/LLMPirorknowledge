@@ -1,0 +1,83 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I'm Taylor, and I'm currently finishing up my degree in Computer Science.",
+        "annotation_token": [
+            "I'm",
+            "am",
+            "finishing"
+        ],
+        "rationale": "The sentence uses present continuous tense to describe an ongoing action, which is consistent with the subject 'I'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I developed a mobile app for organizing study schedules.",
+        "annotation_token": [
+            "developed"
+        ],
+        "rationale": "The sentence uses past tense to describe a completed action, which is consistent with the subject 'I'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "The biggest challenge was ensuring it was user-friendly.",
+        "annotation_token": [
+            "was",
+            "was"
+        ],
+        "rationale": "The sentence uses past tense to describe a past state, which is consistent with the subject 'challenge'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I tackled this by gathering feedback from peers and iterating based on their suggestions.",
+        "annotation_token": [
+            "tackled",
+            "gathering",
+            "iterating"
+        ],
+        "rationale": "The sentence uses past tense for 'tackled' to describe a completed action and present participle for 'gathering' and 'iterating' to describe ongoing actions at that past time.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I found it more effective to watch users interact with the app and note their reactions.",
+        "annotation_token": [
+            "found",
+            "interact",
+            "note"
+        ],
+        "rationale": "The sentence uses past tense for 'found' to describe a completed action and present tense for 'interact' and 'note' to describe actions that are general truths or habitual.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I believe my greatest strength is my ability to communicate effectively.",
+        "annotation_token": [
+            "believe",
+            "is"
+        ],
+        "rationale": "The sentence uses present tense to describe a current belief and state, which is consistent with the subject 'I'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I was wondering about the team dynamics here.",
+        "annotation_token": [
+            "was wondering"
+        ],
+        "rationale": "The sentence uses past continuous tense to describe a past action that was ongoing.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "How does the company encourage collaboration among team members?",
+        "annotation_token": [
+            "does",
+            "encourage"
+        ],
+        "rationale": "The sentence uses present tense to describe a current action or state, which is consistent with the subject 'company'.",
+        "grammar_correctness": "correct"
+    }
+]

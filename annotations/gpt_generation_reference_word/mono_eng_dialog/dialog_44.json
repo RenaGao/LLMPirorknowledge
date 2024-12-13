@@ -1,0 +1,93 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I recently graduated with a degree in computer science, and I'm eager to dive into a tech role where I can grow and contribute to exciting projects.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I saw your company is leading in AI solutions, which really caught my interest.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We developed a chatbot that could assist with customer inquiries.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the group including the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It was challenging but rewarding to see it come to life.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the chatbot.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We had to ensure the bot understood context, which was tricky.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the group including the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I focused on refining the training data and tweaking the algorithms to improve its accuracy.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I believe communication is crucial.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I like to keep the dialogue open and ensure everyone is on the same page.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I also make it a point to listen to others' ideas and provide constructive feedback.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I was curious about the team's current projects and how you see this position contributing to those.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That sounds exactly like the kind of challenge I’m looking for.",
+        "annotation_token": "I’m",
+        "rationale": "The contraction 'I’m' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I appreciate the opportunity to interview today and learn more about the company.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you! I look forward to hearing from you.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, thank you. My name is Mei. I come from Beijing. I have study business in university... um, for three years.",
+        "annotation_token": [
+            "three"
+        ],
+        "rationale": "The word 'three' is a numeral indicating the quantity of years.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, correct. We check all numbers and make sure... they are right.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier indicating the totality of numbers being checked.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I try to stay... calm. I make list of tasks and do... one by one. It help me not stress.",
+        "annotation_token": [
+            "one by one"
+        ],
+        "rationale": "The phrase 'one by one' uses the numeral 'one' to indicate a sequential process.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I want to know... what skills are most important for this job?",
+        "annotation_token": [
+            "most"
+        ],
+        "rationale": "The word 'most' is a quantifier indicating the highest degree of importance.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, thank you. My name is Mei. I come from Beijing. I have study business in university... um, for three years.",
+        "annotation_token": [
+            "three"
+        ],
+        "rationale": "The word 'three' is a numeral indicating the duration of study.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, correct. We check all numbers and make sure... they are right.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier indicating the totality of numbers being checked.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I try to stay... calm. I make list of tasks and do... one by one. It help me not stress.",
+        "annotation_token": [
+            "one by one"
+        ],
+        "rationale": "The phrase 'one by one' is a numeral expression indicating the sequential order of tasks.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I want to know... what skills are most important for this job?",
+        "annotation_token": [
+            "most"
+        ],
+        "rationale": "The word 'most' is a quantifier indicating the highest degree of importance.",
+        "grammar_correctness": true
+    }
+]

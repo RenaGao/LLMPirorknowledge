@@ -1,0 +1,32 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I am ready. Um, how we start this plan?",
+        "annotation_token": [
+            "am",
+            "start"
+        ],
+        "rationale": "The sentence contains a tense agreement error. 'Am' is present tense, but 'start' should be 'do we start' to match the present tense question form.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hm, maybe we use the park? It is big and open place.",
+        "annotation_token": [
+            "use",
+            "is"
+        ],
+        "rationale": "The sentence contains a tense agreement error. 'Use' is present tense, but 'is' should be 'is a' to match the present tense form.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you! This will be fun, I hope friend is surprised.",
+        "annotation_token": [
+            "will be",
+            "is"
+        ],
+        "rationale": "The sentence contains a tense agreement error. 'Will be' is future tense, but 'is' should be 'will be' to match the future tense form.",
+        "grammar_correctness": "wrong"
+    }
+]

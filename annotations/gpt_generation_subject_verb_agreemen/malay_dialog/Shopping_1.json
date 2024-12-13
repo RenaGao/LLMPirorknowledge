@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, he say, uh, only small discount.",
+        "annotation_token": "he say",
+        "rationale": "The subject 'he' does not agree with the verb 'say'. The correct form should be 'he says'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "He say okay, can give... bigger discount, but only if I buy three items.",
+        "annotation_token": "He say",
+        "rationale": "The subject 'He' does not agree with the verb 'say'. The correct form should be 'He says'.",
+        "grammar_correctness": "wrong"
+    }
+]

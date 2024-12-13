@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I have, uh, pain in my stomach.",
+        "annotation_token": "have pain",
+        "rationale": "The noun 'pain' and the verb 'have' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I eat new restaurant last week.",
+        "annotation_token": "eat restaurant",
+        "rationale": "The noun 'restaurant' and the verb 'eat' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I take, um, painkiller, but it not help much.",
+        "annotation_token": "take painkiller",
+        "rationale": "The noun 'painkiller' and the verb 'take' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I really appreciate your help.",
+        "annotation_token": "appreciate help",
+        "rationale": "The noun 'help' and the verb 'appreciate' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    }
+]

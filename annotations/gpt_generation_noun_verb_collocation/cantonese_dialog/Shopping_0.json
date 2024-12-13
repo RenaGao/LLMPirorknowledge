@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, rice cooker! Do you have it here?",
+        "annotation_token": "rice cooker",
+        "rationale": "The noun 'rice' and the verb 'cooker' form a collocation that expresses a complete action related to cooking rice.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, yes, actually. I also look for... um, thing for making coffee.",
+        "annotation_token": "making coffee",
+        "rationale": "The noun 'coffee' and the verb 'making' form a collocation that expresses a complete action related to making coffee.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, coffee maker. Do you have one not too big?",
+        "annotation_token": "coffee maker",
+        "rationale": "The noun 'coffee' and the verb 'maker' form a collocation that expresses a complete action related to making coffee.",
+        "grammar_correctness": true
+    }
+]

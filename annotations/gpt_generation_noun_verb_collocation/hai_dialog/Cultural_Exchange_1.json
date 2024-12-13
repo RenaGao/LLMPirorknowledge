@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh yes, um, I remember we talk about that.",
+        "annotation_token": "talk about",
+        "rationale": "The verb 'talk' and the noun 'about' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, and they use fork and knife more.",
+        "annotation_token": "use fork",
+        "rationale": "The verb 'use' and the noun 'fork' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, um, we say \"Chon!\" when toast, like \"Cheers.\"",
+        "annotation_token": "say \"Chon!\"",
+        "rationale": "The verb 'say' and the noun '\"Chon!\"' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, yes! I remember in Japan, I, um, slurp noodle.",
+        "annotation_token": "slurp noodle",
+        "rationale": "The verb 'slurp' and the noun 'noodle' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

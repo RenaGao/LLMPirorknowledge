@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "The question number three. It ask about, um, how to say... comparing two things?",
+        "annotation_token": [
+            "three",
+            "two"
+        ],
+        "rationale": "The sentence contains numerals 'three' and 'two' which are used to specify quantities.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Two pages... um, I think I can do. But what if I no finish?",
+        "annotation_token": [
+            "Two"
+        ],
+        "rationale": "The sentence contains the numeral 'Two' which specifies the quantity of pages.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "The question number three. It ask about, um, how to say... comparing two things?",
+        "annotation_token": [
+            "three",
+            "two"
+        ],
+        "rationale": "The sentence contains numerals 'three' and 'two', which are used to specify quantities.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Two pages... um, I think I can do. But what if I no finish?",
+        "annotation_token": [
+            "Two"
+        ],
+        "rationale": "The sentence contains the numeral 'Two', which specifies the quantity of pages.",
+        "grammar_correctness": true
+    }
+]

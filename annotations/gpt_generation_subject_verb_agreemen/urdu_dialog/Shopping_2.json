@@ -1,0 +1,41 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, yes, return. I buy last week but... it no fit.",
+        "annotation_token": [
+            "I buy",
+            "it no fit"
+        ],
+        "rationale": "The subject 'I' should be followed by the past tense verb 'bought' to agree in tense, and 'it no fit' should be 'it does not fit' or 'it doesn't fit' to agree in number and tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, yes, I bring it. Is here.",
+        "annotation_token": [
+            "I bring",
+            "Is here"
+        ],
+        "rationale": "The subject 'I' should be followed by the past tense verb 'brought' to agree in tense, and 'Is here' should be 'It is here' to include the subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, exchange is good. But... um, if no bigger?",
+        "annotation_token": [
+            "exchange is",
+            "if no bigger"
+        ],
+        "rationale": "The subject 'exchange' correctly agrees with the verb 'is', but 'if no bigger' should be 'if there is no bigger size' to include the subject and verb.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you so much for help.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The subject 'I' is implied and correctly agrees with the verb 'thank'.",
+        "grammar_correctness": "correct"
+    }
+]

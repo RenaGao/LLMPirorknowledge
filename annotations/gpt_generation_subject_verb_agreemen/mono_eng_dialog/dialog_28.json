@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I start by analyzing the target audience's preferences and behaviors.",
+        "annotation_token": "I start",
+        "rationale": "The subject 'I' correctly agrees with the verb 'start' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I see feedback as an opportunity to improve.",
+        "annotation_token": "I see",
+        "rationale": "The subject 'I' correctly agrees with the verb 'see' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I always welcome constructive criticism and use it to refine strategies.",
+        "annotation_token": "I always welcome",
+        "rationale": "The subject 'I' correctly agrees with the verb 'welcome' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It’s all about continuous learning.",
+        "annotation_token": "It’s",
+        "rationale": "The subject 'It' correctly agrees with the contracted verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That sounds wonderful.",
+        "annotation_token": "That sounds",
+        "rationale": "The subject 'That' correctly agrees with the verb 'sounds' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

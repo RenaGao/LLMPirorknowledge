@@ -1,0 +1,82 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, maybe... one week? Yes, one week.",
+        "annotation_token": [
+            "one",
+            "one"
+        ],
+        "rationale": "The word 'one' is a numeral indicating a specific quantity of time (week).",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, when I sleep more, then I feel a bit better.",
+        "annotation_token": [
+            "more",
+            "a bit"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an increased amount of sleep, and 'a bit' is a quantifier indicating a small degree of improvement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, not very good. I eat little, not much hungry.",
+        "annotation_token": [
+            "little",
+            "much"
+        ],
+        "rationale": "The word 'little' is a quantifier indicating a small amount of food intake, and 'much' is a quantifier indicating the degree of hunger.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, a bit stress. Work is busy... um, many things to do.",
+        "annotation_token": [
+            "a bit",
+            "many"
+        ],
+        "rationale": "The phrase 'a bit' is a quantifier indicating a small degree of stress, and 'many' is a quantifier indicating a large number of tasks.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, maybe... one week? Yes, one week.",
+        "annotation_token": [
+            "one",
+            "one"
+        ],
+        "rationale": "The word 'one' is a numeral indicating a specific quantity of time (week).",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, when I sleep more, then I feel a bit better.",
+        "annotation_token": [
+            "more",
+            "a bit"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an increased amount of sleep, and 'a bit' is a quantifier indicating a small degree of improvement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, not very good. I eat little, not much hungry.",
+        "annotation_token": [
+            "little",
+            "much"
+        ],
+        "rationale": "The word 'little' is a quantifier indicating a small amount of food intake, and 'much' is a quantifier indicating the degree of hunger.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, a bit stress. Work is busy... um, many things to do.",
+        "annotation_token": [
+            "a bit",
+            "many"
+        ],
+        "rationale": "The phrase 'a bit' is a quantifier indicating a small degree of stress, and 'many' is a quantifier indicating a large number of tasks.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Not really. I sleep late. Uh, I watch too many series at night.",
+        "annotation_token": [
+            "too many"
+        ],
+        "rationale": "The phrase 'too many' is a quantifier used to indicate an excessive amount of countable items, in this case, 'series'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I think I will try that. Any other tips for... um, health?",
+        "annotation_token": [
+            "any"
+        ],
+        "rationale": "The word 'any' is a quantifier used to refer to an unspecified amount or number of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, sometimes I forget. How much should I drink again?",
+        "annotation_token": [
+            "much"
+        ],
+        "rationale": "The word 'much' is a quantifier used to refer to a large amount of something uncountable, in this case, 'drink'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, I walk... sometimes. But not much else.",
+        "annotation_token": [
+            "much"
+        ],
+        "rationale": "The word 'much' is a quantifier used to refer to a large amount of something uncountable, in this case, 'else'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Not really. I sleep late. Uh, I watch too many series at night.",
+        "annotation_token": [
+            "too many"
+        ],
+        "rationale": "The phrase 'too many' is a quantifier used to indicate an excessive amount of series being watched.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, sometimes I forget. How much should I drink again?",
+        "annotation_token": [
+            "How much"
+        ],
+        "rationale": "The phrase 'How much' is a quantifier used to inquire about the quantity of something, in this case, the amount to drink.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, I walk... sometimes. But not much else.",
+        "annotation_token": [
+            "not much"
+        ],
+        "rationale": "The phrase 'not much' is a quantifier indicating a small or insufficient amount of walking or other activities.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, yes, please. I need new book, but not sure what to read.",
+        "annotation_token": "need book",
+        "rationale": "The noun 'book' and the verb 'need' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, I hear about it. What is it about?",
+        "annotation_token": "hear about",
+        "rationale": "The noun 'it' and the verb 'hear' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Okay, I will try it. Thank you for recommend.",
+        "annotation_token": "try it",
+        "rationale": "The noun 'it' and the verb 'try' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you! I look forward to reading",
+        "annotation_token": "look forward",
+        "rationale": "The noun 'forward' and the verb 'look' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

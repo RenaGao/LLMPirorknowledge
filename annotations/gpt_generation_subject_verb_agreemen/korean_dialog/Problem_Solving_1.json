@@ -1,0 +1,52 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It not working well.",
+        "annotation_token": [
+            "It",
+            "not working"
+        ],
+        "rationale": "The subject 'It' does not agree with the verb 'not working'. The correct form should be 'It is not working well.'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I buy it three year ago.",
+        "annotation_token": [
+            "I",
+            "buy"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'buy'. The correct form should be 'I bought it three years ago.'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I delete few files, but not sure about update.",
+        "annotation_token": [
+            "I",
+            "delete"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'delete'. The correct form should be 'I deleted a few files, but I am not sure about the update.'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I not so good with these things.",
+        "annotation_token": [
+            "I",
+            "not"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'not'. The correct form should be 'I am not so good with these things.'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "what I do if it find update?",
+        "annotation_token": [
+            "it",
+            "find"
+        ],
+        "rationale": "The subject 'it' does not agree with the verb 'find'. The correct form should be 'what do I do if it finds an update?'",
+        "grammar_correctness": "wrong"
+    }
+]

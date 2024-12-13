@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, hi! It was very... um, interesting. I visit many places.",
+        "annotation_token": [
+            "I visit"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'visit' in terms of tense. It should be 'I visited' to match the past tense context.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I go to top. The view... very beautiful. Can see all city!",
+        "annotation_token": [
+            "I go"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'go' in terms of tense. It should be 'I went' to match the past tense context.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I take many photos. But... uh, some too cloudy. Hard to see.",
+        "annotation_token": [
+            "I take"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'take' in terms of tense. It should be 'I took' to match the past tense context.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I go to... um, Shanghai Museum. So many... uh, history things.",
+        "annotation_token": [
+            "I go"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'go' in terms of tense. It should be 'I went' to match the past tense context.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, yes. Sometimes... I, uh, lost way. But people very helpful.",
+        "annotation_token": [
+            "I lost"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'lost' in terms of tense. It should be 'I got lost' to match the past tense context.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, they very kind. Make trip more... um, better.",
+        "annotation_token": [
+            "they very"
+        ],
+        "rationale": "The subject 'they' does not agree with the verb 'very'. It should be 'they are very' to be grammatically correct.",
+        "grammar_correctness": "wrong"
+    }
+]

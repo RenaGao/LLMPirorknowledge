@@ -1,0 +1,320 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, Wing! I am good, thank you. Um, I want to talk about our plan this weekend.",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "I want to talk"
+        ],
+        "rationale": "The tokens 'Hi', 'thank you', and 'I want to talk' are speech acts as they perform the actions of greeting, expressing gratitude, and stating an intention to discuss plans.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think you say you cannot go to the beach, right?",
+        "annotation_token": [
+            "I think",
+            "you say",
+            "right"
+        ],
+        "rationale": "The tokens 'I think', 'you say', and 'right' are speech acts as they express a belief, report speech, and seek confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, I see! I hear wrong.",
+        "annotation_token": [
+            "Oh",
+            "I see",
+            "I hear wrong"
+        ],
+        "rationale": "The tokens 'Oh', 'I see', and 'I hear wrong' are speech acts as they express realization, understanding, and acknowledgment of a mistake.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! I want to go.",
+        "annotation_token": [
+            "Yes",
+            "I want to go"
+        ],
+        "rationale": "The tokens 'Yes' and 'I want to go' are speech acts as they express agreement and a desire to participate.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe, um, bring sunscreen?",
+        "annotation_token": [
+            "Maybe",
+            "bring sunscreen"
+        ],
+        "rationale": "The tokens 'Maybe' and 'bring sunscreen' are speech acts as they suggest a possibility and make a request.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think that is all. Thank you, Wing!",
+        "annotation_token": [
+            "I think",
+            "Thank you"
+        ],
+        "rationale": "The tokens 'I think' and 'Thank you' are speech acts as they express a conclusion and gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, see you Saturday! Bye bye!",
+        "annotation_token": [
+            "Okay",
+            "see you",
+            "Bye bye"
+        ],
+        "rationale": "The tokens 'Okay', 'see you', and 'Bye bye' are speech acts as they express agreement, a farewell, and a closing.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, Wing! I am good, thank you. Um, I want to talk about our plan this weekend.",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "I want to talk"
+        ],
+        "rationale": "The tokens 'Hi', 'thank you', and 'I want to talk' are speech acts as they perform functions such as greeting, expressing gratitude, and stating an intention.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think you say you cannot go to the beach, right?",
+        "annotation_token": [
+            "I think",
+            "you say",
+            "right"
+        ],
+        "rationale": "The tokens 'I think', 'you say', and 'right' are speech acts as they express a belief, report speech, and seek confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, I see! I hear wrong. I think you say you busy with work.",
+        "annotation_token": [
+            "Oh",
+            "I see",
+            "I hear wrong",
+            "I think",
+            "you say"
+        ],
+        "rationale": "The tokens 'Oh', 'I see', 'I hear wrong', 'I think', and 'you say' are speech acts as they express realization, understanding, acknowledgment of error, belief, and reported speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! I want to go. I buy new swimsuit, very excited.",
+        "annotation_token": [
+            "Yes",
+            "I want to go",
+            "very excited"
+        ],
+        "rationale": "The tokens 'Yes', 'I want to go', and 'very excited' are speech acts as they express agreement, intention, and emotion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, the bus station is good. But, um, what time?",
+        "annotation_token": [
+            "Um",
+            "yes",
+            "what time"
+        ],
+        "rationale": "The tokens 'Um', 'yes', and 'what time' are speech acts as they express hesitation, agreement, and a request for information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "10 a.m. is okay. Not too early, not too late.",
+        "annotation_token": [
+            "is okay"
+        ],
+        "rationale": "The token 'is okay' is a speech act as it expresses acceptance.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I like morning, not too hot. We can swim and eat food.",
+        "annotation_token": [
+            "Yes",
+            "I like",
+            "We can"
+        ],
+        "rationale": "The tokens 'Yes', 'I like', and 'We can' are speech acts as they express agreement, preference, and possibility.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe, um, bring sunscreen? I forget mine last time.",
+        "annotation_token": [
+            "Maybe",
+            "bring sunscreen",
+            "I forget"
+        ],
+        "rationale": "The tokens 'Maybe', 'bring sunscreen', and 'I forget' are speech acts as they express suggestion, request, and acknowledgment of past action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think that is all. Thank you, Wing!",
+        "annotation_token": [
+            "I think",
+            "Thank you"
+        ],
+        "rationale": "The tokens 'I think' and 'Thank you' are speech acts as they express belief and gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I feel better now. I not want to miss our beach day.",
+        "annotation_token": [
+            "Yes",
+            "I feel better",
+            "I not want"
+        ],
+        "rationale": "The tokens 'Yes', 'I feel better', and 'I not want' are speech acts as they express agreement, state of being, and desire.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, see you Saturday! Bye bye!",
+        "annotation_token": [
+            "Okay",
+            "see you",
+            "Bye bye"
+        ],
+        "rationale": "The tokens 'Okay', 'see you', and 'Bye bye' are speech acts as they express agreement, future meeting, and farewell.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, Wing! I am good, thank you. Um, I want to talk about our plan this weekend.",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "I want to talk"
+        ],
+        "rationale": "The tokens 'Hi', 'thank you', and 'I want to talk' are speech acts as they perform functions of greeting, expressing gratitude, and stating an intention respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think you say you cannot go to the beach, right?",
+        "annotation_token": [
+            "I think",
+            "you say",
+            "right"
+        ],
+        "rationale": "The tokens 'I think', 'you say', and 'right' are speech acts as they express a belief, report speech, and seek confirmation respectively.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, I see! I hear wrong. I think you say you busy with work.",
+        "annotation_token": [
+            "Oh",
+            "I see",
+            "I hear wrong",
+            "I think",
+            "you say"
+        ],
+        "rationale": "The tokens 'Oh', 'I see', 'I hear wrong', 'I think', and 'you say' are speech acts as they express realization, understanding, acknowledgment of error, belief, and reported speech respectively.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! I want to go. I buy new swimsuit, very excited.",
+        "annotation_token": [
+            "Yes",
+            "I want to go",
+            "I buy",
+            "very excited"
+        ],
+        "rationale": "The tokens 'Yes', 'I want to go', 'I buy', and 'very excited' are speech acts as they express agreement, intention, action, and emotion respectively.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, the bus station is good. But, um, what time?",
+        "annotation_token": [
+            "Um",
+            "yes",
+            "what time"
+        ],
+        "rationale": "The tokens 'Um', 'yes', and 'what time' are speech acts as they express hesitation, agreement, and inquiry respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "10 a.m. is okay. Not too early, not too late.",
+        "annotation_token": [
+            "is okay",
+            "Not too early",
+            "not too late"
+        ],
+        "rationale": "The tokens 'is okay', 'Not too early', and 'not too late' are speech acts as they express acceptance and evaluation of time.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I like morning, not too hot. We can swim and eat food.",
+        "annotation_token": [
+            "Yes",
+            "I like",
+            "We can swim",
+            "eat food"
+        ],
+        "rationale": "The tokens 'Yes', 'I like', 'We can swim', and 'eat food' are speech acts as they express agreement, preference, possibility, and action respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Maybe, um, bring sunscreen? I forget mine last time.",
+        "annotation_token": [
+            "Maybe",
+            "bring sunscreen",
+            "I forget"
+        ],
+        "rationale": "The tokens 'Maybe', 'bring sunscreen', and 'I forget' are speech acts as they express suggestion, request, and acknowledgment of past action respectively.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think that is all. Thank you, Wing!",
+        "annotation_token": [
+            "I think",
+            "Thank you"
+        ],
+        "rationale": "The tokens 'I think' and 'Thank you' are speech acts as they express belief and gratitude respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I feel better now. I not want to miss our beach day.",
+        "annotation_token": [
+            "Yes",
+            "I feel better",
+            "I not want"
+        ],
+        "rationale": "The tokens 'Yes', 'I feel better', and 'I not want' are speech acts as they express agreement, state of being, and desire respectively.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, see you Saturday! Bye bye!",
+        "annotation_token": [
+            "Okay",
+            "see you",
+            "Bye bye"
+        ],
+        "rationale": "The tokens 'Okay', 'see you', and 'Bye bye' are speech acts as they express agreement, future meeting, and farewell respectively.",
+        "grammar_correctness": "correct"
+    }
+]

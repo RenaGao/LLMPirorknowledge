@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I need, um, paper clip. For holding paper together, but no staple.",
+        "annotation_token": [
+            "paper clip",
+            "staple"
+        ],
+        "rationale": "The speaker uses singular forms 'paper clip' and 'staple' when the context suggests they are referring to multiple items, which should be 'paper clips' and 'staples'.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, my favorite is Lunar New Year. It's very, how to say, special time for family.",
+        "annotation_token": [
+            "Oh",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Oh', 'um', and 'how to say' are used as speech acts to express hesitation, thinking, or searching for words, which are common in spoken language.",
+        "grammar_correctness": "These tokens are typical in spoken English, though 'how to say' is a non-standard expression for 'how do I say'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We, uh, have big dinner with family. And, uh, give red envelopes. You know what is that?",
+        "annotation_token": [
+            "uh",
+            "You know what is that"
+        ],
+        "rationale": "The token 'uh' is a filler used in speech to indicate a pause or hesitation. 'You know what is that?' is a speech act seeking confirmation or shared understanding.",
+        "grammar_correctness": "'uh' is typical in spoken English. 'You know what is that?' is grammatically incorrect; the correct form is 'You know what that is?'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, a lot. But I try to do small thing, like cooking special food.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is a speech act used to affirm or agree with a previous statement or question.",
+        "grammar_correctness": "'Yes' is correctly used in this context."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for asking! I like sharing about cultu",
+        "annotation_token": [
+            "Thank you for asking"
+        ],
+        "rationale": "The phrase 'Thank you for asking' is a speech act expressing gratitude.",
+        "grammar_correctness": "This phrase is grammatically correct and appropriately used."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, my favorite is Lunar New Year. It's very, how to say, special time for family.",
+        "annotation_token": [
+            "Oh",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Oh', 'um', and 'how to say' are used as speech acts to express hesitation, thinking, or searching for words, which are common in spoken language.",
+        "grammar_correctness": "These tokens are typical in spoken English, though 'how to say' is a non-native-like expression for 'how do I say'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You know what is that?",
+        "annotation_token": [
+            "You know"
+        ],
+        "rationale": "The phrase 'You know' is a speech act used to engage the listener and check for understanding.",
+        "grammar_correctness": "The phrase 'You know' is correct, but the sentence structure 'what is that' is not native-like; it should be 'what that is'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, I think so. It need good teamwork, but very nice to watch.",
+        "annotation_token": [
+            "Uh",
+            "I think so"
+        ],
+        "rationale": "The token 'Uh' is a filler used in speech to indicate hesitation, and 'I think so' is a speech act expressing agreement or confirmation.",
+        "grammar_correctness": "These tokens are typical in spoken English, though 'It need' should be 'It needs' for grammatical correctness."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for asking! I like sharing about cultu",
+        "annotation_token": [
+            "Thank you for asking"
+        ],
+        "rationale": "The phrase 'Thank you for asking' is a speech act used to express gratitude.",
+        "grammar_correctness": "The phrase is grammatically correct and typical in spoken English."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, my favorite is Lunar New Year. It's very, how to say, special time for family.",
+        "annotation_token": [
+            "Oh",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Oh', 'um', and 'how to say' are used as speech acts to express hesitation, thinking, or searching for words, which are common in spoken language.",
+        "grammar_correctness": "These tokens are typical in spoken English, though 'how to say' is a non-standard phrase used by non-native speakers to express searching for words."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You know what is that?",
+        "annotation_token": [
+            "You know"
+        ],
+        "rationale": "The phrase 'You know' is a speech act used to engage the listener and check for understanding or agreement.",
+        "grammar_correctness": "The phrase 'You know' is commonly used in spoken English, but the sentence structure 'what is that?' is non-standard; it should be 'what that is?'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, I think so. It need good teamwork, but very nice to watch.",
+        "annotation_token": [
+            "Uh",
+            "I think so"
+        ],
+        "rationale": "The token 'Uh' is a filler used in speech to indicate hesitation, and 'I think so' is a speech act expressing agreement or belief.",
+        "grammar_correctness": "These tokens are typical in spoken English, though 'It need' should be 'It needs' for grammatical correctness."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for asking! I like sharing about cultu",
+        "annotation_token": [
+            "Thank you for asking"
+        ],
+        "rationale": "The phrase 'Thank you for asking' is a speech act used to express gratitude.",
+        "grammar_correctness": "This phrase is grammatically correct and commonly used in English."
+    }
+]

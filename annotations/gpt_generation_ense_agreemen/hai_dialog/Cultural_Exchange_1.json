@@ -1,0 +1,87 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh yes, um, I remember we talk about that.",
+        "annotation_token": [
+            "remember",
+            "talk"
+        ],
+        "rationale": "The verb 'remember' is in the present tense, but 'talk' should be in the past tense to agree with 'remember'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Different country have, uh, different rules for eating.",
+        "annotation_token": [
+            "have"
+        ],
+        "rationale": "The subject 'country' is singular, so the verb should be 'has' to agree in number and tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, yes! Like, uh, we not use chopsticks for rice, and we share food.",
+        "annotation_token": [
+            "not use"
+        ],
+        "rationale": "The sentence lacks the auxiliary verb 'do' for the negative form in present tense, it should be 'do not use'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hmm, how about... oh, yes! In Thailand, we not finish all food on plate.",
+        "annotation_token": [
+            "not finish"
+        ],
+        "rationale": "The sentence lacks the auxiliary verb 'do' for the negative form in present tense, it should be 'do not finish'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, yes. And also, um, we not speak loud at table.",
+        "annotation_token": [
+            "not speak"
+        ],
+        "rationale": "The sentence lacks the auxiliary verb 'do' for the negative form in present tense, it should be 'do not speak'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, um, we say \"Chon!\" when toast, like \"Cheers.\" But, uh, we not drink too much.",
+        "annotation_token": [
+            "not drink"
+        ],
+        "rationale": "The sentence lacks the auxiliary verb 'do' for the negative form in present tense, it should be 'do not drink'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It is, um, interesting but sometimes hard. I try to learn, but I worry make mistake.",
+        "annotation_token": [
+            "worry",
+            "make"
+        ],
+        "rationale": "The verb 'worry' is in the present tense, but 'make' should be in the infinitive form 'to make' to agree with 'worry'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hmm, yes. Maybe, um, learn small thing about the culture before go.",
+        "annotation_token": [
+            "learn",
+            "go"
+        ],
+        "rationale": "The verbs 'learn' and 'go' should be in the infinitive form 'to learn' and 'to go' to agree with the suggestion context.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you, Nuch. I like talk with you, too.",
+        "annotation_token": [
+            "like",
+            "talk"
+        ],
+        "rationale": "The verb 'like' is in the present tense, but 'talk' should be in the infinitive form 'to talk' to agree with 'like'.",
+        "grammar_correctness": "wrong"
+    }
+]

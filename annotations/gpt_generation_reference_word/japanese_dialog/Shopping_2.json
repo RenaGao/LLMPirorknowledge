@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, hello. I buy this jacket last week, but, uh, it not fit well.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer back to 'this jacket'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I want to return, please. Is it okay?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer back to the action of returning the jacket.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, here is receipt. I keep it always.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer back to 'receipt'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "No, no. I just try it at home. It is too big for me.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer back to 'this jacket'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, tags still on jacket. I think it is important.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer back to 'tags'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I use credit card. Is that okay for refund?",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is used to refer back to the action of using a credit card.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "No, I think that is all. Thank you very much!",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is used to refer back to the list of actions or items discussed.",
+        "grammar_correctness": true
+    }
+]

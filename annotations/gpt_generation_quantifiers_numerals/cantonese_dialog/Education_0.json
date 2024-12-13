@@ -1,0 +1,192 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, um, not really. I still need to study more, you know?",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an additional amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sample essay, yes. I have some from teacher, but not understand all.",
+        "annotation_token": [
+            "some",
+            "all"
+        ],
+        "rationale": "The word 'some' is a quantifier indicating an unspecified amount, and 'all' is a quantifier indicating the entirety.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Tomorrow is good. After class, um, maybe around three o'clock?",
+        "annotation_token": [
+            "three"
+        ],
+        "rationale": "The word 'three' is a numeral indicating a specific quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Library, okay. Thank you. You are always very helpful.",
+        "annotation_token": [
+            "always"
+        ],
+        "rationale": "The word 'always' is a quantifier indicating all the time or on every occasion.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Reading... I think better. But sometimes vocabulary is difficult.",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating an indefinite frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I use app. It helps, but sometimes I forget word.",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating an indefinite frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Quiz sounds fun! I will bring my notes, too.",
+        "annotation_token": [],
+        "rationale": "There are no quantifiers or numerals in this sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, a bit more now. Thank you for studying with me.",
+        "annotation_token": [
+            "a bit more"
+        ],
+        "rationale": "The phrase 'a bit more' includes 'more', a quantifier indicating an additional amount, and 'a bit', a quantifier indicating a small amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, um, not really. I still need to study more, you know?",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an additional amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, that would be good! You can help me with... um, sentences?",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier used to indicate an unspecified amount or number.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sample essay, yes. I have some from teacher, but not understand all.",
+        "annotation_token": [
+            "some",
+            "all"
+        ],
+        "rationale": "The word 'some' is a quantifier indicating an unspecified amount, and 'all' is a quantifier indicating the entire amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Tomorrow is good. After class, um, maybe around three o'clock?",
+        "annotation_token": [
+            "three"
+        ],
+        "rationale": "The word 'three' is a numeral indicating a specific quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Library, okay. Thank you. You are always very helpful.",
+        "annotation_token": [
+            "always"
+        ],
+        "rationale": "The word 'always' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Reading... I think better. But sometimes vocabulary is difficult.",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I use app. It helps, but sometimes I forget word.",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Quiz sounds fun! I will bring my notes, too.",
+        "annotation_token": [
+            "too"
+        ],
+        "rationale": "The word 'too' is a quantifier indicating an additional amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, a bit more now. Thank you for studying with me.",
+        "annotation_token": [
+            "a bit more"
+        ],
+        "rationale": "The phrase 'a bit more' is a quantifier indicating a small additional amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, um, not really. I still need to study more, you know?",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an additional amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sample essay, yes. I have some from teacher, but not understand all.",
+        "annotation_token": [
+            "some",
+            "all"
+        ],
+        "rationale": "The word 'some' is a quantifier indicating an unspecified amount, and 'all' is a quantifier indicating the entire amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Tomorrow is good. After class, um, maybe around three o'clock?",
+        "annotation_token": [
+            "three"
+        ],
+        "rationale": "The word 'three' is a numeral indicating a specific quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, a bit more now. Thank you for studying with me.",
+        "annotation_token": [
+            "a bit more"
+        ],
+        "rationale": "The phrase 'a bit more' includes 'more' as a quantifier indicating an additional amount.",
+        "grammar_correctness": true
+    }
+]

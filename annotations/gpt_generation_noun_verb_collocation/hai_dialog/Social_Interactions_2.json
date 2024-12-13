@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Family is very okay. My mom, she has new hobby... um, plant... planting tree.",
+        "annotation_token": "planting tree",
+        "rationale": "The noun 'tree' and the verb 'planting' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, a lot of plant. Many flower, very beautiful.",
+        "annotation_token": "plant flower",
+        "rationale": "The noun 'flower' and the verb 'plant' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I still work there. It is... um, quite busy. Many project now.",
+        "annotation_token": "work project",
+        "rationale": "The noun 'project' and the verb 'work' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, not sure... maybe next month, go beach... with friends.",
+        "annotation_token": "go beach",
+        "rationale": "The noun 'beach' and the verb 'go' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, um, try the market at night. Very good food!",
+        "annotation_token": "try market",
+        "rationale": "The noun 'market' and the verb 'try' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, not much new. I plan... learn to cook better. Maybe... take class.",
+        "annotation_token": "take class",
+        "rationale": "The noun 'class' and the verb 'take' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

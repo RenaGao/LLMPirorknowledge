@@ -1,0 +1,32 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I try many time, but paper, uh, not come out.",
+        "annotation_token": [
+            "try",
+            "come"
+        ],
+        "rationale": "The verbs 'try' and 'come' are in the present tense, but the context suggests that the speaker is describing a past action. The correct tense should be past tense 'tried' and 'came'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I open and look, but not see anything.",
+        "annotation_token": [
+            "open",
+            "look",
+            "see"
+        ],
+        "rationale": "The verbs 'open', 'look', and 'see' are in the present tense, but the context suggests that the speaker is describing a past action. The correct tense should be past tense 'opened', 'looked', and 'saw'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I do that now... (pause) Um, still same, no change.",
+        "annotation_token": [
+            "do"
+        ],
+        "rationale": "The verb 'do' is in the present tense, but the context suggests that the speaker is describing a past action. The correct tense should be past tense 'did'.",
+        "grammar_correctness": "wrong"
+    }
+]

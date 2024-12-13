@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I think all ages can read.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier indicating the totality of ages that can read.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It is, um, good for... young and old, and anyone who... want to dream.",
+        "annotation_token": [
+            "anyone"
+        ],
+        "rationale": "The word 'anyone' is a quantifier indicating any person without restriction.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Every time, I see... different.",
+        "annotation_token": [
+            "Every"
+        ],
+        "rationale": "The word 'Every' is a quantifier indicating each instance without exception.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I think all ages can read.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier indicating the totality of ages that can read.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It is, um, good for... young and old, and anyone who... want to dream.",
+        "annotation_token": [
+            "anyone"
+        ],
+        "rationale": "The word 'anyone' is a quantifier indicating any person without restriction.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Every time, I see... different.",
+        "annotation_token": [
+            "Every"
+        ],
+        "rationale": "The word 'Every' is a quantifier indicating each instance without exception.",
+        "grammar_correctness": true
+    }
+]

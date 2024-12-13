@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It last three days.",
+        "annotation_token": [
+            "It",
+            "last"
+        ],
+        "rationale": "The subject 'It' is singular, so the verb should be 'lasts' to agree with the subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It very ni",
+        "annotation_token": [
+            "It",
+            "very"
+        ],
+        "rationale": "The sentence is missing a verb to agree with the subject 'It'. A correct form would be 'It is very nice.'",
+        "grammar_correctness": "wrong"
+    }
+]

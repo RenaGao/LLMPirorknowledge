@@ -1,0 +1,159 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Morning! I’m a bit nervous, to be honest, but mostly excited about the opportunity.",
+        "annotation_token": [
+            "Morning!",
+            "I’m a bit nervous,",
+            "to be honest,",
+            "but mostly excited about the opportunity."
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Morning!'), an expression of emotion ('I’m a bit nervous,'), a hedging ('to be honest,'), and an expression of excitement ('but mostly excited about the opportunity.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Well, I’ve always admired your approach to sustainability and innovation.",
+        "annotation_token": [
+            "Well,",
+            "I’ve always admired your approach to sustainability and innovation."
+        ],
+        "rationale": "The sentence contains a discourse marker ('Well,') and an expression of admiration ('I’ve always admired your approach to sustainability and innovation.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Certainly. In my last role, I led a team to develop a recycling program that reduced waste by 30%.",
+        "annotation_token": [
+            "Certainly.",
+            "In my last role, I led a team to develop a recycling program that reduced waste by 30%."
+        ],
+        "rationale": "The sentence contains an affirmation ('Certainly.') and a statement of past achievement ('In my last role, I led a team to develop a recycling program that reduced waste by 30%.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I believe in open communication.",
+        "annotation_token": [
+            "I believe in open communication."
+        ],
+        "rationale": "The sentence is a statement of belief ('I believe in open communication.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Listening to all perspectives and finding a common ground usually works well.",
+        "annotation_token": [
+            "Listening to all perspectives and finding a common ground usually works well."
+        ],
+        "rationale": "The sentence is a statement of strategy or approach ('Listening to all perspectives and finding a common ground usually works well.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’m curious about the professional development opportunities your company offers.",
+        "annotation_token": [
+            "Yes,",
+            "I’m curious about the professional development opportunities your company offers."
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes,') and an expression of curiosity ('I’m curious about the professional development opportunities your company offers.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Could you elaborate on that?",
+        "annotation_token": [
+            "Could you elaborate on that?"
+        ],
+        "rationale": "The sentence is a request for information ('Could you elaborate on that?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds fantastic.",
+        "annotation_token": [
+            "That sounds fantastic."
+        ],
+        "rationale": "The sentence is an expression of approval or positive evaluation ('That sounds fantastic.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I really appreciate the emphasis on growth and learning.",
+        "annotation_token": [
+            "I really appreciate the emphasis on growth and learning."
+        ],
+        "rationale": "The sentence is an expression of gratitude or appreciation ('I really appreciate the emphasis on growth and learning.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for the opportunity and for the insightful conversation.",
+        "annotation_token": [
+            "Thank you for the opportunity and for the insightful conversation."
+        ],
+        "rationale": "The sentence is an expression of gratitude ('Thank you for the opportunity and for the insightful conversation.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I look forward to hearing from you.",
+        "annotation_token": [
+            "I look forward to hearing from you."
+        ],
+        "rationale": "The sentence is an expression of anticipation or expectation ('I look forward to hearing from you.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Morning! I’m a bit nervous, to be honest, but mostly excited about the opportunity.",
+        "annotation_token": [
+            "Morning!",
+            "I’m a bit nervous, to be honest, but mostly excited about the opportunity."
+        ],
+        "rationale": "The sentence contains a greeting ('Morning!') and an expression of emotion ('I’m a bit nervous, to be honest, but mostly excited about the opportunity.') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Certainly. In my last role, I led a team to develop a recycling program that reduced waste by 30%. It was rewarding to see tangible results.",
+        "annotation_token": [
+            "Certainly.",
+            "In my last role, I led a team to develop a recycling program that reduced waste by 30%.",
+            "It was rewarding to see tangible results."
+        ],
+        "rationale": "The sentence contains an agreement ('Certainly.') and a statement of past experience ('In my last role, I led a team to develop a recycling program that reduced waste by 30%.') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I believe in open communication. Listening to all perspectives and finding a common ground usually works well.",
+        "annotation_token": [
+            "I believe in open communication.",
+            "Listening to all perspectives and finding a common ground usually works well."
+        ],
+        "rationale": "The sentence contains an expression of belief ('I believe in open communication.') and a suggestion ('Listening to all perspectives and finding a common ground usually works well.') which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’m curious about the professional development opportunities your company offers. Could you elaborate on that?",
+        "annotation_token": [
+            "Yes,",
+            "I’m curious about the professional development opportunities your company offers.",
+            "Could you elaborate on that?"
+        ],
+        "rationale": "The sentence contains an agreement ('Yes,'), an expression of curiosity ('I’m curious about the professional development opportunities your company offers.'), and a request for information ('Could you elaborate on that?') which are all speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for the opportunity and for the insightful conversation. I look forward to hearing from you.",
+        "annotation_token": [
+            "Thank you for the opportunity and for the insightful conversation.",
+            "I look forward to hearing from you."
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you for the opportunity and for the insightful conversation.') and an expression of anticipation ('I look forward to hearing from you.') which are both speech acts.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I thought it was next week, but it is, uh, this week.",
+        "annotation_token": [
+            "it was",
+            "it is"
+        ],
+        "rationale": "The subject 'it' correctly agrees with the verbs 'was' and 'is' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I read the email, and I think I confused with another project.",
+        "annotation_token": [
+            "I read",
+            "I think"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'read' and 'think' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I need to be more, um, careful with schedule.",
+        "annotation_token": [
+            "I need"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'need' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I will work more hours this week.",
+        "annotation_token": [
+            "I will work"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb phrase 'will work' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think I can manage, but, um, if you can check my work, it helps.",
+        "annotation_token": [
+            "I think",
+            "I can manage",
+            "it helps"
+        ],
+        "rationale": "The subjects 'I' and 'it' correctly agree with the verbs 'think', 'can manage', and 'helps' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thursday is good, um, maybe afternoon?",
+        "annotation_token": [
+            "Thursday is"
+        ],
+        "rationale": "The subject 'Thursday' correctly agrees with the verb 'is' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "2 p.m. is perfect.",
+        "annotation_token": [
+            "2 p.m. is"
+        ],
+        "rationale": "The subject '2 p.m.' correctly agrees with the verb 'is' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I will come prepared.",
+        "annotation_token": [
+            "I will come"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb phrase 'will come' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I will use calendar more often, with alert.",
+        "annotation_token": [
+            "I will use"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb phrase 'will use' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I agree.",
+        "annotation_token": [
+            "I agree"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'agree' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I feel more, um, confident now.",
+        "annotation_token": [
+            "I feel"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'feel' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I will do my best.",
+        "annotation_token": [
+            "I will do"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb phrase 'will do' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I see you on Thursday.",
+        "annotation_token": [
+            "I see"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'see' in terms of number and person.",
+        "grammar_correctness": "correct"
+    }
+]

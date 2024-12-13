@@ -1,0 +1,125 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, of course. Um, we have a festival called Mid-Autumn Festival. You heard before?",
+        "annotation_token": [
+            "Yes",
+            "of course",
+            "You heard before"
+        ],
+        "rationale": "The sentence contains speech acts: 'Yes, of course' is an affirmative response, and 'You heard before?' is a question seeking confirmation or information.",
+        "grammar_correctness": "partially correct, 'You heard before?' should be 'Have you heard of it before?' for native grammar correctness."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it is a... how to say... family festival.",
+        "annotation_token": [
+            "Yes",
+            "how to say"
+        ],
+        "rationale": "'Yes' is an affirmative response, and 'how to say' is a speech act indicating the speaker is searching for the right words.",
+        "grammar_correctness": "partially correct, 'how to say' is a non-native filler phrase; a native speaker might say 'it's a kind of family festival.'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You are welcome! You should visit, we... like to share our culture with friends.",
+        "annotation_token": [
+            "You are welcome",
+            "You should visit"
+        ],
+        "rationale": "'You are welcome' is a polite response to thanks, and 'You should visit' is a suggestion or invitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No problem! It was nice to talk about",
+        "annotation_token": [
+            "No problem",
+            "It was nice to talk about"
+        ],
+        "rationale": "'No problem' is a response to thanks or an apology, and 'It was nice to talk about' is a closing remark indicating the speaker enjoyed the conversation.",
+        "grammar_correctness": "partially correct, 'It was nice to talk about' is incomplete; it should be 'It was nice to talk about it.'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, of course. Um, we have a festival called Mid-Autumn Festival. You heard before?",
+        "annotation_token": [
+            "Yes",
+            "of course",
+            "You heard before"
+        ],
+        "rationale": "The sentence contains speech acts: 'Yes, of course' is an affirmative response, and 'You heard before?' is a question seeking confirmation or information.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it is a... how to say... family festival.",
+        "annotation_token": [
+            "Yes",
+            "how to say"
+        ],
+        "rationale": "'Yes' is an affirmative response, and 'how to say' is a speech act indicating the speaker is searching for the right words.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You are welcome! You should visit, we... like to share our culture with friends.",
+        "annotation_token": [
+            "You are welcome",
+            "You should visit"
+        ],
+        "rationale": "'You are welcome' is a polite response to thanks, and 'You should visit' is a suggestion or invitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No problem! It was nice to talk about",
+        "annotation_token": [
+            "No problem",
+            "It was nice to talk about"
+        ],
+        "rationale": "'No problem' is a response to thanks or an apology, and 'It was nice to talk about' is a closing remark indicating satisfaction with the conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, of course. Um, we have a festival called Mid-Autumn Festival. You heard before?",
+        "annotation_token": [
+            "Yes",
+            "of course",
+            "You heard before"
+        ],
+        "rationale": "The sentence contains speech acts: 'Yes, of course' is an affirmative response, and 'You heard before?' is a question.",
+        "grammar_correctness": "partially correct, 'You heard before?' should be 'Have you heard before?' for correct grammar."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it is a... how to say... family festival.",
+        "annotation_token": [
+            "Yes",
+            "how to say"
+        ],
+        "rationale": "The sentence contains speech acts: 'Yes' is an affirmative response, and 'how to say' is a hesitation or request for help in expressing an idea.",
+        "grammar_correctness": "partially correct, 'how to say' is a non-standard expression in this context."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You are welcome! You should visit, we... like to share our culture with friends.",
+        "annotation_token": [
+            "You are welcome",
+            "You should visit"
+        ],
+        "rationale": "The sentence contains speech acts: 'You are welcome' is a polite response to thanks, and 'You should visit' is a suggestion or invitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No problem! It was nice to talk about",
+        "annotation_token": [
+            "No problem",
+            "It was nice to talk about"
+        ],
+        "rationale": "The sentence contains speech acts: 'No problem' is a response to thanks or an apology, and 'It was nice to talk about' is a closing remark.",
+        "grammar_correctness": "partially correct, 'It was nice to talk about' is incomplete and should specify what was nice to talk about."
+    }
+]

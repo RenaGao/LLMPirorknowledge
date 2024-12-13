@@ -1,0 +1,31 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It is about, um, a hero. He fight bad people to save the world.",
+        "annotation_token": [
+            "is",
+            "fight"
+        ],
+        "rationale": "The sentence contains a tense agreement error. 'Is' is present tense, but 'fight' should be 'fights' to agree with the third person singular subject 'He'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I watch Thai movies too. I like comedy, make me laugh.",
+        "annotation_token": [
+            "watch",
+            "make"
+        ],
+        "rationale": "The sentence contains a tense agreement error. 'Watch' is present tense, but 'make' should be 'makes' to agree with the third person singular subject 'comedy'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I like, um, Mario Maurer. He very good actor and handsome.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The sentence is missing a verb for tense agreement. It should be 'He is a very good actor and handsome.'",
+        "grammar_correctness": "wrong"
+    }
+]

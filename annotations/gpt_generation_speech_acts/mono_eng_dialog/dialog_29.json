@@ -1,0 +1,147 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! I'm doing well, thank you. Excited to chat about the program. How about you?",
+        "annotation_token": [
+            "Hi!",
+            "thank you",
+            "Excited to chat",
+            "How about you?"
+        ],
+        "rationale": "The tokens 'Hi!', 'thank you', 'Excited to chat', and 'How about you?' are speech acts as they perform functions such as greeting, expressing gratitude, expressing excitement, and inquiring about the other person's state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely! I've always been passionate about environmental science, and your program's focus on sustainability really resonates with me.",
+        "annotation_token": [
+            "Absolutely!",
+            "resonates with me"
+        ],
+        "rationale": "The tokens 'Absolutely!' and 'resonates with me' are speech acts as they express agreement and personal connection to the topic.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I'm really keen on exploring renewable energy solutions. I read about the solar initiative you launched last year, and I'd love to contribute to that.",
+        "annotation_token": [
+            "I'm really keen",
+            "I'd love to contribute"
+        ],
+        "rationale": "The tokens 'I'm really keen' and 'I'd love to contribute' are speech acts as they express interest and willingness to participate.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Well, during my internship at GreenTech, I helped develop a small-scale solar panel prototype. It was a hands-on experience that taught me a lot about practical applications.",
+        "annotation_token": [
+            "I helped develop",
+            "taught me a lot"
+        ],
+        "rationale": "The tokens 'I helped develop' and 'taught me a lot' are speech acts as they describe past actions and learning experiences.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, actually. What kind of support does the university offer for student-led projects?",
+        "annotation_token": [
+            "Yes, actually",
+            "What kind of support"
+        ],
+        "rationale": "The tokens 'Yes, actually' and 'What kind of support' are speech acts as they confirm understanding and request information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds amazing. I really value collaboration and support in an academic setting.",
+        "annotation_token": [
+            "That sounds amazing",
+            "I really value"
+        ],
+        "rationale": "The tokens 'That sounds amazing' and 'I really value' are speech acts as they express admiration and personal values.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think that's all for now. I really appreciate your time and insights.",
+        "annotation_token": [
+            "I think that's all for now",
+            "I really appreciate"
+        ],
+        "rationale": "The tokens 'I think that's all for now' and 'I really appreciate' are speech acts as they indicate conclusion and express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! I'm doing well, thank you. Excited to chat about the program. How about you?",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "Excited to chat",
+            "How about you"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hi'), an expression of gratitude ('thank you'), an expression of excitement ('Excited to chat'), and a question ('How about you?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely! I've always been passionate about environmental science, and your program's focus on sustainability really resonates with me.",
+        "annotation_token": [
+            "Absolutely",
+            "I've always been passionate",
+            "resonates with me"
+        ],
+        "rationale": "The sentence contains speech acts of agreement ('Absolutely'), expression of personal interest ('I've always been passionate'), and a statement of resonance ('resonates with me').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I'm really keen on exploring renewable energy solutions. I read about the solar initiative you launched last year, and I'd love to contribute to that.",
+        "annotation_token": [
+            "I'm really keen",
+            "I'd love to contribute"
+        ],
+        "rationale": "The sentence contains speech acts of expressing interest ('I'm really keen') and willingness to contribute ('I'd love to contribute').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Well, during my internship at GreenTech, I helped develop a small-scale solar panel prototype. It was a hands-on experience that taught me a lot about practical applications.",
+        "annotation_token": [
+            "I helped develop",
+            "taught me a lot"
+        ],
+        "rationale": "The sentence contains speech acts of describing past actions ('I helped develop') and learning experience ('taught me a lot').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, actually. What kind of support does the university offer for student-led projects?",
+        "annotation_token": [
+            "Yes",
+            "What kind of support"
+        ],
+        "rationale": "The sentence contains a speech act of affirmation ('Yes') and a question ('What kind of support').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds amazing. I really value collaboration and support in an academic setting.",
+        "annotation_token": [
+            "That sounds amazing",
+            "I really value"
+        ],
+        "rationale": "The sentence contains speech acts of expressing admiration ('That sounds amazing') and personal values ('I really value').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think that's all for now. I really appreciate your time and insights.",
+        "annotation_token": [
+            "I think that's all",
+            "I really appreciate"
+        ],
+        "rationale": "The sentence contains speech acts of concluding the conversation ('I think that's all') and expressing gratitude ('I really appreciate').",
+        "grammar_correctness": "correct"
+    }
+]

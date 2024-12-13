@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes! Rice cooker. I want to buy for my kitchen.",
+        "annotation_token": "buy kitchen",
+        "rationale": "The noun 'kitchen' and the verb 'buy' form a collocation as they express a meaningful and complete action of purchasing something for the kitchen.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I appreciate. I am happy, now I can cook rice for family.",
+        "annotation_token": "cook rice",
+        "rationale": "The noun 'rice' and the verb 'cook' form a collocation as they express a meaningful and complete action of preparing rice.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hello Ayesha. I am bit nervous, you know.",
+        "annotation_token": [
+            "hello",
+            "nervous",
+            "know"
+        ],
+        "rationale": "The speaker is greeting Ayesha and expressing a feeling of nervousness, which are both speech acts.",
+        "grammar_correctness": "partially correct, 'I am bit nervous' should be 'I am a bit nervous'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that is good idea.",
+        "annotation_token": [
+            "Yes",
+            "good",
+            "idea"
+        ],
+        "rationale": "The speaker is agreeing and expressing approval, which are speech acts.",
+        "grammar_correctness": "partially correct, 'that is good idea' should be 'that is a good idea'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for help.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "help"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is a speech act.",
+        "grammar_correctness": "partially correct, 'for help' should be 'for your help'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will try. Thank you, Ayesha.",
+        "annotation_token": [
+            "Yes",
+            "try",
+            "Thank",
+            "you"
+        ],
+        "rationale": "The speaker is expressing agreement and gratitude, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you again. See you in library!",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "See",
+            "you"
+        ],
+        "rationale": "The speaker is expressing gratitude and a farewell, which are speech acts.",
+        "grammar_correctness": "partially correct, 'in library' should be 'in the library'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hello Ayesha. I am bit nervous, you know.",
+        "annotation_token": [
+            "hello",
+            "nervous",
+            "know"
+        ],
+        "rationale": "The speaker is greeting Ayesha and expressing a feeling of nervousness, which are both speech acts.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, the theories part, um, how it is apply in real life.",
+        "annotation_token": [
+            "apply"
+        ],
+        "rationale": "The speaker is questioning how theories are applied in real life, which is a speech act of inquiry.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I try reading notes many time.",
+        "annotation_token": [
+            "try",
+            "reading"
+        ],
+        "rationale": "The speaker is describing an attempt to read notes, which is a speech act of reporting.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that is good idea.",
+        "annotation_token": [
+            "good",
+            "idea"
+        ],
+        "rationale": "The speaker is agreeing and evaluating an idea, which are speech acts of agreement and evaluation.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "When we can do this?",
+        "annotation_token": [
+            "When",
+            "do"
+        ],
+        "rationale": "The speaker is asking a question about timing, which is a speech act of inquiry.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Tomorrow... um, yes, tomorrow work for me.",
+        "annotation_token": [
+            "work"
+        ],
+        "rationale": "The speaker is confirming availability, which is a speech act of agreement.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for help.",
+        "annotation_token": [
+            "Thank",
+            "help"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is a speech act of thanking.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, examples help me learn.",
+        "annotation_token": [
+            "help",
+            "learn"
+        ],
+        "rationale": "The speaker is stating a fact about learning, which is a speech act of assertion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, you have notes also?",
+        "annotation_token": [
+            "have",
+            "notes"
+        ],
+        "rationale": "The speaker is asking a question about possession, which is a speech act of inquiry.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Great! I think, uh, your notes are better.",
+        "annotation_token": [
+            "think",
+            "better"
+        ],
+        "rationale": "The speaker is expressing an opinion, which is a speech act of evaluation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I worry about time.",
+        "annotation_token": [
+            "worry"
+        ],
+        "rationale": "The speaker is expressing concern, which is a speech act of expressing emotion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "How to finish all questions in time?",
+        "annotation_token": [
+            "finish",
+            "questions"
+        ],
+        "rationale": "The speaker is asking a question about completing tasks, which is a speech act of inquiry.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, practice test sounds good.",
+        "annotation_token": [
+            "practice",
+            "sounds"
+        ],
+        "rationale": "The speaker is agreeing with a suggestion, which is a speech act of agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will try that.",
+        "annotation_token": [
+            "try"
+        ],
+        "rationale": "The speaker is expressing an intention, which is a speech act of commitment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will try.",
+        "annotation_token": [
+            "try"
+        ],
+        "rationale": "The speaker is expressing an intention, which is a speech act of commitment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Ayesha. You help a lot.",
+        "annotation_token": [
+            "Thank",
+            "help"
+        ],
+        "rationale": "The speaker is expressing gratitude and acknowledging assistance, which are speech acts of thanking and acknowledgment.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, together.",
+        "annotation_token": [
+            "together"
+        ],
+        "rationale": "The speaker is expressing agreement to work together, which is a speech act of agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you again.",
+        "annotation_token": [
+            "Thank"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is a speech act of thanking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "See you in library!",
+        "annotation_token": [
+            "See"
+        ],
+        "rationale": "The speaker is expressing a farewell and future meeting, which is a speech act of leave-taking.",
+        "grammar_correctness": "incorrect"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, banyak terima kasih! Five minute walk only?",
+        "annotation_token": [
+            "Five"
+        ],
+        "rationale": "The word 'Five' is a numeral indicating the quantity of minutes.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, banyak terima kasih! Five minute walk only?",
+        "annotation_token": [
+            "Five"
+        ],
+        "rationale": "The word 'Five' is a numeral indicating the quantity of minutes.",
+        "grammar_correctness": true
+    }
+]

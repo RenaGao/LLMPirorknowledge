@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "In that role, I managed social media campaigns and organized events, which I believe aligns well with the responsibilities here.",
+        "annotation_token": [
+            "that",
+            "which"
+        ],
+        "rationale": "The word 'that' refers to the specific role mentioned earlier, and 'which' refers to the actions of managing social media campaigns and organizing events.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I learned the importance of targeting the right audience and using analytics to adjust our strategy on the go.",
+        "annotation_token": [
+            "the"
+        ],
+        "rationale": "The word 'the' refers to the specific importance of targeting the right audience and using analytics.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Absolutely. I often rely on data to guide my decisions, whether it's adjusting content strategies or evaluating campaign success.",
+        "annotation_token": [
+            "it's"
+        ],
+        "rationale": "The contraction 'it's' refers to the act of adjusting content strategies.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That's wonderful to hear. It sounds like a great environment to grow in.",
+        "annotation_token": [
+            "That",
+            "It"
+        ],
+        "rationale": "The word 'That' refers to the previous statement about opportunities for professional development, and 'It' refers to the company environment.",
+        "grammar_correctness": true
+    }
+]

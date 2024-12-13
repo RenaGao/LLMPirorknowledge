@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I jog, um, three time in week.",
+        "annotation_token": "I jog",
+        "rationale": "The subject 'I' correctly agrees with the verb 'jog' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, that sound good.",
+        "annotation_token": "that sound",
+        "rationale": "The subject 'that' should agree with the verb 'sound' in the present simple tense, which should be 'sounds'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I hope it help me.",
+        "annotation_token": "it help",
+        "rationale": "The subject 'it' should agree with the verb 'help' in the present simple tense, which should be 'helps'.",
+        "grammar_correctness": "wrong"
+    }
+]

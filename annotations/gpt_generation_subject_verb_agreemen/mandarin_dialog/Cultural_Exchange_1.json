@@ -1,0 +1,57 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes. In China, we use chopsticks, and, um, it's important to not stick them... uh, how to say... upright in rice.",
+        "annotation_token": [
+            "we use"
+        ],
+        "rationale": "The subject 'we' agrees with the verb 'use' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, yes. It’s, uh, not polite.",
+        "annotation_token": [
+            "It’s"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is' (contracted as 'It’s') in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, we like to share.",
+        "annotation_token": [
+            "we like"
+        ],
+        "rationale": "The subject 'we' agrees with the verb 'like' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, tea is very common.",
+        "annotation_token": [
+            "tea is"
+        ],
+        "rationale": "The subject 'tea' agrees with the verb 'is' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We have many, uh, types of tea.",
+        "annotation_token": [
+            "We have"
+        ],
+        "rationale": "The subject 'We' agrees with the verb 'have' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I learn a lot from you, and it is, um, fun to ta",
+        "annotation_token": [
+            "I learn",
+            "it is"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'learn' in number and person. The subject 'it' agrees with the verb 'is' in number and person.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Ah, yes, sure. I wake up at seven o'clock. Then, um, I brush teeth and wash face.",
+        "annotation_token": [
+            "teeth",
+            "face"
+        ],
+        "rationale": "The noun 'teeth' is plural, but 'face' is singular. In English, when listing items, the number agreement should be consistent. The correct form should be 'brush my teeth and wash my face' to maintain number agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "My mom make it. She very good at cooking, you know?",
+        "annotation_token": [
+            "make"
+        ],
+        "rationale": "The verb 'make' should agree in number with the singular subject 'My mom'. The correct form is 'makes'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "After breakfast, I, um, prepare to go to work. I check my bag have all thing.",
+        "annotation_token": [
+            "thing"
+        ],
+        "rationale": "The noun 'thing' should be plural to agree with 'all'. The correct form is 'things'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I take the bus. Sometimes, um, too many people, so it slow.",
+        "annotation_token": [
+            "it"
+        ],
+        "rationale": "The pronoun 'it' should agree in number with the plural subject 'people'. The correct form is 'they'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Not every day. Um, maybe two or three times a week, we have meeting.",
+        "annotation_token": [
+            "meeting"
+        ],
+        "rationale": "The noun 'meeting' should be plural to agree with 'two or three times a week'. The correct form is 'meetings'.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. I worked on a campaign for a local non-profit that aimed to increase volunteer sign-ups. We used targeted ads and storytelling, and it ended up boosting their numbers by 30%.",
+        "annotation_token": [
+            "30%"
+        ],
+        "rationale": "The token '30%' is a numeral indicating a specific quantity or percentage increase in volunteer sign-ups.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Morning! I’m doing well, thanks. A bit nervous, but excited too.",
+        "annotation_token": [
+            "A bit"
+        ],
+        "rationale": "'A bit' is a quantifier used to express a small amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. I worked on a campaign for a local non-profit that aimed to increase volunteer sign-ups. We used targeted ads and storytelling, and it ended up boosting their numbers by 30%.",
+        "annotation_token": [
+            "30%"
+        ],
+        "rationale": "'30%' is a numeral used to specify a percentage increase.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "The biggest challenge was limited resources. I focused on maximizing our impact by leveraging partnerships with local businesses, which helped stretch our budget further.",
+        "annotation_token": [
+            "biggest"
+        ],
+        "rationale": "'Biggest' is a superlative quantifier used to describe the most significant challenge.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Morning! I’m doing well, thanks. A bit nervous, but excited too.",
+        "annotation_token": [
+            "A bit"
+        ],
+        "rationale": "'A bit' is a quantifier used to express a small amount or degree of nervousness.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We used targeted ads and storytelling, and it ended up boosting their numbers by 30%.",
+        "annotation_token": [
+            "30%"
+        ],
+        "rationale": "'30%' is a numeral used to quantify the percentage increase in volunteer sign-ups.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "The biggest challenge was limited resources.",
+        "annotation_token": [
+            "biggest"
+        ],
+        "rationale": "'Biggest' is a superlative quantifier used to describe the most significant challenge.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Morning! I’m doing well, thanks. A bit nervous, but excited too.",
+        "annotation_token": [
+            "A bit"
+        ],
+        "rationale": "'A bit' is a quantifier used to express a small amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We used targeted ads and storytelling, and it ended up boosting their numbers by 30%.",
+        "annotation_token": [
+            "30%"
+        ],
+        "rationale": "'30%' is a numeral used to specify a precise quantity or percentage.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "The biggest challenge was limited resources.",
+        "annotation_token": [
+            "biggest"
+        ],
+        "rationale": "'Biggest' is a superlative form of the adjective 'big', used here as a quantifier to indicate the highest degree of challenge.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers",
+        "annotation_sentence": "Sure! I recently graduated with a degree in marketing, and I’ve always been passionate about digital media. Your company stood out to me because of its innovative approach to social media campaigns.",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier used before the noun 'degree' to specify a single unit of it.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers",
+        "annotation_sentence": "Absolutely. I worked on a campaign for a local non-profit that aimed to increase volunteer sign-ups. We used targeted ads and storytelling, and it ended up boosting their numbers by 30%.",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The word 'a' is used as a quantifier before the noun 'campaign' to specify a single instance.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Numerals",
+        "annotation_sentence": "Absolutely. I worked on a campaign for a local non-profit that aimed to increase volunteer sign-ups. We used targeted ads and storytelling, and it ended up boosting their numbers by 30%.",
+        "annotation_token": [
+            "30%"
+        ],
+        "rationale": "The token '30%' is a numeral that quantifies the increase in volunteer sign-ups.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers",
+        "annotation_sentence": "The biggest challenge was limited resources. I focused on maximizing our impact by leveraging partnerships with local businesses, which helped stretch our budget further.",
+        "annotation_token": [
+            "The"
+        ],
+        "rationale": "The word 'The' is a definite article used to specify a particular challenge, functioning as a quantifier.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers",
+        "annotation_sentence": "Thank you for the insights and the opportunity to discuss this role.",
+        "annotation_token": [
+            "the",
+            "the"
+        ],
+        "rationale": "The word 'the' is used twice as a definite article to specify particular 'insights' and 'opportunity', serving as a quantifier.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We used targeted ads and storytelling, and it ended up boosting their numbers by 30%.",
+        "annotation_token": [
+            "30%"
+        ],
+        "rationale": "The percentage '30%' is a numeral used to quantify the increase in volunteer sign-ups.",
+        "grammar_correctness": true
+    }
+]

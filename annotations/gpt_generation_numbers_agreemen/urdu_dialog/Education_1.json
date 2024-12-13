@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, the... um, reasons why it start. I not understand fully.",
+        "annotation_token": "reasons",
+        "rationale": "The subject 'reasons' is plural, but the verb 'start' is in singular form. The correct form should be 'reasons why they start' or 'reasons why it started'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "And other countries, they involved because of... alliances?",
+        "annotation_token": "countries",
+        "rationale": "The subject 'countries' is plural, but the verb 'involved' is missing an auxiliary verb to indicate past tense agreement. The correct form should be 'they were involved'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Allies were... Britain, France, US, and others?",
+        "annotation_token": "Allies",
+        "rationale": "The subject 'Allies' is plural, and the verb 'were' correctly agrees with the plural subject.",
+        "grammar_correctness": "correct"
+    }
+]

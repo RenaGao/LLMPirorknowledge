@@ -1,0 +1,320 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes! There are many difference, um... how to say... like, how people use chopsticks and fork.",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "um",
+            "how to say",
+            "like"
+        ],
+        "rationale": "The tokens 'Oh', 'yes', 'um', 'how to say', and 'like' are used as speech acts to express agreement, hesitation, and to introduce an example.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, exactly! We put many dish in middle and everyone take, um, little by little.",
+        "annotation_token": [
+            "Yes",
+            "exactly",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes', 'exactly', and 'um' are used as speech acts to express agreement, emphasis, and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, yes. In Cantonese culture, we don’t, um, stick chopsticks in rice bowl. It’s... not polite.",
+        "annotation_token": [
+            "Hmm",
+            "yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Hmm', 'yes', and 'um' are used as speech acts to express thinking, agreement, and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes, that is why. Also, we don’t, um, pass food with chopsticks. We use serving spoon.",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes', 'yes', and 'um' are used as speech acts to express strong agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, when going someone home, it is good to bring gift. Maybe fruit or... um, what is word... dessert?",
+        "annotation_token": [
+            "Ah",
+            "um",
+            "what is word"
+        ],
+        "rationale": "The tokens 'Ah', 'um', and 'what is word' are used as speech acts to express realization, hesitation, and searching for a word.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, we wait for elder to start first. Respect for them, you know?",
+        "annotation_token": [
+            "No",
+            "you know"
+        ],
+        "rationale": "The tokens 'No' and 'you know' are used as speech acts to express disagreement and to seek confirmation or understanding.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, not always. Maybe we use tissue more. Napkin is, uh, more Western style?",
+        "annotation_token": [
+            "Um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Um' and 'uh' are used as speech acts to express hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We put chopstick on holder or beside bowl. And maybe say something like... um, thank you for meal.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to express hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, we don’t turn fish over. It mean bad luck for fisherman, like boat will... um, flip.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes' and 'um' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You’re welcome! It was nice to talk about this. Let’s eat together soon, okay?",
+        "annotation_token": [
+            "You’re welcome",
+            "okay"
+        ],
+        "rationale": "The tokens 'You’re welcome' and 'okay' are used as speech acts to express politeness and to seek agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes! There are many difference, um... how to say... like, how people use chopsticks and fork.",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "um",
+            "how to say",
+            "like"
+        ],
+        "rationale": "The tokens 'Oh', 'yes', 'um', 'how to say', and 'like' are used as speech acts to express agreement, hesitation, and to introduce an example.",
+        "grammar_correctness": "The use of these speech acts is generally correct and aligns with native English speaker's usage, although 'many difference' should be 'many differences'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, exactly! We put many dish in middle and everyone take, um, little by little.",
+        "annotation_token": [
+            "Yes",
+            "exactly",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes', 'exactly', and 'um' are used as speech acts to express agreement, emphasis, and hesitation.",
+        "grammar_correctness": "The use of these speech acts is correct, but 'many dish' should be 'many dishes' and 'everyone take' should be 'everyone takes'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, yes. In Cantonese culture, we don’t, um, stick chopsticks in rice bowl. It’s... not polite.",
+        "annotation_token": [
+            "Hmm",
+            "yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Hmm', 'yes', and 'um' are used as speech acts to express contemplation, agreement, and hesitation.",
+        "grammar_correctness": "The use of these speech acts is correct and aligns with native English speaker's usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes, that is why. Also, we don’t, um, pass food with chopsticks. We use serving spoon.",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes', 'yes', and 'um' are used as speech acts to express strong agreement and hesitation.",
+        "grammar_correctness": "The use of these speech acts is correct and aligns with native English speaker's usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, when going someone home, it is good to bring gift. Maybe fruit or... um, what is word... dessert?",
+        "annotation_token": [
+            "Ah",
+            "um",
+            "what is word"
+        ],
+        "rationale": "The tokens 'Ah', 'um', and 'what is word' are used as speech acts to express realization, hesitation, and searching for a word.",
+        "grammar_correctness": "The use of these speech acts is correct, but 'going someone home' should be 'going to someone's home'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, we wait for elder to start first. Respect for them, you know?",
+        "annotation_token": [
+            "No",
+            "you know"
+        ],
+        "rationale": "The tokens 'No' and 'you know' are used as speech acts to express disagreement and to seek confirmation or understanding.",
+        "grammar_correctness": "The use of these speech acts is correct and aligns with native English speaker's usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, not always. Maybe we use tissue more. Napkin is, uh, more Western style?",
+        "annotation_token": [
+            "Um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Um' and 'uh' are used as speech acts to express hesitation.",
+        "grammar_correctness": "The use of these speech acts is correct and aligns with native English speaker's usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We put chopstick on holder or beside bowl. And maybe say something like... um, thank you for meal.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to express hesitation.",
+        "grammar_correctness": "The use of this speech act is correct, but 'chopstick' should be 'chopsticks' and 'thank you for meal' should be 'thank you for the meal'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, we don’t turn fish over. It mean bad luck for fisherman, like boat will... um, flip.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes' and 'um' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "The use of these speech acts is correct, but 'It mean' should be 'It means'."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You’re welcome! It was nice to talk about this. Let’s eat together soon, okay?",
+        "annotation_token": [
+            "You’re welcome",
+            "okay"
+        ],
+        "rationale": "The tokens 'You’re welcome' and 'okay' are used as speech acts to express politeness and to seek agreement.",
+        "grammar_correctness": "The use of these speech acts is correct and aligns with native English speaker's usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes! There are many difference, um... how to say... like, how people use chopsticks and fork.",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "um",
+            "how to say",
+            "like"
+        ],
+        "rationale": "The tokens 'Oh', 'yes', 'um', 'how to say', and 'like' are used as speech acts to express agreement, hesitation, and to introduce an example.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, exactly! We put many dish in middle and everyone take, um, little by little.",
+        "annotation_token": [
+            "Yes",
+            "exactly",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes', 'exactly', and 'um' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, yes. In Cantonese culture, we don’t, um, stick chopsticks in rice bowl. It’s... not polite.",
+        "annotation_token": [
+            "Hmm",
+            "yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Hmm', 'yes', and 'um' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes, that is why. Also, we don’t, um, pass food with chopsticks. We use serving spoon.",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes', 'yes', and 'um' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, when going someone home, it is good to bring gift. Maybe fruit or... um, what is word... dessert?",
+        "annotation_token": [
+            "Ah",
+            "um",
+            "what is word"
+        ],
+        "rationale": "The tokens 'Ah', 'um', and 'what is word' are used as speech acts to express realization, hesitation, and searching for a word.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, we wait for elder to start first. Respect for them, you know?",
+        "annotation_token": [
+            "No",
+            "you know"
+        ],
+        "rationale": "The tokens 'No' and 'you know' are used as speech acts to express disagreement and to seek confirmation or understanding.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, not always. Maybe we use tissue more. Napkin is, uh, more Western style?",
+        "annotation_token": [
+            "Um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Um' and 'uh' are used as speech acts to express hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "And maybe say something like... um, thank you for meal.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to express hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, we don’t turn fish over. It mean bad luck for fisherman, like boat will... um, flip.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes' and 'um' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You’re welcome! It was nice to talk about this. Let’s eat together soon, okay?",
+        "annotation_token": [
+            "You’re welcome",
+            "okay"
+        ],
+        "rationale": "The tokens 'You’re welcome' and 'okay' are used as speech acts to express politeness and to seek agreement.",
+        "grammar_correctness": "correct"
+    }
+]

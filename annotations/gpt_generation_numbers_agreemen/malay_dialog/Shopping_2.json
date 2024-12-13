@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, hi. I buy... a shirt last week. But problem, it is too small.",
+        "annotation_token": "problem",
+        "rationale": "The noun 'problem' should be preceded by an article 'a' to indicate singularity, or it should be pluralized to 'problems' if referring to multiple issues.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, can return? I not sure about the rule.",
+        "annotation_token": "rule",
+        "rationale": "The noun 'rule' should be preceded by an article 'a' to indicate singularity, or it should be pluralized to 'rules' if referring to multiple rules.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I try. Want to make sure it fit.",
+        "annotation_token": "fit",
+        "rationale": "The verb 'fit' should be 'fits' to agree with the singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Hello again. Large is good, it fit well.",
+        "annotation_token": "fit",
+        "rationale": "The verb 'fit' should be 'fits' to agree with the singular subject 'it'.",
+        "grammar_correctness": "wrong"
+    }
+]

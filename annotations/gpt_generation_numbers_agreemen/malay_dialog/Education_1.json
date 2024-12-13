@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Oh, I understand now. It need to be very careful.",
+        "annotation_token": "It need",
+        "rationale": "The subject 'It' is singular, but the verb 'need' is plural. The correct form should be 'It needs'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Thank you. This help me a lot.",
+        "annotation_token": "This help",
+        "rationale": "The subject 'This' is singular, but the verb 'help' is plural. The correct form should be 'This helps'.",
+        "grammar_correctness": "wrong"
+    }
+]

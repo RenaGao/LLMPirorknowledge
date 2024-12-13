@@ -1,0 +1,57 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I like swimming because it is, um, good for body. But I want try... um, gym weights?",
+        "annotation_token": [
+            "want try"
+        ],
+        "rationale": "The verb 'want' is in the present tense, but 'try' should be in the infinitive form 'to try' to agree with the tense and structure of the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I worry I do wrong.",
+        "annotation_token": [
+            "do"
+        ],
+        "rationale": "The verb 'do' should be in the infinitive form 'to do' to agree with the structure of the sentence following 'worry'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Maybe... three times? I think it is... how to say... not too much?",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The verb 'is' is correctly used in the present tense to agree with the subject 'it'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, morning is best for me. Before work, I think better energy.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The verb 'is' is correctly used in the present tense to agree with the subject 'morning'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Cardio is, um, running, right? I think... yes, I can try. Is it too much?",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The verb 'is' is correctly used in the present tense to agree with the subject 'Cardio'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I like cooking. I make rice and... um, vegetables quite often.",
+        "annotation_token": [
+            "like",
+            "make"
+        ],
+        "rationale": "The verbs 'like' and 'make' are correctly used in the present tense to agree with the subject 'I'.",
+        "grammar_correctness": "correct"
+    }
+]

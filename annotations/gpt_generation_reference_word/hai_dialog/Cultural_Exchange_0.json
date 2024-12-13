@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, sure! Um, there is one called Songkran. It is Thai New Year.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer back to 'Songkran', which is mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We, um, throw water. It is for... cleansing, like to wash bad away for new year.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers back to the action of throwing water, which is mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, it mean... how to say... purify and bless.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers back to the concept of throwing water for cleansing, which is mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is three days, but some place have longer.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers back to the Songkran festival, which is the main topic of discussion.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, some wear traditional clothes.",
+        "annotation_token": "some",
+        "rationale": "The word 'some' refers to some people who participate in the Songkran festival.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, be careful with water. Some people not like.",
+        "annotation_token": "Some",
+        "rationale": "The word 'Some' refers to some people who may not like the water activities during the festival.",
+        "grammar_correctness": true
+    }
+]

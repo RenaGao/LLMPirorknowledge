@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, Nuch... um, it is quite hard for me to... understand everything. Climate change have many, um, things to study, yes?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of things.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you, I understand better now. And this is bad for city near ocean?",
+        "annotation_token": [
+            "city"
+        ],
+        "rationale": "The word 'city' is a singular noun, and in this context, it implies a single entity, which can be considered a numeral concept.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "3 p.m. is good for me. See you then!",
+        "annotation_token": [
+            "3"
+        ],
+        "rationale": "The number '3' is a numeral indicating a specific time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, Nuch... um, it is quite hard for me to... understand everything. Climate change have many, um, things to study, yes?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of things.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you, I understand better now. And this is bad for city near ocean?",
+        "annotation_token": [
+            "city"
+        ],
+        "rationale": "The word 'city' is a singular noun, and in this context, it implies a single entity, which can be considered a numeral concept.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "3 p.m. is good for me. See you then!",
+        "annotation_token": [
+            "3"
+        ],
+        "rationale": "The number '3' is a numeral indicating a specific time.",
+        "grammar_correctness": true
+    }
+]

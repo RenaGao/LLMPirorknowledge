@@ -1,0 +1,75 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, okay. Data analysis, it can be difficult, um, sometimes.",
+        "annotation_token": [
+            "it can be"
+        ],
+        "rationale": "The subject 'it' correctly agrees with the verb 'can be' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, software... Yes, I use before, but not... very good yet.",
+        "annotation_token": [
+            "I use"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'use' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, please. Example is good. I can learn better.",
+        "annotation_token": [
+            "Example is"
+        ],
+        "rationale": "The subject 'Example' correctly agrees with the verb 'is' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I import... but then, it look messy, not clear.",
+        "annotation_token": [
+            "it look"
+        ],
+        "rationale": "The subject 'it' does not agree with the verb 'look' as it should be 'looks' to match the third person singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, try together is good. I feel more confident.",
+        "annotation_token": [
+            "try together is"
+        ],
+        "rationale": "The subject 'try together' does not agree with the verb 'is' as it should be 'are' to match the plural subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, I look... yes, I see. Click here, right?",
+        "annotation_token": [
+            "I look",
+            "I see"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'look' and 'see' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think bar chart. It show clear... how to say... comparison?",
+        "annotation_token": [
+            "It show"
+        ],
+        "rationale": "The subject 'It' does not agree with the verb 'show' as it should be 'shows' to match the third person singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes! It look much better. Thank you for help!",
+        "annotation_token": [
+            "It look"
+        ],
+        "rationale": "The subject 'It' does not agree with the verb 'look' as it should be 'looks' to match the third person singular subject.",
+        "grammar_correctness": "wrong"
+    }
+]

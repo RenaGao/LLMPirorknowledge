@@ -1,0 +1,74 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Absolutely, thanks for having me. I've been managing projects for about five years now, mostly in the tech sector. My focus has been on developing efficient workflows and ensuring team collaboration.",
+        "annotation_token": [
+            "me",
+            "I",
+            "My"
+        ],
+        "rationale": "The words 'me', 'I', and 'My' are reference words referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sure. Last year, I led a project to integrate a new software system across multiple departments. The timeline was tight, and we faced some resistance to change. I organized a series of workshops to address concerns and foster a sense of ownership among the team.",
+        "annotation_token": [
+            "I",
+            "we"
+        ],
+        "rationale": "The words 'I' and 'we' are reference words referring to the speaker and the team.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Initially, there was some hesitation, but as we progressed, the team became more engaged. It really helped to have open discussions and incorporate their feedback into the implementation process.",
+        "annotation_token": [
+            "we",
+            "It",
+            "their"
+        ],
+        "rationale": "The words 'we', 'It', and 'their' are reference words referring to the speaker, the situation, and the team members respectively.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I believe adaptability is crucial. Projects rarely go exactly as planned, so being able to pivot and find alternative solutions is essential.",
+        "annotation_token": [
+            "I"
+        ],
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I'm curious about the project management tools you currently use and how the team has adapted to them.",
+        "annotation_token": [
+            "I'm",
+            "you",
+            "them"
+        ],
+        "rationale": "The words 'I'm', 'you', and 'them' are reference words referring to the speaker, the listener, and the tools respectively.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That's encouraging to hear. I appreciate the insight and look forward to potentially contributing my own ideas.",
+        "annotation_token": [
+            "That's",
+            "I",
+            "my"
+        ],
+        "rationale": "The words 'That's', 'I', and 'my' are reference words referring to the previous statement, the speaker, and the speaker's ideas respectively.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you! I appreciate the opportunity.",
+        "annotation_token": [
+            "I"
+        ],
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

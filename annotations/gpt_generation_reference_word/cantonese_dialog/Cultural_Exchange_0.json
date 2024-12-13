@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, it is a... how to say... family festival.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the Mid-Autumn Festival mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "The story is about a woman, Chang’e. She fly to moon after, um, drink a... special potion.",
+        "annotation_token": "She",
+        "rationale": "The word 'She' is used as a reference to the woman, Chang’e, mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Mooncakes, they are for... um, sharing.",
+        "annotation_token": "they",
+        "rationale": "The word 'they' is used as a reference to mooncakes mentioned at the beginning of the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Lanterns, they mean... light and hope.",
+        "annotation_token": "they",
+        "rationale": "The word 'they' is used as a reference to lanterns mentioned at the beginning of the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is mainly one day, but we prepare, um, before.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the Mid-Autumn Festival mentioned earlier in the passage.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, it is on the... um, 15th day of eighth lunar month.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the Mid-Autumn Festival mentioned earlier in the passage.",
+        "grammar_correctness": true
+    }
+]

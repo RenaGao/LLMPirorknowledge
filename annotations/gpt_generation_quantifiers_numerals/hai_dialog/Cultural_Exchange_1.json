@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, how about... oh, yes! In Thailand, we not finish all food on plate. It show, um, we have enough.",
+        "annotation_token": [
+            "all",
+            "enough"
+        ],
+        "rationale": "The sentence contains the quantifier 'all' and the quantifier 'enough', which indicate quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, how about... oh, yes! In Thailand, we not finish all food on plate. It show, um, we have enough.",
+        "annotation_token": [
+            "all",
+            "enough"
+        ],
+        "rationale": "The sentence contains the quantifier 'all' and the quantifier 'enough', which are used to indicate the quantity of food.",
+        "grammar_correctness": true
+    }
+]

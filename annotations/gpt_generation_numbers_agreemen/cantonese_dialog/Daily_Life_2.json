@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Boil for, um, maybe 20 minute.",
+        "annotation_token": "minute",
+        "rationale": "The word 'minute' should be in plural form 'minutes' to agree with the number '20'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "We can cook together more times.",
+        "annotation_token": "times",
+        "rationale": "The word 'times' is correctly used in plural form to indicate multiple instances of cooking together.",
+        "grammar_correctness": "correct"
+    }
+]

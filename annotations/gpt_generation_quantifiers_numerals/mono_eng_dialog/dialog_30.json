@@ -1,0 +1,41 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. I developed a mobile app for a local charity that helps organize volunteer events. It streamlined their process and increased volunteer participation by 30%.",
+        "annotation_token": [
+            "a",
+            "30%"
+        ],
+        "rationale": "The word 'a' is a quantifier indicating a single instance of a mobile app, and '30%' is a numeral indicating the percentage increase in volunteer participation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. I developed a mobile app for a local charity that helps organize volunteer events. It streamlined their process and increased volunteer participation by 30%.",
+        "annotation_token": [
+            "a",
+            "30%"
+        ],
+        "rationale": "The word 'a' is a quantifier indicating a single instance of a mobile app. '30%' is a numeral indicating the percentage increase in volunteer participation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. I developed a mobile app for a local charity that helps organize volunteer events. It streamlined their process and increased volunteer participation by 30%.",
+        "annotation_token": [
+            "30%"
+        ],
+        "rationale": "The token '30%' is a numeral indicating a specific quantity or percentage.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. I developed a mobile app for a local charity that helps organize volunteer events. It streamlined their process and increased volunteer participation by 30%.",
+        "annotation_token": [
+            "a",
+            "30%"
+        ],
+        "rationale": "The sentence contains a quantifier 'a' indicating one mobile app and a numeral '30%' indicating the percentage of increase.",
+        "grammar_correctness": true
+    }
+]

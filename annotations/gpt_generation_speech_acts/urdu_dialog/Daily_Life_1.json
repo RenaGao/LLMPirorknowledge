@@ -1,0 +1,66 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello! I am good, thank you. Um, how about you?",
+        "annotation_token": [
+            "Hello",
+            "thank you",
+            "how about you"
+        ],
+        "rationale": "The tokens 'Hello', 'thank you', and 'how about you' are speech acts as they perform functions such as greeting, expressing gratitude, and inquiring about the listener's well-being.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I hope no rain. That will be, uh, how to say... not good?",
+        "annotation_token": [
+            "I hope",
+            "how to say",
+            "not good"
+        ],
+        "rationale": "The tokens 'I hope', 'how to say', and 'not good' are speech acts as they express a wish, a hesitation or search for words, and an evaluation or opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much! Have a nice weekend",
+        "annotation_token": [
+            "Thank you so much",
+            "Have a nice weekend"
+        ],
+        "rationale": "The tokens 'Thank you so much' and 'Have a nice weekend' are speech acts as they express gratitude and a farewell wish.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello! I am good, thank you. Um, how about you?",
+        "annotation_token": [
+            "Hello",
+            "thank you",
+            "how about you"
+        ],
+        "rationale": "The sentence contains speech acts: 'Hello' is a greeting, 'thank you' is an expression of gratitude, and 'how about you' is an inquiry about the other person's state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I hope no rain. That will be, uh, how to say... not good?",
+        "annotation_token": [
+            "I hope",
+            "how to say",
+            "not good"
+        ],
+        "rationale": "The sentence contains speech acts: 'I hope' is an expression of desire, 'how to say' is a hesitation or request for clarification, and 'not good' is an evaluation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much! Have a nice weekend",
+        "annotation_token": [
+            "Thank you so much",
+            "Have a nice weekend"
+        ],
+        "rationale": "The sentence contains speech acts: 'Thank you so much' is an expression of gratitude, and 'Have a nice weekend' is a wish or farewell.",
+        "grammar_correctness": "correct"
+    }
+]

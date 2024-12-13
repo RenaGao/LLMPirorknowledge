@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, hello! It is good, thank you. I still have many box, but almost done.",
+        "annotation_token": [
+            "many",
+            "almost"
+        ],
+        "rationale": "The word 'many' is a quantifier indicating a large number of boxes, and 'almost' is a quantifier indicating the degree of completion.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sometimes I add chili. But, um, not too much. Do you like spicy?",
+        "annotation_token": [
+            "too much"
+        ],
+        "rationale": "The phrase 'too much' is a quantifier indicating an excessive amount of chili.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, hello! It is good, thank you. I still have many box, but almost done.",
+        "annotation_token": [
+            "many",
+            "almost"
+        ],
+        "rationale": "The word 'many' is a quantifier indicating a large number of items, and 'almost' is a quantifier indicating a degree close to completion.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sometimes I add chili. But, um, not too much. Do you like spicy?",
+        "annotation_token": [
+            "too much"
+        ],
+        "rationale": "The phrase 'too much' is a quantifier indicating an excessive amount.",
+        "grammar_correctness": true
+    }
+]

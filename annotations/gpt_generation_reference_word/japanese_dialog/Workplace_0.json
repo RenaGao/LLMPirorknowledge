@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hmm, I think, um, maybe it's a bit... how to say... tight? Yes, tight.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the deadline mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, the... um, research part. It takes much time... uh, more than I thought.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the research part mentioned in the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, that help. Maybe focus on important first... like... uh, main findings?",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is used as a reference to the help mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay, yes, that plan is better. Um, what about the... uh, presentation?",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is used as a reference to the plan mentioned in the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, later this week is good. Uh, can we do, um, Thursday?",
+        "annotation_token": "this",
+        "rationale": "The word 'this' is used as a reference to the current week mentioned in the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, 2 p.m. is fine. Um, I will be ready by then.",
+        "annotation_token": "then",
+        "rationale": "The word 'then' is used as a reference to the time 2 p.m. mentioned in the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you. Uh, I think I will need some help with, um, data analysis.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is used as a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, I use Excel mainly. But, uh, still learning some function.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is used as a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I will. Um, thank you again, and see you on Thursday.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is used as a reference to the speaker themselves.",
+        "grammar_correctness": true
+    }
+]

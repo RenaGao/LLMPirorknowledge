@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "We faced several unexpected delays, but by implementing new software and revising our logistics strategy, we reduced delivery times by 20%.",
+        "annotation_token": [
+            "delays",
+            "times"
+        ],
+        "rationale": "The nouns 'delays' and 'times' are in plural form, which correctly agrees with the context of the sentence where multiple instances are being referred to.",
+        "grammar_correctness": "correct"
+    }
+]

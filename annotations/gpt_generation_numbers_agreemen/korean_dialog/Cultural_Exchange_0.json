@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Ah, yes, of course. We have Chuseok. It is very important holiday, um, like Thanksgiving in America.",
+        "annotation_token": "holiday",
+        "rationale": "The sentence 'It is very important holiday' lacks a determiner 'a' before 'holiday' to indicate singularity, which is a common error in number agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "It is three days. But, uh, many people take longer holiday.",
+        "annotation_token": "holiday",
+        "rationale": "The sentence 'many people take longer holiday' lacks a determiner 'a' before 'holiday' to indicate singularity, which is a common error in number agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe, um, 6 p.m.? Is it okay for you?",
+        "annotation_token": [
+            "6"
+        ],
+        "rationale": "The numeral '6' is used to specify the time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, yes, I think better to book. Many people like to see new movie.",
+        "annotation_token": [
+            "Many"
+        ],
+        "rationale": "The quantifier 'Many' is used to indicate a large number of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe, um, 6 p.m.? Is it okay for you?",
+        "annotation_token": [
+            "6"
+        ],
+        "rationale": "The numeral '6' is used to specify the time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, yes, I think better to book. Many people like to see new movie.",
+        "annotation_token": [
+            "Many"
+        ],
+        "rationale": "The quantifier 'Many' is used to indicate a large number of people.",
+        "grammar_correctness": true
+    }
+]

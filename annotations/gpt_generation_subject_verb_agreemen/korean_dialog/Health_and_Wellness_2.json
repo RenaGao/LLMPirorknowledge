@@ -1,0 +1,82 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I want to... lose weight and be strong.",
+        "annotation_token": [
+            "I",
+            "want"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'want' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think... three times in a week?",
+        "annotation_token": [
+            "I",
+            "think"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'think' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I try once, but... I not know speed setting well.",
+        "annotation_token": [
+            "I",
+            "try"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'try' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I just eat normal.",
+        "annotation_token": [
+            "I",
+            "eat"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'eat' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think I need... more healthy food.",
+        "annotation_token": [
+            "I",
+            "need"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'need' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I like, um, chicken and vegetables.",
+        "annotation_token": [
+            "I",
+            "like"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'like' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I want to join.",
+        "annotation_token": [
+            "I",
+            "want"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'want' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I am ready.",
+        "annotation_token": [
+            "I",
+            "am"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

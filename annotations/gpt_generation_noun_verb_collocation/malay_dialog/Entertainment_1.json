@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah yes, I hear about nice place... um, how to say... they have good, uh, spicy food.",
+        "annotation_token": "have food",
+        "rationale": "The noun 'food' and the verb 'have' form a collocation that expresses a meaningful and complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I hear about new action film. Everyone say it very good.",
+        "annotation_token": "hear film",
+        "rationale": "The noun 'film' and the verb 'hear' form a collocation that expresses a meaningful and complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, good idea. I can look on phone app.",
+        "annotation_token": "look app",
+        "rationale": "The noun 'app' and the verb 'look' form a collocation that expresses a meaningful and complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Okay, um, I will check now. Give me... uh, minute.",
+        "annotation_token": "give minute",
+        "rationale": "The noun 'minute' and the verb 'give' form a collocation that expresses a meaningful and complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, I see one start at nine. Maybe that’s good?",
+        "annotation_token": "see one",
+        "rationale": "The noun 'one' and the verb 'see' form a collocation that expresses a meaningful and complete action.",
+        "grammar_correctness": true
+    }
+]

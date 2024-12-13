@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "The story is about a woman, Chang’e. She fly to moon after, um, drink a... special potion.",
+        "annotation_token": [
+            "fly",
+            "drink"
+        ],
+        "rationale": "The verbs 'fly' and 'drink' should be in the past tense to agree with the past narrative context of the story.",
+        "grammar_correctness": "wrong"
+    }
+]

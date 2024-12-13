@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes! We want to go somewhere, um, fun and relax.",
+        "annotation_token": "We want",
+        "rationale": "The subject 'We' correctly agrees with the verb 'want' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, Rockies! But, um, I not sure which one is better.",
+        "annotation_token": "I not sure",
+        "rationale": "The subject 'I' does not agree with the verb 'not sure'. The correct form should be 'I am not sure'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Some, they like beach.",
+        "annotation_token": "they like",
+        "rationale": "The subject 'they' correctly agrees with the verb 'like' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Others, um, like nature walk and see animal.",
+        "annotation_token": "Others like",
+        "rationale": "The subject 'Others' correctly agrees with the verb 'like' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think everyone will like that.",
+        "annotation_token": "I think",
+        "rationale": "The subject 'I' correctly agrees with the verb 'think' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, one week is good.",
+        "annotation_token": "week is",
+        "rationale": "The subject 'week' correctly agrees with the verb 'is' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Budget... um, not too expensive, but comfortable is important.",
+        "annotation_token": "comfortable is",
+        "rationale": "The subject 'comfortable' correctly agrees with the verb 'is' in number and person.",
+        "grammar_correctness": "correct"
+    }
+]

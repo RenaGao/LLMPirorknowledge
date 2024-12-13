@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Sure! I recently graduated with a degree in marketing, and I’ve always been passionate about digital media.",
+        "annotation_token": "graduated with a degree",
+        "rationale": "The noun 'degree' and the verb 'graduated' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Absolutely. I worked on a campaign for a local non-profit that aimed to increase volunteer sign-ups.",
+        "annotation_token": "worked on a campaign",
+        "rationale": "The noun 'campaign' and the verb 'worked' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We used targeted ads and storytelling, and it ended up boosting their numbers by 30%.",
+        "annotation_token": "used targeted ads",
+        "rationale": "The noun 'ads' and the verb 'used' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "The biggest challenge was limited resources. I focused on maximizing our impact by leveraging partnerships with local businesses, which helped stretch our budget further.",
+        "annotation_token": "leveraging partnerships",
+        "rationale": "The noun 'partnerships' and the verb 'leveraging' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I always try to view feedback as a learning opportunity. I take notes, ask clarifying questions if needed, and apply the insights to future projects.",
+        "annotation_token": "take notes",
+        "rationale": "The noun 'notes' and the verb 'take' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, um, the topic is, uh, confusing for me. It is about, um, American... uh, revolution?",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the previously mentioned 'the topic'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes. They want to be, um, free from Britain?",
+        "annotation_token": "They",
+        "rationale": "The word 'They' is used as a reference to the people involved in the American revolution.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, Boston Tea Party... um, I need to, um, explain it?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the 'Boston Tea Party'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, the conclusion part... um, what I write there?",
+        "annotation_token": "there",
+        "rationale": "The word 'there' is used as a reference to the 'conclusion part'.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Good morning, doctor. I am feeling not well.",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'am' in the present continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It started... maybe three days ago.",
+        "annotation_token": [
+            "It started"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'started' in the past tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I feel hot and then cold sometimes.",
+        "annotation_token": [
+            "I feel"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'feel' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Stomach is fine, but... sometimes a little sick feeling, um, nausea.",
+        "annotation_token": [
+            "Stomach is"
+        ],
+        "rationale": "The subject 'Stomach' agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Only some, um, pain tablet for headache.",
+        "annotation_token": [
+            "tablet for"
+        ],
+        "rationale": "The subject 'tablet' is singular and should agree with a singular verb, but the sentence is incomplete.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Sleep is not good.",
+        "annotation_token": [
+            "Sleep is"
+        ],
+        "rationale": "The subject 'Sleep' agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Wake up many times in night.",
+        "annotation_token": [
+            "Wake up"
+        ],
+        "rationale": "The subject is missing, leading to a lack of agreement with the verb 'Wake up'.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, a little stress from work.",
+        "annotation_token": [
+            "stress from"
+        ],
+        "rationale": "The subject 'stress' is singular and should agree with a singular verb, but the sentence is incomplete.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, no cough.",
+        "annotation_token": [
+            "no cough"
+        ],
+        "rationale": "The subject 'cough' is singular and should agree with a singular verb, but the sentence is incomplete.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "But throat... maybe a little sore in morning.",
+        "annotation_token": [
+            "throat... sore"
+        ],
+        "rationale": "The subject 'throat' is singular and should agree with a singular verb, but the sentence is incomplete.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, um, ginger tea my mother say is good.",
+        "annotation_token": [
+            "my mother say"
+        ],
+        "rationale": "The subject 'my mother' should agree with the verb 'says' in the present simple tense.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I drink it.",
+        "annotation_token": [
+            "I drink"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'drink' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you, doctor.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The subject 'I' is implied and agrees with the verb 'thank' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I will do that.",
+        "annotation_token": [
+            "I will do"
+        ],
+        "rationale": "The subject 'I' agrees with the modal verb 'will' and the base form 'do'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Is there any medicine I should take?",
+        "annotation_token": [
+            "I should take"
+        ],
+        "rationale": "The subject 'I' agrees with the modal verb 'should' and the base form 'take'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Okay, I will.",
+        "annotation_token": [
+            "I will"
+        ],
+        "rationale": "The subject 'I' agrees with the modal verb 'will'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you very much for your help.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The subject 'I' is implied and agrees with the verb 'thank' in the present simple tense.",
+        "grammar_correctness": "correct"
+    }
+]

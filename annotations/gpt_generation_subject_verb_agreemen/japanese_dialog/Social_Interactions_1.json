@@ -1,0 +1,42 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Surprise party... sounds good!",
+        "annotation_token": [
+            "party",
+            "sounds"
+        ],
+        "rationale": "The subject 'party' is singular, and the verb 'sounds' is correctly conjugated in the singular form to agree with the subject.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, there is one near my house.",
+        "annotation_token": [
+            "there",
+            "is"
+        ],
+        "rationale": "The subject 'one' is singular, and the verb 'is' is correctly conjugated in the singular form to agree with the subject.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Friday evening is good.",
+        "annotation_token": [
+            "evening",
+            "is"
+        ],
+        "rationale": "The subject 'evening' is singular, and the verb 'is' is correctly conjugated in the singular form to agree with the subject.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Sounds good plan.",
+        "annotation_token": [
+            "plan",
+            "sounds"
+        ],
+        "rationale": "The subject 'plan' is singular, and the verb 'sounds' is correctly conjugated in the singular form to agree with the subject.",
+        "grammar_correctness": "correct"
+    }
+]

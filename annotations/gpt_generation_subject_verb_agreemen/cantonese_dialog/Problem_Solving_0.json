@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think you say you cannot go to the beach, right?",
+        "annotation_token": "you say",
+        "rationale": "The subject 'you' does not agree with the verb 'say'. It should be 'you said' or 'you are saying'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think you say you busy with work.",
+        "annotation_token": "you say",
+        "rationale": "The subject 'you' does not agree with the verb 'say'. It should be 'you said' or 'you are saying'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I buy new swimsuit, very excited.",
+        "annotation_token": "I buy",
+        "rationale": "The subject 'I' does not agree with the verb 'buy'. It should be 'I bought' or 'I am buying'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I not want to miss our beach day.",
+        "annotation_token": "I not want",
+        "rationale": "The subject 'I' does not agree with the verb 'want'. It should be 'I do not want'.",
+        "grammar_correctness": "wrong"
+    }
+]

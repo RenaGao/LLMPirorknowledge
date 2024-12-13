@@ -1,0 +1,78 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Well, I’ve always been passionate about marketing, and your company’s innovative approach really appeals to me.",
+        "annotation_token": [
+            "I’ve always been",
+            "appeals"
+        ],
+        "rationale": "The sentence uses present perfect tense 'I’ve always been' to describe a continuous state up to the present and present simple tense 'appeals' to describe a current fact.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Certainly. I led a social media campaign last year that increased engagement by 30%.",
+        "annotation_token": [
+            "led",
+            "increased"
+        ],
+        "rationale": "The sentence uses past simple tense 'led' and 'increased' to describe actions completed in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We used analytics tools to track likes, shares, and comments, and compared them to our baseline data from previous campaigns.",
+        "annotation_token": [
+            "used",
+            "compared"
+        ],
+        "rationale": "The sentence uses past simple tense 'used' and 'compared' to describe actions completed in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I’m quite organized. I prioritize tasks and make sure to communicate with my team to ensure everything stays on track.",
+        "annotation_token": [
+            "I’m",
+            "prioritize",
+            "make",
+            "communicate",
+            "stays"
+        ],
+        "rationale": "The sentence uses present simple tense 'prioritize', 'make', 'communicate', and 'stays' to describe habitual actions and present continuous 'I’m' to describe a current state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I’d say my biggest strength is collaboration. I’m good at listening to others and integrating different perspectives into a cohesive plan.",
+        "annotation_token": [
+            "I’d say",
+            "is",
+            "I’m",
+            "listening",
+            "integrating"
+        ],
+        "rationale": "The sentence uses conditional 'I’d say' to express a hypothetical statement, present simple 'is' to describe a fact, and present continuous 'I’m', 'listening', 'integrating' to describe ongoing actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I’m curious about the team dynamics here. How would you describe the company culture?",
+        "annotation_token": [
+            "I’m",
+            "describe"
+        ],
+        "rationale": "The sentence uses present continuous 'I’m' to describe a current state and conditional 'describe' to ask about a hypothetical situation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you so much for the opportunity. I look forward to hearing from you.",
+        "annotation_token": [
+            "look forward",
+            "hearing"
+        ],
+        "rationale": "The sentence uses present simple 'look forward' to describe a habitual action and gerund 'hearing' to describe an action.",
+        "grammar_correctness": "correct"
+    }
+]

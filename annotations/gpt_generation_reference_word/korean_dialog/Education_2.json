@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Is it okay?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the question about homework.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, thank you. In the assignment, we need to, um, find... information? Or do we write essay?",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is used as a reference to the speaker and the person they are speaking to, indicating a shared task.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, it is okay.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the topic being discussed, which is the homework.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I think... Um, topic is hard.",
+        "annotation_token": "topic",
+        "rationale": "The word 'topic' is used as a reference to the subject of the assignment, which is climate change.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, climate change. Okay, I understand. But, effects... like, um, weather? Or other things?",
+        "annotation_token": "effects",
+        "rationale": "The word 'effects' is used as a reference to the consequences or impacts of climate change.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hmm, many things to think. I will try my best.",
+        "annotation_token": "things",
+        "rationale": "The word 'things' is used as a reference to the various aspects or considerations related to the topic of climate change.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, one more. The sources... where I find? Internet okay?",
+        "annotation_token": "sources",
+        "rationale": "The word 'sources' is used as a reference to the materials or references needed for the assignment.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Reliable sources, I see.",
+        "annotation_token": "sources",
+        "rationale": "The word 'sources' is used as a reference to the materials or references needed for the assignment.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, no more question now. I will start and see. If I confused, I ask you again.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is used as a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you very much for help. I will do my best!",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is used as a reference to the speaker themselves.",
+        "grammar_correctness": true
+    }
+]

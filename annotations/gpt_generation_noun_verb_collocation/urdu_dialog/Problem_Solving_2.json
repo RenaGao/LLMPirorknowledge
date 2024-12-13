@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, yes, I see it now. Um, I am very sorry for this mistake. I think I, uh, put the wrong slides together.",
+        "annotation_token": "put slides",
+        "rationale": "The noun 'slides' and the verb 'put' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I will, uh, check slides again and put them in correct order. I can do it by today.",
+        "annotation_token": "check slides",
+        "rationale": "The noun 'slides' and the verb 'check' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I will, uh, check slides again and put them in correct order. I can do it by today.",
+        "annotation_token": "put order",
+        "rationale": "The noun 'order' and the verb 'put' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "No, I think this is all. I will let you know if I find something else.",
+        "annotation_token": "find something",
+        "rationale": "The noun 'something' and the verb 'find' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I, uh, I put wrong data in the table. The numbers, they not match.",
+        "annotation_token": [
+            "The",
+            "numbers"
+        ],
+        "rationale": "The word 'The' is a definite article used as a quantifier to specify the noun 'numbers'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, I think by tomorrow... afternoon? Is okay?",
+        "annotation_token": [
+            "tomorrow"
+        ],
+        "rationale": "The word 'tomorrow' is a numeral indicating a specific time in the future.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I, uh, I put wrong data in the table. The numbers, they not match.",
+        "annotation_token": [
+            "The numbers"
+        ],
+        "rationale": "The word 'numbers' is a numeral indicating a quantity of data.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, I think by tomorrow... afternoon? Is okay?",
+        "annotation_token": [
+            "tomorrow"
+        ],
+        "rationale": "The word 'tomorrow' is a numeral indicating a specific time in the future.",
+        "grammar_correctness": true
+    }
+]

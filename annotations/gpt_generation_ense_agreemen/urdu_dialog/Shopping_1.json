@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, he say price can be, um, reduced a little.",
+        "annotation_token": [
+            "say"
+        ],
+        "rationale": "The verb 'say' should be in past tense 'said' to agree with the past context of the sentence.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "He say, uh, okay, but final price.",
+        "annotation_token": [
+            "say"
+        ],
+        "rationale": "The verb 'say' should be in past tense 'said' to agree with the past context of the sentence.",
+        "grammar_correctness": "wrong"
+    }
+]

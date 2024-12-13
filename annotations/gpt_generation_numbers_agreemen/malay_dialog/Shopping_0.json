@@ -1,0 +1,13 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Oh, it look nice. Thank you. It have... um, many setting?",
+        "annotation_token": [
+            "look",
+            "have",
+            "setting"
+        ],
+        "rationale": "The sentence contains errors in number agreement. 'It look' should be 'It looks' to agree with the singular subject 'it'. 'It have' should be 'It has' to agree with the singular subject 'it'. 'Many setting' should be 'many settings' to agree with the plural quantifier 'many'.",
+        "grammar_correctness": "wrong"
+    }
+]

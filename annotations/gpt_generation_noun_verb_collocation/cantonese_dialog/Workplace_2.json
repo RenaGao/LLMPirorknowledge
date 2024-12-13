@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I have some question. I need to, um, understand the report.",
+        "annotation_token": "understand the report",
+        "rationale": "The noun 'report' and the verb 'understand' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, yes, it go up in March and April. That mean more sales?",
+        "annotation_token": "mean more sales",
+        "rationale": "The noun 'sales' and the verb 'mean' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um... it go down. So less sales, right?",
+        "annotation_token": "go down",
+        "rationale": "The noun 'it' is implied to be a specific subject, and the verb 'go down' forms a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Hmm... there are many comment. Some good, some bad.",
+        "annotation_token": "are many comment",
+        "rationale": "The noun 'comment' and the verb 'are' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, many say shipping is slow. I think we need change, um, process?",
+        "annotation_token": "say shipping",
+        "rationale": "The noun 'shipping' and the verb 'say' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you, I will try my best! Can you show me who to contact?",
+        "annotation_token": "show me",
+        "rationale": "The noun 'me' is implied to be a specific subject, and the verb 'show' forms a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, no more question for now. I feel better after talk with you.",
+        "annotation_token": "talk with you",
+        "rationale": "The noun 'you' and the verb 'talk' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

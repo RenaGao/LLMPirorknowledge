@@ -1,0 +1,140 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi! I'm doing well, thank you. A little nervous, but excited to be here.",
+        "annotation_token": [
+            "A little"
+        ],
+        "rationale": "'A little' is a quantifier used to express a small amount of nervousness.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely! In my previous role, I spearheaded a social media campaign that increased engagement by 30%.",
+        "annotation_token": [
+            "30%"
+        ],
+        "rationale": "'30%' is a numeral indicating the percentage increase in engagement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I often find myself in a leadership role, but I’m also comfortable being a supportive team member.",
+        "annotation_token": [
+            "often"
+        ],
+        "rationale": "'Often' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi! I'm doing well, thank you. A little nervous, but excited to be here.",
+        "annotation_token": [
+            "A little"
+        ],
+        "rationale": "'A little' is a quantifier used to express a small amount of nervousness.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely! In my previous role, I spearheaded a social media campaign that increased engagement by 30%.",
+        "annotation_token": [
+            "30%"
+        ],
+        "rationale": "'30%' is a numeral indicating the percentage increase in engagement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I often find myself in a leadership role, but I’m also comfortable being a supportive team member.",
+        "annotation_token": [
+            "often"
+        ],
+        "rationale": "'Often' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi! I'm doing well, thank you. A little nervous, but excited to be here.",
+        "annotation_token": [
+            "A little"
+        ],
+        "rationale": "'A little' is a quantifier used to express a small amount of nervousness.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely! In my previous role, I spearheaded a social media campaign that increased engagement by 30%.",
+        "annotation_token": [
+            "30%"
+        ],
+        "rationale": "'30%' is a numeral indicating a specific percentage increase in engagement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I often find myself in a leadership role, but I’m also comfortable being a supportive team member.",
+        "annotation_token": [
+            "often"
+        ],
+        "rationale": "'Often' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi! I'm doing well, thank you. A little nervous, but excited to be here.",
+        "annotation_token": [
+            "A little"
+        ],
+        "rationale": "'A little' functions as a quantifier indicating a small amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely! In my previous role, I spearheaded a social media campaign that increased engagement by 30%. It involved collaborating with influencers and using analytics to fine-tune our strategy.",
+        "annotation_token": [
+            "30%"
+        ],
+        "rationale": "'30%' is a numeral expressing a specific quantity of increase.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I believe open communication is essential. I always aim to understand different perspectives and find common ground.",
+        "annotation_token": [
+            "different"
+        ],
+        "rationale": "'Different' is a quantifier indicating multiple and varied perspectives.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I often find myself in a leadership role, but I’m also comfortable being a supportive team member.",
+        "annotation_token": [
+            "often"
+        ],
+        "rationale": "'Often' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi! I'm doing well, thank you. A little nervous, but excited to be here.",
+        "annotation_token": "A little",
+        "rationale": "'A little' is a quantifier used to indicate a small amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely! In my previous role, I spearheaded a social media campaign that increased engagement by 30%.",
+        "annotation_token": "30%",
+        "rationale": "'30%' is a numeral indicating a specific quantity or percentage.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I often find myself in a leadership role, but I’m also comfortable being a supportive team member.",
+        "annotation_token": "often",
+        "rationale": "'Often' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    }
+]

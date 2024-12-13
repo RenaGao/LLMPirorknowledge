@@ -1,0 +1,54 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, yes! I want to make... um, how to say... green curry. It my favorite.",
+        "annotation_token": [
+            "want",
+            "It my favorite"
+        ],
+        "rationale": "The verb 'want' is in the present tense, but 'It my favorite' lacks the verb 'is' to agree in tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I buy from, um, Asian store. It easy. If make, it take long time.",
+        "annotation_token": [
+            "buy",
+            "It easy",
+            "make",
+            "take"
+        ],
+        "rationale": "The verbs 'buy', 'make', and 'take' are in the present tense, but 'It easy' lacks the verb 'is' to agree in tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, maybe 15 minute? Until chicken is, um, how to say... cook all.",
+        "annotation_token": [
+            "is",
+            "cook"
+        ],
+        "rationale": "The verb 'is' is in the present tense, but 'cook' should be 'cooked' to agree in tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, with jasmine rice. It... um, very good smell.",
+        "annotation_token": [
+            "It",
+            "smell"
+        ],
+        "rationale": "The verb 'smell' should be 'smells' to agree in tense with the subject 'It'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "That very nice, thank you. We make good team.",
+        "annotation_token": [
+            "That",
+            "make"
+        ],
+        "rationale": "The sentence 'That very nice' lacks the verb 'is' to agree in tense. 'make' is in the present tense and should be 'make a good team' for clarity.",
+        "grammar_correctness": "wrong"
+    }
+]

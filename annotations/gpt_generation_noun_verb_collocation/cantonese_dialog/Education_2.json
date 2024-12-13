@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, hello teacher. I have question about the homework.",
+        "annotation_token": "have question",
+        "rationale": "The noun 'question' and the verb 'have' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, I want to, uh, talk about both.",
+        "annotation_token": "talk about",
+        "rationale": "The noun 'talk' and the verb 'about' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I think... um, yes, but I need find more example.",
+        "annotation_token": "find example",
+        "rationale": "The noun 'example' and the verb 'find' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, no, I think that is all. Thank you for help!",
+        "annotation_token": "thank you",
+        "rationale": "The noun 'thank' and the verb 'you' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

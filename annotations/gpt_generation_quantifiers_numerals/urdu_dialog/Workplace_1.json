@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I, um, listen to all ideas and then we, um, discuss together.",
+        "annotation_token": "all",
+        "rationale": "The word 'all' is a quantifier used to refer to the entirety of a group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We, uh, choose best idea for project.",
+        "annotation_token": "best",
+        "rationale": "The word 'best' acts as a quantifier in the sense that it selects the single most excellent option from a group.",
+        "grammar_correctness": true
+    }
+]

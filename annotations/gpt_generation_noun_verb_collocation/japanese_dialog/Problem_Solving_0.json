@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I like their coffee.",
+        "annotation_token": "like coffee",
+        "rationale": "The noun 'coffee' and the verb 'like' form a meaningful and complete action, which is a typical noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, very nice. I look forward to see you on Friday.",
+        "annotation_token": "see you",
+        "rationale": "The noun 'you' and the verb 'see' form a meaningful and complete action, which is a typical noun and verb collocation.",
+        "grammar_correctness": true
+    }
+]

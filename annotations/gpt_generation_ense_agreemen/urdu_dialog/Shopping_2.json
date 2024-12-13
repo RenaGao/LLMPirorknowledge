@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, yes, return. I buy last week but... it no fit.",
+        "annotation_token": [
+            "buy",
+            "no fit"
+        ],
+        "rationale": "The sentence 'I buy last week but... it no fit.' contains tense agreement errors. 'Buy' should be in the past tense 'bought' to agree with the time reference 'last week'. 'No fit' should be 'does not fit' or 'did not fit' depending on the intended meaning.",
+        "grammar_correctness": "wrong"
+    }
+]

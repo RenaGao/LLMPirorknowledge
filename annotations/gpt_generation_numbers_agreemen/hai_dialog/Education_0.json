@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Oh, hello! Um, I feel... a bit worry, you know? The exam, it not easy.",
+        "annotation_token": "exam, it not easy",
+        "rationale": "The subject 'exam' is singular, but the verb phrase 'it not easy' lacks agreement in number. It should be 'it is not easy' to match the singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I think... the writing part. I not good with... how to say... make sentences.",
+        "annotation_token": "I not good",
+        "rationale": "The subject 'I' is singular, but the verb phrase 'I not good' lacks agreement in number. It should be 'I am not good' to match the singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I try practice. I write essay, but sometimes I not sure... correct or not.",
+        "annotation_token": "I write essay",
+        "rationale": "The subject 'I' is singular, but the verb phrase 'I write essay' lacks agreement in number. It should be 'I write essays' to match the plural form of 'essays'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Listening, um... not so bad. I watch many English movie.",
+        "annotation_token": "many English movie",
+        "rationale": "The quantifier 'many' requires a plural noun, so 'movie' should be 'movies' to agree in number.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Sometimes. It help me understand when they speak fast.",
+        "annotation_token": "It help",
+        "rationale": "The subject 'It' is singular, but the verb 'help' lacks agreement in number. It should be 'It helps' to match the singular subject.",
+        "grammar_correctness": "wrong"
+    }
+]

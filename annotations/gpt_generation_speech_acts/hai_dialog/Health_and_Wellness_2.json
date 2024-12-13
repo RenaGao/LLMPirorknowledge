@@ -1,0 +1,96 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, hello! I am fine, thank you. Excited to, um, start exercise.",
+        "annotation_token": [
+            "hello",
+            "thank you",
+            "excited"
+        ],
+        "rationale": "The tokens 'hello', 'thank you', and 'excited' are used as speech acts to greet, express gratitude, and express emotion respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, I want to... how to say... be more strong and lose some weight.",
+        "annotation_token": [
+            "how to say"
+        ],
+        "rationale": "The token 'how to say' is used as a speech act to express hesitation or searching for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I like outside. Fresh air is, um, how to say... better for me.",
+        "annotation_token": [
+            "how to say"
+        ],
+        "rationale": "The token 'how to say' is used as a speech act to express hesitation or searching for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Morning, please. Before work is, um, how to say... good for my energy.",
+        "annotation_token": [
+            "please",
+            "how to say"
+        ],
+        "rationale": "The token 'please' is used as a speech act to make a polite request, and 'how to say' is used to express hesitation or searching for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that is good. Thank you for help.",
+        "annotation_token": [
+            "thank you"
+        ],
+        "rationale": "The token 'thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sounds good! I am ready to learn and, uh, try new thing.",
+        "annotation_token": [
+            "sounds good"
+        ],
+        "rationale": "The token 'sounds good' is used as a speech act to express agreement or approval.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No question now. I am just, um, excited to start.",
+        "annotation_token": [
+            "excited"
+        ],
+        "rationale": "The token 'excited' is used as a speech act to express emotion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, hello! I am fine, thank you. Excited to, um, start exercise.",
+        "annotation_token": [
+            "hello",
+            "thank you"
+        ],
+        "rationale": "The tokens 'hello' and 'thank you' are speech acts as they perform the action of greeting and expressing gratitude, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that is good. Thank you for help.",
+        "annotation_token": [
+            "thank you"
+        ],
+        "rationale": "The token 'thank you' is a speech act as it performs the action of expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sounds good! I am ready to learn and, uh, try new thing.",
+        "annotation_token": [
+            "Sounds good"
+        ],
+        "rationale": "The phrase 'Sounds good' is a speech act as it performs the action of expressing agreement or approval.",
+        "grammar_correctness": "correct"
+    }
+]

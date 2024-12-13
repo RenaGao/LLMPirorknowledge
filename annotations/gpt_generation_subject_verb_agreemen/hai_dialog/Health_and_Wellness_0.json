@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It start in morning and... um, not stop until night.",
+        "annotation_token": "It start",
+        "rationale": "The subject 'It' does not agree with the verb 'start'. The correct form should be 'It starts'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "But sometimes it... uh, get worse.",
+        "annotation_token": "it get",
+        "rationale": "The subject 'it' does not agree with the verb 'get'. The correct form should be 'it gets'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "But it not help much.",
+        "annotation_token": "it not help",
+        "rationale": "The subject 'it' does not agree with the verb 'help'. The correct form should be 'it does not help'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I busy and forget to drink.",
+        "annotation_token": "I busy",
+        "rationale": "The subject 'I' does not agree with the verb 'busy'. The correct form should be 'I am busy'.",
+        "grammar_correctness": "wrong"
+    }
+]

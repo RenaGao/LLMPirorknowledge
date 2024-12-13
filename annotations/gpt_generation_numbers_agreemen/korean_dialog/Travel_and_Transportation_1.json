@@ -1,0 +1,21 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, yes. Is there, uh, place to eat near hotel?",
+        "annotation_token": [
+            "place",
+            "hotel"
+        ],
+        "rationale": "The sentence 'Is there, uh, place to eat near hotel?' lacks the correct number agreement. In English, singular nouns should be preceded by an article or determiner, such as 'a' or 'the'. The correct form should be 'Is there a place to eat near the hotel?'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Is there Korean restaurant?",
+        "annotation_token": [
+            "restaurant"
+        ],
+        "rationale": "The sentence 'Is there Korean restaurant?' lacks the correct number agreement. In English, singular nouns should be preceded by an article or determiner, such as 'a' or 'the'. The correct form should be 'Is there a Korean restaurant?'",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I think... three times in a week? Is that good?",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is used as a reference to the idea of exercising three times a week.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, not really. I see many machines... It is a little... um, confusing.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the situation of seeing many machines and feeling confused.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, I just eat normal. I think I need... more healthy food. But I don't know what is best.",
+        "annotation_token": "what",
+        "rationale": "The word 'what' is used as a reference to the type of healthy food that is best.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, please. I really need... some guide for eating.",
+        "annotation_token": "some",
+        "rationale": "The word 'some' is used as a reference to a type of guide for eating.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I am ready. Thank you for he",
+        "annotation_token": "he",
+        "rationale": "The word 'he' is likely a reference to a person who was mentioned earlier in the conversation, but the sentence is incomplete.",
+        "grammar_correctness": false
+    }
+]

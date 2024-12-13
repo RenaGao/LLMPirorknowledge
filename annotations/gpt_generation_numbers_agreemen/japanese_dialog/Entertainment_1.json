@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Ah, yes, I hear it is very popular. Many songs, many rooms.",
+        "annotation_token": [
+            "songs",
+            "rooms"
+        ],
+        "rationale": "The sentence contains plural nouns 'songs' and 'rooms' which are correctly used to indicate more than one song and more than one room.",
+        "grammar_correctness": "correct"
+    }
+]

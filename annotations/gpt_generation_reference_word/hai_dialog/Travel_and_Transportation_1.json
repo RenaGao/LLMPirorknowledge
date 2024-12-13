@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I think... it is Sunrise Hotel? I have it... uh, here on my phone.",
+        "annotation_token": [
+            "it",
+            "it"
+        ],
+        "rationale": "The word 'it' is used to refer to the 'Sunrise Hotel' and the information about the hotel on the speaker's phone.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, good. Can you tell me how to go there?",
+        "annotation_token": [
+            "there"
+        ],
+        "rationale": "The word 'there' is used to refer to the location of the 'Sunrise Hotel'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I think I will. Have nice day!",
+        "annotation_token": [
+            "I"
+        ],
+        "rationale": "The word 'I' is used as a reference to the speaker themselves.",
+        "grammar_correctness": true
+    }
+]

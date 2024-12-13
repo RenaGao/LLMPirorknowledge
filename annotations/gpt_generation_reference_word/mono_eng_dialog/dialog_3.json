@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I believe it’s scheduled for 10 a.m.?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the interview mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Certainly! I completed my undergraduate degree in Biology and have a keen interest in sustainability and conservation. I’m drawn to your program because of its strong focus on practical fieldwork and research opportunities.",
+        "annotation_token": "its",
+        "rationale": "The word 'its' is used as a reference to the master's program in Environmental Science mentioned earlier.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I interned with a local conservation group last summer, where I contributed to habitat restoration projects. It was a rewarding experience.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the internship experience mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It taught me the importance of community engagement in environmental projects, and I hope to incorporate that perspective into my studies and future research here.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the rewarding experience mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I’m curious about the mentoring opportunities. How accessible are faculty members for guidance and support?",
+        "annotation_token": "How",
+        "rationale": "The word 'How' is used as a reference to the accessibility of faculty members for guidance and support.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That would be wonderful, if possible! I’d love to connect with someone from the environmental policy faculty.",
+        "annotation_token": "That",
+        "rationale": "The word 'That' is used as a reference to the possibility of connecting with someone from the environmental policy faculty.",
+        "grammar_correctness": true
+    }
+]

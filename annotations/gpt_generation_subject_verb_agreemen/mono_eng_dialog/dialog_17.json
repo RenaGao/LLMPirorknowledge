@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Sure, your university has a great reputation for its engineering program, and I’ve heard a lot about the innovative projects students get to work on.",
+        "annotation_token": [
+            "university has",
+            "I’ve heard"
+        ],
+        "rationale": "The subject 'university' correctly agrees with the singular verb 'has', and the subject 'I' correctly agrees with the verb 'have' in the contraction 'I’ve'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I'm really interested in renewable energy. I think it's crucial for our future, and I’d love to be part of that change.",
+        "annotation_token": [
+            "I am",
+            "I think",
+            "I’d love"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am', 'think', and 'would love'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I worked on a small solar panel project in high school. It was fascinating to see how much energy we could harness from the sun.",
+        "annotation_token": [
+            "I worked",
+            "It was",
+            "we could harness"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'worked', the subject 'It' correctly agrees with the verb 'was', and the subject 'we' correctly agrees with the modal verb 'could'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Academically, I hope to bring a fresh perspective and perhaps collaborate on innovative projects. Socially, I'm keen on joining the environmental club and maybe starting a new initiative related to sustainability.",
+        "annotation_token": [
+            "I hope",
+            "I am"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'hope' and the contraction 'am' in 'I'm'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, actually. Could you tell me more about the support systems available for students, especially for those working on independent projects?",
+        "annotation_token": [
+            "you tell"
+        ],
+        "rationale": "The subject 'you' correctly agrees with the base form of the verb 'tell' in the question structure.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That’s reassuring to hear. Thank you for all the information. I feel much more confident now.",
+        "annotation_token": [
+            "That is",
+            "I feel"
+        ],
+        "rationale": "The subject 'That' correctly agrees with the verb 'is' in the contraction 'That’s', and the subject 'I' correctly agrees with the verb 'feel'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you so much for your time. Have a great day!",
+        "annotation_token": [
+            "you have"
+        ],
+        "rationale": "The subject 'you' correctly agrees with the base form of the verb 'have' in the imperative sentence.",
+        "grammar_correctness": "correct"
+    }
+]

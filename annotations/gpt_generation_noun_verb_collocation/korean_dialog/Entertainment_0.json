@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I watch movie... um, \"Parasite.\"",
+        "annotation_token": "watch movie",
+        "rationale": "The noun 'movie' and the verb 'watch' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I like... Chandler.",
+        "annotation_token": "like Chandler",
+        "rationale": "The noun 'Chandler' and the verb 'like' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Uh, I watch \"The Office.\"",
+        "annotation_token": "watch \"The Office\"",
+        "rationale": "The noun 'The Office' and the verb 'watch' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, when... um, Michael does... the Dundie Awards.",
+        "annotation_token": "does the Dundie Awards",
+        "rationale": "The noun 'the Dundie Awards' and the verb 'does' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I want to watch... um, \"Stranger Things.\"",
+        "annotation_token": "watch \"Stranger Things\"",
+        "rationale": "The noun 'Stranger Things' and the verb 'watch' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

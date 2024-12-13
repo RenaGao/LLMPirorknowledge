@@ -1,0 +1,60 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It started yesterday after I installed some updates.",
+        "annotation_token": [
+            "started",
+            "installed"
+        ],
+        "rationale": "The verbs 'started' and 'installed' are both in the past tense, showing correct tense agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I haven’t tried that yet.",
+        "annotation_token": [
+            "haven’t tried"
+        ],
+        "rationale": "The present perfect tense 'haven’t tried' is used correctly to indicate an action that has not been completed up to the present.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Got it, I’ll give that a try.",
+        "annotation_token": [
+            "Got",
+            "I’ll give"
+        ],
+        "rationale": "The verb 'Got' is in the past tense, while 'I’ll give' is in the future tense, which is appropriate for the context of receiving information and planning a future action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "And once I’m in Safe Mode, what should I be looking for?",
+        "annotation_token": [
+            "I’m",
+            "should be looking"
+        ],
+        "rationale": "The present tense 'I’m' and the modal 'should be looking' are used correctly to discuss a future action contingent on a present condition.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "If it still restarts, what’s the next step?",
+        "annotation_token": [
+            "restarts",
+            "what’s"
+        ],
+        "rationale": "The present tense 'restarts' and 'what’s' are used correctly to discuss a hypothetical future scenario.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Alright, that makes sense.",
+        "annotation_token": [
+            "makes"
+        ],
+        "rationale": "The present tense 'makes' is used correctly to express a current understanding.",
+        "grammar_correctness": "correct"
+    }
+]

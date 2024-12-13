@@ -1,0 +1,211 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you. My name is Minji Lee. I am from Seoul. I study Business Administration at university. I, um, finished last year.",
+        "annotation_token": [
+            "Yes",
+            "thank you",
+            "My name is Minji Lee",
+            "I am from Seoul",
+            "I study Business Administration at university",
+            "I, um, finished last year"
+        ],
+        "rationale": "The sentence contains multiple speech acts: acknowledgment ('Yes, thank you'), self-introduction ('My name is Minji Lee', 'I am from Seoul'), and information sharing ('I study Business Administration at university', 'I, um, finished last year').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I chose because, um, I want to learn how to, like, manage company and people. I think it is very important skill.",
+        "annotation_token": [
+            "Ah",
+            "I chose because",
+            "I want to learn how to, like, manage company and people",
+            "I think it is very important skill"
+        ],
+        "rationale": "The sentence contains multiple speech acts: hesitation ('Ah'), explanation ('I chose because'), expression of desire ('I want to learn how to, like, manage company and people'), and opinion ('I think it is very important skill').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, we have group project. We make business plan for, um, new coffee shop. It was very exciting.",
+        "annotation_token": [
+            "Yes",
+            "we have group project",
+            "We make business plan for, um, new coffee shop",
+            "It was very exciting"
+        ],
+        "rationale": "The sentence contains multiple speech acts: acknowledgment ('Yes'), information sharing ('we have group project', 'We make business plan for, um, new coffee shop'), and expression of emotion ('It was very exciting').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I, um, I was leader. I organize meeting and, uh, make sure everyone do their part. Also, I present it in class.",
+        "annotation_token": [
+            "I, um, I was leader",
+            "I organize meeting and, uh, make sure everyone do their part",
+            "Also, I present it in class"
+        ],
+        "rationale": "The sentence contains multiple speech acts: self-identification ('I, um, I was leader'), description of responsibilities ('I organize meeting and, uh, make sure everyone do their part'), and information sharing ('Also, I present it in class').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We have problem with finance part. It was hard, but we ask professor for help and, um, research more. Finally, we find good solution.",
+        "annotation_token": [
+            "We have problem with finance part",
+            "It was hard",
+            "we ask professor for help and, um, research more",
+            "Finally, we find good solution"
+        ],
+        "rationale": "The sentence contains multiple speech acts: problem identification ('We have problem with finance part'), expression of difficulty ('It was hard'), action taken ('we ask professor for help and, um, research more'), and resolution ('Finally, we find good solution').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I like your company because, um, it is global. I want to work with different culture and, uh, learn more about international business.",
+        "annotation_token": [
+            "I like your company because, um, it is global",
+            "I want to work with different culture and, uh, learn more about international business"
+        ],
+        "rationale": "The sentence contains multiple speech acts: expression of preference ('I like your company because, um, it is global') and expression of desire ('I want to work with different culture and, uh, learn more about international business').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think it is important to, um, listen careful and respect other ideas. I always try to understand, uh, different view.",
+        "annotation_token": [
+            "I think it is important to, um, listen careful and respect other ideas",
+            "I always try to understand, uh, different view"
+        ],
+        "rationale": "The sentence contains multiple speech acts: expression of opinion ('I think it is important to, um, listen careful and respect other ideas') and expression of personal practice ('I always try to understand, uh, different view').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, in university, we make, um, marketing plan for real company. Our plan was, uh, chosen by company, and they use it. It was great success.",
+        "annotation_token": [
+            "Yes",
+            "in university, we make, um, marketing plan for real company",
+            "Our plan was, uh, chosen by company, and they use it",
+            "It was great success"
+        ],
+        "rationale": "The sentence contains multiple speech acts: acknowledgment ('Yes'), information sharing ('in university, we make, um, marketing plan for real company', 'Our plan was, uh, chosen by company, and they use it'), and expression of achievement ('It was great success').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I work on, um, research part and also help with presentation. I, uh, give idea for online campaign.",
+        "annotation_token": [
+            "I work on, um, research part and also help with presentation",
+            "I, uh, give idea for online campaign"
+        ],
+        "rationale": "The sentence contains multiple speech acts: description of responsibilities ('I work on, um, research part and also help with presentation') and contribution ('I, uh, give idea for online campaign').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I want to become, um, manager in international company. I hope to lead, uh, project for Asia market.",
+        "annotation_token": [
+            "I want to become, um, manager in international company",
+            "I hope to lead, uh, project for Asia market"
+        ],
+        "rationale": "The sentence contains multiple speech acts: expression of aspiration ('I want to become, um, manager in international company') and future intention ('I hope to lead, uh, project for Asia market').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I want to learn more about, um, how big company work and get, uh, practical experience.",
+        "annotation_token": [
+            "Yes",
+            "I want to learn more about, um, how big company work and get, uh, practical experience"
+        ],
+        "rationale": "The sentence contains multiple speech acts: acknowledgment ('Yes') and expression of desire ('I want to learn more about, um, how big company work and get, uh, practical experience').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. What is, um, company culture like? I mean, how do people work together here?",
+        "annotation_token": [
+            "Ah, yes",
+            "What is, um, company culture like",
+            "I mean, how do people work together here"
+        ],
+        "rationale": "The sentence contains multiple speech acts: acknowledgment ('Ah, yes'), inquiry ('What is, um, company culture like'), and clarification ('I mean, how do people work together here').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much. I hope to hear from you soon.",
+        "annotation_token": [
+            "Thank you very much",
+            "I hope to hear from you soon"
+        ],
+        "rationale": "The sentence contains multiple speech acts: expression of gratitude ('Thank you very much') and expression of expectation ('I hope to hear from you soon').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you. My name is Minji Lee. I am from Seoul. I study Business Administration at university. I, um, finished last year.",
+        "annotation_token": [
+            "Yes",
+            "thank you"
+        ],
+        "rationale": "The tokens 'Yes' and 'thank you' are used as speech acts to acknowledge and express gratitude, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I chose because, um, I want to learn how to, like, manage company and people. I think it is very important skill.",
+        "annotation_token": [
+            "Ah"
+        ],
+        "rationale": "The token 'Ah' is used as a speech act to express realization or understanding.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, we have group project. We make business plan for, um, new coffee shop. It was very exciting.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree with a previous statement or question.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I like your company because, um, it is global. I want to work with different culture and, uh, learn more about international business.",
+        "annotation_token": [
+            "I like your company"
+        ],
+        "rationale": "The phrase 'I like your company' is a speech act expressing a positive opinion or preference.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, in university, we make, um, marketing plan for real company. Our plan was, uh, chosen by company, and they use it. It was great success.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree with a previous statement or question.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. What is, um, company culture like? I mean, how do people work together here?",
+        "annotation_token": [
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The tokens 'Ah' and 'yes' are used as speech acts to express realization or understanding and to confirm or agree, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much. I hope to hear from you soon.",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The phrase 'Thank you very much' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It my favorite.",
+        "annotation_token": [
+            "It",
+            "my"
+        ],
+        "rationale": "The sentence 'It my favorite.' lacks a verb to agree with the subject 'It'. The correct form should be 'It is my favorite.'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I buy from, um, Asian store.",
+        "annotation_token": [
+            "I",
+            "buy"
+        ],
+        "rationale": "The sentence 'I buy from, um, Asian store.' correctly uses the verb 'buy' to agree with the subject 'I'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It easy.",
+        "annotation_token": [
+            "It",
+            "easy"
+        ],
+        "rationale": "The sentence 'It easy.' lacks a verb to agree with the subject 'It'. The correct form should be 'It is easy.'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "If make, it take long time.",
+        "annotation_token": [
+            "it",
+            "take"
+        ],
+        "rationale": "The sentence 'If make, it take long time.' lacks a subject for 'make' and the verb 'take' should be 'takes' to agree with the subject 'it'. The correct form should be 'If you make it, it takes a long time.'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "And basil leaf, it important.",
+        "annotation_token": [
+            "it",
+            "important"
+        ],
+        "rationale": "The sentence 'And basil leaf, it important.' lacks a verb to agree with the subject 'it'. The correct form should be 'And basil leaf, it is important.'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, maybe 15 minute? Until chicken is, um, how to say... cook all.",
+        "annotation_token": [
+            "chicken",
+            "is"
+        ],
+        "rationale": "The sentence 'Until chicken is, um, how to say... cook all.' correctly uses the verb 'is' to agree with the subject 'chicken'. However, 'cook all' should be 'cooked all'.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It... um, very good smell.",
+        "annotation_token": [
+            "It",
+            "smell"
+        ],
+        "rationale": "The sentence 'It... um, very good smell.' lacks a verb to agree with the subject 'It'. The correct form should be 'It has a very good smell.'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That very nice, thank you.",
+        "annotation_token": [
+            "That",
+            "very"
+        ],
+        "rationale": "The sentence 'That very nice, thank you.' lacks a verb to agree with the subject 'That'. The correct form should be 'That is very nice, thank you.'",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We make good team.",
+        "annotation_token": [
+            "We",
+            "make"
+        ],
+        "rationale": "The sentence 'We make good team.' correctly uses the verb 'make' to agree with the subject 'We'. However, it should be 'a good team'.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We eat together soon.",
+        "annotation_token": [
+            "We",
+            "eat"
+        ],
+        "rationale": "The sentence 'We eat together soon.' correctly uses the verb 'eat' to agree with the subject 'We'.",
+        "grammar_correctness": "correct"
+    }
+]

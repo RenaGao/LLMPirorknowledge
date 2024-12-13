@@ -1,0 +1,352 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, can return? I not sure about the rule.",
+        "annotation_token": [
+            "Yes",
+            "can",
+            "return",
+            "I",
+            "not",
+            "sure",
+            "about",
+            "the",
+            "rule"
+        ],
+        "rationale": "The sentence contains a request for confirmation and an expression of uncertainty, which are both speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I have. Here it is.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "have",
+            "Here",
+            "it",
+            "is"
+        ],
+        "rationale": "The sentence contains an affirmation and a presentation, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, yes, I want bigger size. Maybe one size up.",
+        "annotation_token": [
+            "Hmm",
+            "yes",
+            "I",
+            "want",
+            "bigger",
+            "size",
+            "Maybe",
+            "one",
+            "size",
+            "up"
+        ],
+        "rationale": "The sentence contains an expression of desire and a suggestion, which are both speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, how to say... Large? I think large is good.",
+        "annotation_token": [
+            "Um",
+            "how",
+            "to",
+            "say",
+            "Large",
+            "I",
+            "think",
+            "large",
+            "is",
+            "good"
+        ],
+        "rationale": "The sentence contains a request for assistance in expression and an opinion, which are both speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, no problem. I wait here.",
+        "annotation_token": [
+            "Sure",
+            "no",
+            "problem",
+            "I",
+            "wait",
+            "here"
+        ],
+        "rationale": "The sentence contains an agreement and a statement of intention, which are both speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I try. Want to make sure it fit.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "try",
+            "Want",
+            "to",
+            "make",
+            "sure",
+            "it",
+            "fit"
+        ],
+        "rationale": "The sentence contains an affirmation and an expression of intention, which are both speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. I will be back soon.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "I",
+            "will",
+            "be",
+            "back",
+            "soon"
+        ],
+        "rationale": "The sentence contains an expression of gratitude and a promise, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello again. Large is good, it fit well.",
+        "annotation_token": [
+            "Hello",
+            "again",
+            "Large",
+            "is",
+            "good",
+            "it",
+            "fit",
+            "well"
+        ],
+        "rationale": "The sentence contains a greeting and an evaluation, which are both speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, thank you. Just this shirt is okay.",
+        "annotation_token": [
+            "No",
+            "thank",
+            "you",
+            "Just",
+            "this",
+            "shirt",
+            "is",
+            "okay"
+        ],
+        "rationale": "The sentence contains a refusal and an expression of satisfaction, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, all is good. Thank you for your help.",
+        "annotation_token": [
+            "No",
+            "all",
+            "is",
+            "good",
+            "Thank",
+            "you",
+            "for",
+            "your",
+            "help"
+        ],
+        "rationale": "The sentence contains a refusal and an expression of gratitude, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much! Bye-bye.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "very",
+            "much",
+            "Bye-bye"
+        ],
+        "rationale": "The sentence contains an expression of gratitude and a farewell, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, can return? I not sure about the rule.",
+        "annotation_token": [
+            "Yes",
+            "can",
+            "return",
+            "I",
+            "not",
+            "sure",
+            "about",
+            "the",
+            "rule"
+        ],
+        "rationale": "The sentence contains a request for confirmation about the possibility of returning an item, which is a speech act.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I have. Here it is.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "have",
+            "Here",
+            "it",
+            "is"
+        ],
+        "rationale": "The sentence contains a confirmation and a presentation of an item, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hmm, yes, I want bigger size. Maybe one size up.",
+        "annotation_token": [
+            "Hmm",
+            "yes",
+            "I",
+            "want",
+            "bigger",
+            "size",
+            "Maybe",
+            "one",
+            "size",
+            "up"
+        ],
+        "rationale": "The sentence contains a request for a larger size, which is a speech act.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, how to say... Large? I think large is good.",
+        "annotation_token": [
+            "Um",
+            "how",
+            "to",
+            "say",
+            "Large",
+            "I",
+            "think",
+            "large",
+            "is",
+            "good"
+        ],
+        "rationale": "The sentence contains a request for clarification and an expression of preference, which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, no problem. I wait here.",
+        "annotation_token": [
+            "Sure",
+            "no",
+            "problem",
+            "I",
+            "wait",
+            "here"
+        ],
+        "rationale": "The sentence contains an agreement and an expression of willingness to wait, which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I try. Want to make sure it fit.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "try",
+            "Want",
+            "to",
+            "make",
+            "sure",
+            "it",
+            "fit"
+        ],
+        "rationale": "The sentence contains an expression of intention to try and ensure fit, which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. I will be back soon.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "I",
+            "will",
+            "be",
+            "back",
+            "soon"
+        ],
+        "rationale": "The sentence contains an expression of gratitude and a promise to return, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello again. Large is good, it fit well.",
+        "annotation_token": [
+            "Hello",
+            "again",
+            "Large",
+            "is",
+            "good",
+            "it",
+            "fit",
+            "well"
+        ],
+        "rationale": "The sentence contains a greeting and an expression of satisfaction with the fit, which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, thank you. Just this shirt is okay.",
+        "annotation_token": [
+            "No",
+            "thank",
+            "you",
+            "Just",
+            "this",
+            "shirt",
+            "is",
+            "okay"
+        ],
+        "rationale": "The sentence contains a polite refusal and an expression of satisfaction, which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, all is good. Thank you for your help.",
+        "annotation_token": [
+            "No",
+            "all",
+            "is",
+            "good",
+            "Thank",
+            "you",
+            "for",
+            "your",
+            "help"
+        ],
+        "rationale": "The sentence contains a polite refusal and an expression of gratitude, which are speech acts.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much! Bye-bye.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "very",
+            "much",
+            "Bye-bye"
+        ],
+        "rationale": "The sentence contains an expression of gratitude and a farewell, which are speech acts.",
+        "grammar_correctness": "correct"
+    }
+]

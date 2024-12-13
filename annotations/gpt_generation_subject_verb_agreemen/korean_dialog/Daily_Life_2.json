@@ -1,0 +1,146 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes. I like to make, um, kimchi jjigae.",
+        "annotation_token": [
+            "I like"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'like' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It's, uh, kimchi stew.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "First, I need, um, kimchi.",
+        "annotation_token": [
+            "I need"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'need' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "But sometimes, I use tuna can if no pork.",
+        "annotation_token": [
+            "I use"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'use' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I like tofu in my stew.",
+        "annotation_token": [
+            "I like"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'like' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes, I use, uh, gochujang.",
+        "annotation_token": [
+            "I use"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'use' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is like spicy paste.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I cook maybe... 20 minute?",
+        "annotation_token": [
+            "I cook"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'cook' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We eat with rice, and some, um, banchan.",
+        "annotation_token": [
+            "We eat"
+        ],
+        "rationale": "The subject 'We' agrees with the verb 'eat' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is, uh, easier when busy.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I use, uh, shiitake mushroom.",
+        "annotation_token": [
+            "I use"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'use' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is my favorite.",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It is easy!",
+        "annotation_token": [
+            "It is"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'is' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I like to share.",
+        "annotation_token": [
+            "I like"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'like' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We can cook together next weekend?",
+        "annotation_token": [
+            "We can cook"
+        ],
+        "rationale": "The subject 'We' agrees with the modal verb 'can' and the base form 'cook'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I look forward to it too.",
+        "annotation_token": [
+            "I look"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'look' in the present simple tense.",
+        "grammar_correctness": "correct"
+    }
+]

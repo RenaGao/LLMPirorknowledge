@@ -1,0 +1,94 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, hi! It was very... um, interesting. I visit many places.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of places visited.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I go to top. The view... very beautiful. Can see all city!",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier used to indicate the entirety of the city that can be seen.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I take many photos. But... uh, some too cloudy. Hard to see.",
+        "annotation_token": [
+            "many",
+            "some"
+        ],
+        "rationale": "The word 'many' is a quantifier indicating a large number of photos taken, and 'some' is a quantifier indicating an unspecified amount of photos that were too cloudy.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I go to... um, Shanghai Museum. So many... uh, history things.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of historical items at the museum.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, yes! I want to go again. There is still much, um, to see.",
+        "annotation_token": [
+            "much"
+        ],
+        "rationale": "The word 'much' is a quantifier used to indicate a large amount of things left to see.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, hi! It was very... um, interesting. I visit many places.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of places visited.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I go to top. The view... very beautiful. Can see all city!",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier used to indicate the entirety of the city that can be seen.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I take many photos. But... uh, some too cloudy. Hard to see.",
+        "annotation_token": [
+            "many",
+            "some"
+        ],
+        "rationale": "The word 'many' is a quantifier indicating a large number of photos taken, and 'some' is a quantifier indicating an unspecified amount of photos that were too cloudy.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I go to... um, Shanghai Museum. So many... uh, history things.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of historical items at the museum.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, yes! I want to go again. There is still much, um, to see.",
+        "annotation_token": [
+            "much"
+        ],
+        "rationale": "The word 'much' is a quantifier used to indicate a large amount of things left to see.",
+        "grammar_correctness": true
+    }
+]

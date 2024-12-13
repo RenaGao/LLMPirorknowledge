@@ -1,0 +1,75 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, sometimes I go to... um, other countries, like Japan and China. For meetings.",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "'Sometimes' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I watch movies or read book. Sometimes sleep, if lucky.",
+        "annotation_token": [
+            "Sometimes"
+        ],
+        "rationale": "'Sometimes' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I saw... um, how to say... \"Mission Impossible\" last week. So good!",
+        "annotation_token": [
+            "last week"
+        ],
+        "rationale": "'Last week' is a numeral phrase indicating a specific time period.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, sometimes I go to... um, other countries, like Japan and China. For meetings.",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, very much. But, um, airplane is so long time. I get tired.",
+        "annotation_token": [
+            "very much"
+        ],
+        "rationale": "The phrase 'very much' is a quantifier indicating degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I watch movies or read book. Sometimes sleep, if lucky.",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I like action and comedy. They are, um, fun and exciting.",
+        "annotation_token": [
+            "action",
+            "comedy"
+        ],
+        "rationale": "The words 'action' and 'comedy' are not quantifiers or numerals, but the sentence lacks quantifiers or numerals.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I saw... um, how to say... \"Mission Impossible\" last week. So good!",
+        "annotation_token": [
+            "last week"
+        ],
+        "rationale": "The phrase 'last week' includes a numeral indicating a specific time.",
+        "grammar_correctness": true
+    }
+]

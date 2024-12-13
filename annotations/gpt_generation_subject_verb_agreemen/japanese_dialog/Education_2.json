@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, yes, hello. I, um, not understand part of the homework.",
+        "annotation_token": [
+            "I",
+            "not understand"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'not understand'. The correct form should be 'I do not understand'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, math problem. I not sure how to start.",
+        "annotation_token": [
+            "I",
+            "not sure"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'not sure'. The correct form should be 'I am not sure'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Formula... uh, not really. Can you tell more about it?",
+        "annotation_token": [
+            "Formula",
+            "not really"
+        ],
+        "rationale": "The subject 'Formula' does not agree with the verb 'not really'. The correct form should be 'Formula is not really'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, quadratic... yes, I see it before, but... um, forget.",
+        "annotation_token": [
+            "I",
+            "forget"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'forget'. The correct form should be 'I forgot'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, constants. So, I need to, um, find these and put in formula?",
+        "annotation_token": [
+            "I",
+            "need"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'need'. This is a correct subject-verb agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Discriminant... um, yes, this help to find solution, right?",
+        "annotation_token": [
+            "this",
+            "help"
+        ],
+        "rationale": "The subject 'this' does not agree with the verb 'help'. The correct form should be 'this helps'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Roots... ah, solutions! So, if I find, um, two numbers, it is done?",
+        "annotation_token": [
+            "I",
+            "find"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'find'. This is a correct subject-verb agreement.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, I want to, uh, lose weight. Also, get stronger, you know, more muscle.",
+        "annotation_token": "lose weight",
+        "rationale": "The noun 'weight' and the verb 'lose' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I like cooking. I make rice and... um, vegetables quite often.",
+        "annotation_token": "make rice",
+        "rationale": "The noun 'rice' and the verb 'make' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    }
+]

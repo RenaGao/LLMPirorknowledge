@@ -1,0 +1,52 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It keeps shutting down unexpectedly.",
+        "annotation_token": [
+            "It",
+            "keeps"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'keeps' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It started happening a couple of days ago.",
+        "annotation_token": [
+            "It",
+            "started"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'started' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It’s been really inconvenient, especially when I’m in the middle of work.",
+        "annotation_token": [
+            "It’s",
+            "been"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'been' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It seems pretty random.",
+        "annotation_token": [
+            "It",
+            "seems"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'seems' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It does feel quite warm sometimes.",
+        "annotation_token": [
+            "It",
+            "does feel"
+        ],
+        "rationale": "The subject 'It' agrees with the verb phrase 'does feel' in number and person.",
+        "grammar_correctness": "correct"
+    }
+]

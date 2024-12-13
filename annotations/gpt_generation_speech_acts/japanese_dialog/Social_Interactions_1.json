@@ -1,0 +1,225 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes. Next Saturday. Uh, what do you think we should do?",
+        "annotation_token": [
+            "what",
+            "do",
+            "you",
+            "think",
+            "we",
+            "should",
+            "do"
+        ],
+        "rationale": "The sentence contains a question, which is a speech act used to inquire about someone's opinion or suggestion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Surprise party... sounds good! Um, where should we do the party?",
+        "annotation_token": [
+            "where",
+            "should",
+            "we",
+            "do",
+            "the",
+            "party"
+        ],
+        "rationale": "The sentence contains a question, which is a speech act used to inquire about the location for the party.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, she likes sushi and... ah, pizza too. Should we also have cake?",
+        "annotation_token": [
+            "should",
+            "we",
+            "also",
+            "have",
+            "cake"
+        ],
+        "rationale": "The sentence contains a question, which is a speech act used to inquire about including cake in the menu.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, do we need decoration?",
+        "annotation_token": [
+            "do",
+            "we",
+            "need",
+            "decoration"
+        ],
+        "rationale": "The sentence contains a question, which is a speech act used to inquire about the necessity of decorations.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "When do we set up?",
+        "annotation_token": [
+            "when",
+            "do",
+            "we",
+            "set",
+            "up"
+        ],
+        "rationale": "The sentence contains a question, which is a speech act used to inquire about the timing for setting up.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Perfect! Um, how to get Minami to your place?",
+        "annotation_token": [
+            "how",
+            "to",
+            "get",
+            "Minami",
+            "to",
+            "your",
+            "place"
+        ],
+        "rationale": "The sentence contains a question, which is a speech act used to inquire about the method to bring Minami to the location.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, of course. I have time.",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "of course"
+        ],
+        "rationale": "The tokens 'Ah', 'yes', and 'of course' are used as speech acts to express agreement and confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes. Next Saturday.",
+        "annotation_token": [
+            "Oh",
+            "yes"
+        ],
+        "rationale": "The tokens 'Oh' and 'yes' are used as speech acts to express realization and confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, what do you think we should do?",
+        "annotation_token": [
+            "Uh"
+        ],
+        "rationale": "The token 'Uh' is used as a speech act to indicate hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Surprise party... sounds good!",
+        "annotation_token": [
+            "sounds good"
+        ],
+        "rationale": "The phrase 'sounds good' is a speech act expressing agreement or approval.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, where should we do the party?",
+        "annotation_token": [
+            "Um"
+        ],
+        "rationale": "The token 'Um' is used as a speech act to indicate hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, your place. Yes, that is good idea.",
+        "annotation_token": [
+            "Ah",
+            "Yes"
+        ],
+        "rationale": "The tokens 'Ah' and 'Yes' are used as speech acts to express realization and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, she likes sushi and... ah, pizza too.",
+        "annotation_token": [
+            "Um",
+            "ah"
+        ],
+        "rationale": "The tokens 'Um' and 'ah' are used as speech acts to indicate hesitation or realization.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Should we also have cake?",
+        "annotation_token": [
+            "Should"
+        ],
+        "rationale": "The token 'Should' is used as a speech act to make a suggestion or ask for advice.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, there is one near my house.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, do we need decoration?",
+        "annotation_token": [
+            "Um"
+        ],
+        "rationale": "The token 'Um' is used as a speech act to indicate hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, I can buy balloons and banner.",
+        "annotation_token": [
+            "Sure"
+        ],
+        "rationale": "The token 'Sure' is used as a speech act to express agreement or willingness.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Perfect! Um, how to get Minami to your place?",
+        "annotation_token": [
+            "Perfect",
+            "Um"
+        ],
+        "rationale": "The token 'Perfect' is used as a speech act to express approval, and 'Um' indicates hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sounds good plan.",
+        "annotation_token": [
+            "Sounds good"
+        ],
+        "rationale": "The phrase 'Sounds good' is a speech act expressing agreement or approval.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I am excited!",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement or confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for planning with me.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hi there, I'm having some trouble with my laptop. It keeps restarting unexpectedly. Can you help with that?",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring back to 'my laptop'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It started yesterday after I installed some updates. I'm not sure if that's related, though.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring back to 'my laptop'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I'm not sure if that's related, though.",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is a reference word referring back to the situation of the laptop restarting unexpectedly.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Got it, I’ll give that a try. And once I’m in Safe Mode, what should I be looking for?",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is a reference word referring back to the suggestion of starting in Safe Mode.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay, I’ll do that. If it still restarts, what’s the next step?",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is a reference word referring back to the action of trying Safe Mode.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "If it still restarts, what’s the next step?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring back to 'my laptop'.",
+        "grammar_correctness": true
+    }
+]

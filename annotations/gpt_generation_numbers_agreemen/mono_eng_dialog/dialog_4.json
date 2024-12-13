@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Certainly! I led a community cleanup initiative in my hometown, which opened my eyes to local environmental issues and inspired me to pursue solutions on a larger scale.",
+        "annotation_token": [
+            "issues",
+            "solutions"
+        ],
+        "rationale": "The nouns 'issues' and 'solutions' are in plural form, which correctly agrees with the context of discussing multiple environmental problems and their corresponding solutions.",
+        "grammar_correctness": "correct"
+    }
+]

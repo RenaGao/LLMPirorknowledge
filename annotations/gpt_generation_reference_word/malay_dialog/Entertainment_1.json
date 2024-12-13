@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah yes, I hear about nice place... um, how to say... they have good, uh, spicy food.",
+        "annotation_token": "they",
+        "rationale": "The word 'they' is used as a reference to the people or establishment at the nice place mentioned earlier in the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, not remember the name. It is... um, near the big shopping place.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the nice place mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, yes, that the one! I think it called... um, Red Chili or something like that.",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is used as a reference to the place being discussed, which is identified as 'the one'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I hear about new action film. Everyone say it very good.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the new action film mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, I see one start at nine. Maybe that’s good?",
+        "annotation_token": "that’s",
+        "rationale": "The contraction 'that’s' is used as a reference to the movie starting at nine, which is being considered as a good option.",
+        "grammar_correctness": true
+    }
+]

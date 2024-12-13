@@ -1,0 +1,234 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, yes, thank you. My name is Mei-Ling.",
+        "annotation_token": [
+            "Uh",
+            "yes",
+            "thank you"
+        ],
+        "rationale": "The tokens 'Uh', 'yes', and 'thank you' are used as speech acts to acknowledge and express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I am... um, how to say... very interested in marketing.",
+        "annotation_token": [
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'um' and 'how to say' are used as speech acts to indicate hesitation and searching for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I work on, um, a project for, uh, making a product more... uh, known?",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Yes', 'um', and 'uh' are used as speech acts to confirm, hesitate, and search for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, promotion.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm understanding or agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, compromise.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm understanding or agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, what is most important skill for, uh, this job?",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Yes', 'um', and 'uh' are used as speech acts to confirm, hesitate, and search for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I will, um, focus on that.",
+        "annotation_token": [
+            "Thank you",
+            "um"
+        ],
+        "rationale": "The tokens 'Thank you' and 'um' are used as speech acts to express gratitude and indicate hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much. I am happy to be he",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The token 'Thank you very much' is used as a speech act to express strong gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, yes, thank you. My name is Mei-Ling.",
+        "annotation_token": [
+            "Uh",
+            "yes",
+            "thank you"
+        ],
+        "rationale": "The tokens 'Uh', 'yes', and 'thank you' are used as speech acts to acknowledge and express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I am... um, how to say... very interested in marketing.",
+        "annotation_token": [
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'um' and 'how to say' are used as speech acts to express hesitation and seek clarification.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I work on, um, a project for, uh, making a product more... uh, known?",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Yes', 'um', and 'uh' are used as speech acts to confirm, express hesitation, and seek confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, promotion.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm understanding.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, compromise.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm understanding.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, what is most important skill for, uh, this job?",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Yes', 'um', and 'uh' are used as speech acts to confirm, express hesitation, and seek clarification.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I will, um, focus on that.",
+        "annotation_token": [
+            "Thank you",
+            "um"
+        ],
+        "rationale": "The tokens 'Thank you' and 'um' are used as speech acts to express gratitude and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much. I am happy to be he",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The token 'Thank you very much' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, yes, thank you.",
+        "annotation_token": [
+            "thank you"
+        ],
+        "rationale": "The phrase 'thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think your company is very, uh, famous and good.",
+        "annotation_token": [
+            "I think"
+        ],
+        "rationale": "The phrase 'I think' is a speech act expressing an opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I work on, um, a project for, uh, making a product more... uh, known?",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The word 'Yes' is a speech act expressing agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, promotion.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The word 'Yes' is a speech act expressing agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, compromise.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The word 'Yes' is a speech act expressing agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, what is most important skill for, uh, this job?",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The word 'Yes' is a speech act expressing agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I will, um, focus on that.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much.",
+        "annotation_token": [
+            "Thank you very much"
+        ],
+        "rationale": "The phrase 'Thank you very much' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I write notes, but sometimes it’s too much.",
+        "annotation_token": [
+            "I write"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'write' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I do some, but not many.",
+        "annotation_token": [
+            "I do"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'do' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I find some question very confusing.",
+        "annotation_token": [
+            "I find"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'find' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I see.",
+        "annotation_token": [
+            "I see"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'see' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, library is good.",
+        "annotation_token": [
+            "library is"
+        ],
+        "rationale": "The subject 'library' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, 3 p.m. is perfect.",
+        "annotation_token": [
+            "3 p.m. is"
+        ],
+        "rationale": "The subject '3 p.m.' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

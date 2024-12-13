@@ -1,0 +1,89 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, hi. I come because I feel not so good.",
+        "annotation_token": [
+            "come",
+            "feel"
+        ],
+        "rationale": "The verbs 'come' and 'feel' should be in the present tense to agree with the context of the sentence. However, 'come' should be 'came' to indicate past tense agreement with the context of the speaker's arrival.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, uh... I have, like, um... my head is, how to say... very hurt?",
+        "annotation_token": [
+            "have",
+            "is",
+            "hurt"
+        ],
+        "rationale": "The verbs 'have', 'is', and 'hurt' are in the present tense, which is appropriate for describing a current state or condition.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, maybe... two days already.",
+        "annotation_token": [
+            "maybe"
+        ],
+        "rationale": "The sentence lacks a verb to indicate tense agreement. It should include a verb like 'has been' to indicate the duration of the condition.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I also feel... um, tired? And my body is, um, hot.",
+        "annotation_token": [
+            "feel",
+            "is"
+        ],
+        "rationale": "The verbs 'feel' and 'is' are in the present tense, which is appropriate for describing a current state or condition.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, fever. My body is hot and sometimes cold.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The verb 'is' is in the present tense, which is appropriate for describing a current state or condition.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, no sore throat, but... um, sometimes my stomach not happy.",
+        "annotation_token": [
+            "not happy"
+        ],
+        "rationale": "The phrase 'not happy' lacks a verb to indicate tense agreement. It should include a verb like 'is' to indicate the current state.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, mostly in... after I eat, maybe?",
+        "annotation_token": [
+            "eat"
+        ],
+        "rationale": "The verb 'eat' is in the present tense, which is appropriate for describing a habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I take... um, Panadol? But not help much.",
+        "annotation_token": [
+            "take",
+            "help"
+        ],
+        "rationale": "The verb 'take' is in the present tense, which is appropriate for describing a current action. However, 'help' should be 'does not help' to indicate present tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you. I hope can feel better soon.",
+        "annotation_token": [
+            "hope",
+            "can feel"
+        ],
+        "rationale": "The verb 'hope' is in the present tense, which is appropriate for expressing a current wish. However, 'can feel' should be 'to feel' to indicate the correct infinitive form.",
+        "grammar_correctness": "wrong"
+    }
+]

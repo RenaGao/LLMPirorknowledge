@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Of course. I’ve been working in digital marketing for about three years now, primarily focusing on social media strategies. I’ve managed campaigns for several brands, aiming to increase their online engagement.",
+        "annotation_token": [
+            "working in digital marketing",
+            "focusing on social media strategies",
+            "managed campaigns",
+            "increase their online engagement"
+        ],
+        "rationale": "These are examples of noun and verb collocations where the noun and verb together express a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Sure! Last year, I worked on a campaign for a local coffee shop. We increased their social media following by 50% within three months by creating engaging content and hosting online events.",
+        "annotation_token": [
+            "worked on a campaign",
+            "increased their social media following",
+            "creating engaging content",
+            "hosting online events"
+        ],
+        "rationale": "These are examples of noun and verb collocations where the noun and verb together express a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I start by analyzing the target audience's preferences and behaviors. Then, I tailor the content to meet their interests, using a mix of educational, entertaining, and interactive elements.",
+        "annotation_token": [
+            "analyzing the target audience's preferences",
+            "tailor the content"
+        ],
+        "rationale": "These are examples of noun and verb collocations where the noun and verb together express a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I see feedback as an opportunity to improve. I always welcome constructive criticism and use it to refine strategies. It’s all about continuous learning.",
+        "annotation_token": [
+            "see feedback",
+            "welcome constructive criticism",
+            "refine strategies"
+        ],
+        "rationale": "These are examples of noun and verb collocations where the noun and verb together express a complete and meaningful action.",
+        "grammar_correctness": true
+    }
+]

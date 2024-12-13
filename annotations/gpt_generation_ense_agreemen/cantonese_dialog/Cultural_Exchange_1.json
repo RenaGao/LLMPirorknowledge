@@ -1,0 +1,99 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, in restaurant, we maybe share more dishes. Here, sometimes people have own plate.",
+        "annotation_token": [
+            "share",
+            "have"
+        ],
+        "rationale": "The verbs 'share' and 'have' are in the present tense, which agrees with the context of the sentence describing a habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, exactly! We put many dish in middle and everyone take, um, little by little.",
+        "annotation_token": [
+            "put",
+            "take"
+        ],
+        "rationale": "The verbs 'put' and 'take' are in the present tense, which agrees with the context of the sentence describing a habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hmm, yes. In Cantonese culture, we don’t, um, stick chopsticks in rice bowl. It’s... not polite.",
+        "annotation_token": [
+            "don’t stick"
+        ],
+        "rationale": "The verb 'stick' is in the base form following 'don’t', which is correct for negative present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, yes, that is why. Also, we don’t, um, pass food with chopsticks. We use serving spoon.",
+        "annotation_token": [
+            "don’t pass",
+            "use"
+        ],
+        "rationale": "The verb 'pass' is in the base form following 'don’t', which is correct for negative present tense. 'Use' is in the present tense, agreeing with the habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, when going someone home, it is good to bring gift. Maybe fruit or... um, what is word... dessert?",
+        "annotation_token": [
+            "is",
+            "bring"
+        ],
+        "rationale": "The verb 'is' is in the present tense, agreeing with the general statement. 'Bring' is in the base form following 'to', which is correct.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "No, we wait for elder to start first. Respect for them, you know?",
+        "annotation_token": [
+            "wait"
+        ],
+        "rationale": "The verb 'wait' is in the present tense, which agrees with the context of the sentence describing a habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, not always. Maybe we use tissue more. Napkin is, uh, more Western style?",
+        "annotation_token": [
+            "use",
+            "is"
+        ],
+        "rationale": "The verbs 'use' and 'is' are in the present tense, which agrees with the context of the sentence describing a habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We put chopstick on holder or beside bowl. And maybe say something like... um, thank you for meal.",
+        "annotation_token": [
+            "put",
+            "say"
+        ],
+        "rationale": "The verbs 'put' and 'say' are in the present tense, which agrees with the context of the sentence describing a habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, we don’t turn fish over. It mean bad luck for fisherman, like boat will... um, flip.",
+        "annotation_token": [
+            "don’t turn",
+            "mean"
+        ],
+        "rationale": "The verb 'turn' is in the base form following 'don’t', which is correct for negative present tense. 'Mean' should be 'means' to agree with the singular subject 'it'.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "You’re welcome! It was nice to talk about this. Let’s eat together soon, okay?",
+        "annotation_token": [
+            "was"
+        ],
+        "rationale": "The verb 'was' is in the past tense, which agrees with the context of the sentence describing a past action.",
+        "grammar_correctness": "correct"
+    }
+]

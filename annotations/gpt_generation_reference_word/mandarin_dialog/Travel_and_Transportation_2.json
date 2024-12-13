@@ -1,0 +1,142 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes! We want to go somewhere, um, fun and relax.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the group of people involved in the conversation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We think about, uh, Hawaii or... how to say... um, those big mountain in Canada?",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word referring to the group of people involved in the conversation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, Rockies! But, um, I not sure which one is better.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker themselves.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Some, they like beach.",
+        "annotation_token": "they",
+        "rationale": "The word 'they' is a reference word referring to some people who like the beach.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Others, um, like nature walk and see animal.",
+        "annotation_token": "Others",
+        "rationale": "The word 'Others' is a reference word referring to people who like nature walks and seeing animals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, California... Yes, that can work!",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is a reference word referring to the idea of going to California.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "But, um, what we do there?",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the group of people involved in the conversation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Activities... um, we like, uh, sightseeing, maybe shopping.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the group of people involved in the conversation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I think everyone will like that.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "But, transport... uh, how we go around?",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the group of people involved in the conversation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I see.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "And, uh, how long should we stay?",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the group of people involved in the conversation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I will check with friends.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, how about place to stay?",
+        "annotation_token": "place",
+        "rationale": "The word 'place' is a reference word referring to the accommodation for the trip.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I will tell them.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you for help!",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person being thanked.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I will.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you again!",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person being thanked.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I feel more ready to plan now.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I will.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker themselves.",
+        "grammar_correctness": true
+    }
+]

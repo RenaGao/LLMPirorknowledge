@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I have quick breakfast.",
+        "annotation_token": "have breakfast",
+        "rationale": "The noun 'breakfast' and the verb 'have' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I take shower, then ready for work.",
+        "annotation_token": "take shower",
+        "rationale": "The noun 'shower' and the verb 'take' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I go to office.",
+        "annotation_token": "go to office",
+        "rationale": "The noun 'office' and the verb 'go' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I listen to music.",
+        "annotation_token": "listen to music",
+        "rationale": "The noun 'music' and the verb 'listen' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I learn new words, like today... \"punctual.\"",
+        "annotation_token": "learn words",
+        "rationale": "The noun 'words' and the verb 'learn' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

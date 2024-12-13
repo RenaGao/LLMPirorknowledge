@@ -1,0 +1,21 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "First, I brush teeth and wash face.",
+        "annotation_token": [
+            "teeth",
+            "face"
+        ],
+        "rationale": "The noun 'teeth' is plural, while 'face' is singular. In English, it is common to use 'my teeth' and 'my face' to indicate possession and maintain number agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "After work, I like to relax. Maybe watch TV or read book.",
+        "annotation_token": [
+            "book"
+        ],
+        "rationale": "The noun 'book' is singular, but in this context, it is more common to use the plural form 'books' to indicate the general activity of reading.",
+        "grammar_correctness": "wrong"
+    }
+]

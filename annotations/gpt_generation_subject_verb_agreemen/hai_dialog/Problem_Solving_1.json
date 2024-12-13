@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It not working... how to say... properly?",
+        "annotation_token": "It not working",
+        "rationale": "The subject 'It' does not agree with the verb 'not working'. The correct form should be 'It is not working'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I turn on, but nothing show.",
+        "annotation_token": "nothing show",
+        "rationale": "The subject 'nothing' does not agree with the verb 'show'. The correct form should be 'nothing shows'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I try many time.",
+        "annotation_token": "I try",
+        "rationale": "The subject 'I' does not agree with the verb 'try' in the context of past actions. The correct form should be 'I tried'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Still same. I not sure what do next.",
+        "annotation_token": "I not sure",
+        "rationale": "The subject 'I' does not agree with the verb 'not sure'. The correct form should be 'I am not sure'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I hear fan, but screen still black.",
+        "annotation_token": "screen still black",
+        "rationale": "The subject 'screen' does not agree with the verb 'still black'. The correct form should be 'screen is still black'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I have TV. Should I try connect to TV?",
+        "annotation_token": "I try connect",
+        "rationale": "The subject 'I' does not agree with the verb 'try connect'. The correct form should be 'I try to connect'.",
+        "grammar_correctness": "wrong"
+    }
+]

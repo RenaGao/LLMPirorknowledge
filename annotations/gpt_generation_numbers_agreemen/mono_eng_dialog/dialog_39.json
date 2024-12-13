@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I believe my greatest strength is my ability to communicate effectively.",
+        "annotation_token": "strength is",
+        "rationale": "The subject 'strength' is singular, and the verb 'is' correctly agrees with it in number.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I make sure everyone is on the same page and encourage open dialogue.",
+        "annotation_token": "everyone is",
+        "rationale": "The subject 'everyone' is singular, and the verb 'is' correctly agrees with it in number.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "How does the company encourage collaboration among team members?",
+        "annotation_token": "company encourage",
+        "rationale": "The subject 'company' is singular, and the verb 'encourage' correctly agrees with it in number.",
+        "grammar_correctness": "correct"
+    }
+]

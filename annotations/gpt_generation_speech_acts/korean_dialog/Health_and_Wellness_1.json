@@ -1,0 +1,114 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, um, I am good, but little tired.",
+        "annotation_token": [
+            "Hi",
+            "um",
+            "I am good",
+            "but little tired"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hi'), a hesitation ('um'), a self-assessment ('I am good'), and an expression of a state ('but little tired').",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, good idea.",
+        "annotation_token": [
+            "Ah",
+            "good idea"
+        ],
+        "rationale": "The sentence contains an expression of realization or agreement ('Ah') and an evaluation ('good idea').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Really? That would be, um, very nice!",
+        "annotation_token": [
+            "Really",
+            "That would be",
+            "um",
+            "very nice"
+        ],
+        "rationale": "The sentence contains a question or expression of surprise ('Really?'), a conditional statement ('That would be'), a hesitation ('um'), and an expression of approval ('very nice').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, that is good idea! Let’s do that.",
+        "annotation_token": [
+            "Oh",
+            "that is good idea",
+            "Let’s do that"
+        ],
+        "rationale": "The sentence contains an expression of realization or agreement ('Oh'), an evaluation ('that is good idea'), and a suggestion or decision ('Let’s do that').",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for advice, very helpful.",
+        "annotation_token": [
+            "Thank you",
+            "for advice",
+            "very helpful"
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you'), a specification ('for advice'), and an evaluation ('very helpful').",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, um, I am good, but little tired.",
+        "annotation_token": [
+            "Hi",
+            "um"
+        ],
+        "rationale": "The tokens 'Hi' and 'um' are used as speech acts to initiate the conversation and express hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Not really... I sleep late.",
+        "annotation_token": [
+            "Not really"
+        ],
+        "rationale": "The token 'Not really' is used as a speech act to express disagreement or negation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, good idea.",
+        "annotation_token": [
+            "Ah"
+        ],
+        "rationale": "The token 'Ah' is used as a speech act to express realization or agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Really? That would be, um, very nice!",
+        "annotation_token": [
+            "Really?",
+            "um"
+        ],
+        "rationale": "The token 'Really?' is used as a speech act to express surprise or seek confirmation, and 'um' indicates hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, that is good idea!",
+        "annotation_token": [
+            "Oh"
+        ],
+        "rationale": "The token 'Oh' is used as a speech act to express realization or agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, see you!",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement or confirmation.",
+        "grammar_correctness": "correct"
+    }
+]

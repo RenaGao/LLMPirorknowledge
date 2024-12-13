@@ -1,0 +1,106 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Morning! I’m doing well, thank you. Excited to be here and learn more about the role.",
+        "annotation_token": [
+            "Morning!",
+            "I’m doing well, thank you.",
+            "Excited to be here and learn more about the role."
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Morning!'), a response to a greeting ('I’m doing well, thank you.'), and an expression of enthusiasm ('Excited to be here and learn more about the role.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure! I recently graduated with a degree in marketing and have been interning at a digital agency.",
+        "annotation_token": [
+            "Sure!",
+            "I recently graduated with a degree in marketing and have been interning at a digital agency."
+        ],
+        "rationale": "The sentence contains an agreement ('Sure!') and a statement providing background information ('I recently graduated with a degree in marketing and have been interning at a digital agency.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely. During my internship, I helped develop a social media strategy for a local charity.",
+        "annotation_token": [
+            "Absolutely.",
+            "During my internship, I helped develop a social media strategy for a local charity."
+        ],
+        "rationale": "The sentence contains an affirmation ('Absolutely.') and a statement of past experience ('During my internship, I helped develop a social media strategy for a local charity.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, what does success look like for someone in this role after the first year?",
+        "annotation_token": [
+            "Yes,",
+            "what does success look like for someone in this role after the first year?"
+        ],
+        "rationale": "The sentence contains an agreement ('Yes,') and a question seeking clarification ('what does success look like for someone in this role after the first year?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds exciting. Thank you for sharing that. I’m eager to contribute to the team’s success.",
+        "annotation_token": [
+            "That sounds exciting.",
+            "Thank you for sharing that.",
+            "I’m eager to contribute to the team’s success."
+        ],
+        "rationale": "The sentence contains an expression of interest ('That sounds exciting.'), gratitude ('Thank you for sharing that.'), and a statement of intent ('I’m eager to contribute to the team’s success.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Morning! I’m doing well, thank you. Excited to be here and learn more about the role.",
+        "annotation_token": [
+            "Morning!",
+            "I’m doing well, thank you.",
+            "Excited to be here and learn more about the role."
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Morning!'), a response to a greeting ('I’m doing well, thank you.'), and an expression of enthusiasm ('Excited to be here and learn more about the role.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure! I recently graduated with a degree in marketing and have been interning at a digital agency.",
+        "annotation_token": [
+            "Sure!",
+            "I recently graduated with a degree in marketing and have been interning at a digital agency."
+        ],
+        "rationale": "The sentence contains an agreement ('Sure!') and a statement providing background information ('I recently graduated with a degree in marketing and have been interning at a digital agency.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely. During my internship, I helped develop a social media strategy for a local charity.",
+        "annotation_token": [
+            "Absolutely.",
+            "During my internship, I helped develop a social media strategy for a local charity."
+        ],
+        "rationale": "The sentence contains an affirmation ('Absolutely.') and a statement of past experience ('During my internship, I helped develop a social media strategy for a local charity.').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, what does success look like for someone in this role after the first year?",
+        "annotation_token": [
+            "Yes,",
+            "what does success look like for someone in this role after the first year?"
+        ],
+        "rationale": "The sentence contains an agreement ('Yes,') and a question seeking clarification ('what does success look like for someone in this role after the first year?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds exciting. Thank you for sharing that. I’m eager to contribute to the team’s success.",
+        "annotation_token": [
+            "That sounds exciting.",
+            "Thank you for sharing that.",
+            "I’m eager to contribute to the team’s success."
+        ],
+        "rationale": "The sentence contains an expression of interest ('That sounds exciting.'), gratitude ('Thank you for sharing that.'), and a statement of intent ('I’m eager to contribute to the team’s success.').",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, I am good, thank you.",
+        "annotation_token": [
+            "Hi",
+            "thank you"
+        ],
+        "rationale": "The tokens 'Hi' and 'thank you' are speech acts as they perform the actions of greeting and expressing gratitude, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, etiquette!",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is a speech act as it performs the action of agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, we not use left hand, it is seen not proper.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is a speech act as it performs the action of agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it is like bonding, talking with family.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is a speech act as it performs the action of agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I agree.",
+        "annotation_token": [
+            "Yes",
+            "agree"
+        ],
+        "rationale": "The tokens 'Yes' and 'agree' are speech acts as they perform the actions of agreement and expressing concurrence, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I enjoy talking about this.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is a speech act as it performs the action of expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, I am good, thank you.",
+        "annotation_token": [
+            "Hi",
+            "thank you"
+        ],
+        "rationale": "The tokens 'Hi' and 'thank you' are used as speech acts to greet and express gratitude, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, etiquette!",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to affirm or agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, we not use left hand, it is seen not proper.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to affirm the statement about cultural practices.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it is like bonding, talking with family.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to agree with the statement about family bonding.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I see.",
+        "annotation_token": [
+            "I see"
+        ],
+        "rationale": "The phrase 'I see' is used as a speech act to acknowledge understanding of the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I agree.",
+        "annotation_token": [
+            "Yes",
+            "I agree"
+        ],
+        "rationale": "The tokens 'Yes' and 'I agree' are used as speech acts to express agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I enjoy talking about this.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

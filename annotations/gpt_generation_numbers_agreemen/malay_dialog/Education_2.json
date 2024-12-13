@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "The question number three. It ask about, um, how to say... comparing two things?",
+        "annotation_token": "It ask",
+        "rationale": "The subject 'It' is singular, but the verb 'ask' is in the plural form. The correct form should be 'It asks'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Two pages... um, I think I can do. But what if I no finish?",
+        "annotation_token": "I no finish",
+        "rationale": "The subject 'I' is singular, and the verb phrase should be 'do not finish' or 'don't finish' to agree in number and tense.",
+        "grammar_correctness": "wrong"
+    }
+]

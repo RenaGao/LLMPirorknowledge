@@ -1,0 +1,252 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, I have. But, um, we talk... about what part?",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "I",
+            "have",
+            "But",
+            "um",
+            "we",
+            "talk",
+            "about",
+            "what",
+            "part"
+        ],
+        "rationale": "The sentence contains a speech act where the speaker is confirming understanding and seeking clarification.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, okay. Data analysis, it can be difficult, um, sometimes.",
+        "annotation_token": [
+            "Yes",
+            "okay",
+            "Data",
+            "analysis",
+            "it",
+            "can",
+            "be",
+            "difficult",
+            "um",
+            "sometimes"
+        ],
+        "rationale": "The sentence contains a speech act of agreement and acknowledgment of a statement about data analysis.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. Example is good. I can learn better.",
+        "annotation_token": [
+            "Yes",
+            "please",
+            "Example",
+            "is",
+            "good",
+            "I",
+            "can",
+            "learn",
+            "better"
+        ],
+        "rationale": "The sentence contains a speech act of requesting an example and expressing a preference for learning.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, try together is good. I feel more confident.",
+        "annotation_token": [
+            "Yes",
+            "try",
+            "together",
+            "is",
+            "good",
+            "I",
+            "feel",
+            "more",
+            "confident"
+        ],
+        "rationale": "The sentence contains a speech act of agreement and expressing a positive feeling about collaboration.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes! It look much better. Thank you for help!",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "It",
+            "look",
+            "much",
+            "better",
+            "Thank",
+            "you",
+            "for",
+            "help"
+        ],
+        "rationale": "The sentence contains a speech act of expressing satisfaction and gratitude.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will. Thank you again. I feel more ready now.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "will",
+            "Thank",
+            "you",
+            "again",
+            "I",
+            "feel",
+            "more",
+            "ready",
+            "now"
+        ],
+        "rationale": "The sentence contains a speech act of commitment and expressing gratitude.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. Example is good. I can learn better.",
+        "annotation_token": [
+            "Yes",
+            "please",
+            "Example",
+            "is",
+            "good",
+            "I",
+            "can",
+            "learn",
+            "better"
+        ],
+        "rationale": "The sentence contains a request for an example, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, try together is good. I feel more confident.",
+        "annotation_token": [
+            "Yes",
+            "try",
+            "together",
+            "is",
+            "good",
+            "I",
+            "feel",
+            "more",
+            "confident"
+        ],
+        "rationale": "The sentence suggests a collaborative action, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes! It look much better. Thank you for help!",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "It",
+            "look",
+            "much",
+            "better",
+            "Thank",
+            "you",
+            "for",
+            "help"
+        ],
+        "rationale": "The sentence expresses gratitude, which is a speech act.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will. Thank you again. I feel more ready now.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "will",
+            "Thank",
+            "you",
+            "again",
+            "I",
+            "feel",
+            "more",
+            "ready",
+            "now"
+        ],
+        "rationale": "The sentence expresses future intention and gratitude, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. Example is good. I can learn better.",
+        "annotation_token": [
+            "Yes",
+            "please",
+            "Example",
+            "is",
+            "good",
+            "I",
+            "can",
+            "learn",
+            "better"
+        ],
+        "rationale": "The sentence contains a request for an example and an expression of ability and preference, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, try together is good. I feel more confident.",
+        "annotation_token": [
+            "Yes",
+            "try",
+            "together",
+            "is",
+            "good",
+            "I",
+            "feel",
+            "more",
+            "confident"
+        ],
+        "rationale": "The sentence includes an agreement and an expression of preference and feeling, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes! It look much better. Thank you for help!",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "It",
+            "look",
+            "much",
+            "better",
+            "Thank",
+            "you",
+            "for",
+            "help"
+        ],
+        "rationale": "The sentence contains an expression of realization, an evaluation, and gratitude, which are speech acts.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will. Thank you again. I feel more ready now.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "will",
+            "Thank",
+            "you",
+            "again",
+            "I",
+            "feel",
+            "more",
+            "ready",
+            "now"
+        ],
+        "rationale": "The sentence includes a promise, gratitude, and an expression of readiness, which are speech acts.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh... I don't understand when price go up or down. Why this happen?",
+        "annotation_token": [
+            "go",
+            "happen"
+        ],
+        "rationale": "The verbs 'go' and 'happen' should be in the present tense to agree with the subject and context. The correct forms are 'goes' and 'happens'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, okay. But if supply is more, then price go down, right?",
+        "annotation_token": [
+            "go"
+        ],
+        "rationale": "The verb 'go' should be in the present tense to agree with the subject 'price'. The correct form is 'goes'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Okay, so if trend is gone, then demand is less?",
+        "annotation_token": [
+            "is gone"
+        ],
+        "rationale": "The phrase 'is gone' should be in the present tense to agree with the context. The correct form is 'goes'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I think I get it now. Thank you for explain. It was, um, very helpful.",
+        "annotation_token": [
+            "explain"
+        ],
+        "rationale": "The verb 'explain' should be in the gerund form 'explaining' to agree with the context.",
+        "grammar_correctness": "wrong"
+    }
+]

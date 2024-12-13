@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I looking for hotel... um, how to say... nearby hotel.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I think it is... um, \"Blue Sky Hotel\"? Not sure the full name.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I think it is... um, \"Blue Sky Hotel\"? Not sure the full name.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the hotel name.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, okay. Thank you. And, um, how long it take to walk there?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the time it takes.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, one more thing. Is there... how to say... supermarket near hotel?",
+        "annotation_token": "there",
+        "rationale": "The word 'there' is a reference word referring to the location near the hotel.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "No, it's okay. I think I can find. Thank you, you are very helpful!",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the situation being okay.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "No, it's okay. I think I can find. Thank you, you are very helpful!",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "No, it's okay. I think I can find. Thank you, you are very helpful!",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the listener.",
+        "grammar_correctness": true
+    }
+]

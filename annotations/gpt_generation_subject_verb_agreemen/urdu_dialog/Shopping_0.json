@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, good. How many cup, uh, it can make?",
+        "annotation_token": "it can make",
+        "rationale": "The subject 'it' agrees with the verb 'can make' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Six cup... um, it is enough for family.",
+        "annotation_token": "it is",
+        "rationale": "The subject 'it' agrees with the verb 'is' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That is good.",
+        "annotation_token": "That is",
+        "rationale": "The subject 'That' agrees with the verb 'is' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "You are very kind.",
+        "annotation_token": "You are",
+        "rationale": "The subject 'You' agrees with the verb 'are' in terms of number and person.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, thank you. My name is Minji Lee. I am from Seoul. I study Business Administration at university. I, um, finished last year.",
+        "annotation_token": [
+            "last"
+        ],
+        "rationale": "The word 'last' is used as a quantifier to indicate the final year of study.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, we have group project. We make business plan for, um, new coffee shop. It was very exciting.",
+        "annotation_token": [
+            "new"
+        ],
+        "rationale": "The word 'new' is used as a quantifier to describe the coffee shop as being recently established or created.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I think it is important to, um, listen careful and respect other ideas. I always try to understand, uh, different view.",
+        "annotation_token": [
+            "other",
+            "different"
+        ],
+        "rationale": "The words 'other' and 'different' are quantifiers used to refer to ideas and views that are not the speaker's own.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, in university, we make, um, marketing plan for real company. Our plan was, uh, chosen by company, and they use it. It was great success.",
+        "annotation_token": [
+            "real",
+            "great"
+        ],
+        "rationale": "The word 'real' is a quantifier indicating the company is genuine, and 'great' is a quantifier describing the level of success.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I want to become, um, manager in international company. I hope to lead, uh, project for Asia market.",
+        "annotation_token": [
+            "international"
+        ],
+        "rationale": "The word 'international' is a quantifier describing the scope of the company as operating in multiple countries.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I want to learn more about, um, how big company work and get, uh, practical experience.",
+        "annotation_token": [
+            "more",
+            "big",
+            "practical"
+        ],
+        "rationale": "The words 'more', 'big', and 'practical' are quantifiers describing the extent of learning, the size of the company, and the type of experience.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, thank you. My name is Minji Lee. I am from Seoul. I study Business Administration at university. I, um, finished last year.",
+        "annotation_token": [
+            "last"
+        ],
+        "rationale": "The word 'last' is used as a quantifier to indicate the final year of study.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, we have group project. We make business plan for, um, new coffee shop. It was very exciting.",
+        "annotation_token": [
+            "new"
+        ],
+        "rationale": "The word 'new' is used as a quantifier to describe the coffee shop as recently established or not existing before.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I think it is important to, um, listen careful and respect other ideas. I always try to understand, uh, different view.",
+        "annotation_token": [
+            "other",
+            "different"
+        ],
+        "rationale": "The words 'other' and 'different' are quantifiers used to refer to ideas and views that are not the speaker's own.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, in university, we make, um, marketing plan for real company. Our plan was, uh, chosen by company, and they use it. It was great success.",
+        "annotation_token": [
+            "real",
+            "great"
+        ],
+        "rationale": "The word 'real' is a quantifier indicating the company is genuine, and 'great' is a quantifier describing the level of success.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I want to become, um, manager in international company. I hope to lead, uh, project for Asia market.",
+        "annotation_token": [
+            "international"
+        ],
+        "rationale": "The word 'international' is a quantifier describing the scope of the company as operating in multiple countries.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I want to learn more about, um, how big company work and get, uh, practical experience.",
+        "annotation_token": [
+            "more",
+            "big",
+            "practical"
+        ],
+        "rationale": "The words 'more', 'big', and 'practical' are quantifiers describing the extent of learning, the size of the company, and the type of experience.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I'm really interested in software development and have been working on a few personal projects.",
+        "annotation_token": "I'm",
+        "rationale": "The word 'I'm' is a reference to the speaker, Taylor, who is introducing themselves and their interests.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sure! I developed a mobile app for organizing study schedules.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker, Taylor, who is describing their experience in app development.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I tackled this by gathering feedback from peers and iterating based on their suggestions.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker, Taylor, who is explaining their approach to improving the app.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I found it more effective to watch users interact with the app and note their reactions.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker, Taylor, who is sharing their method of gathering user feedback.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I believe my greatest strength is my ability to communicate effectively.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker, Taylor, who is expressing their belief about their own strength.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I make sure everyone is on the same page and encourage open dialogue.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker, Taylor, who is describing their communication style.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I was wondering about the team dynamics here.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker, Taylor, who is inquiring about team dynamics.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you for the information and for the opportunity to interview, Alex.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference to Alex, the person Taylor is speaking to, expressing gratitude.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, Alex.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference to Alex, the person Taylor is speaking to, expressing gratitude.",
+        "grammar_correctness": true
+    }
+]

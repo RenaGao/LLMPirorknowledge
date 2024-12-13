@@ -1,0 +1,107 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sorry, I think I make mistake, um, about the data... data part.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, I, uh, use wrong number.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It was from, how to say... old... old file.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the wrong number mentioned earlier.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I should check more carefully.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I think I can, um, double-check numbers before... before meeting.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Also, ask others, if possible.",
+        "annotation_token": "others",
+        "rationale": "The word 'others' is a reference word referring to other people involved in the context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, please. I think if you help, it be more... um, accurate?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the task or work being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Maybe, uh, Thursday? After lunch is good for me.",
+        "annotation_token": "me",
+        "rationale": "The word 'me' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay, 2 p.m. Thank you very much for, uh, understand.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the listener.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I agree. I will be more careful next time.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, no, I think that’s all.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Just, uh, sorry again for the problem.",
+        "annotation_token": "problem",
+        "rationale": "The word 'problem' is a reference word referring to the mistake or issue discussed earlier.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, I will do my best.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "See you on Thursday, then.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the listener.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "You too! Goodbye!",
+        "annotation_token": "You",
+        "rationale": "The word 'You' is a reference word referring to the listener.",
+        "grammar_correctness": true
+    }
+]

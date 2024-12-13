@@ -1,0 +1,31 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Ah, I choose because I like... um, working with people and solve problems in company.",
+        "annotation_token": [
+            "solve problems"
+        ],
+        "rationale": "The verb 'solve' should agree in number with the subject 'I', and should be in the form 'solving problems' to maintain parallel structure with 'working'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "We focus on... um, social media... and, uh, online advertisement to reach more customer.",
+        "annotation_token": [
+            "customer"
+        ],
+        "rationale": "The noun 'customer' should be in plural form 'customers' to agree with 'more'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, in university, I work in group project, and, um, I help to... how to say, organize meeting and talk with team.",
+        "annotation_token": [
+            "group project",
+            "meeting",
+            "team"
+        ],
+        "rationale": "The noun 'project' should be in plural form 'projects' to agree with 'group', 'meeting' should be 'meetings' to agree with 'organize', and 'team' should be 'teams' to agree with 'talk with'.",
+        "grammar_correctness": "wrong"
+    }
+]

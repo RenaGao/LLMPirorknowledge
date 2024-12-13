@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, um, yes, Wing. I watched... how to say... the movie with big ship and iceberg?",
+        "annotation_token": [
+            "watched"
+        ],
+        "rationale": "The verb 'watched' is in the past tense, which agrees with the context of discussing a past event.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, Titanic! I see it many times. Very romantic and a little sad.",
+        "annotation_token": [
+            "see"
+        ],
+        "rationale": "The verb 'see' is in the present tense, but the context suggests a past action, indicating a tense disagreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I watch Korean drama. They are, um, exciting and have good story.",
+        "annotation_token": [
+            "watch"
+        ],
+        "rationale": "The verb 'watch' is in the present tense, which agrees with the habitual action of watching Korean dramas.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Mostly alone, but sometimes with my sister. She love Korean drama too.",
+        "annotation_token": [
+            "love"
+        ],
+        "rationale": "The verb 'love' is in the present tense, but it lacks the third person singular agreement ('loves').",
+        "grammar_correctness": "wrong"
+    }
+]

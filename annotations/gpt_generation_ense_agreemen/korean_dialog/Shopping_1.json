@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, yes. Um, I look for good price on this, how to say... bag?",
+        "annotation_token": [
+            "look"
+        ],
+        "rationale": "The verb 'look' should be in the present continuous tense 'am looking' to agree with the ongoing action.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "This one! It is very... um, beautiful. But, price is... uh, high?",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The verb 'is' is correctly used in the present tense to describe the current state of the price.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you! You very kind. I will take this one.",
+        "annotation_token": [
+            "are"
+        ],
+        "rationale": "The sentence 'You very kind' lacks the auxiliary verb 'are' to form the present tense 'You are very kind'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you very much. You very helpful.",
+        "annotation_token": [
+            "are"
+        ],
+        "rationale": "The sentence 'You very helpful' lacks the auxiliary verb 'are' to form the present tense 'You are very helpful'.",
+        "grammar_correctness": "wrong"
+    }
+]

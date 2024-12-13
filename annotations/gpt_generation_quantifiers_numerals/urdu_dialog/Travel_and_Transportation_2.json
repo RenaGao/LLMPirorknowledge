@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I think Naran good. It's less, uh, crowded than Murree. But long drive, no?",
+        "annotation_token": [
+            "less"
+        ],
+        "rationale": "The word 'less' is used as a quantifier to indicate a smaller amount or degree, comparing two places.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I think guesthouse maybe better. It feel more, um, personal and also less money.",
+        "annotation_token": [
+            "more",
+            "less"
+        ],
+        "rationale": "The words 'more' and 'less' are quantifiers. 'More' indicates a greater degree of being personal, and 'less' indicates a smaller amount of money.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, extra layers and, um, maybe raincoat? Just in case.",
+        "annotation_token": [
+            "extra"
+        ],
+        "rationale": "The word 'extra' is used as a quantifier to indicate additional layers.",
+        "grammar_correctness": true
+    }
+]

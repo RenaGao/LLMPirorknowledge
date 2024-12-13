@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, hello. I have, um, problem with product I buy. Can I, uh, return it?",
+        "annotation_token": [
+            "have",
+            "buy"
+        ],
+        "rationale": "The sentence contains a tense agreement issue where 'have' is present tense, but 'buy' should be in the past participle form 'bought' to agree with the present perfect tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I have. Here, please. I buy it, um, three days ago.",
+        "annotation_token": [
+            "buy"
+        ],
+        "rationale": "The sentence contains a tense agreement issue where 'buy' should be in the past tense 'bought' to agree with the past time reference 'three days ago'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you very much. I wait here, yes?",
+        "annotation_token": [
+            "wait"
+        ],
+        "rationale": "The sentence contains a tense agreement issue where 'wait' should be in the future tense 'will wait' to indicate a future action.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hi, thank you for having me. I’m a little nervous but excited.",
+        "annotation_token": "me",
+        "rationale": "The word 'me' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Well, I’ve always been passionate about marketing, and your company’s innovative approach really appeals to me.",
+        "annotation_token": "me",
+        "rationale": "The word 'me' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I’m eager to bring my skills to your team.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Certainly. I led a social media campaign last year that increased engagement by 30%. It taught me a lot about audience interaction.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the social media campaign.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We used analytics tools to track likes, shares, and comments, and compared them to our baseline data from previous campaigns.",
+        "annotation_token": "them",
+        "rationale": "The word 'them' is a reference word referring to likes, shares, and comments.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I’m quite organized. I prioritize tasks and make sure to communicate with my team to ensure everything stays on track.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I’d say my biggest strength is collaboration. I’m good at listening to others and integrating different perspectives into a cohesive plan.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I’m curious about the team dynamics here. How would you describe the company culture?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That sounds wonderful. I’m eager to potentially be a part of it.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the company culture.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you so much for the opportunity. I look forward to hearing from you.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

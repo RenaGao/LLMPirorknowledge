@@ -1,0 +1,31 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, I not sure. Maybe, uh, one for family? Four people?",
+        "annotation_token": [
+            "one",
+            "Four"
+        ],
+        "rationale": "The sentence contains numerals 'one' and 'Four' which are used to specify quantities.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, coffee maker. Do you have one not too big?",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "The sentence contains the numeral 'one' which is used to specify a quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, I not sure. Maybe, uh, one for family? Four people?",
+        "annotation_token": [
+            "one",
+            "Four"
+        ],
+        "rationale": "The sentence contains numerals 'one' and 'Four', which are used to specify quantities.",
+        "grammar_correctness": true
+    }
+]

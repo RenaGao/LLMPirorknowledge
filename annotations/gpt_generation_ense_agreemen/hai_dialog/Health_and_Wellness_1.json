@@ -1,0 +1,63 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, I try, but sometimes not easy. I want to be more healthy.",
+        "annotation_token": [
+            "try",
+            "want"
+        ],
+        "rationale": "The verbs 'try' and 'want' are in the present tense, which is consistent with the speaker's current intentions and actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I start to, um, eat more vegetable. But, um, I still eat too much sweet.",
+        "annotation_token": [
+            "start",
+            "eat",
+            "eat"
+        ],
+        "rationale": "The verbs 'start' and 'eat' are in the present tense, indicating ongoing actions or habits.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh yes, I like soda too much. It's hard, but I try, um, drink water more.",
+        "annotation_token": [
+            "like",
+            "try"
+        ],
+        "rationale": "The verbs 'like' and 'try' are in the present tense, reflecting the speaker's current preferences and efforts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Sleep? Um, sometimes not enough. I go to bed late because, uh, I watch TV.",
+        "annotation_token": [
+            "go",
+            "watch"
+        ],
+        "rationale": "The verbs 'go' and 'watch' are in the present tense, describing habitual actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, not much. I walk a little, but not often. Maybe I need more, um, movement?",
+        "annotation_token": [
+            "walk",
+            "need"
+        ],
+        "rationale": "The verbs 'walk' and 'need' are in the present tense, indicating current actions and needs.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, short walk. I can do after work. I feel more energy, yes?",
+        "annotation_token": [
+            "can",
+            "feel"
+        ],
+        "rationale": "The verbs 'can' and 'feel' are in the present tense, expressing ability and current feelings.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, hello Ayesha. I am bit nervous, you know. It is... difficult subject for me.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the subject being discussed, which is implied to be a difficult subject.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, the theories part, um, how it is apply in real life. It confuse me.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer to 'the theories part' mentioned earlier in the sentence.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I try reading notes many time. But, still... uh, not clear.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, that is good idea. When we can do this?",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is used to refer to the idea mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Tomorrow... um, yes, tomorrow work for me. Thank you for help.",
+        "annotation_token": "me",
+        "rationale": "The word 'me' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, examples help me learn. Um, you have notes also?",
+        "annotation_token": "me",
+        "rationale": "The word 'me' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Great! I think, uh, your notes are better. You always write very clear.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, I worry about time. How to finish all questions in time?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, practice test sounds good. I will try that.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I will try. Thank you, Ayesha. You help a lot.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, together. Thank you again. See you in library!",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference to the person being spoken to, Ayesha.",
+        "grammar_correctness": true
+    }
+]

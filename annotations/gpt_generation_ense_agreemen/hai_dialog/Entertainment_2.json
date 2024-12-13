@@ -1,0 +1,13 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "The character, he... he follow his heart. Um, he... believe in himself. Even when... difficult, he keep going.",
+        "annotation_token": [
+            "follow",
+            "believe",
+            "keep"
+        ],
+        "rationale": "The verbs 'follow', 'believe', and 'keep' should be in the present tense third person singular form to agree with the subject 'he'. The correct forms are 'follows', 'believes', and 'keeps'.",
+        "grammar_correctness": "wrong"
+    }
+]

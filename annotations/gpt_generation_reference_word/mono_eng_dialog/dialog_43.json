@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hi, thank you! I'm doing well, a bit nervous, but excited to be here. How about you?",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person being spoken to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I’ve been following your company for a while now, and I admire your innovative approach to brand engagement.",
+        "annotation_token": "your",
+        "rationale": "The word 'your' is a reference word referring to the company of the person being spoken to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Absolutely. During my internship at XYZ Corp, I led a team to develop a social media campaign that increased our client’s engagement by 30% over three months.",
+        "annotation_token": "our",
+        "rationale": "The word 'our' is a reference word referring to the speaker's team and the client they worked with.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I see feedback as an opportunity for growth. I always listen carefully and apply it to improve my work.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the feedback mentioned earlier in the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I coordinated with the team to prioritize tasks, and we managed to deliver on time without compromising quality.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and their team.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I’m curious about the company culture. How would you describe the team dynamics here?",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person being spoken to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, you too! I look forward to hearing from you.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person being spoken to.",
+        "grammar_correctness": true
+    }
+]

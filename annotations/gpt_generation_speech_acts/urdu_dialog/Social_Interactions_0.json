@@ -1,0 +1,42 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes. Thank you for inviting.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! It's nice talking to you also.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes. Thank you for inviting.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! It's nice talking to you also.",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

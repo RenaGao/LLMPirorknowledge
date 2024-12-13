@@ -1,0 +1,72 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! I'm doing well, thank you. A bit nervous, but mostly excited to be here.",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "excited to be here"
+        ],
+        "rationale": "The sentence contains speech acts such as a greeting ('Hi'), an expression of gratitude ('thank you'), and an expression of emotion ('excited to be here').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Well, your university's focus on research and innovation really appeals to me.",
+        "annotation_token": [
+            "appeals to me"
+        ],
+        "rationale": "The phrase 'appeals to me' is a speech act expressing personal interest or preference.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I was wondering about the opportunities for students to engage with faculty on research projects.",
+        "annotation_token": [
+            "I was wondering"
+        ],
+        "rationale": "The phrase 'I was wondering' is a speech act indicating a polite inquiry or request for information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for the insight! I'm really looking forward to the possibility of joining your community.",
+        "annotation_token": [
+            "Thank you",
+            "looking forward"
+        ],
+        "rationale": "The sentence contains speech acts such as an expression of gratitude ('Thank you') and an expression of anticipation ('looking forward').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! I'm doing well, thank you. A bit nervous, but mostly excited to be here.",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "excited to be here"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hi'), an expression of gratitude ('thank you'), and an expression of emotion ('excited to be here').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I was wondering about the opportunities for students to engage with faculty on research projects. How accessible are those?",
+        "annotation_token": [
+            "I was wondering",
+            "How accessible are those"
+        ],
+        "rationale": "The sentence contains a speech act of inquiry ('I was wondering') and a question ('How accessible are those?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for the insight! I'm really looking forward to the possibility of joining your community.",
+        "annotation_token": [
+            "Thank you",
+            "looking forward"
+        ],
+        "rationale": "The sentence contains an expression of gratitude ('Thank you') and an expression of anticipation ('looking forward').",
+        "grammar_correctness": "correct"
+    }
+]

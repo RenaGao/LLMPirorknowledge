@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Oh, yes, please. I need new book, but not sure what to read.",
+        "annotation_token": "book",
+        "rationale": "The noun 'book' should be plural to agree with the implied meaning of needing multiple books.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, I think I like fiction more. But, uh, need something interesting... like story.",
+        "annotation_token": "story",
+        "rationale": "The noun 'story' should be plural to agree with the implied meaning of needing multiple stories.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Hmm, that good. I sometimes difficult with, uh, complex word.",
+        "annotation_token": "word",
+        "rationale": "The noun 'word' should be plural to agree with the implied meaning of having difficulty with multiple words.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Okay, I will try it. Thank you for recommend.",
+        "annotation_token": "recommend",
+        "rationale": "The noun 'recommend' should be 'recommendation' to agree with the implied meaning of receiving a suggestion.",
+        "grammar_correctness": "wrong"
+    }
+]

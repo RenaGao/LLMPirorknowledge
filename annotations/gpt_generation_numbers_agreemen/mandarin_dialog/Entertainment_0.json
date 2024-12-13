@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "It remind me of, um, old movie style.",
+        "annotation_token": "remind",
+        "rationale": "The verb 'remind' should agree in number with the singular subject 'It'. The correct form is 'reminds'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I need watch again, I think.",
+        "annotation_token": "need watch",
+        "rationale": "The verb phrase 'need watch' should include 'to' for the infinitive form, 'need to watch'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I like space story, and it is very... um, emotional?",
+        "annotation_token": "story",
+        "rationale": "The noun 'story' should be plural 'stories' to agree with the context of liking multiple space stories.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I like his movie... many, like \"Jurassic Park\" and \"E.T.\"",
+        "annotation_token": "movie",
+        "rationale": "The noun 'movie' should be plural 'movies' to agree with the context of liking multiple movies.",
+        "grammar_correctness": "wrong"
+    }
+]

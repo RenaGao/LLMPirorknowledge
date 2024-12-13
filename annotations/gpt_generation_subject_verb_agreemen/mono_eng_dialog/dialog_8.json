@@ -1,0 +1,120 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hi there! I’m having a bit of trouble with my laptop.",
+        "annotation_token": [
+            "I’m having"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'am having' in the present continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It's been running really slow lately.",
+        "annotation_token": [
+            "It's been running"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'has been running' in the present perfect continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’ve restarted it a couple of times, but I’m not sure about the programs.",
+        "annotation_token": [
+            "I’ve restarted",
+            "I’m not sure"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'have restarted' in the present perfect tense and 'am not sure' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "How can I check that?",
+        "annotation_token": [
+            "I check"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'check' in the base form used for questions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I’ve got it open.",
+        "annotation_token": [
+            "I’ve got"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'have got' in the present perfect tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Wow, there are a lot of things running.",
+        "annotation_token": [
+            "there are"
+        ],
+        "rationale": "The subject 'there' agrees with the verb 'are' because it refers to 'a lot of things' which is plural.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Should I just end everything?",
+        "annotation_token": [
+            "I end"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'end' in the base form used for questions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Okay, I see a bunch of tabs open in my browser.",
+        "annotation_token": [
+            "I see"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'see' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’ll start with those.",
+        "annotation_token": [
+            "I’ll start"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'will start' in the future simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Got it. I’ll give that a shot.",
+        "annotation_token": [
+            "I’ll give"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'will give' in the future simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Is there anything else I should be aware of?",
+        "annotation_token": [
+            "I should be"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'should be' in the modal verb construction.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’ll check on that as well.",
+        "annotation_token": [
+            "I’ll check"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'will check' in the future simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thanks for all your help! Hopefully, these steps will make a difference.",
+        "annotation_token": [
+            "steps will make"
+        ],
+        "rationale": "The subject 'steps' agrees with the verb 'will make' in the future simple tense.",
+        "grammar_correctness": "correct"
+    }
+]

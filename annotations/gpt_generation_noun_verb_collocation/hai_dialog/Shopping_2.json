@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I buy this shirt last week, and it is, um, too big.",
+        "annotation_token": "buy shirt",
+        "rationale": "The noun 'shirt' and the verb 'buy' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I go look for, um, correct size now.",
+        "annotation_token": "look size",
+        "rationale": "The noun 'size' and the verb 'look' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    }
+]

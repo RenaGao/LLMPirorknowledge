@@ -1,0 +1,317 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I am ready. Um, how we start this plan?",
+        "annotation_token": [
+            "Yes",
+            "Um",
+            "how",
+            "we",
+            "start",
+            "this",
+            "plan"
+        ],
+        "rationale": "The sentence contains a speech act of agreement ('Yes') and a question ('how we start this plan?') indicating a request for information or clarification.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hm, maybe we use the park? It is big and open place.",
+        "annotation_token": [
+            "Hm",
+            "maybe",
+            "we",
+            "use",
+            "the",
+            "park"
+        ],
+        "rationale": "The sentence contains a speech act of suggestion ('maybe we use the park?') and a statement ('It is big and open place.') providing a reason.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, Central Park! What about, um, food? We should have food.",
+        "annotation_token": [
+            "Yes",
+            "What",
+            "about",
+            "um",
+            "food",
+            "We",
+            "should",
+            "have",
+            "food"
+        ],
+        "rationale": "The sentence contains a speech act of agreement ('Yes') and a suggestion or inquiry ('What about, um, food?') followed by a statement of necessity ('We should have food').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Pizza is good, but maybe we, uh, make some food also? Like biryani?",
+        "annotation_token": [
+            "Pizza",
+            "is",
+            "good",
+            "but",
+            "maybe",
+            "we",
+            "uh",
+            "make",
+            "some",
+            "food",
+            "also",
+            "Like",
+            "biryani"
+        ],
+        "rationale": "The sentence contains a speech act of evaluation ('Pizza is good') and a suggestion ('but maybe we, uh, make some food also?') with an example ('Like biryani?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I can cook biryani! Maybe others can bring drinks and, um, cake?",
+        "annotation_token": [
+            "I",
+            "can",
+            "cook",
+            "biryani",
+            "Maybe",
+            "others",
+            "can",
+            "bring",
+            "drinks",
+            "and",
+            "um",
+            "cake"
+        ],
+        "rationale": "The sentence contains a speech act of offer ('I can cook biryani!') and a suggestion ('Maybe others can bring drinks and, um, cake?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Decorations, yes. We need balloons and some lights, I think.",
+        "annotation_token": [
+            "Decorations",
+            "yes",
+            "We",
+            "need",
+            "balloons",
+            "and",
+            "some",
+            "lights",
+            "I",
+            "think"
+        ],
+        "rationale": "The sentence contains a speech act of agreement ('yes') and a statement of necessity ('We need balloons and some lights, I think').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I have some lights from last festival. We can use them.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "have",
+            "some",
+            "lights",
+            "from",
+            "last",
+            "festival",
+            "We",
+            "can",
+            "use",
+            "them"
+        ],
+        "rationale": "The sentence contains a speech act of agreement ('Yes') and a statement of availability ('I have some lights from last festival') followed by a suggestion ('We can use them').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, what about music? We need music, yes?",
+        "annotation_token": [
+            "Uh",
+            "what",
+            "about",
+            "music",
+            "We",
+            "need",
+            "music",
+            "yes"
+        ],
+        "rationale": "The sentence contains a speech act of inquiry ('Uh, what about music?') and a statement of necessity ('We need music, yes?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I can make playlist. But, um, need speaker for sound.",
+        "annotation_token": [
+            "I",
+            "can",
+            "make",
+            "playlist",
+            "But",
+            "um",
+            "need",
+            "speaker",
+            "for",
+            "sound"
+        ],
+        "rationale": "The sentence contains a speech act of offer ('I can make playlist') and a statement of necessity ('But, um, need speaker for sound').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! This will be fun, I hope friend is surprised.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "This",
+            "will",
+            "be",
+            "fun",
+            "I",
+            "hope",
+            "friend",
+            "is",
+            "surprised"
+        ],
+        "rationale": "The sentence contains a speech act of gratitude ('Thank you!') and an expression of hope ('I hope friend is surprised').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, let's meet soon. Thank you for helping with pl",
+        "annotation_token": [
+            "Yes",
+            "let's",
+            "meet",
+            "soon",
+            "Thank",
+            "you",
+            "for",
+            "helping",
+            "with",
+            "pl"
+        ],
+        "rationale": "The sentence contains a speech act of agreement ('Yes') and gratitude ('Thank you for helping with pl').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I am ready. Um, how we start this plan?",
+        "annotation_token": [
+            "Yes",
+            "Um",
+            "how we start this plan"
+        ],
+        "rationale": "The sentence contains speech acts such as agreement ('Yes'), hesitation ('Um'), and a question ('how we start this plan') which indicates a request for information or clarification.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hm, maybe we use the park? It is big and open place.",
+        "annotation_token": [
+            "Hm",
+            "maybe",
+            "we use the park"
+        ],
+        "rationale": "The sentence contains speech acts such as hesitation ('Hm'), suggestion ('maybe'), and a proposal ('we use the park').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, Central Park! What about, um, food? We should have food.",
+        "annotation_token": [
+            "Yes",
+            "What about",
+            "um",
+            "food"
+        ],
+        "rationale": "The sentence contains speech acts such as agreement ('Yes'), a suggestion or inquiry ('What about'), hesitation ('um'), and a statement of necessity ('We should have food').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Pizza is good, but maybe we, uh, make some food also? Like biryani?",
+        "annotation_token": [
+            "Pizza is good",
+            "but maybe",
+            "uh",
+            "make some food also",
+            "Like biryani"
+        ],
+        "rationale": "The sentence contains speech acts such as an opinion ('Pizza is good'), a suggestion ('but maybe'), hesitation ('uh'), a proposal ('make some food also'), and an example ('Like biryani').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I can cook biryani! Maybe others can bring drinks and, um, cake?",
+        "annotation_token": [
+            "I can cook biryani",
+            "Maybe",
+            "um",
+            "cake"
+        ],
+        "rationale": "The sentence contains speech acts such as an offer ('I can cook biryani'), a suggestion ('Maybe'), hesitation ('um'), and a proposal ('cake').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Decorations, yes. We need balloons and some lights, I think.",
+        "annotation_token": [
+            "Decorations",
+            "yes",
+            "We need",
+            "I think"
+        ],
+        "rationale": "The sentence contains speech acts such as a topic introduction ('Decorations'), agreement ('yes'), a statement of necessity ('We need'), and an opinion ('I think').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, what about music? We need music, yes?",
+        "annotation_token": [
+            "Uh",
+            "what about",
+            "music",
+            "We need",
+            "yes"
+        ],
+        "rationale": "The sentence contains speech acts such as hesitation ('Uh'), a suggestion or inquiry ('what about'), a topic introduction ('music'), a statement of necessity ('We need'), and a confirmation request ('yes').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I can make playlist. But, um, need speaker for sound.",
+        "annotation_token": [
+            "I can make playlist",
+            "But",
+            "um",
+            "need speaker for sound"
+        ],
+        "rationale": "The sentence contains speech acts such as an offer ('I can make playlist'), a contrast ('But'), hesitation ('um'), and a statement of necessity ('need speaker for sound').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! This will be fun, I hope friend is surprised.",
+        "annotation_token": [
+            "Thank you",
+            "This will be fun",
+            "I hope",
+            "friend is surprised"
+        ],
+        "rationale": "The sentence contains speech acts such as gratitude ('Thank you'), a prediction ('This will be fun'), an expression of hope ('I hope'), and an expectation ('friend is surprised').",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, let's meet soon. Thank you for helping with pl",
+        "annotation_token": [
+            "Yes",
+            "let's meet soon",
+            "Thank you"
+        ],
+        "rationale": "The sentence contains speech acts such as agreement ('Yes'), a suggestion or plan ('let's meet soon'), and gratitude ('Thank you').",
+        "grammar_correctness": "correct"
+    }
+]

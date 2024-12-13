@@ -1,0 +1,127 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes, that's right. I want to, um, find something interesting. Do you have recommend?",
+        "annotation_token": [
+            "Do",
+            "you",
+            "have",
+            "recommend"
+        ],
+        "rationale": "The sentence contains a speech act where the speaker is making a request for a recommendation.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, that sound very good! Why you think it good for, um, me to read?",
+        "annotation_token": [
+            "Why",
+            "you",
+            "think",
+            "it",
+            "good"
+        ],
+        "rationale": "The sentence contains a speech act where the speaker is asking for a reason or explanation.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, improving English is important for me! Uh, is it easy to understand?",
+        "annotation_token": [
+            "is",
+            "it",
+            "easy",
+            "to",
+            "understand"
+        ],
+        "rationale": "The sentence contains a speech act where the speaker is asking for information about the difficulty level of the book.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I will do that! Um, where can I get the book? Is it in library?",
+        "annotation_token": [
+            "where",
+            "can",
+            "I",
+            "get",
+            "the",
+            "book",
+            "Is",
+            "it",
+            "in",
+            "library"
+        ],
+        "rationale": "The sentence contains a speech act where the speaker is asking for information about the location of the book.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will tell you. Thank you so much for the recommend!",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "so",
+            "much",
+            "for",
+            "the",
+            "recommend"
+        ],
+        "rationale": "The sentence contains a speech act where the speaker is expressing gratitude.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes, that's right. I want to, um, find something interesting. Do you have recommend?",
+        "annotation_token": [
+            "Do",
+            "you",
+            "have",
+            "recommend"
+        ],
+        "rationale": "The sentence contains a speech act where the speaker is making a request for a recommendation.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, that sound very good! Why you think it good for, um, me to read?",
+        "annotation_token": [
+            "Why",
+            "you",
+            "think",
+            "it",
+            "good"
+        ],
+        "rationale": "The sentence contains a speech act where the speaker is asking for the reason behind the recommendation.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I will do that! Um, where can I get the book? Is it in library?",
+        "annotation_token": [
+            "where",
+            "can",
+            "I",
+            "get",
+            "the",
+            "book"
+        ],
+        "rationale": "The sentence contains a speech act where the speaker is asking for information about the location of the book.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much for the recommend!",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "so",
+            "much",
+            "for",
+            "the",
+            "recommend"
+        ],
+        "rationale": "The sentence contains a speech act where the speaker is expressing gratitude for the recommendation.",
+        "grammar_correctness": "wrong"
+    }
+]

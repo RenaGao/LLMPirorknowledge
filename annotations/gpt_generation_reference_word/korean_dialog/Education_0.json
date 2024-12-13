@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is difficult for me.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the situation or task being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "The sentences... they not clear for me.",
+        "annotation_token": "they",
+        "rationale": "The word 'they' is used as a reference to 'The sentences'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That is very helpful for me.",
+        "annotation_token": "That",
+        "rationale": "The word 'That' is used as a reference to the help or advice being offered.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "but it feel too simple.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to 'This essay will talk about...'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "sometimes I forget them.",
+        "annotation_token": "them",
+        "rationale": "The word 'them' is used as a reference to 'Transition'.",
+        "grammar_correctness": true
+    }
+]

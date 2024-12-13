@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, the testing phase... I am worried it take long time.",
+        "annotation_token": "it take",
+        "rationale": "The subject 'it' does not agree with the verb 'take'. The correct form should be 'it takes'.",
+        "grammar_correctness": "wrong"
+    }
+]

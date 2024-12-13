@@ -1,0 +1,95 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Good morning! I’m a bit nervous, but mostly excited to be here.",
+        "annotation_token": [
+            "I’m"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in the contraction 'I’m'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Well, I’ve always admired your strong focus on research and innovation.",
+        "annotation_token": [
+            "I’ve admired"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'have admired' in the contraction 'I’ve admired'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Certainly. I was part of our school’s eco-club, where we organized community clean-ups and initiated a recycling awareness campaign.",
+        "annotation_token": [
+            "I was",
+            "we organized",
+            "we initiated"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'was', and the subject 'we' correctly agrees with the verbs 'organized' and 'initiated'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "They solidified my passion for environmental advocacy and made me realize the importance of pursuing a career where I can contribute to sustainable solutions.",
+        "annotation_token": [
+            "They solidified",
+            "I can contribute"
+        ],
+        "rationale": "The subject 'They' correctly agrees with the verb 'solidified', and the subject 'I' correctly agrees with the verb 'can contribute'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’d love to get involved in student-led research projects and perhaps start a new sustainability initiative on campus.",
+        "annotation_token": [
+            "I’d love"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'would love' in the contraction 'I’d love'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I believe in the power of collective efforts.",
+        "annotation_token": [
+            "I believe"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'believe'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I’m curious about the opportunities for internships within the environmental science program.",
+        "annotation_token": [
+            "I’m curious"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in the contraction 'I’m curious'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Are there partnerships with local organizations?",
+        "annotation_token": [
+            "Are there"
+        ],
+        "rationale": "The subject 'there' correctly agrees with the verb 'are' in the context of asking about the existence of partnerships.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That sounds fantastic.",
+        "annotation_token": [
+            "That sounds"
+        ],
+        "rationale": "The subject 'That' correctly agrees with the verb 'sounds'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you! You too.",
+        "annotation_token": [
+            "You too"
+        ],
+        "rationale": "The subject 'You' is implied to agree with the verb 'have a good day' or similar, in the context of a farewell.",
+        "grammar_correctness": "correct"
+    }
+]

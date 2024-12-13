@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh... I don't understand when price go up or down.",
+        "annotation_token": "price go",
+        "rationale": "The subject 'price' is singular, so the verb should be 'goes' to agree with the singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, okay. But if supply is more, then price go down, right?",
+        "annotation_token": "price go",
+        "rationale": "The subject 'price' is singular, so the verb should be 'goes' to agree with the singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Okay, so if trend is gone, then demand is less?",
+        "annotation_token": "trend is",
+        "rationale": "The subject 'trend' is singular, and the verb 'is' correctly agrees with the singular subject.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Not all, but I try.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier used to refer to the whole quantity or extent of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, maybe Steven Spielberg. I like his movie... many, like \"Jurassic Park\" and \"E.T.\"",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to refer to a large number of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, I think it is very difficult! But maybe, um, one day I try.",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "The word 'one' is a numeral used to refer to a single unit or thing.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Not all, but I try.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier used to refer to the whole quantity or extent of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, maybe Steven Spielberg. I like his movie... many, like \"Jurassic Park\" and \"E.T.\"",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to refer to a large number of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, I think it is very difficult! But maybe, um, one day I try.",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "The word 'one' is a numeral used to refer to a single unit or thing.",
+        "grammar_correctness": true
+    }
+]

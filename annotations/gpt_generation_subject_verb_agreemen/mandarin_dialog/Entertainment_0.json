@@ -1,0 +1,66 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes, I like very much.",
+        "annotation_token": [
+            "I like"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'like' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It remind me of, um, old movie style.",
+        "annotation_token": [
+            "It remind"
+        ],
+        "rationale": "The subject 'It' does not agree with the verb 'remind' in the present tense. It should be 'reminds'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "She is... how you say... very strong and brave.",
+        "annotation_token": [
+            "She is"
+        ],
+        "rationale": "The subject 'She' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I need watch again, I think.",
+        "annotation_token": [
+            "I need"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'need' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I like space story, and it is very... um, emotional?",
+        "annotation_token": [
+            "I like",
+            "it is"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'like' and the subject 'it' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I want make movie about, um, history or fantasy.",
+        "annotation_token": [
+            "I want"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'want' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Talking about movie is very fun!",
+        "annotation_token": [
+            "Talking is"
+        ],
+        "rationale": "The subject 'Talking' agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Good morning! Yes, I was wondering about the timeline for hearing back after submitting my application.",
+        "annotation_token": [
+            "was",
+            "submitting"
+        ],
+        "rationale": "The sentence uses past continuous tense 'was wondering' and present participle 'submitting' to indicate an ongoing action in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, it's for the marketing internship. I've submitted everything but wanted to make sure I didn't miss any steps.",
+        "annotation_token": [
+            "it's",
+            "I've submitted",
+            "wanted",
+            "didn't miss"
+        ],
+        "rationale": "The sentence uses present tense 'it's', present perfect 'I've submitted', past tense 'wanted', and past tense 'didn't miss' to indicate actions completed in the past and present.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, I didn't realize that. I thought it was just for additional context. Do you recommend submitting it?",
+        "annotation_token": [
+            "didn't realize",
+            "thought",
+            "was",
+            "recommend",
+            "submitting"
+        ],
+        "rationale": "The sentence uses past tense 'didn't realize', 'thought', 'was' and present tense 'recommend', present participle 'submitting' to indicate actions in the past and present.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "That would be helpful, thanks. I'm not sure if I should focus on my academic achievements or previous work experiences.",
+        "annotation_token": [
+            "would be",
+            "I'm",
+            "should focus"
+        ],
+        "rationale": "The sentence uses conditional 'would be', present tense 'I'm', and modal 'should focus' to indicate hypothetical and present actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "That makes sense. I'll start drafting it this evening. Is there a deadline for the optional essay?",
+        "annotation_token": [
+            "makes",
+            "I'll start",
+            "Is"
+        ],
+        "rationale": "The sentence uses present tense 'makes', future tense 'I'll start', and present tense 'Is' to indicate actions in the present and future.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I appreciate that! I'll definitely take you up on the offer. Thank you for all your help today.",
+        "annotation_token": [
+            "appreciate",
+            "I'll take"
+        ],
+        "rationale": "The sentence uses present tense 'appreciate' and future tense 'I'll take' to indicate actions in the present and future.",
+        "grammar_correctness": "correct"
+    }
+]

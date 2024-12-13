@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I am... third year now. One more year to finish.",
+        "annotation_token": [
+            "third",
+            "one more"
+        ],
+        "rationale": "The sentence contains the numeral 'third' indicating the year of study and the quantifier 'one more' indicating the remaining year to finish.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I am... third year now. One more year to finish.",
+        "annotation_token": [
+            "third",
+            "one",
+            "more"
+        ],
+        "rationale": "The sentence contains numerals and quantifiers: 'third' is an ordinal numeral, 'one' is a cardinal numeral, and 'more' is a quantifier.",
+        "grammar_correctness": true
+    }
+]

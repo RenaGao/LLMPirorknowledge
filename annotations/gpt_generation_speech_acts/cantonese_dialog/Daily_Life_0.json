@@ -1,0 +1,42 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, sure. I wake up at seven o'clock.",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "sure"
+        ],
+        "rationale": "The tokens 'Ah', 'yes', and 'sure' are used as speech acts to acknowledge and confirm the previous statement or question.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No problem! I hope my English is okay.",
+        "annotation_token": [
+            "No problem"
+        ],
+        "rationale": "The token 'No problem' is used as a speech act to reassure or express willingness to help.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No problem! I hope my English is okay.",
+        "annotation_token": [
+            "No problem!",
+            "I hope"
+        ],
+        "rationale": "The sentence contains speech acts. 'No problem!' is an expression of reassurance or agreement, and 'I hope' is an expression of desire or wish.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No problem! I hope my English is okay.",
+        "annotation_token": [
+            "No problem!",
+            "I hope"
+        ],
+        "rationale": "The sentence contains speech acts. 'No problem!' is an expression of reassurance or agreement, and 'I hope' is an expression of desire or wish.",
+        "grammar_correctness": "correct"
+    }
+]

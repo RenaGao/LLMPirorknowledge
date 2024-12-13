@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, it is very... um, how to say... lively! Many people here.",
+        "annotation_token": [
+            "Many"
+        ],
+        "rationale": "The word 'Many' is a quantifier used to indicate a large number of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "My friend invite me. She say many interesting people come. I want to practice English.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of interesting people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I make website for a, um, local festival. It was very colorful, and many people like it.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of people who liked the website.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, it is very... um, how to say... lively! Many people here.",
+        "annotation_token": [
+            "Many"
+        ],
+        "rationale": "The word 'Many' is a quantifier used to indicate a large number of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "My friend invite me. She say many interesting people come. I want to practice English.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of interesting people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I make website for a, um, local festival. It was very colorful, and many people like it.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of people who liked the website.",
+        "grammar_correctness": true
+    }
+]

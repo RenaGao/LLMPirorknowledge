@@ -1,0 +1,83 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, Nuch! I go to Chiang Mai last weekend.",
+        "annotation_token": [
+            "I go"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'go' in the past tense context. It should be 'I went'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I see many temple and... uh, how to say... mountains?",
+        "annotation_token": [
+            "I see"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'see' in the past tense context. It should be 'I saw'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I go to Doi Suthep.",
+        "annotation_token": [
+            "I go"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'go' in the past tense context. It should be 'I went'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, not too much. I go early morning, so not many people.",
+        "annotation_token": [
+            "I go"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'go' in the past tense context. It should be 'I went'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I visit night market.",
+        "annotation_token": [
+            "I visit"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'visit' in the past tense context. It should be 'I visited'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I buy some gift for my family.",
+        "annotation_token": [
+            "I buy"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'buy' in the past tense context. It should be 'I bought'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, many photos! I like to take photo of, um... old building.",
+        "annotation_token": [
+            "I like"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'like' in the present tense context.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, historical buildings. They are very beautiful.",
+        "annotation_token": [
+            "They are"
+        ],
+        "rationale": "The subject 'They' agrees with the verb 'are' in the present tense context.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I think many people will like.",
+        "annotation_token": [
+            "I think"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'think' in the present tense context.",
+        "grammar_correctness": "correct"
+    }
+]

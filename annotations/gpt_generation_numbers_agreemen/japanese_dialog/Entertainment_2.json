@@ -1,0 +1,13 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I think, um, the characters are very... real? They have, uh, real problems and feel... how to say... alive.",
+        "annotation_token": [
+            "characters",
+            "are",
+            "problems"
+        ],
+        "rationale": "The subject 'characters' is plural, and it correctly agrees with the plural verb 'are'. Similarly, 'problems' is a plural noun that matches the context.",
+        "grammar_correctness": "correct"
+    }
+]

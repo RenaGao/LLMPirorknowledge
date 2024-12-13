@@ -1,0 +1,57 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I buy a blender, but it not work well.",
+        "annotation_token": [
+            "I buy",
+            "it not work"
+        ],
+        "rationale": "The subject 'I' should be followed by the past tense verb 'bought' for correct subject-verb agreement. The subject 'it' should be followed by 'does not work' or 'did not work' for correct subject-verb agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It make strange noise.",
+        "annotation_token": [
+            "It make"
+        ],
+        "rationale": "The subject 'It' should be followed by the verb 'makes' for correct subject-verb agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I try two time and same problem.",
+        "annotation_token": [
+            "I try"
+        ],
+        "rationale": "The subject 'I' should be followed by the past tense verb 'tried' for correct subject-verb agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I buy it... uh, two week ago, so still in return... um, time?",
+        "annotation_token": [
+            "I buy"
+        ],
+        "rationale": "The subject 'I' should be followed by the past tense verb 'bought' for correct subject-verb agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Is it take long time?",
+        "annotation_token": [
+            "Is it take"
+        ],
+        "rationale": "The subject 'it' should be followed by 'does it take' for correct subject-verb agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "You very helpful.",
+        "annotation_token": [
+            "You very helpful"
+        ],
+        "rationale": "The subject 'You' should be followed by 'are' to form 'You are very helpful' for correct subject-verb agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

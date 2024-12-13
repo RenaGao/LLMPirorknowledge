@@ -1,0 +1,60 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, I think Tokyo is good. Many things to see, and food is... how to say... delicious?",
+        "annotation_token": [
+            "Many"
+        ],
+        "rationale": "The word 'Many' is a quantifier used to indicate a large number of things.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe one week? Enough time to see many places but not too long, right?",
+        "annotation_token": [
+            "one",
+            "many"
+        ],
+        "rationale": "The word 'one' is a numeral indicating a single week, and 'many' is a quantifier indicating a large number of places.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I ask Wing and Tom. They say they want to come. More people, more fun!",
+        "annotation_token": [
+            "More",
+            "more"
+        ],
+        "rationale": "The word 'More' is a quantifier indicating an additional number of people and fun.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, I think Tokyo is good. Many things to see, and food is... how to say... delicious?",
+        "annotation_token": [
+            "Many"
+        ],
+        "rationale": "The word 'Many' is a quantifier used to indicate a large number of things.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe one week? Enough time to see many places but not too long, right?",
+        "annotation_token": [
+            "one",
+            "many"
+        ],
+        "rationale": "The word 'one' is a numeral indicating a single unit of time (week), and 'many' is a quantifier indicating a large number of places.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I ask Wing and Tom. They say they want to come. More people, more fun!",
+        "annotation_token": [
+            "More",
+            "more"
+        ],
+        "rationale": "The word 'More' is a quantifier used to indicate a greater number of people and fun.",
+        "grammar_correctness": true
+    }
+]

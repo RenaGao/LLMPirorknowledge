@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I like action movies. They are exciting.",
+        "annotation_token": "like action movies",
+        "rationale": "The noun 'action movies' and the verb 'like' form a meaningful and complete action, which is a typical noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you so much. I look forward to it.",
+        "annotation_token": "look forward",
+        "rationale": "The noun 'I' is not explicit in the collocation, but 'look forward' is a common verb phrase that implies a noun subject, forming a meaningful action.",
+        "grammar_correctness": true
+    }
+]

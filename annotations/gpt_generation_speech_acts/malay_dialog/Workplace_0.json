@@ -1,0 +1,521 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, I can talk now.",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "I",
+            "can",
+            "talk",
+            "now"
+        ],
+        "rationale": "The sentence is a speech act as it is a declaration of the speaker's ability to engage in conversation at the present moment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "The project, it is, uh, almost done, but some thing, uh, not finished.",
+        "annotation_token": [
+            "The",
+            "project",
+            "it",
+            "is",
+            "uh",
+            "almost",
+            "done",
+            "but",
+            "some",
+            "thing",
+            "uh",
+            "not",
+            "finished"
+        ],
+        "rationale": "The sentence is a speech act as it provides information about the status of the project.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, the report is... um, how to say... not completed.",
+        "annotation_token": [
+            "Uh",
+            "the",
+            "report",
+            "is",
+            "um",
+            "how",
+            "to",
+            "say",
+            "not",
+            "completed"
+        ],
+        "rationale": "The sentence is a speech act as it conveys the status of the report.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think, uh, maybe end of this week.",
+        "annotation_token": [
+            "I",
+            "think",
+            "uh",
+            "maybe",
+            "end",
+            "of",
+            "this",
+            "week"
+        ],
+        "rationale": "The sentence is a speech act as it expresses the speaker's estimation of when the task will be completed.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, is it okay with you?",
+        "annotation_token": [
+            "Um",
+            "is",
+            "it",
+            "okay",
+            "with",
+            "you"
+        ],
+        "rationale": "The sentence is a speech act as it seeks confirmation or approval from the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, yes, I think I have enough.",
+        "annotation_token": [
+            "Uh",
+            "yes",
+            "I",
+            "think",
+            "I",
+            "have",
+            "enough"
+        ],
+        "rationale": "The sentence is a speech act as it confirms the speaker's belief about having sufficient resources or information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "But if, um, something not enough, I will ask you.",
+        "annotation_token": [
+            "But",
+            "if",
+            "um",
+            "something",
+            "not",
+            "enough",
+            "I",
+            "will",
+            "ask",
+            "you"
+        ],
+        "rationale": "The sentence is a speech act as it indicates a conditional plan of action.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, section four is, um, about client feedback.",
+        "annotation_token": [
+            "Uh",
+            "section",
+            "four",
+            "is",
+            "um",
+            "about",
+            "client",
+            "feedback"
+        ],
+        "rationale": "The sentence is a speech act as it provides information about the content of section four.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I... how to say... organize it better.",
+        "annotation_token": [
+            "I",
+            "how",
+            "to",
+            "say",
+            "organize",
+            "it",
+            "better"
+        ],
+        "rationale": "The sentence is a speech act as it expresses the speaker's intention to improve the organization of the content.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes, a spreadsheet!",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "a",
+            "spreadsheet"
+        ],
+        "rationale": "The sentence is a speech act as it confirms the speaker's agreement or realization about using a spreadsheet.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will try that.",
+        "annotation_token": [
+            "I",
+            "will",
+            "try",
+            "that"
+        ],
+        "rationale": "The sentence is a speech act as it indicates the speaker's intention to attempt a suggested action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for, um, idea.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "for",
+            "um",
+            "idea"
+        ],
+        "rationale": "The sentence is a speech act as it expresses gratitude for a suggestion.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I will let you know.",
+        "annotation_token": [
+            "Okay",
+            "I",
+            "will",
+            "let",
+            "you",
+            "know"
+        ],
+        "rationale": "The sentence is a speech act as it promises to inform the listener in the future.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for, uh, your support.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "for",
+            "uh",
+            "your",
+            "support"
+        ],
+        "rationale": "The sentence is a speech act as it expresses gratitude for assistance.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, no, I think others are okay now.",
+        "annotation_token": [
+            "Uh",
+            "no",
+            "I",
+            "think",
+            "others",
+            "are",
+            "okay",
+            "now"
+        ],
+        "rationale": "The sentence is a speech act as it provides an assessment of the status of other tasks.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Just need, um, more focus.",
+        "annotation_token": [
+            "Just",
+            "need",
+            "um",
+            "more",
+            "focus"
+        ],
+        "rationale": "The sentence is a speech act as it suggests a requirement for increased concentration.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will update you.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "will",
+            "update",
+            "you"
+        ],
+        "rationale": "The sentence is a speech act as it promises to provide future updates.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, I can talk now.",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "I",
+            "can",
+            "talk",
+            "now"
+        ],
+        "rationale": "The sentence is a speech act as it is a declaration of the speaker's ability to engage in conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "The project, it is, uh, almost done, but some thing, uh, not finished.",
+        "annotation_token": [
+            "The",
+            "project",
+            "it",
+            "is",
+            "uh",
+            "almost",
+            "done",
+            "but",
+            "some",
+            "thing",
+            "uh",
+            "not",
+            "finished"
+        ],
+        "rationale": "The sentence is a speech act as it provides information about the status of the project.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, the report is... um, how to say... not completed.",
+        "annotation_token": [
+            "Uh",
+            "the",
+            "report",
+            "is",
+            "um",
+            "how",
+            "to",
+            "say",
+            "not",
+            "completed"
+        ],
+        "rationale": "The sentence is a speech act as it conveys the status of the report.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think, uh, maybe end of this week.",
+        "annotation_token": [
+            "I",
+            "think",
+            "uh",
+            "maybe",
+            "end",
+            "of",
+            "this",
+            "week"
+        ],
+        "rationale": "The sentence is a speech act as it expresses the speaker's estimation of the timeline.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, is it okay with you?",
+        "annotation_token": [
+            "Um",
+            "is",
+            "it",
+            "okay",
+            "with",
+            "you"
+        ],
+        "rationale": "The sentence is a speech act as it seeks confirmation or agreement from the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, yes, I think I have enough.",
+        "annotation_token": [
+            "Uh",
+            "yes",
+            "I",
+            "think",
+            "I",
+            "have",
+            "enough"
+        ],
+        "rationale": "The sentence is a speech act as it confirms the speaker's belief about having sufficient resources.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "But if, um, something not enough, I will ask you.",
+        "annotation_token": [
+            "But",
+            "if",
+            "um",
+            "something",
+            "not",
+            "enough",
+            "I",
+            "will",
+            "ask",
+            "you"
+        ],
+        "rationale": "The sentence is a speech act as it indicates a conditional plan of action.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, section four is, um, about client feedback.",
+        "annotation_token": [
+            "Uh",
+            "section",
+            "four",
+            "is",
+            "um",
+            "about",
+            "client",
+            "feedback"
+        ],
+        "rationale": "The sentence is a speech act as it provides information about the content of section four.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I... how to say... organize it better.",
+        "annotation_token": [
+            "I",
+            "how",
+            "to",
+            "say",
+            "organize",
+            "it",
+            "better"
+        ],
+        "rationale": "The sentence is a speech act as it expresses the speaker's intention to improve organization.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes, a spreadsheet!",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "a",
+            "spreadsheet"
+        ],
+        "rationale": "The sentence is a speech act as it confirms the speaker's agreement or realization.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will try that.",
+        "annotation_token": [
+            "I",
+            "will",
+            "try",
+            "that"
+        ],
+        "rationale": "The sentence is a speech act as it indicates the speaker's intention to attempt something.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for, um, idea.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "for",
+            "um",
+            "idea"
+        ],
+        "rationale": "The sentence is a speech act as it expresses gratitude.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I will let you know.",
+        "annotation_token": [
+            "Okay",
+            "I",
+            "will",
+            "let",
+            "you",
+            "know"
+        ],
+        "rationale": "The sentence is a speech act as it promises to inform the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for, uh, your support.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "for",
+            "uh",
+            "your",
+            "support"
+        ],
+        "rationale": "The sentence is a speech act as it expresses gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, no, I think others are okay now.",
+        "annotation_token": [
+            "Uh",
+            "no",
+            "I",
+            "think",
+            "others",
+            "are",
+            "okay",
+            "now"
+        ],
+        "rationale": "The sentence is a speech act as it provides an assessment of the current status.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Just need, um, more focus.",
+        "annotation_token": [
+            "Just",
+            "need",
+            "um",
+            "more",
+            "focus"
+        ],
+        "rationale": "The sentence is a speech act as it suggests a requirement for improvement.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will update you.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "will",
+            "update",
+            "you"
+        ],
+        "rationale": "The sentence is a speech act as it promises to provide updates.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you again.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "again"
+        ],
+        "rationale": "The sentence is a speech act as it expresses gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

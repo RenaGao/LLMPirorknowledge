@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, yes. I think spicy food make it worse. Also, fried food.",
+        "annotation_token": "food make",
+        "rationale": "The noun 'food' and the verb 'make' form a collocation that expresses a meaningful action, where 'food' is the subject and 'make' is the verb.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, yes. I take some... uh, stomach medicine? But not much help.",
+        "annotation_token": "I take",
+        "rationale": "The noun 'I' is not a pronoun, but in this context, it is used as a subject with the verb 'take' to form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    }
+]

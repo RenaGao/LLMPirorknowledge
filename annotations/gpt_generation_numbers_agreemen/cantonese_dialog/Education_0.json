@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Uh, the, how you say, the writing part? I always make mistake in grammar.",
+        "annotation_token": "mistake",
+        "rationale": "The noun 'mistake' should be in plural form 'mistakes' to agree with the quantifier 'always make'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Sample essay, yes. I have some from teacher, but not understand all.",
+        "annotation_token": "essay",
+        "rationale": "The noun 'essay' should be in plural form 'essays' to agree with the quantifier 'some'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I use app. It helps, but sometimes I forget word.",
+        "annotation_token": "word",
+        "rationale": "The noun 'word' should be in plural form 'words' to agree with the quantifier 'sometimes forget'.",
+        "grammar_correctness": "wrong"
+    }
+]

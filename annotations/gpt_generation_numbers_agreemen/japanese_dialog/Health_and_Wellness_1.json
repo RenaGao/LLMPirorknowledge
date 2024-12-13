@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I sleep maybe, um, five hour every night.",
+        "annotation_token": "hour",
+        "rationale": "The noun 'hour' should be in plural form 'hours' to agree with the number 'five'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "But, um, sometimes I have many work.",
+        "annotation_token": "work",
+        "rationale": "The noun 'work' is uncountable and should not be used with 'many'. It should be 'much work' or 'many tasks'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Diet... I eat, um, many fast food.",
+        "annotation_token": "fast food",
+        "rationale": "The noun 'fast food' is uncountable and should not be used with 'many'. It should be 'much fast food'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Not much vegetable.",
+        "annotation_token": "vegetable",
+        "rationale": "The noun 'vegetable' should be in plural form 'vegetables' to agree with 'much'.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I recently graduated from university with a degree in marketing.",
+        "annotation_token": "I graduated",
+        "rationale": "The subject 'I' agrees with the verb 'graduated' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’d say understanding the importance of analytics.",
+        "annotation_token": "I’d say",
+        "rationale": "The subject 'I' agrees with the verb 'say' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I love the creative aspect of marketing, combined with the strategic side.",
+        "annotation_token": "I love",
+        "rationale": "The subject 'I' agrees with the verb 'love' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I follow several industry blogs and podcasts, and I also participate in online webinars and courses.",
+        "annotation_token": "I follow, I participate",
+        "rationale": "The subject 'I' agrees with the verbs 'follow' and 'participate' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’m really interested in content marketing.",
+        "annotation_token": "I’m interested",
+        "rationale": "The subject 'I' agrees with the verb 'am' (contracted as 'I'm') in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I appreciate it, and I look forward to hearing from you.",
+        "annotation_token": "I appreciate, I look",
+        "rationale": "The subject 'I' agrees with the verbs 'appreciate' and 'look' in number and person.",
+        "grammar_correctness": "correct"
+    }
+]

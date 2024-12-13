@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I buy a blender, but it not work well.",
+        "annotation_token": "buy a blender",
+        "rationale": "The noun 'blender' and the verb 'buy' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "It make strange noise.",
+        "annotation_token": "make strange noise",
+        "rationale": "The noun 'noise' and the verb 'make' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I think refund is good, please.",
+        "annotation_token": "think refund",
+        "rationale": "The noun 'refund' and the verb 'think' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I bring box.",
+        "annotation_token": "bring box",
+        "rationale": "The noun 'box' and the verb 'bring' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I sign here... like this?",
+        "annotation_token": "sign here",
+        "rationale": "The noun 'here' and the verb 'sign' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

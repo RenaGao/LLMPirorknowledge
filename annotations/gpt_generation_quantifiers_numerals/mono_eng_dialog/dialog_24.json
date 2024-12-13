@@ -1,0 +1,110 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi! I’m doing well, a bit nervous, but excited to be here. Thanks for asking.",
+        "annotation_token": [
+            "a bit"
+        ],
+        "rationale": "'A bit' is a quantifier used to express a small amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I’ve had experience with digital marketing campaigns in my last job, where I helped increase engagement by 30%.",
+        "annotation_token": [
+            "30%"
+        ],
+        "rationale": "'30%' is a numeral used to specify a precise quantity or percentage.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. There was this one campaign where our initial strategy wasn’t yielding results.",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "'One' is a numeral used to specify a single item or instance.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi! I’m doing well, a bit nervous, but excited to be here. Thanks for asking.",
+        "annotation_token": [
+            "a bit"
+        ],
+        "rationale": "'a bit' is a quantifier used to express a small amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I’ve had experience with digital marketing campaigns in my last job, where I helped increase engagement by 30%.",
+        "annotation_token": [
+            "30%"
+        ],
+        "rationale": "'30%' is a numeral used to specify a precise quantity or percentage.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. There was this one campaign where our initial strategy wasn’t yielding results.",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "'one' is a numeral used to specify a single item or instance.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi! I’m doing well, a bit nervous, but excited to be here. Thanks for asking.",
+        "annotation_token": [
+            "a bit"
+        ],
+        "rationale": "'a bit' is a quantifier used to express a small amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I’ve had experience with digital marketing campaigns in my last job, where I helped increase engagement by 30%.",
+        "annotation_token": [
+            "30%"
+        ],
+        "rationale": "'30%' is a numeral used to specify a precise quantity or percentage.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. There was this one campaign where our initial strategy wasn’t yielding results.",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "'one' is a numeral used to specify a single item or instance.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi! I’m doing well, a bit nervous, but excited to be here. Thanks for asking.",
+        "annotation_token": [
+            "a bit"
+        ],
+        "rationale": "'a bit' is a quantifier used to indicate a small amount of nervousness.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I’ve had experience with digital marketing campaigns in my last job, where I helped increase engagement by 30%.",
+        "annotation_token": [
+            "30%"
+        ],
+        "rationale": "'30%' is a numeral used to specify the percentage of increased engagement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. There was this one campaign where our initial strategy wasn’t yielding results.",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "'one' is a numeral used to specify a particular campaign.",
+        "grammar_correctness": true
+    }
+]

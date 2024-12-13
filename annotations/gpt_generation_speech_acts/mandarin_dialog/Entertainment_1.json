@@ -1,0 +1,491 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "What you think we do?",
+        "annotation_token": [
+            "What",
+            "you",
+            "think",
+            "we",
+            "do"
+        ],
+        "rationale": "The sentence is a question, which is a type of speech act used to request information or confirmation.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, sounds good!",
+        "annotation_token": [
+            "Ah",
+            "sounds",
+            "good"
+        ],
+        "rationale": "The sentence is an expression of agreement or approval, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "But, um, I not know which is... how you say... good?",
+        "annotation_token": [
+            "I",
+            "not",
+            "know",
+            "which",
+            "is",
+            "how",
+            "you",
+            "say",
+            "good"
+        ],
+        "rationale": "The sentence is a question, which is a type of speech act used to request information or clarification.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I like!",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "like"
+        ],
+        "rationale": "The sentence is an expression of preference or agreement, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "But, um, what is the, uh, food they have?",
+        "annotation_token": [
+            "what",
+            "is",
+            "the",
+            "food",
+            "they",
+            "have"
+        ],
+        "rationale": "The sentence is a question, which is a type of speech act used to request information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, okay. I like pizza.",
+        "annotation_token": [
+            "I",
+            "like",
+            "pizza"
+        ],
+        "rationale": "The sentence is an expression of preference, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "What else we do after eat?",
+        "annotation_token": [
+            "What",
+            "else",
+            "we",
+            "do",
+            "after",
+            "eat"
+        ],
+        "rationale": "The sentence is a question, which is a type of speech act used to request information or suggestions.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, how to say... a movie sound nice.",
+        "annotation_token": [
+            "how",
+            "to",
+            "say",
+            "a",
+            "movie",
+            "sound",
+            "nice"
+        ],
+        "rationale": "The sentence is an expression of suggestion or preference, which is a type of speech act.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "What movie is playing?",
+        "annotation_token": [
+            "What",
+            "movie",
+            "is",
+            "playing"
+        ],
+        "rationale": "The sentence is a question, which is a type of speech act used to request information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Action film is good!",
+        "annotation_token": [
+            "Action",
+            "film",
+            "is",
+            "good"
+        ],
+        "rationale": "The sentence is an expression of preference, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! It work.",
+        "annotation_token": [
+            "It",
+            "work"
+        ],
+        "rationale": "The sentence is an expression of agreement, which is a type of speech act.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Which time we meet?",
+        "annotation_token": [
+            "Which",
+            "time",
+            "we",
+            "meet"
+        ],
+        "rationale": "The sentence is a question, which is a type of speech act used to request information.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, 6 p.m. is good.",
+        "annotation_token": [
+            "6",
+            "p.m.",
+            "is",
+            "good"
+        ],
+        "rationale": "The sentence is an expression of agreement or confirmation, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will... uh, how to say... be there on time.",
+        "annotation_token": [
+            "I",
+            "will",
+            "be",
+            "there",
+            "on",
+            "time"
+        ],
+        "rationale": "The sentence is a promise or commitment, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you!",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The sentence is an expression of gratitude, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I look forward to it.",
+        "annotation_token": [
+            "I",
+            "look",
+            "forward",
+            "to",
+            "it"
+        ],
+        "rationale": "The sentence is an expression of anticipation or eagerness, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, see you later!",
+        "annotation_token": [
+            "see",
+            "you",
+            "later"
+        ],
+        "rationale": "The sentence is a farewell, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Have... um, nice day until then.",
+        "annotation_token": [
+            "Have",
+            "nice",
+            "day",
+            "until",
+            "then"
+        ],
+        "rationale": "The sentence is a wish or hope for someone's well-being, which is a type of speech act.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "What you think we do?",
+        "annotation_token": [
+            "What",
+            "you",
+            "think",
+            "we",
+            "do"
+        ],
+        "rationale": "The sentence is a question, which is a type of speech act used to request information or a suggestion.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, sounds good!",
+        "annotation_token": [
+            "Ah",
+            "sounds",
+            "good"
+        ],
+        "rationale": "The sentence is an expression of agreement or approval, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "But, um, I not know which is... how you say... good?",
+        "annotation_token": [
+            "But",
+            "um",
+            "I",
+            "not",
+            "know",
+            "which",
+            "is",
+            "how",
+            "you",
+            "say",
+            "good"
+        ],
+        "rationale": "The sentence is a question, which is a type of speech act used to request clarification or information.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I like!",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "like"
+        ],
+        "rationale": "The sentence is an expression of preference or agreement, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "But, um, what is the, uh, food they have?",
+        "annotation_token": [
+            "But",
+            "um",
+            "what",
+            "is",
+            "the",
+            "uh",
+            "food",
+            "they",
+            "have"
+        ],
+        "rationale": "The sentence is a question, which is a type of speech act used to request information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, okay. I like pizza.",
+        "annotation_token": [
+            "Okay",
+            "okay",
+            "I",
+            "like",
+            "pizza"
+        ],
+        "rationale": "The sentence is an expression of preference, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "What else we do after eat?",
+        "annotation_token": [
+            "What",
+            "else",
+            "we",
+            "do",
+            "after",
+            "eat"
+        ],
+        "rationale": "The sentence is a question, which is a type of speech act used to request information or a suggestion.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, how to say... a movie sound nice.",
+        "annotation_token": [
+            "Um",
+            "how",
+            "to",
+            "say",
+            "a",
+            "movie",
+            "sound",
+            "nice"
+        ],
+        "rationale": "The sentence is an expression of suggestion or preference, which is a type of speech act.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "What movie is playing?",
+        "annotation_token": [
+            "What",
+            "movie",
+            "is",
+            "playing"
+        ],
+        "rationale": "The sentence is a question, which is a type of speech act used to request information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Action film is good!",
+        "annotation_token": [
+            "Action",
+            "film",
+            "is",
+            "good"
+        ],
+        "rationale": "The sentence is an expression of preference, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I like, uh, exciting movie.",
+        "annotation_token": [
+            "I",
+            "like",
+            "uh",
+            "exciting",
+            "movie"
+        ],
+        "rationale": "The sentence is an expression of preference, which is a type of speech act.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! It work.",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "It",
+            "work"
+        ],
+        "rationale": "The sentence is an expression of agreement, which is a type of speech act.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Which time we meet?",
+        "annotation_token": [
+            "Which",
+            "time",
+            "we",
+            "meet"
+        ],
+        "rationale": "The sentence is a question, which is a type of speech act used to request information.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, 6 p.m. is good.",
+        "annotation_token": [
+            "Okay",
+            "6",
+            "p.m.",
+            "is",
+            "good"
+        ],
+        "rationale": "The sentence is an expression of agreement, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I will... uh, how to say... be there on time.",
+        "annotation_token": [
+            "I",
+            "will",
+            "uh",
+            "how",
+            "to",
+            "say",
+            "be",
+            "there",
+            "on",
+            "time"
+        ],
+        "rationale": "The sentence is a promise or commitment, which is a type of speech act.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you!",
+        "annotation_token": [
+            "Thank",
+            "you"
+        ],
+        "rationale": "The sentence is an expression of gratitude, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I look forward to it.",
+        "annotation_token": [
+            "I",
+            "look",
+            "forward",
+            "to",
+            "it"
+        ],
+        "rationale": "The sentence is an expression of anticipation, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, see you later!",
+        "annotation_token": [
+            "Yes",
+            "see",
+            "you",
+            "later"
+        ],
+        "rationale": "The sentence is a farewell, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Have... um, nice day until then.",
+        "annotation_token": [
+            "Have",
+            "um",
+            "nice",
+            "day",
+            "until",
+            "then"
+        ],
+        "rationale": "The sentence is a wish or hope, which is a type of speech act.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Bye-b",
+        "annotation_token": [
+            "Bye-b"
+        ],
+        "rationale": "The sentence is a farewell, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    }
+]

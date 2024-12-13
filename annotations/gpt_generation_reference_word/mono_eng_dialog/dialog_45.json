@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Well, I’ve always admired your company’s commitment to innovation and sustainability. I’m eager to contribute to projects that align with those values.",
+        "annotation_token": "those",
+        "rationale": "The word 'those' is a reference word that refers back to 'innovation and sustainability'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Absolutely. In my last role, I led a team to streamline our supply chain process. We faced several unexpected delays, but by implementing new software and revising our logistics strategy, we reduced delivery times by 20%.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word that refers back to the speaker and their team.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I believe in open communication and actively listening to all perspectives. I usually suggest a meeting where everyone can voice their concerns, and we work towards a consensus.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word that refers back to the group of people involved in the meeting.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I’m curious about the team I’d be working with. Can you tell me more about their dynamics and how they typically collaborate?",
+        "annotation_token": "their",
+        "rationale": "The word 'their' is a reference word that refers back to 'the team'.",
+        "grammar_correctness": true
+    }
+]

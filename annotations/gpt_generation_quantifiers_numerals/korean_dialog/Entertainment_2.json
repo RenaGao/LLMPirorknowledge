@@ -1,0 +1,67 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, yes, please. I need new book, but not sure what to read.",
+        "annotation_token": [
+            "new"
+        ],
+        "rationale": "The word 'new' is a quantifier indicating a specific type of book the speaker is looking for.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, I think I like fiction more. But, uh, need something interesting... like story.",
+        "annotation_token": [
+            "more",
+            "something"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating a preference for fiction over other genres. 'Something' is a quantifier indicating an unspecified interesting story.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, that good. I sometimes difficult with, uh, complex word.",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating the frequency of difficulty with complex words.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, yes, please. I need new book, but not sure what to read.",
+        "annotation_token": [
+            "new"
+        ],
+        "rationale": "The word 'new' is a quantifier indicating a non-specific amount or type of book.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, I think I like fiction more. But, uh, need something interesting... like story.",
+        "annotation_token": [
+            "more",
+            "something"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating a greater amount or degree, and 'something' is a quantifier indicating an unspecified thing.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, that good. I sometimes difficult with, uh, complex word.",
+        "annotation_token": [
+            "sometimes"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating an indefinite frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sure, I will tell you. Maybe we can talk about it together.",
+        "annotation_token": [
+            "maybe"
+        ],
+        "rationale": "The word 'maybe' is a quantifier indicating an indefinite possibility.",
+        "grammar_correctness": true
+    }
+]

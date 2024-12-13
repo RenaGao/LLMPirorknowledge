@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I learn many thing, like new program and, uh, working with team.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of things.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We, um, talk a lot. We share, uh, opinion and, um, find best way.",
+        "annotation_token": [
+            "a lot"
+        ],
+        "rationale": "The phrase 'a lot' is a quantifier used to indicate a large amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you. Uh, future... I want to, um, maybe travel and learn more design.",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier used to indicate a greater amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I learn many thing, like new program and, uh, working with team.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of things.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We, um, talk a lot. We share, uh, opinion and, um, find best way.",
+        "annotation_token": [
+            "a lot"
+        ],
+        "rationale": "The phrase 'a lot' is a quantifier used to indicate a large amount or degree.",
+        "grammar_correctness": true
+    }
+]

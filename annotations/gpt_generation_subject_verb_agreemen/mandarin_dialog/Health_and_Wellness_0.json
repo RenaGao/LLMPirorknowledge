@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Mother say it is good... um, for stomach.",
+        "annotation_token": [
+            "Mother",
+            "say"
+        ],
+        "rationale": "The subject 'Mother' is singular, so the verb should be 'says' to agree with the subject.",
+        "grammar_correctness": "wrong"
+    }
+]

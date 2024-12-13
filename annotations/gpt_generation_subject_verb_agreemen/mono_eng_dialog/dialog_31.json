@@ -1,0 +1,141 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hi, James. I’m doing well, thank you! Excited to be here. How about you?",
+        "annotation_token": [
+            "I’m doing"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'am' in the contraction 'I’m'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Of course. I recently graduated with a degree in marketing, and I’ve always had a passion for digital media.",
+        "annotation_token": [
+            "I recently graduated",
+            "I’ve always had"
+        ],
+        "rationale": "The subject 'I' agrees with the verbs 'graduated' and 'have' in the contraction 'I’ve'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I came across your company’s work online and was really impressed by your innovative campaigns.",
+        "annotation_token": [
+            "I came",
+            "was impressed"
+        ],
+        "rationale": "The subject 'I' agrees with the verbs 'came' and 'was'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Well, I have a strong background in social media analytics and content creation.",
+        "annotation_token": [
+            "I have"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'have'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "During my internship, I managed to increase engagement rates by 30% through targeted campaigns.",
+        "annotation_token": [
+            "I managed"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'managed'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Certainly. We focused on creating interactive content, like polls and live Q&A sessions, to directly engage with our audience.",
+        "annotation_token": [
+            "We focused"
+        ],
+        "rationale": "The subject 'We' agrees with the verb 'focused'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It was about making the brand more relatable.",
+        "annotation_token": [
+            "It was"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'was'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I see feedback as a growth opportunity.",
+        "annotation_token": [
+            "I see"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'see'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It helps refine strategies and improve future outcomes.",
+        "annotation_token": [
+            "It helps"
+        ],
+        "rationale": "The subject 'It' agrees with the verb 'helps'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I always try to analyze the feedback objectively and implement changes where necessary.",
+        "annotation_token": [
+            "I always try"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'try'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I’d love to know more about the team I’d be working with and the kind of projects you have lined up for the next quarter.",
+        "annotation_token": [
+            "I’d love",
+            "you have"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'would love' in the contraction 'I’d', and the subject 'you' agrees with the verb 'have'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That sounds fantastic! I’m thrilled about the possibility.",
+        "annotation_token": [
+            "That sounds",
+            "I’m thrilled"
+        ],
+        "rationale": "The subject 'That' agrees with the verb 'sounds', and the subject 'I' agrees with the verb 'am' in the contraction 'I’m'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you for sharing more about the role and the team.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The implied subject 'I' agrees with the verb 'thank'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you, James. I look forward to hearing from you.",
+        "annotation_token": [
+            "I look"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'look'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Have a great day!",
+        "annotation_token": [
+            "Have"
+        ],
+        "rationale": "The implied subject 'You' agrees with the verb 'have'.",
+        "grammar_correctness": "correct"
+    }
+]

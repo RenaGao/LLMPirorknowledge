@@ -1,0 +1,14 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It started happening a couple of days ago. It’s been really inconvenient, especially when I’m in the middle of work.",
+        "annotation_token": [
+            "started",
+            "happening",
+            "been",
+            "am"
+        ],
+        "rationale": "The sentence contains multiple verbs that need to agree in tense. 'Started' and 'happening' are in past tense, while 'been' and 'am' are in present perfect and present continuous tense respectively.",
+        "grammar_correctness": "correct"
+    }
+]

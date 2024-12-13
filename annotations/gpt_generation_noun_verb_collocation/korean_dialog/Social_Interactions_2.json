@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, um, I'm working in new place.",
+        "annotation_token": "working place",
+        "rationale": "The noun 'place' and the verb 'working' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I do graphic design.",
+        "annotation_token": "do design",
+        "rationale": "The noun 'design' and the verb 'do' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I like to make... how you say... art for people?",
+        "annotation_token": "make art",
+        "rationale": "The noun 'art' and the verb 'make' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Uh, yes, I am making project for, uh, big brand.",
+        "annotation_token": "making project",
+        "rationale": "The noun 'project' and the verb 'making' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We, um, talk a lot.",
+        "annotation_token": "talk lot",
+        "rationale": "The noun 'lot' and the verb 'talk' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We share, uh, opinion and, um, find best way.",
+        "annotation_token": "share opinion",
+        "rationale": "The noun 'opinion' and the verb 'share' form a collocation that expresses a meaningful action.",
+        "grammar_correctness": true
+    }
+]

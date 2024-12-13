@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, hello. I look for... how you say... thing for cooking rice.",
+        "annotation_token": [
+            "look",
+            "say"
+        ],
+        "rationale": "The verbs 'look' and 'say' should be in the present continuous tense to indicate an ongoing action, i.e., 'I am looking for... how do you say...'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I like... um, red color. It look nice in kitchen.",
+        "annotation_token": [
+            "look"
+        ],
+        "rationale": "The verb 'look' should be in the present tense 'looks' to agree with the singular subject 'It'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I appreciate. I am happy, now I can cook rice for family.",
+        "annotation_token": [
+            "appreciate"
+        ],
+        "rationale": "The verb 'appreciate' should be in the present continuous tense to indicate an ongoing action, i.e., 'I am appreciating'.",
+        "grammar_correctness": "wrong"
+    }
+]

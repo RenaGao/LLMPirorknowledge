@@ -1,0 +1,66 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Absolutely! I’ve worked in customer service for about three years, mainly in retail. I really enjoy helping customers find what they need and resolving any issues they may have.",
+        "annotation_token": [
+            "they"
+        ],
+        "rationale": "The word 'they' is a reference word referring back to 'customers'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sure thing. Once, a customer was upset about a product they bought that didn’t meet their expectations.",
+        "annotation_token": [
+            "they",
+            "their"
+        ],
+        "rationale": "The word 'they' refers back to 'a customer', and 'their' refers to the customer's expectations.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "By the end of the conversation, they were satisfied and even thanked me for my help.",
+        "annotation_token": [
+            "they"
+        ],
+        "rationale": "The word 'they' is a reference word referring back to 'a customer'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I admire your commitment to customer satisfaction and innovation. I’ve heard great things about your team’s collaborative culture and would love to contribute to it.",
+        "annotation_token": [
+            "it"
+        ],
+        "rationale": "The word 'it' is a reference word referring back to 'your team’s collaborative culture'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I believe in being open and clear with my communication. Regular check-ins and updates help ensure everyone is on the same page. I also make it a point to listen to my teammates’ ideas and feedback.",
+        "annotation_token": [
+            "it"
+        ],
+        "rationale": "The word 'it' is a reference word referring back to 'being open and clear with my communication'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I’m curious about the opportunities for professional development within the company. Could you elaborate on that?",
+        "annotation_token": [
+            "that"
+        ],
+        "rationale": "The word 'that' is a reference word referring back to 'the opportunities for professional development'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That sounds fantastic. Thank you for the information and for considering my application.",
+        "annotation_token": [
+            "That"
+        ],
+        "rationale": "The word 'That' is a reference word referring back to the explanation or information given about professional development opportunities.",
+        "grammar_correctness": true
+    }
+]

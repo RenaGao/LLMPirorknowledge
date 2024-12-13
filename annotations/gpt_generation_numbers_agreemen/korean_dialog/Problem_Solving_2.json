@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I make sure it not happen again.",
+        "annotation_token": "it not happen",
+        "rationale": "The subject 'it' is singular, but the verb phrase 'not happen' lacks the correct singular agreement. It should be 'it does not happen' or 'it will not happen'.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Certainly! I recently graduated with a degree in marketing, and I’ve been working as an intern at a digital agency for the past six months.",
+        "annotation_token": "graduated with a degree",
+        "rationale": "The noun 'degree' and the verb 'graduated' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I’m really drawn to content strategy and how it can drive engagement.",
+        "annotation_token": "drive engagement",
+        "rationale": "The noun 'engagement' and the verb 'drive' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I enjoy crafting messages that resonate with audiences and analyzing the results.",
+        "annotation_token": "crafting messages",
+        "rationale": "The noun 'messages' and the verb 'crafting' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Sure! During my internship, I led a campaign for a local nonprofit that increased their social media following by 30% in just three months.",
+        "annotation_token": "led a campaign",
+        "rationale": "The noun 'campaign' and the verb 'led' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I hope to grow my skills in digital marketing while contributing to innovative campaigns that make a significant impact.",
+        "annotation_token": "make a significant impact",
+        "rationale": "The noun 'impact' and the verb 'make' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

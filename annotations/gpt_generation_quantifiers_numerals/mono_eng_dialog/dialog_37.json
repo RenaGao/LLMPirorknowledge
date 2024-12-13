@@ -1,0 +1,118 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi! I'm doing well, thank you. A bit nervous, but mostly excited to be here.",
+        "annotation_token": [
+            "A bit",
+            "mostly"
+        ],
+        "rationale": "'A bit' and 'mostly' are quantifiers that indicate the degree of nervousness and excitement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We faced some unexpected issues, and collaborating with others to find solutions was a big learning curve.",
+        "annotation_token": [
+            "some",
+            "a big"
+        ],
+        "rationale": "'Some' is a quantifier indicating an unspecified amount of issues, and 'a big' is a quantifier indicating the extent of the learning curve.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Academically, I aim to deepen my knowledge and eventually work on impactful projects. Personally, I'm eager to meet diverse people and broaden my perspectives.",
+        "annotation_token": [
+            "diverse"
+        ],
+        "rationale": "'Diverse' is a quantifier indicating a variety of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi! I'm doing well, thank you. A bit nervous, but mostly excited to be here.",
+        "annotation_token": [
+            "A bit",
+            "mostly"
+        ],
+        "rationale": "'A bit' and 'mostly' are quantifiers indicating the degree of nervousness and excitement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Academically, I aim to deepen my knowledge and eventually work on impactful projects. Personally, I'm eager to meet diverse people and broaden my perspectives.",
+        "annotation_token": [
+            "diverse"
+        ],
+        "rationale": "'Diverse' is a quantifier indicating a variety of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi! I'm doing well, thank you. A bit nervous, but mostly excited to be here.",
+        "annotation_token": [
+            "A bit",
+            "mostly"
+        ],
+        "rationale": "The sentence contains quantifiers 'A bit' and 'mostly' which indicate the degree of nervousness and excitement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I completed a summer internship last year at a solar energy startup.",
+        "annotation_token": [
+            "a",
+            "last year"
+        ],
+        "rationale": "The sentence contains the numeral 'last year' indicating a specific time and the quantifier 'a' indicating a single internship.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We faced some unexpected issues, and collaborating with others to find solutions was a big learning curve.",
+        "annotation_token": [
+            "some",
+            "a big"
+        ],
+        "rationale": "The sentence contains the quantifier 'some' indicating an unspecified number of issues and 'a big' indicating the extent of the learning curve.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Academically, I aim to deepen my knowledge and eventually work on impactful projects.",
+        "annotation_token": [
+            "impactful"
+        ],
+        "rationale": "The sentence contains the quantifier 'impactful' indicating the significance of the projects.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Personally, I'm eager to meet diverse people and broaden my perspectives.",
+        "annotation_token": [
+            "diverse"
+        ],
+        "rationale": "The sentence contains the quantifier 'diverse' indicating a variety of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi! I'm doing well, thank you. A bit nervous, but mostly excited to be here.",
+        "annotation_token": [
+            "A bit",
+            "mostly"
+        ],
+        "rationale": "'A bit' and 'mostly' are quantifiers expressing an amount or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We faced some unexpected issues, and collaborating with others to find solutions was a big learning curve.",
+        "annotation_token": [
+            "some",
+            "a big"
+        ],
+        "rationale": "'Some' is a quantifier indicating an unspecified amount, and 'a big' describes the extent of the learning curve.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, hello! Yes, long time. I am good, thank you. And you?",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "They like, um, clothes and toy... toys.",
+        "annotation_token": [
+            "They like"
+        ],
+        "rationale": "The subject 'They' agrees with the verb 'like' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "My daughter, she wants, uh, shoes, colorful shoes.",
+        "annotation_token": [
+            "she wants"
+        ],
+        "rationale": "The subject 'she' agrees with the verb 'wants' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, my son is ten, and daughter is, um, seven.",
+        "annotation_token": [
+            "son is",
+            "daughter is"
+        ],
+        "rationale": "The subjects 'son' and 'daughter' agree with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "They grow fast, hai na?",
+        "annotation_token": [
+            "They grow"
+        ],
+        "rationale": "The subject 'They' agrees with the verb 'grow' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "They say, \"We want see cousin!\"",
+        "annotation_token": [
+            "They say"
+        ],
+        "rationale": "The subject 'They' agrees with the verb 'say' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I have work also, you know.",
+        "annotation_token": [
+            "I have"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'have' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I might need help with, uh, finding hotel.",
+        "annotation_token": [
+            "I might need"
+        ],
+        "rationale": "The subject 'I' agrees with the modal verb 'might' and the base form 'need'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "You can suggest some?",
+        "annotation_token": [
+            "You can suggest"
+        ],
+        "rationale": "The subject 'You' agrees with the modal verb 'can' and the base form 'suggest'.",
+        "grammar_correctness": "correct"
+    }
+]

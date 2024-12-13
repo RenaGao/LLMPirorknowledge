@@ -1,0 +1,98 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, sure. I have time now. The deadline, um... the date was, I think, next Friday?",
+        "annotation_token": [
+            "I"
+        ],
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, it's a bit... how to say... tight? I worry cannot finish all by then.",
+        "annotation_token": [
+            "it",
+            "I"
+        ],
+        "rationale": "The word 'it' refers to the situation being discussed, and 'I' refers to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "The testing part, I think. We need more, um, time to make sure everything working good.",
+        "annotation_token": [
+            "I",
+            "We"
+        ],
+        "rationale": "The word 'I' refers to the speaker, and 'We' refers to the group including the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Maybe, um, two more days? I think it will be enough.",
+        "annotation_token": [
+            "I",
+            "it"
+        ],
+        "rationale": "The word 'I' refers to the speaker, and 'it' refers to the time being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you! I will work hard, uh, to make it on time.",
+        "annotation_token": [
+            "I",
+            "it"
+        ],
+        "rationale": "The word 'I' refers to the speaker, and 'it' refers to the task or deadline.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Maybe some help with... um, documentation? It's, uh, hard for me to write fast.",
+        "annotation_token": [
+            "It's",
+            "me"
+        ],
+        "rationale": "The word 'It's' refers to the task of documentation, and 'me' refers to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That is very helpful, thank you so much.",
+        "annotation_token": [
+            "That"
+        ],
+        "rationale": "The word 'That' refers to the help being offered.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, no, I think that is all. I will focus on testing and, uh, tell if more problem.",
+        "annotation_token": [
+            "I",
+            "that"
+        ],
+        "rationale": "The word 'I' refers to the speaker, and 'that' refers to the current state of tasks.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, I will. I work hard to finish.",
+        "annotation_token": [
+            "I"
+        ],
+        "rationale": "The word 'I' refers to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I hope so too. Thank you for understanding.",
+        "annotation_token": [
+            "I"
+        ],
+        "rationale": "The word 'I' refers to the speaker.",
+        "grammar_correctness": true
+    }
+]

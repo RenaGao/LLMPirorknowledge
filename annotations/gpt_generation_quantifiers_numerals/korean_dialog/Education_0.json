@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, but still confuse. The sentences... they not clear for me.",
+        "annotation_token": "The sentences",
+        "rationale": "The word 'The' is a definite article used as a quantifier to specify the sentences being referred to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I just, uh, say \"In conclusion,\" and then finish quickly.",
+        "annotation_token": "In conclusion",
+        "rationale": "The phrase 'In conclusion' is used to quantify the final part of an essay or speech.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, but still confuse. The sentences... they not clear for me.",
+        "annotation_token": "The sentences",
+        "rationale": "The word 'The' is a quantifier used to specify the sentences being referred to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I just, uh, say \"In conclusion,\" and then finish quickly.",
+        "annotation_token": "In conclusion",
+        "rationale": "The phrase 'In conclusion' is used to quantify the final part of an essay or speech.",
+        "grammar_correctness": true
+    }
+]

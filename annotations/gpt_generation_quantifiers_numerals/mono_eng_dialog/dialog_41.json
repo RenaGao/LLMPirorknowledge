@@ -1,0 +1,69 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. During my internship, I helped develop a social media strategy for a local charity. It increased their online engagement by 30% over three months.",
+        "annotation_token": [
+            "30%",
+            "three"
+        ],
+        "rationale": "The sentence contains numerals '30%' and 'three' which quantify the increase in online engagement and the duration over which it occurred.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. During my internship, I helped develop a social media strategy for a local charity. It increased their online engagement by 30% over three months.",
+        "annotation_token": [
+            "30%",
+            "three"
+        ],
+        "rationale": "The sentence contains numerals '30%' and 'three', which quantify the increase in online engagement and the duration over which it occurred.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. During my internship, I helped develop a social media strategy for a local charity. It increased their online engagement by 30% over three months.",
+        "annotation_token": [
+            "30%",
+            "three"
+        ],
+        "rationale": "The sentence contains numerals '30%' and 'three', which quantify the increase in online engagement and the duration over which it occurred.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I recently graduated with a degree in marketing and have been interning at a digital agency.",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The article 'a' acts as a quantifier indicating a single instance of a 'degree' and a 'digital agency'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. During my internship, I helped develop a social media strategy for a local charity.",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The article 'a' acts as a quantifier indicating a single instance of a 'local charity'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It increased their online engagement by 30% over three months.",
+        "annotation_token": [
+            "30%",
+            "three"
+        ],
+        "rationale": "The numeral '30%' indicates a specific percentage increase, and 'three' is a numeral indicating the duration in months.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, what does success look like for someone in this role after the first year?",
+        "annotation_token": [
+            "first"
+        ],
+        "rationale": "The ordinal numeral 'first' specifies the initial year in a sequence of years.",
+        "grammar_correctness": true
+    }
+]

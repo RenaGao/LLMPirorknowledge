@@ -1,0 +1,277 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, Nuch... um, it is quite hard for me to... understand everything.",
+        "annotation_token": [
+            "Oh",
+            "um"
+        ],
+        "rationale": "The tokens 'Oh' and 'um' are used as speech acts to express hesitation and difficulty in understanding.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes. And I think it cause sea level... um, increase?",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The token 'Yes' is used to affirm understanding, and 'um' indicates hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. I not sure how... um, melting ice make sea high.",
+        "annotation_token": [
+            "Yes",
+            "please",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes' and 'please' are used to affirm and request further explanation, while 'um' indicates hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I see. So, ice from land, not from water, right?",
+        "annotation_token": [
+            "Ah"
+        ],
+        "rationale": "The token 'Ah' is used as a speech act to express realization or understanding.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I understand better now.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Wow, very serious. How we can stop it?",
+        "annotation_token": [
+            "Wow"
+        ],
+        "rationale": "The token 'Wow' is used as a speech act to express surprise or concern.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I will talk about this in our presentation. Is it okay?",
+        "annotation_token": [
+            "Okay"
+        ],
+        "rationale": "The token 'Okay' is used as a speech act to express agreement or confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Nuch. You help me a lot. I feel more... um, ready now.",
+        "annotation_token": [
+            "Thank you",
+            "um"
+        ],
+        "rationale": "The token 'Thank you' is used to express gratitude, and 'um' indicates hesitation or thoughtfulness.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think so too. Let's meet again to practice?",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, Nuch... um, it is quite hard for me to... understand everything.",
+        "annotation_token": [
+            "Oh",
+            "um"
+        ],
+        "rationale": "The tokens 'Oh' and 'um' are used as speech acts to express hesitation and difficulty in understanding.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes.",
+        "annotation_token": [
+            "Yes",
+            "yes"
+        ],
+        "rationale": "The repetition of 'Yes' is a speech act to show agreement and emphasis.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please.",
+        "annotation_token": [
+            "Yes",
+            "please"
+        ],
+        "rationale": "The tokens 'Yes, please' are used as a speech act to politely request further explanation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I see.",
+        "annotation_token": [
+            "Ah"
+        ],
+        "rationale": "The token 'Ah' is a speech act indicating realization or understanding.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I understand better now.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Wow, very serious.",
+        "annotation_token": [
+            "Wow"
+        ],
+        "rationale": "The token 'Wow' is a speech act expressing surprise or concern.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I will talk about this in our presentation.",
+        "annotation_token": [
+            "Okay"
+        ],
+        "rationale": "The token 'Okay' is a speech act indicating agreement or acceptance.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Nuch. You help me a lot.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is a speech act expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think so too.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is a speech act indicating agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, Nuch... um, it is quite hard for me to... understand everything.",
+        "annotation_token": [
+            "Oh",
+            "um"
+        ],
+        "rationale": "The tokens 'Oh' and 'um' are used as discourse markers to express hesitation and to initiate a conversation, which are common in speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, the impact on... how to say... ice at the poles?",
+        "annotation_token": [
+            "Um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Um' and 'how to say' are used to express hesitation and to seek clarification, which are typical in speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes. And I think it cause sea level... um, increase?",
+        "annotation_token": [
+            "Yes, yes",
+            "um"
+        ],
+        "rationale": "The repetition of 'Yes, yes' is used to show agreement and emphasis, while 'um' indicates hesitation, both of which are common in speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, please. I not sure how... um, melting ice make sea high.",
+        "annotation_token": [
+            "Yes, please",
+            "um"
+        ],
+        "rationale": "The phrase 'Yes, please' is a polite request for confirmation, and 'um' indicates hesitation, both of which are typical in speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, I see. So, ice from land, not from water, right?",
+        "annotation_token": [
+            "Ah",
+            "I see"
+        ],
+        "rationale": "The tokens 'Ah' and 'I see' are used to express realization and understanding, which are common in speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, I understand better now.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The phrase 'Thank you' is used to express gratitude, which is a common speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Wow, very serious. How we can stop it?",
+        "annotation_token": [
+            "Wow"
+        ],
+        "rationale": "The token 'Wow' is used to express surprise or emphasis, which is a common speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I will talk about this in our presentation. Is it okay?",
+        "annotation_token": [
+            "Okay"
+        ],
+        "rationale": "The token 'Okay' is used to express agreement or confirmation, which is a common speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Nuch. You help me a lot. I feel more... um, ready now.",
+        "annotation_token": [
+            "Thank you",
+            "um"
+        ],
+        "rationale": "The phrase 'Thank you' is used to express gratitude, and 'um' indicates hesitation, both of which are common in speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think so too. Let's meet again to practice?",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used to express agreement, which is a common speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "3 p.m. is good for me. See you then!",
+        "annotation_token": [
+            "See you then"
+        ],
+        "rationale": "The phrase 'See you then' is used to express a farewell or future meeting arrangement, which is a common speech act.",
+        "grammar_correctness": "correct"
+    }
+]

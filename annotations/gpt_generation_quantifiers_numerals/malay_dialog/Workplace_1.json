@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, um, what is most important skill for this job, you think?",
+        "annotation_token": [
+            "most"
+        ],
+        "rationale": "The word 'most' is a quantifier used to indicate the highest degree of importance.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, um, what is most important skill for this job, you think?",
+        "annotation_token": [
+            "most"
+        ],
+        "rationale": "The word 'most' is a quantifier used to indicate the highest degree of importance.",
+        "grammar_correctness": true
+    }
+]

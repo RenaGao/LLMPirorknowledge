@@ -1,0 +1,93 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, um, yes, I was little... confused.",
+        "annotation_token": [
+            "I was"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'was' in past tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, when we talk on Thursday, I hear you say you not come to the meeting.",
+        "annotation_token": [
+            "we talk",
+            "I hear"
+        ],
+        "rationale": "The subject 'we' correctly agrees with the verb 'talk' in present tense, and the subject 'I' correctly agrees with the verb 'hear' in present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, um, you know, I was preparing report.",
+        "annotation_token": [
+            "I was preparing"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'was preparing' in past continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, it is okay.",
+        "annotation_token": [
+            "it is"
+        ],
+        "rationale": "The subject 'it' correctly agrees with the verb 'is' in present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, communication is very important.",
+        "annotation_token": [
+            "communication is"
+        ],
+        "rationale": "The subject 'communication' correctly agrees with the verb 'is' in present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I will try to listen better and also speak clearer.",
+        "annotation_token": [
+            "I will try"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'will try' in future tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, just about presentation next week. You say you will start, or I?",
+        "annotation_token": [
+            "You say"
+        ],
+        "rationale": "The subject 'You' correctly agrees with the verb 'say' in present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "No, no, you start is good.",
+        "annotation_token": [
+            "you start"
+        ],
+        "rationale": "The subject 'you' correctly agrees with the verb 'start' in present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, that is good.",
+        "annotation_token": [
+            "that is"
+        ],
+        "rationale": "The subject 'that' correctly agrees with the verb 'is' in present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, thank you. I will remember.",
+        "annotation_token": [
+            "I will remember"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'will remember' in future tense.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "He like spicy food, kan?",
+        "annotation_token": [
+            "like"
+        ],
+        "rationale": "The verb 'like' should be in the present tense form 'likes' to agree with the third person singular subject 'He'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hmm, maybe... oh, he like sports.",
+        "annotation_token": [
+            "like"
+        ],
+        "rationale": "The verb 'like' should be in the present tense form 'likes' to agree with the third person singular subject 'he'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "He like what type of music?",
+        "annotation_token": [
+            "like"
+        ],
+        "rationale": "The verb 'like' should be in the present tense form 'likes' to agree with the third person singular subject 'He'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Maybe, um, start at 5 p.m.? So, we have time for, uh, eat and talk before he come.",
+        "annotation_token": [
+            "come"
+        ],
+        "rationale": "The verb 'come' should be in the present tense form 'comes' to agree with the third person singular subject 'he'.",
+        "grammar_correctness": "wrong"
+    }
+]

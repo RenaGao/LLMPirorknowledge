@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Well, your university has a strong reputation in environmental science, which is my intended major.",
+        "annotation_token": "university has",
+        "rationale": "The noun 'university' and the verb 'has' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Certainly! I led a community cleanup initiative in my hometown, which opened my eyes to local environmental issues and inspired me to pursue solutions on a larger scale.",
+        "annotation_token": "initiative opened",
+        "rationale": "The noun 'initiative' and the verb 'opened' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I’m eager to join the sustainability club and volunteer for campus events.",
+        "annotation_token": "club volunteer",
+        "rationale": "The noun 'club' and the verb 'volunteer' form a collocation that expresses a complete and meaningful action.",
+        "grammar_correctness": true
+    }
+]

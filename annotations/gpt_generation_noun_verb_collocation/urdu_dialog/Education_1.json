@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, thank you. Um, I am finding it... difficult.",
+        "annotation_token": "finding it",
+        "rationale": "The noun 'it' and the verb 'finding' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, yes, I heard about this treaty.",
+        "annotation_token": "heard about",
+        "rationale": "The noun 'treaty' and the verb 'heard' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Poland, yes. This was first attack, na?",
+        "annotation_token": "was attack",
+        "rationale": "The noun 'attack' and the verb 'was' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Pearl Harbor! I know this. It is in... um, Hawaii?",
+        "annotation_token": "is in",
+        "rationale": "The noun 'Hawaii' and the verb 'is' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, it mean... how to say... purify and bless.",
+        "annotation_token": [
+            "it mean"
+        ],
+        "rationale": "The subject 'it' does not agree with the verb 'mean'. The correct form should be 'it means'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Many tourist come.",
+        "annotation_token": [
+            "tourist come"
+        ],
+        "rationale": "The subject 'tourist' is singular and does not agree with the verb 'come'. The correct form should be 'tourists come'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Some place have longer.",
+        "annotation_token": [
+            "place have"
+        ],
+        "rationale": "The subject 'place' is singular and does not agree with the verb 'have'. The correct form should be 'places have' or 'place has'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Some people not like.",
+        "annotation_token": [
+            "people not like"
+        ],
+        "rationale": "The subject 'people' is plural and should agree with the verb 'like'. The correct form should be 'people do not like'.",
+        "grammar_correctness": "wrong"
+    }
+]

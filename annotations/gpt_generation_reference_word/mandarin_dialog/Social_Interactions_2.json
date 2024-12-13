@@ -1,0 +1,100 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, hello, Xiao Ming! I am... uh, doing good, thank you. How are you?",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person Xiao Ming.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, long time. Um, everything is well. Just, uh, busy with family things. How about you?",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person Xiao Ming.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, parks. Yes, I go last week. The weather was very nice. You like parks too, yes?",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person Xiao Ming.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Biking, yes! But I not very good at it. Always, uh, afraid to fall.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the activity of biking.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, that would be nice! You are very kind. How about work? Is it busy for you?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the subject of work.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hobbies, ah... I like cooking. Trying new recipes. Very fun! You cook too?",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person Xiao Ming.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "My favorite... um, is dumplings. Many flavors. You like dumplings?",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person Xiao Ming.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, of course! We make together. I bring all things we need.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and Xiao Ming.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "He is good, just... um, how to say... resting more these days. He ask about you too.",
+        "annotation_token": "He",
+        "rationale": "The word 'He' is a reference word referring to a male person known to both speakers.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "He is good, just... um, how to say... resting more these days. He ask about you too.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person Xiao Ming.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I will tell him. We also hope to see you. Maybe next month?",
+        "annotation_token": "him",
+        "rationale": "The word 'him' is a reference word referring to a male person known to both speakers.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I will tell him. We also hope to see you. Maybe next month?",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person Xiao Ming.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, we plan. Thank you for calling, Xiao Ming.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to the speaker and possibly others.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "You too, take care! Bye",
+        "annotation_token": "You",
+        "rationale": "The word 'You' is a reference word referring to the person Xiao Ming.",
+        "grammar_correctness": true
+    }
+]

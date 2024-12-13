@@ -1,0 +1,54 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, yes. In China, we use chopsticks, and, um, it's important to not stick them... uh, how to say... upright in rice.",
+        "annotation_token": [
+            "use",
+            "it's"
+        ],
+        "rationale": "The sentence uses present tense verbs 'use' and 'it's' to describe a general truth or habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, yes. It’s, uh, not polite. Also, we like to share dish. Everything is, um, put in middle of table.",
+        "annotation_token": [
+            "like",
+            "is",
+            "put"
+        ],
+        "rationale": "The sentence uses present tense verbs 'like', 'is', and 'put' to describe habitual actions and general truths.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, we like to share. It is, um, more... how you say... social.",
+        "annotation_token": [
+            "like",
+            "is"
+        ],
+        "rationale": "The sentence uses present tense verbs 'like' and 'is' to describe habitual actions and general truths.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, in China, we do not usually tip. It is, um, not expected.",
+        "annotation_token": [
+            "do not tip",
+            "is"
+        ],
+        "rationale": "The sentence uses present tense verbs 'do not tip' and 'is' to describe habitual actions and general truths.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, tea is very common. We have many, uh, types of tea. It is, um, important in culture.",
+        "annotation_token": [
+            "is",
+            "have",
+            "is"
+        ],
+        "rationale": "The sentence uses present tense verbs 'is', 'have', and 'is' to describe general truths.",
+        "grammar_correctness": "correct"
+    }
+]

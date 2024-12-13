@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We celebrate, um, two stars meeting in sky.",
+        "annotation_token": "celebrate two stars meeting",
+        "rationale": "The noun 'two stars meeting' and the verb 'celebrate' form a meaningful and complete action, which is a noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, um, people write wishes on paper.",
+        "annotation_token": "write wishes",
+        "rationale": "The noun 'wishes' and the verb 'write' form a meaningful and complete action, which is a noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Then, we hang on bamboo.",
+        "annotation_token": "hang on bamboo",
+        "rationale": "The noun 'bamboo' and the verb 'hang' form a meaningful and complete action, which is a noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Children write, too.",
+        "annotation_token": "write",
+        "rationale": "The noun 'Children' and the verb 'write' form a meaningful and complete action, which is a noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, sometimes there are festival... uh, matsuri.",
+        "annotation_token": "are festival",
+        "rationale": "The noun 'festival' and the verb 'are' form a meaningful and complete action, which is a noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We eat... uh, summer food.",
+        "annotation_token": "eat summer food",
+        "rationale": "The noun 'summer food' and the verb 'eat' form a meaningful and complete action, which is a noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, some people wear yukata.",
+        "annotation_token": "wear yukata",
+        "rationale": "The noun 'yukata' and the verb 'wear' form a meaningful and complete action, which is a noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, it is story of two star lovers, Orihime and Hikoboshi.",
+        "annotation_token": "is story",
+        "rationale": "The noun 'story' and the verb 'is' form a meaningful and complete action, which is a noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "They meet once a year.",
+        "annotation_token": "meet",
+        "rationale": "The noun 'They' (referring to 'two star lovers') and the verb 'meet' form a meaningful and complete action, which is a noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "My family, um, always write wishes together.",
+        "annotation_token": "write wishes",
+        "rationale": "The noun 'wishes' and the verb 'write' form a meaningful and complete action, which is a noun and verb collocation.",
+        "grammar_correctness": true
+    }
+]

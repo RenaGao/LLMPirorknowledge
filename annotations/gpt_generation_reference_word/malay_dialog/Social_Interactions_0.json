@@ -1,0 +1,93 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, hello. I am Rizal. Nice to meet you too, Sarah.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Rizal.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I enjoy.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Rizal.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, I work in, um, how to say... building, uh, make building.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Rizal.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, construction! I work in construction.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Rizal.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, now I work on, uh, school building.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Rizal.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I like it.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Rizal.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is, um, satisfying when finish project.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word used to refer to the work or project Rizal is involved in.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I have... um, four year.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Rizal.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "No, I am from Malaysia.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Rizal.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I move here two year ago.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Rizal.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is nice.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word used to refer to the place where Rizal currently lives.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I like to go, um, park.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Rizal.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, Sarah.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word used to refer to the listener, Sarah.",
+        "grammar_correctness": true
+    }
+]

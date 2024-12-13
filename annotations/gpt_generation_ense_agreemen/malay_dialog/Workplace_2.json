@@ -1,0 +1,21 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, file management. Yes, I use before. But maybe different... system here.",
+        "annotation_token": [
+            "use",
+            "different"
+        ],
+        "rationale": "The verb 'use' should be in the past tense 'used' to agree with the implied past context. The word 'different' is not a verb and does not require tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, I just install yesterday. Still, uh, figuring out.",
+        "annotation_token": [
+            "install"
+        ],
+        "rationale": "The verb 'install' should be in the past tense 'installed' to agree with the time expression 'yesterday'.",
+        "grammar_correctness": "wrong"
+    }
+]

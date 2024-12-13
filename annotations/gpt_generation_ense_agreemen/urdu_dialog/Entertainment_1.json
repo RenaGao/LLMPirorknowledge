@@ -1,0 +1,99 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hello! Um, I am good, thank you. I was thinking... maybe we go out to eat?",
+        "annotation_token": [
+            "am",
+            "was",
+            "go"
+        ],
+        "rationale": "The sentence contains a mix of present ('am') and past ('was') tense, and the verb 'go' should be in the past tense to agree with 'was'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, yes! That the one. I hear they have very good... uh, how to say... flavors?",
+        "annotation_token": [
+            "hear",
+            "have"
+        ],
+        "rationale": "The sentence uses present tense verbs 'hear' and 'have', which are correct if the speaker is referring to a current situation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, maybe not need? We can just go and see if place is busy.",
+        "annotation_token": [
+            "need",
+            "is"
+        ],
+        "rationale": "The sentence uses present tense 'is', but 'need' should be 'do not need' to maintain tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "How about, um, 7 o'clock? Is it good for you?",
+        "annotation_token": [
+            "Is"
+        ],
+        "rationale": "The sentence uses present tense 'Is', which is correct for asking about a future arrangement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Maybe we can... um, see movie? Or go for... uh, sweet things?",
+        "annotation_token": [
+            "can",
+            "see",
+            "go"
+        ],
+        "rationale": "The sentence uses present tense 'can', 'see', and 'go', which are correct for suggesting future actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, I not sure of names. But something... how to say, with action?",
+        "annotation_token": [
+            "not sure"
+        ],
+        "rationale": "The sentence lacks the auxiliary verb 'am' for the present tense, which should be 'I am not sure'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you! And, um, if it late, we can just have dessert nearby?",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The sentence should use 'is' to maintain present tense agreement, but 'it late' lacks the auxiliary verb 'is'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I know that place! They have very nice... uh, cakes.",
+        "annotation_token": [
+            "know",
+            "have"
+        ],
+        "rationale": "The sentence uses present tense 'know' and 'have', which are correct for describing a current situation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, very good plan! I will see you at restaurant.",
+        "annotation_token": [
+            "will see"
+        ],
+        "rationale": "The sentence uses future tense 'will see', which is correct for a future arrangement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Me too! Thank you for help with plan.",
+        "annotation_token": [
+            "Thank"
+        ],
+        "rationale": "The sentence uses present tense 'Thank', which is correct for expressing gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I, uh, I will check data again. Then I correct and send new report.",
+        "annotation_token": [
+            "will check",
+            "correct",
+            "send"
+        ],
+        "rationale": "The sentence contains a mix of future tense ('will check') and present tense ('correct', 'send') which should be consistent.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, team. I... I happy to work togeth",
+        "annotation_token": [
+            "I happy"
+        ],
+        "rationale": "The sentence lacks the auxiliary verb 'am' for present continuous tense agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, pen. I need pen. But, um, special pen for calligraphy.",
+        "annotation_token": [
+            "need"
+        ],
+        "rationale": "The verb 'need' is correctly used in the present tense to express a current requirement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, please. Thank you. I not know where it is.",
+        "annotation_token": [
+            "not know"
+        ],
+        "rationale": "The phrase 'not know' should be 'do not know' to correctly form the present tense negative.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, I not sure about brand. Maybe you can recommend?",
+        "annotation_token": [
+            "not sure"
+        ],
+        "rationale": "The phrase 'not sure' should be 'am not sure' to correctly form the present tense.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Maybe two refills. Is it okay?",
+        "annotation_token": [
+            "Is"
+        ],
+        "rationale": "The verb 'is' is correctly used in the present tense to ask a question about the current situation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, um... I also need paper, special for calligraphy.",
+        "annotation_token": [
+            "need"
+        ],
+        "rationale": "The verb 'need' is correctly used in the present tense to express a current requirement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, please. I want little bigger size, if have.",
+        "annotation_token": [
+            "want",
+            "have"
+        ],
+        "rationale": "The verb 'want' is correctly used in the present tense, but 'if have' should be 'if you have' to correctly form the present tense conditional.",
+        "grammar_correctness": "partially correct"
+    }
+]

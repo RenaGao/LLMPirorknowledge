@@ -1,0 +1,299 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, thanks for having me.",
+        "annotation_token": [
+            "Hi",
+            "thanks"
+        ],
+        "rationale": "The sentence contains a greeting ('Hi') and an expression of gratitude ('thanks'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Could you tell me more about the course structure?",
+        "annotation_token": [
+            "Could",
+            "tell"
+        ],
+        "rationale": "The sentence is a request for information, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I’m particularly interested in entrepreneurship.",
+        "annotation_token": [
+            "interested"
+        ],
+        "rationale": "The sentence expresses a personal interest, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Are there any specific courses or projects related to that?",
+        "annotation_token": [
+            "Are",
+            "related"
+        ],
+        "rationale": "The sentence is a question seeking information, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Definitely.",
+        "annotation_token": [
+            "Definitely"
+        ],
+        "rationale": "The word 'Definitely' is an affirmation, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It sounds like a great opportunity.",
+        "annotation_token": [
+            "sounds",
+            "great"
+        ],
+        "rationale": "The sentence expresses an opinion, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Are there any internship options available through the program?",
+        "annotation_token": [
+            "Are",
+            "available"
+        ],
+        "rationale": "The sentence is a question seeking information, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that would be helpful.",
+        "annotation_token": [
+            "Yes",
+            "helpful"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes') and an expression of appreciation ('helpful'), both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Also, is there support available for international students like me?",
+        "annotation_token": [
+            "is",
+            "available"
+        ],
+        "rationale": "The sentence is a question seeking information, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Mainly just settling in and meeting new people.",
+        "annotation_token": [
+            "settling",
+            "meeting"
+        ],
+        "rationale": "The sentence describes actions related to adjusting to a new environment, which can be considered a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It’s a big move!",
+        "annotation_token": [
+            "big",
+            "move"
+        ],
+        "rationale": "The sentence expresses an opinion or feeling about the situation, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I’ve been looking into it, but any advice would be appreciated.",
+        "annotation_token": [
+            "looking",
+            "appreciated"
+        ],
+        "rationale": "The sentence expresses a request for advice, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Especially on-campus options.",
+        "annotation_token": [
+            "on-campus",
+            "options"
+        ],
+        "rationale": "The sentence specifies a particular area of interest, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That would be great, thank you.",
+        "annotation_token": [
+            "great",
+            "thank"
+        ],
+        "rationale": "The sentence expresses appreciation and gratitude, which are types of speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I feel much more informed now.",
+        "annotation_token": [
+            "feel",
+            "informed"
+        ],
+        "rationale": "The sentence expresses a change in knowledge or understanding, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, thanks for having me.",
+        "annotation_token": [
+            "Hi",
+            "thanks"
+        ],
+        "rationale": "The tokens 'Hi' and 'thanks' are used as speech acts to greet and express gratitude, respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Could you tell me more about the course structure?",
+        "annotation_token": [
+            "Could",
+            "tell"
+        ],
+        "rationale": "The tokens 'Could' and 'tell' are used as a speech act to make a polite request for information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I’m particularly interested in entrepreneurship.",
+        "annotation_token": [
+            "interested"
+        ],
+        "rationale": "The token 'interested' is used as a speech act to express interest.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Are there any specific courses or projects related to that?",
+        "annotation_token": [
+            "Are",
+            "related"
+        ],
+        "rationale": "The tokens 'Are' and 'related' are used as a speech act to inquire about specific information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Definitely.",
+        "annotation_token": [
+            "Definitely"
+        ],
+        "rationale": "The token 'Definitely' is used as a speech act to express strong agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It sounds like a great opportunity.",
+        "annotation_token": [
+            "sounds",
+            "great"
+        ],
+        "rationale": "The tokens 'sounds' and 'great' are used as a speech act to express a positive opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Are there any internship options available through the program?",
+        "annotation_token": [
+            "Are",
+            "available"
+        ],
+        "rationale": "The tokens 'Are' and 'available' are used as a speech act to inquire about availability.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, that would be helpful.",
+        "annotation_token": [
+            "Yes",
+            "helpful"
+        ],
+        "rationale": "The tokens 'Yes' and 'helpful' are used as a speech act to express agreement and appreciation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Also, is there support available for international students like me?",
+        "annotation_token": [
+            "is",
+            "support",
+            "available"
+        ],
+        "rationale": "The tokens 'is', 'support', and 'available' are used as a speech act to inquire about the availability of support.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Mainly just settling in and meeting new people.",
+        "annotation_token": [
+            "settling",
+            "meeting"
+        ],
+        "rationale": "The tokens 'settling' and 'meeting' are used as a speech act to describe actions related to adaptation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It’s a big move!",
+        "annotation_token": [
+            "big",
+            "move"
+        ],
+        "rationale": "The tokens 'big' and 'move' are used as a speech act to express the significance of the action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I’ve been looking into it, but any advice would be appreciated.",
+        "annotation_token": [
+            "looking",
+            "advice",
+            "appreciated"
+        ],
+        "rationale": "The tokens 'looking', 'advice', and 'appreciated' are used as a speech act to express a request for advice.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Especially on-campus options.",
+        "annotation_token": [
+            "on-campus",
+            "options"
+        ],
+        "rationale": "The tokens 'on-campus' and 'options' are used as a speech act to specify the type of advice being sought.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That would be great, thank you.",
+        "annotation_token": [
+            "great",
+            "thank"
+        ],
+        "rationale": "The tokens 'great' and 'thank' are used as a speech act to express appreciation and gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I feel much more informed now.",
+        "annotation_token": [
+            "informed"
+        ],
+        "rationale": "The token 'informed' is used as a speech act to express a state of being well-informed.",
+        "grammar_correctness": "correct"
+    }
+]

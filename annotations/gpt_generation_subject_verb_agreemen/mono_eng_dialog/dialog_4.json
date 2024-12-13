@@ -1,0 +1,86 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Good morning! I'm a bit nervous but mostly excited.",
+        "annotation_token": "I'm",
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in the contraction 'I'm'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Well, your university has a strong reputation in environmental science, which is my intended major.",
+        "annotation_token": "university has",
+        "rationale": "The subject 'university' correctly agrees with the verb 'has'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Plus, the research opportunities here are impressive.",
+        "annotation_token": "opportunities are",
+        "rationale": "The subject 'opportunities' correctly agrees with the verb 'are'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Certainly! I led a community cleanup initiative in my hometown, which opened my eyes to local environmental issues and inspired me to pursue solutions on a larger scale.",
+        "annotation_token": "I led",
+        "rationale": "The subject 'I' correctly agrees with the verb 'led'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’m eager to join the sustainability club and volunteer for campus events.",
+        "annotation_token": "I’m eager",
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in the contraction 'I’m'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I believe in actively participating in community efforts to promote environmental awareness.",
+        "annotation_token": "I believe",
+        "rationale": "The subject 'I' correctly agrees with the verb 'believe'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, could you elaborate on the support systems available for first-year students?",
+        "annotation_token": "you elaborate",
+        "rationale": "The subject 'you' correctly agrees with the verb 'elaborate'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That’s reassuring to hear.",
+        "annotation_token": "That’s",
+        "rationale": "The subject 'That' correctly agrees with the verb 'is' in the contraction 'That’s'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It’s important to feel supported, especially when starting something new.",
+        "annotation_token": "It’s",
+        "rationale": "The subject 'It' correctly agrees with the verb 'is' in the contraction 'It’s'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you for the opportunity.",
+        "annotation_token": "you thank",
+        "rationale": "The subject 'you' correctly agrees with the verb 'thank'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I look forward to hearing from you.",
+        "annotation_token": "I look",
+        "rationale": "The subject 'I' correctly agrees with the verb 'look'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Have a great day!",
+        "annotation_token": "you have",
+        "rationale": "The implied subject 'you' correctly agrees with the verb 'have'.",
+        "grammar_correctness": "correct"
+    }
+]

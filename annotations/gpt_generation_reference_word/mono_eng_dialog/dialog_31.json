@@ -1,0 +1,82 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hi, James. I’m doing well, thank you! Excited to be here. How about you?",
+        "annotation_token": [
+            "I",
+            "you"
+        ],
+        "rationale": "The word 'I' refers to the speaker, and 'you' refers to James, the person being addressed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Of course. I recently graduated with a degree in marketing, and I’ve always had a passion for digital media. I came across your company’s work online and was really impressed by your innovative campaigns.",
+        "annotation_token": [
+            "I",
+            "your"
+        ],
+        "rationale": "The word 'I' refers to the speaker, and 'your' refers to the company associated with James.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Well, I have a strong background in social media analytics and content creation. During my internship, I managed to increase engagement rates by 30% through targeted campaigns.",
+        "annotation_token": [
+            "I"
+        ],
+        "rationale": "The word 'I' refers to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Certainly. We focused on creating interactive content, like polls and live Q&A sessions, to directly engage with our audience. It was about making the brand more relatable.",
+        "annotation_token": [
+            "We",
+            "our",
+            "It"
+        ],
+        "rationale": "The word 'We' refers to the speaker and their team, 'our' refers to the audience of the speaker's team, and 'It' refers to the focus of the content creation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I see feedback as a growth opportunity. It helps refine strategies and improve future outcomes. I always try to analyze the feedback objectively and implement changes where necessary.",
+        "annotation_token": [
+            "I",
+            "It"
+        ],
+        "rationale": "The word 'I' refers to the speaker, and 'It' refers to feedback.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I’d love to know more about the team I’d be working with and the kind of projects you have lined up for the next quarter.",
+        "annotation_token": [
+            "I",
+            "you"
+        ],
+        "rationale": "The word 'I' refers to the speaker, and 'you' refers to James or the company associated with him.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That sounds fantastic! I’m thrilled about the possibility. Thank you for sharing more about the role and the team.",
+        "annotation_token": [
+            "I",
+            "you"
+        ],
+        "rationale": "The word 'I' refers to the speaker, and 'you' refers to James or the person sharing information.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, James. I look forward to hearing from you. Have a great day!",
+        "annotation_token": [
+            "I",
+            "you"
+        ],
+        "rationale": "The word 'I' refers to the speaker, and 'you' refers to James.",
+        "grammar_correctness": true
+    }
+]

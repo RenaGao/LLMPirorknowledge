@@ -1,0 +1,51 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I recommend.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "recommend"
+        ],
+        "rationale": "The sentence 'Yes, I recommend.' is a speech act because it is a performative utterance where the speaker is making a recommendation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will.",
+        "annotation_token": [
+            "Yes",
+            "I",
+            "will"
+        ],
+        "rationale": "The sentence 'Yes, I will.' is a speech act because it is a performative utterance where the speaker is making a promise or commitment to do something.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I recommend.",
+        "annotation_token": [
+            "recommend"
+        ],
+        "rationale": "The word 'recommend' is a performative verb indicating the speaker's act of suggesting or advising the listener to read the book.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will.",
+        "annotation_token": [
+            "will"
+        ],
+        "rationale": "The word 'will' is used here as a performative verb indicating the speaker's commitment or promise to take an action in the future.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for... talking about books with me.",
+        "annotation_token": [
+            "Thank"
+        ],
+        "rationale": "The word 'Thank' is a performative verb expressing gratitude, which is a common speech act.",
+        "grammar_correctness": "correct"
+    }
+]

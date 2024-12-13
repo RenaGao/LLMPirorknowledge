@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, we, um, have big family dinner.",
+        "annotation_token": "have dinner",
+        "rationale": "The noun 'dinner' and the verb 'have' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We eat... uh, special food like dumpling and fish.",
+        "annotation_token": "eat food",
+        "rationale": "The noun 'food' and the verb 'eat' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We do... um, how to say... lion dance in street?",
+        "annotation_token": "do dance",
+        "rationale": "The noun 'dance' and the verb 'do' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, we give... uh, red envelope with money inside.",
+        "annotation_token": "give envelope",
+        "rationale": "The noun 'envelope' and the verb 'give' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Last day we have, um, Lantern Festival, with, uh, beautiful lanterns.",
+        "annotation_token": "have festival",
+        "rationale": "The noun 'festival' and the verb 'have' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

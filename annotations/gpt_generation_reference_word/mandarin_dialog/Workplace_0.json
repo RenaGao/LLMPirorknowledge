@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, of course. Um, the deadline is... how to say... coming soon, right?",
+        "annotation_token": "the deadline",
+        "rationale": "The phrase 'the deadline' is a reference to a specific time limit or due date that has been previously mentioned or is understood in the context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, it's... how to say... the software we use? It have, um, problem with compatibility.",
+        "annotation_token": "the software",
+        "rationale": "The phrase 'the software' refers to a specific software that both speakers are aware of or have discussed previously.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Uh, not yet. I plan to do it today. I think they can help fix... uh, problem quickly.",
+        "annotation_token": "they",
+        "rationale": "The pronoun 'they' is used to refer to a group of people who have been previously mentioned or are understood in the context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I believe so. After fix, it should be... um, faster. But I need also more, um, time to test.",
+        "annotation_token": "it",
+        "rationale": "The pronoun 'it' is used to refer back to the software or system that is being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, yes! That would be... very helpful. Can we have, um, more people for testing?",
+        "annotation_token": "that",
+        "rationale": "The pronoun 'that' refers to a suggestion or idea that was mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, that is good. With more help, we finish on time, I think.",
+        "annotation_token": "that",
+        "rationale": "The pronoun 'that' refers to the idea of having more people for testing, which was mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, next week is... um, good. Maybe Tuesday? I can update then.",
+        "annotation_token": "then",
+        "rationale": "The adverb 'then' refers to the time when the update will occur, which is understood to be next week, possibly Tuesday.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay, I will make sure everything is, uh, ready by Friday.",
+        "annotation_token": "everything",
+        "rationale": "The pronoun 'everything' refers to all the tasks or preparations that need to be completed by Friday.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you! I will, um, let you know if anything come up.",
+        "annotation_token": "anything",
+        "rationale": "The pronoun 'anything' refers to any issues or updates that might arise.",
+        "grammar_correctness": true
+    }
+]

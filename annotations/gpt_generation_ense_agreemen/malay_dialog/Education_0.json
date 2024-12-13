@@ -1,0 +1,34 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I write notes, but sometimes it’s too much. I don’t know how to, uh, choose important part.",
+        "annotation_token": [
+            "write",
+            "don’t know",
+            "choose"
+        ],
+        "rationale": "The verbs 'write', 'don’t know', and 'choose' are in the present tense, which is consistent with the context of the sentence describing a habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I do some, but not many. I find some question very confusing.",
+        "annotation_token": [
+            "do",
+            "find"
+        ],
+        "rationale": "The verbs 'do' and 'find' are in the present tense, which is consistent with the context of the sentence describing a habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I see. I often forget formula, maybe need practice more.",
+        "annotation_token": [
+            "see",
+            "forget",
+            "need"
+        ],
+        "rationale": "The verbs 'see', 'forget', and 'need' are in the present tense, which is consistent with the context of the sentence describing a habitual action.",
+        "grammar_correctness": "correct"
+    }
+]

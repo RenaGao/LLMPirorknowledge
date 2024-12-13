@@ -1,0 +1,252 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, hi! My favorite is Songkran. It is... how to say... Thai New Year.",
+        "annotation_token": [
+            "Um",
+            "yes",
+            "hi",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Um', 'yes', 'hi', and 'how to say' are used as speech acts to initiate conversation, express agreement, greet, and seek clarification respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We have... um, water festival. We splash water for good luck. It is very fun!",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to pause and think during the conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, all over! In big city, um, very... crowded and big festival. In village, more... how to say, quiet?",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Yes', 'um', and 'how to say' are used as speech acts to confirm, pause, and seek clarification respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, we eat... um, Thai traditional food. Like... khao chae, it is rice with flower water and... um, side dish.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes' and 'um' are used as speech acts to confirm and pause respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I like... um, meet family and friends. We have... how to say... gathering and eat together.",
+        "annotation_token": [
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'um' and 'how to say' are used as speech acts to pause and seek clarification respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, we wear... um, traditional clothes. It is very... colorful and nice.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes' and 'um' are used as speech acts to confirm and pause respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I remember when I... um, young. We play water in street and... um, everybody happy.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to pause and think during the conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I love that we... um, show respect. We pour water on elder hand for... how to say... blessing.",
+        "annotation_token": [
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'um' and 'how to say' are used as speech acts to pause and seek clarification respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You welcome! If you come to Thailand, I show you Songkran. It very ni",
+        "annotation_token": [
+            "You welcome"
+        ],
+        "rationale": "The token 'You welcome' is used as a speech act to express politeness and gratitude.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, hi! My favorite is Songkran. It is... how to say... Thai New Year.",
+        "annotation_token": [
+            "Um",
+            "yes",
+            "hi",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Um', 'yes', 'hi', and 'how to say' are used as speech acts to manage the conversation, express agreement, greet, and request assistance in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We have... um, water festival. We splash water for good luck. It is very fun!",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to pause and think during the conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, all over! In big city, um, very... crowded and big festival. In village, more... how to say, quiet?",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Yes', 'um', and 'how to say' are used as speech acts to confirm, pause, and request assistance in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, we eat... um, Thai traditional food. Like... khao chae, it is rice with flower water and... um, side dish.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes' and 'um' are used as speech acts to confirm and pause during the conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I like... um, meet family and friends. We have... how to say... gathering and eat together.",
+        "annotation_token": [
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'um' and 'how to say' are used as speech acts to pause and request assistance in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, we wear... um, traditional clothes. It is very... colorful and nice.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes' and 'um' are used as speech acts to confirm and pause during the conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I remember when I... um, young. We play water in street and... um, everybody happy.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to pause and think during the conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I love that we... um, show respect. We pour water on elder hand for... how to say... blessing.",
+        "annotation_token": [
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'um' and 'how to say' are used as speech acts to pause and request assistance in finding the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You welcome! If you come to Thailand, I show you Songkran. It very ni",
+        "annotation_token": [
+            "You welcome"
+        ],
+        "rationale": "The token 'You welcome' is used as a speech act to express politeness and gratitude.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, hi! My favorite is Songkran. It is... how to say... Thai New Year.",
+        "annotation_token": [
+            "Um",
+            "yes",
+            "hi",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Um', 'yes', 'hi', and 'how to say' are used as speech acts to initiate conversation, confirm understanding, greet, and express hesitation or search for words.",
+        "grammar_correctness": "The use of these speech acts is generally correct and common in conversational English, though 'how to say' is a non-native structure."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We have... um, water festival. We splash water for good luck. It is very fun!",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to indicate hesitation or a pause while thinking.",
+        "grammar_correctness": "The use of 'um' is correct and common in conversational English."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, all over! In big city, um, very... crowded and big festival. In village, more... how to say, quiet?",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Yes', 'um', and 'how to say' are used as speech acts to confirm, indicate hesitation, and search for words.",
+        "grammar_correctness": "The use of these speech acts is generally correct, though 'how to say' is a non-native structure."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I like... um, meet family and friends. We have... how to say... gathering and eat together.",
+        "annotation_token": [
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'um' and 'how to say' are used as speech acts to indicate hesitation and search for words.",
+        "grammar_correctness": "The use of 'um' is correct, but 'how to say' is a non-native structure."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I remember when I... um, young. We play water in street and... um, everybody happy.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to indicate hesitation or a pause while thinking.",
+        "grammar_correctness": "The use of 'um' is correct and common in conversational English."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I love that we... um, show respect. We pour water on elder hand for... how to say... blessing.",
+        "annotation_token": [
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'um' and 'how to say' are used as speech acts to indicate hesitation and search for words.",
+        "grammar_correctness": "The use of 'um' is correct, but 'how to say' is a non-native structure."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You welcome! If you come to Thailand, I show you Songkran. It very ni",
+        "annotation_token": [
+            "You welcome"
+        ],
+        "rationale": "The token 'You welcome' is used as a speech act to express politeness and gratitude.",
+        "grammar_correctness": "The correct form is 'You're welcome', so it is not aligned with native English usage."
+    }
+]

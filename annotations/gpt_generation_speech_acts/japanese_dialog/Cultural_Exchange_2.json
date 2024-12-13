@@ -1,0 +1,317 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. My favorite is, um... how you say... New Year, or \"Shougatsu.\"",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "um",
+            "how you say"
+        ],
+        "rationale": "The tokens 'Ah', 'yes', 'um', and 'how you say' are used as speech acts to express agreement, hesitation, and a request for confirmation or clarification.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It is very... um, special time.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We, uh, visit shrine.",
+        "annotation_token": [
+            "uh"
+        ],
+        "rationale": "The token 'uh' is used as a speech act to indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It is called \"Hatsumode.\" And we, um, pray for... good luck.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes. We eat... um, \"Osechi-ryori.\"",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes, yes' are used as a speech act to express agreement or affirmation, and 'um' is used to indicate hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I like... \"otoshidama.\"",
+        "annotation_token": [
+            "Um"
+        ],
+        "rationale": "The token 'Um' is used as a speech act to indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It is, um, money gift for child... from adult.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Now, uh, I give to... my nephew and niece.",
+        "annotation_token": [
+            "uh"
+        ],
+        "rationale": "The token 'uh' is used as a speech act to indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It is... um, nice feeling.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. We make \"Kotoshi no Mokuhyou,\" I think... resolution? Yes, resolution.",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "I think",
+            "Yes"
+        ],
+        "rationale": "The tokens 'Ah', 'yes', and 'Yes' are used as speech acts to express agreement or affirmation, and 'I think' is used to express uncertainty or a tentative statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I want to, uh, learn more English.",
+        "annotation_token": [
+            "Um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Um' and 'uh' are used as speech acts to indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "And maybe... travel... more.",
+        "annotation_token": [
+            "maybe"
+        ],
+        "rationale": "The token 'maybe' is used as a speech act to express uncertainty or possibility.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I want to visit... Europe.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. I hope so too.",
+        "annotation_token": [
+            "Thank you",
+            "I hope so too"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude, and 'I hope so too' is used to express a wish or hope.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "And you, what is your favorite holiday?",
+        "annotation_token": [
+            "And you"
+        ],
+        "rationale": "The token 'And you' is used as a speech act to prompt a response or question the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. Christmas in Japan is, um, different, but we enjoy too.",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Ah', 'yes', and 'um' are used as speech acts to express agreement, hesitation, or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for, uh, sharing!",
+        "annotation_token": [
+            "Thank you",
+            "uh"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude, and 'uh' is used to indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. My favorite is, um... how you say... New Year, or \"Shougatsu.\"",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "um",
+            "how you say"
+        ],
+        "rationale": "The tokens 'Ah', 'yes', 'um', and 'how you say' are used as speech acts to express agreement, hesitation, and a request for confirmation or clarification.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It is very... um, special time.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We, uh, visit shrine.",
+        "annotation_token": [
+            "uh"
+        ],
+        "rationale": "The token 'uh' is used as a speech act to indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It is called \"Hatsumode.\" And we, um, pray for... good luck.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes. We eat... um, \"Osechi-ryori.\"",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes, yes' are used as speech acts to express agreement or confirmation, and 'um' indicates hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I like... \"otoshidama.\"",
+        "annotation_token": [
+            "Um"
+        ],
+        "rationale": "The token 'Um' is used as a speech act to indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Now, uh, I give to... my nephew and niece.",
+        "annotation_token": [
+            "uh"
+        ],
+        "rationale": "The token 'uh' is used as a speech act to indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. We make \"Kotoshi no Mokuhyou,\" I think... resolution? Yes, resolution.",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "I think",
+            "Yes"
+        ],
+        "rationale": "The tokens 'Ah', 'yes', and 'Yes' are used as speech acts to express agreement or confirmation, and 'I think' indicates uncertainty or a request for confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, I want to, uh, learn more English.",
+        "annotation_token": [
+            "Um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Um' and 'uh' are used as speech acts to indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "And maybe... travel... more.",
+        "annotation_token": [
+            "maybe"
+        ],
+        "rationale": "The token 'maybe' is used as a speech act to express uncertainty or possibility.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I want to visit... Europe.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement or confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. I hope so too.",
+        "annotation_token": [
+            "Thank you",
+            "I hope so too"
+        ],
+        "rationale": "The tokens 'Thank you' and 'I hope so too' are used as speech acts to express gratitude and shared hope or agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "And you, what is your favorite holiday?",
+        "annotation_token": [
+            "And you",
+            "what is your favorite holiday"
+        ],
+        "rationale": "The tokens 'And you' and 'what is your favorite holiday' are used as speech acts to engage the listener and ask a question.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. Christmas in Japan is, um, different, but we enjoy too.",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Ah', 'yes', and 'um' are used as speech acts to express agreement, hesitation, and a pause in speech.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for, uh, sharing!",
+        "annotation_token": [
+            "Thank you",
+            "uh"
+        ],
+        "rationale": "The tokens 'Thank you' and 'uh' are used as speech acts to express gratitude and indicate hesitation or a pause in speech.",
+        "grammar_correctness": "correct"
+    }
+]

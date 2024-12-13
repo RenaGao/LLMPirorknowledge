@@ -1,0 +1,62 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, good morning! I am fine, thank you. And you?",
+        "annotation_token": [
+            "good morning",
+            "thank you",
+            "And you"
+        ],
+        "rationale": "The sentence contains speech acts such as greetings ('good morning'), expressions of gratitude ('thank you'), and inquiries ('And you?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I try to start good day. And your morning, how is it?",
+        "annotation_token": [
+            "Thank you",
+            "And your morning, how is it"
+        ],
+        "rationale": "The sentence contains speech acts such as expressions of gratitude ('Thank you') and inquiries ('And your morning, how is it?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for talk!",
+        "annotation_token": [
+            "Thank you for talk"
+        ],
+        "rationale": "The sentence contains a speech act of gratitude ('Thank you for talk').",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, good morning! I am fine, thank you. And you?",
+        "annotation_token": [
+            "good morning",
+            "thank you",
+            "And you"
+        ],
+        "rationale": "The sentence contains speech acts such as greetings ('good morning'), expressions of gratitude ('thank you'), and inquiries ('And you?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you! I try to start good day. And your morning, how is it?",
+        "annotation_token": [
+            "Thank you",
+            "And your morning, how is it"
+        ],
+        "rationale": "The sentence contains speech acts such as expressions of gratitude ('Thank you') and inquiries ('And your morning, how is it?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for talk!",
+        "annotation_token": [
+            "Thank you for talk"
+        ],
+        "rationale": "The sentence contains a speech act of expressing gratitude ('Thank you for talk').",
+        "grammar_correctness": "incorrect"
+    }
+]

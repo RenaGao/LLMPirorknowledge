@@ -1,0 +1,93 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hi, thanks for having me. I'm Alex, and I'm really interested in the position you advertised.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person or people Alex is speaking to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Certainly. I was drawn to your company's innovative approach to social media campaigns.",
+        "annotation_token": "your",
+        "rationale": "The word 'your' is a reference word referring to the company of the person or people Alex is speaking to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I believe my skills in content creation and analytics could really contribute to your team's success.",
+        "annotation_token": "your",
+        "rationale": "The word 'your' is a reference word referring to the team of the person or people Alex is speaking to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sure. Last year, I led a campaign for a local charity event that doubled their online engagement through targeted content and strategic partnerships.",
+        "annotation_token": "their",
+        "rationale": "The word 'their' is a reference word referring to the local charity event.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It was really rewarding to see the tangible impact we made.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the campaign for the local charity event.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I focus on key performance indicators like engagement rates, conversion metrics, and audience growth.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker, Alex.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I also make it a point to gather feedback to refine future strategies.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the action of making a point.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I'm proficient with Google Analytics, Hootsuite, and even some custom dashboard solutions.",
+        "annotation_token": "I'm",
+        "rationale": "The contraction 'I'm' is a reference word referring to the speaker, Alex.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I find these tools crucial for tracking and optimizing campaign performance.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker, Alex.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I aim to deepen my expertise in digital marketing while contributing meaningfully to a forward-thinking team.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker, Alex.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Your company seems like the perfect place for that growth.",
+        "annotation_token": "Your",
+        "rationale": "The word 'Your' is a reference word referring to the company of the person or people Alex is speaking to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you for the opportunity.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person or people Alex is speaking to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I look forward to hearing from you.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the person or people Alex is speaking to.",
+        "grammar_correctness": true
+    }
+]

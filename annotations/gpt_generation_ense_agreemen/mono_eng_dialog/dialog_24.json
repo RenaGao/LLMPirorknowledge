@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I’ve had experience with digital marketing campaigns in my last job, where I helped increase engagement by 30%.",
+        "annotation_token": [
+            "I’ve had",
+            "helped"
+        ],
+        "rationale": "The sentence uses present perfect tense 'I’ve had' to indicate an experience up to the present and past simple tense 'helped' to describe a specific action completed in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I suggested pivoting to a different social media platform, which turned out to be more effective for our target audience.",
+        "annotation_token": [
+            "suggested",
+            "turned out"
+        ],
+        "rationale": "The sentence uses past simple tense 'suggested' and 'turned out' to describe actions completed in the past.",
+        "grammar_correctness": "correct"
+    }
+]

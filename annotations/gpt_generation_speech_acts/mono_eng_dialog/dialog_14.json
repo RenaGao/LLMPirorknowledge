@@ -1,0 +1,104 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, thank you for having me.",
+        "annotation_token": [
+            "Sure",
+            "thank",
+            "you",
+            "for",
+            "having",
+            "me"
+        ],
+        "rationale": "The sentence is a speech act of gratitude and acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely.",
+        "annotation_token": [
+            "Absolutely"
+        ],
+        "rationale": "The sentence is a speech act of agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for the opportunity.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "for",
+            "the",
+            "opportunity"
+        ],
+        "rationale": "The sentence is a speech act of gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I look forward to hearing from you.",
+        "annotation_token": [
+            "I",
+            "look",
+            "forward",
+            "to",
+            "hearing",
+            "from",
+            "you"
+        ],
+        "rationale": "The sentence is a speech act of anticipation and politeness.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, thank you for having me.",
+        "annotation_token": [
+            "Sure",
+            "thank",
+            "you",
+            "for",
+            "having",
+            "me"
+        ],
+        "rationale": "The sentence is a speech act of gratitude and acknowledgment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Absolutely.",
+        "annotation_token": [
+            "Absolutely"
+        ],
+        "rationale": "The word 'Absolutely' is a speech act of agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for the opportunity.",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "for",
+            "the",
+            "opportunity"
+        ],
+        "rationale": "The sentence is a speech act of gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I look forward to hearing from you.",
+        "annotation_token": [
+            "I",
+            "look",
+            "forward",
+            "to",
+            "hearing",
+            "from",
+            "you"
+        ],
+        "rationale": "The sentence is a speech act expressing anticipation and politeness.",
+        "grammar_correctness": "correct"
+    }
+]

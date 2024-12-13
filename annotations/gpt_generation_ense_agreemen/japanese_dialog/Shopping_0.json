@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, yes, this one look good. How much is it?",
+        "annotation_token": [
+            "look"
+        ],
+        "rationale": "The verb 'look' should be in agreement with the singular subject 'this one', so it should be 'looks'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Okay, I do it now. Ah, it is done.",
+        "annotation_token": [
+            "do"
+        ],
+        "rationale": "The verb 'do' is in present tense and correctly agrees with the subject 'I'.",
+        "grammar_correctness": "correct"
+    }
+]

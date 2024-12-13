@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, yes! I want to make... um, how to say... green curry. It my favorite.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer to 'green curry', which was mentioned in the previous sentence.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "First, I need chicken. And also, green curry paste. You know this?",
+        "annotation_token": "this",
+        "rationale": "The word 'this' is used to refer to 'green curry paste', which was mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I buy from, um, Asian store. It easy.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer to the process of buying from an Asian store, which was implied in the previous sentence.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "If make, it take long time.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer to the process of making green curry, which was mentioned earlier.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Then, um, I fry the paste in some oil. Make it, uh, smell good.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer to the paste, which was mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "And basil leaf, it important.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer to the basil leaf, which was mentioned in the same sentence.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, after fry, I put coconut milk. Make it creamy, you know?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer to the mixture being cooked, which was implied in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, with jasmine rice. It... um, very good smell.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer to the jasmine rice, which was mentioned in the previous sentence.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That very nice, thank you.",
+        "annotation_token": "That",
+        "rationale": "The word 'That' is used to refer to the offer of help with chopping vegetables, which was mentioned in the previous sentence.",
+        "grammar_correctness": false
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Certainly! I recently graduated with a degree in marketing, and I’ve been working as an intern at a digital agency for the past six months.",
+        "annotation_token": [
+            "I recently graduated",
+            "I’ve been working"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'graduated' and 'have been working' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I'm keen to apply what I’ve learned in a more dynamic setting.",
+        "annotation_token": [
+            "I’m keen",
+            "I’ve learned"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'am' and 'have learned' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I try to stay organized and focused.",
+        "annotation_token": [
+            "I try"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'try' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "If things get too hectic, I find it helpful to take a short break to clear my head.",
+        "annotation_token": [
+            "things get",
+            "I find"
+        ],
+        "rationale": "The subject 'things' correctly agrees with the verb 'get' and the subject 'I' correctly agrees with the verb 'find' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "During my internship, I led a campaign for a local nonprofit that increased their social media following by 30% in just three months.",
+        "annotation_token": [
+            "I led",
+            "that increased"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'led' and the subject 'that' (referring to 'campaign') correctly agrees with the verb 'increased' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I believe communication is key.",
+        "annotation_token": [
+            "I believe",
+            "communication is"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'believe' and the subject 'communication' correctly agrees with the verb 'is' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I make it a point to have regular check-ins with clients to discuss progress and gather feedback.",
+        "annotation_token": [
+            "I make"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'make' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I hope to grow my skills in digital marketing while contributing to innovative campaigns that make a significant impact.",
+        "annotation_token": [
+            "I hope",
+            "that make"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'hope' and the subject 'that' (referring to 'campaigns') correctly agrees with the verb 'make' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I'm eager to work with a talented team and learn from the best.",
+        "annotation_token": [
+            "I’m eager"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you! I appreciate the opportunity to discuss my experience with you.",
+        "annotation_token": [
+            "I appreciate"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'appreciate' in terms of number and person.",
+        "grammar_correctness": "correct"
+    }
+]

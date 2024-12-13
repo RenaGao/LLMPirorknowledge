@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I have quick breakfast.",
+        "annotation_token": "breakfast",
+        "rationale": "The noun 'breakfast' is singular, but the context suggests it should be 'a quick breakfast' to indicate a single instance of breakfast.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "My boss, he say... um, not happy.",
+        "annotation_token": "say",
+        "rationale": "The verb 'say' should agree in number with the singular subject 'he', so it should be 'says'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "He say okay.",
+        "annotation_token": "say",
+        "rationale": "The verb 'say' should agree in number with the singular subject 'he', so it should be 'says'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Maybe I try yoga someday. It sound good for health.",
+        "annotation_token": "sound",
+        "rationale": "The verb 'sound' should agree in number with the singular subject 'it', so it should be 'sounds'.",
+        "grammar_correctness": "wrong"
+    }
+]

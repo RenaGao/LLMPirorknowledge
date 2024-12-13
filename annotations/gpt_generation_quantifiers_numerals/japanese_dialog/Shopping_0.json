@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I think... small one is good. For two people, maybe.",
+        "annotation_token": [
+            "one",
+            "two"
+        ],
+        "rationale": "The tokens 'one' and 'two' are numerals used to quantify the number of items or people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I think... small one is good. For two people, maybe.",
+        "annotation_token": [
+            "one",
+            "two"
+        ],
+        "rationale": "The sentence contains numerals and quantifiers: 'one' and 'two' are used to specify quantity.",
+        "grammar_correctness": true
+    }
+]

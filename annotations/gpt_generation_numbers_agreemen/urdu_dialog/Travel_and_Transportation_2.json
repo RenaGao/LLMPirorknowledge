@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I will do it. I will send message today evening. Oh, and, um, what about stay? Where we stay?",
+        "annotation_token": "message",
+        "rationale": "The noun 'message' should be plural 'messages' to agree with the implied multiple messages being sent.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, extra layers and, um, maybe raincoat? Just in case.",
+        "annotation_token": "raincoat",
+        "rationale": "The noun 'raincoat' should be plural 'raincoats' to agree with the implied multiple raincoats being considered.",
+        "grammar_correctness": "wrong"
+    }
+]

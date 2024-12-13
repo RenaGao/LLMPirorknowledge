@@ -1,0 +1,60 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, many kind. Like, for good health, or... um, success in study. Children write, too.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of kinds.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, it is story of two star lovers, Orihime and Hikoboshi. They meet once a year.",
+        "annotation_token": [
+            "two",
+            "once",
+            "a"
+        ],
+        "rationale": "The word 'two' is a numeral indicating the number of star lovers. 'Once' is a quantifier indicating frequency, and 'a' is an indefinite article used as a quantifier.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Since I was child. My family, um, always write wishes together.",
+        "annotation_token": [
+            "always"
+        ],
+        "rationale": "The word 'always' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, many kind. Like, for good health, or... um, success in study. Children write, too.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of kinds.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, it is story of two star lovers, Orihime and Hikoboshi. They meet once a year.",
+        "annotation_token": [
+            "two",
+            "once",
+            "a"
+        ],
+        "rationale": "The word 'two' is a numeral indicating the number of star lovers. 'Once' is a quantifier indicating frequency, and 'a' is an indefinite article used as a quantifier.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Since I was child. My family, um, always write wishes together.",
+        "annotation_token": [
+            "always"
+        ],
+        "rationale": "The word 'always' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    }
+]

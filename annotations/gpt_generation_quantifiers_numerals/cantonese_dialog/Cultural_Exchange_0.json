@@ -1,0 +1,133 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, of course. Um, we have a festival called Mid-Autumn Festival. You heard before?",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier used to indicate a single instance of the festival.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "The story is about a woman, Chang’e. She fly to moon after, um, drink a... special potion.",
+        "annotation_token": [
+            "a",
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier used to indicate a single instance of a woman and a potion.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Mooncakes, they are for... um, sharing. Like share happiness with family and friends. They have... egg inside, sweet paste.",
+        "annotation_token": [
+            "egg"
+        ],
+        "rationale": "The word 'egg' implies a singular countable noun, which is a numeral concept.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It is mainly one day, but we prepare, um, before. And sometimes celebrate few days.",
+        "annotation_token": [
+            "one",
+            "few"
+        ],
+        "rationale": "The word 'one' is a numeral indicating a single day, and 'few' is a quantifier indicating an unspecified small number of days.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, it is on the... um, 15th day of eighth lunar month. When the moon is... very round and bright.",
+        "annotation_token": [
+            "15th",
+            "eighth"
+        ],
+        "rationale": "The words '15th' and 'eighth' are numerals indicating specific positions in a sequence (day and month).",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, of course. Um, we have a festival called Mid-Autumn Festival. You heard before?",
+        "annotation_token": "a",
+        "rationale": "The word 'a' is a quantifier used to indicate a single instance of the festival.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "The story is about a woman, Chang’e. She fly to moon after, um, drink a... special potion.",
+        "annotation_token": "a",
+        "rationale": "The word 'a' is a quantifier used to indicate a single instance of a woman and a potion.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Mooncakes, they are for... um, sharing. Like share happiness with family and friends. They have... egg inside, sweet paste.",
+        "annotation_token": "egg",
+        "rationale": "The word 'egg' implies a singular countable noun, which is a numeral concept.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It is mainly one day, but we prepare, um, before. And sometimes celebrate few days.",
+        "annotation_token": "one, few",
+        "rationale": "The word 'one' is a numeral indicating a single day, and 'few' is a quantifier indicating an unspecified small number of days.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, it is on the... um, 15th day of eighth lunar month. When the moon is... very round and bright.",
+        "annotation_token": "15th, eighth",
+        "rationale": "The words '15th' and 'eighth' are numerals indicating specific positions in a sequence (day and month).",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, of course. Um, we have a festival called Mid-Autumn Festival. You heard before?",
+        "annotation_token": [
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier used to indicate a single instance of the festival.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "The story is about a woman, Chang’e. She fly to moon after, um, drink a... special potion.",
+        "annotation_token": [
+            "a",
+            "a"
+        ],
+        "rationale": "The word 'a' is a quantifier used to indicate a single instance of a woman and a special potion.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Mooncakes, they are for... um, sharing. Like share happiness with family and friends. They have... egg inside, sweet paste.",
+        "annotation_token": [
+            "egg"
+        ],
+        "rationale": "The word 'egg' implies a singular countable noun, which is a numeral concept.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It is mainly one day, but we prepare, um, before. And sometimes celebrate few days.",
+        "annotation_token": [
+            "one",
+            "few"
+        ],
+        "rationale": "The word 'one' is a numeral indicating a single day, and 'few' is a quantifier indicating an unspecified small number of days.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, it is on the... um, 15th day of eighth lunar month. When the moon is... very round and bright.",
+        "annotation_token": [
+            "15th",
+            "eighth"
+        ],
+        "rationale": "The words '15th' and 'eighth' are numerals indicating specific positions in a sequence (day and month).",
+        "grammar_correctness": true
+    }
+]

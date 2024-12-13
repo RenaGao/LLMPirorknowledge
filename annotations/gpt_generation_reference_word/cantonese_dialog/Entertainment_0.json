@@ -1,0 +1,86 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, um, yes, Wing. I watched... how to say... the movie with big ship and iceberg?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, Titanic! I see it many times. Very romantic and a little sad.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "The music... very beautiful. And the love story, it is... um, touching?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to 'the love story'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I like many kinds! Action, comedy... but not horror. Too scary for me.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I watch Korean drama. They are, um, exciting and have good story.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "They are, um, exciting and have good story.",
+        "annotation_token": "They",
+        "rationale": "The word 'They' is a reference word referring to 'Korean drama'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is called... uh, \"Crash Landing on You.\" It is about... um, love and... how to say... adventure?",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the drama 'Crash Landing on You'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "The characters are very... um, real? And the story is funny and romantic.",
+        "annotation_token": "The characters",
+        "rationale": "The phrase 'The characters' is a reference word referring to the characters in the drama.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, subtitles help me understand. Sometimes I learn new words.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Mostly alone, but sometimes with my sister. She love Korean drama too.",
+        "annotation_token": "She",
+        "rationale": "The word 'She' is a reference word referring to the speaker's sister.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, maybe the... how to say... superhero movie? Avengers?",
+        "annotation_token": "the... how to say... superhero movie",
+        "rationale": "The phrase 'the... how to say... superhero movie' is a reference word referring to the movie 'Avengers'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, Wing! I think I will like it very mu",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

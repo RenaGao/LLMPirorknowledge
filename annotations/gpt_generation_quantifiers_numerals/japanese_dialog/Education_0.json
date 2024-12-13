@@ -1,0 +1,74 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, hello! Um, exam is... difficult for me. I study many hours, but still worry.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of hours.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, a little. I write with friend and check mistake, but, um... still not confident.",
+        "annotation_token": [
+            "a little"
+        ],
+        "rationale": "The phrase 'a little' is a quantifier indicating a small amount of confidence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes. Small paragraph is easier. I will, um, try this today.",
+        "annotation_token": [
+            "Small"
+        ],
+        "rationale": "The word 'Small' is a quantifier indicating the size of the paragraph.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Reading is okay, but some words are, um... new for me.",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier indicating an unspecified amount of words.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, hello! Um, exam is... difficult for me. I study many hours, but still worry.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of hours.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, a little. I write with friend and check mistake, but, um... still not confident.",
+        "annotation_token": [
+            "a little"
+        ],
+        "rationale": "The phrase 'a little' is a quantifier indicating a small amount of confidence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes. Small paragraph is easier. I will, um, try this today.",
+        "annotation_token": [
+            "Small"
+        ],
+        "rationale": "The word 'Small' is a quantifier indicating the size of the paragraph.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Reading is okay, but some words are, um... new for me.",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier indicating an unspecified amount of words.",
+        "grammar_correctness": true
+    }
+]

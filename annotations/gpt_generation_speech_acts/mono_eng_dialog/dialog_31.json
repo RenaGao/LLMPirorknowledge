@@ -1,0 +1,186 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, James. I’m doing well, thank you! Excited to be here. How about you?",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "Excited to be here",
+            "How about you"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hi'), an expression of gratitude ('thank you'), an expression of excitement ('Excited to be here'), and an inquiry ('How about you').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Of course. I recently graduated with a degree in marketing, and I’ve always had a passion for digital media. I came across your company’s work online and was really impressed by your innovative campaigns.",
+        "annotation_token": [
+            "Of course",
+            "I recently graduated",
+            "I’ve always had a passion",
+            "I came across",
+            "was really impressed"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an affirmation ('Of course'), a statement of fact ('I recently graduated'), an expression of interest ('I’ve always had a passion'), a discovery ('I came across'), and an expression of admiration ('was really impressed').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Well, I have a strong background in social media analytics and content creation. During my internship, I managed to increase engagement rates by 30% through targeted campaigns.",
+        "annotation_token": [
+            "Well",
+            "I have a strong background",
+            "I managed to increase"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a discourse marker ('Well'), a statement of qualification ('I have a strong background'), and an achievement ('I managed to increase').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Certainly. We focused on creating interactive content, like polls and live Q&A sessions, to directly engage with our audience. It was about making the brand more relatable.",
+        "annotation_token": [
+            "Certainly",
+            "We focused on",
+            "It was about making"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an affirmation ('Certainly'), a statement of action ('We focused on'), and an explanation ('It was about making').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I see feedback as a growth opportunity. It helps refine strategies and improve future outcomes. I always try to analyze the feedback objectively and implement changes where necessary.",
+        "annotation_token": [
+            "I see feedback as a growth opportunity",
+            "It helps refine",
+            "I always try to analyze",
+            "implement changes"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an opinion ('I see feedback as a growth opportunity'), an explanation ('It helps refine'), a statement of practice ('I always try to analyze'), and an action ('implement changes').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’d love to know more about the team I’d be working with and the kind of projects you have lined up for the next quarter.",
+        "annotation_token": [
+            "Yes",
+            "I’d love to know more"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an affirmation ('Yes') and an expression of interest ('I’d love to know more').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds fantastic! I’m thrilled about the possibility. Thank you for sharing more about the role and the team.",
+        "annotation_token": [
+            "That sounds fantastic",
+            "I’m thrilled",
+            "Thank you for sharing"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an expression of approval ('That sounds fantastic'), an expression of excitement ('I’m thrilled'), and an expression of gratitude ('Thank you for sharing').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, James. I look forward to hearing from you. Have a great day!",
+        "annotation_token": [
+            "Thank you",
+            "I look forward to hearing",
+            "Have a great day"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an expression of gratitude ('Thank you'), an expression of anticipation ('I look forward to hearing'), and a well-wish ('Have a great day').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, James. I’m doing well, thank you! Excited to be here. How about you?",
+        "annotation_token": [
+            "Hi",
+            "thank you",
+            "Excited to be here",
+            "How about you"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hi'), an expression of gratitude ('thank you'), an expression of excitement ('Excited to be here'), and an inquiry ('How about you').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Of course. I recently graduated with a degree in marketing, and I’ve always had a passion for digital media. I came across your company’s work online and was really impressed by your innovative campaigns.",
+        "annotation_token": [
+            "Of course",
+            "I recently graduated",
+            "I’ve always had a passion",
+            "I came across",
+            "was really impressed"
+        ],
+        "rationale": "The sentence includes several speech acts: an affirmation ('Of course'), a statement of fact ('I recently graduated'), an expression of interest ('I’ve always had a passion'), a discovery ('I came across'), and an expression of admiration ('was really impressed').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Well, I have a strong background in social media analytics and content creation. During my internship, I managed to increase engagement rates by 30% through targeted campaigns.",
+        "annotation_token": [
+            "Well",
+            "I have a strong background",
+            "I managed to increase"
+        ],
+        "rationale": "The sentence contains speech acts such as a discourse marker ('Well'), a statement of qualification ('I have a strong background'), and an achievement ('I managed to increase').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Certainly. We focused on creating interactive content, like polls and live Q&A sessions, to directly engage with our audience. It was about making the brand more relatable.",
+        "annotation_token": [
+            "Certainly",
+            "We focused on creating",
+            "to directly engage",
+            "making the brand more relatable"
+        ],
+        "rationale": "The sentence includes speech acts like an affirmation ('Certainly'), a focus statement ('We focused on creating'), a purpose ('to directly engage'), and a goal ('making the brand more relatable').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I see feedback as a growth opportunity. It helps refine strategies and improve future outcomes. I always try to analyze the feedback objectively and implement changes where necessary.",
+        "annotation_token": [
+            "I see feedback as a growth opportunity",
+            "It helps refine strategies",
+            "I always try to analyze",
+            "implement changes"
+        ],
+        "rationale": "The sentence contains speech acts such as an opinion ('I see feedback as a growth opportunity'), a benefit ('It helps refine strategies'), an intention ('I always try to analyze'), and an action ('implement changes').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I’d love to know more about the team I’d be working with and the kind of projects you have lined up for the next quarter.",
+        "annotation_token": [
+            "Yes",
+            "I’d love to know more",
+            "the kind of projects you have lined up"
+        ],
+        "rationale": "The sentence includes speech acts like an affirmation ('Yes'), an expression of interest ('I’d love to know more'), and an inquiry ('the kind of projects you have lined up').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That sounds fantastic! I’m thrilled about the possibility. Thank you for sharing more about the role and the team.",
+        "annotation_token": [
+            "That sounds fantastic",
+            "I’m thrilled",
+            "Thank you for sharing"
+        ],
+        "rationale": "The sentence contains speech acts such as an expression of approval ('That sounds fantastic'), an expression of excitement ('I’m thrilled'), and gratitude ('Thank you for sharing').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, James. I look forward to hearing from you. Have a great day!",
+        "annotation_token": [
+            "Thank you",
+            "I look forward to hearing from you",
+            "Have a great day"
+        ],
+        "rationale": "The sentence includes speech acts like gratitude ('Thank you'), an expression of anticipation ('I look forward to hearing from you'), and a well-wish ('Have a great day').",
+        "grammar_correctness": "correct"
+    }
+]

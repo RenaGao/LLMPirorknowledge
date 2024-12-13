@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I was, um, in a hurry because of... how to say... many tasks at the same time.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of tasks.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, I think I have all data now.",
+        "annotation_token": [
+            "all"
+        ],
+        "rationale": "The word 'all' is a quantifier used to indicate the entirety of the data.",
+        "grammar_correctness": true
+    }
+]

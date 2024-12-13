@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, I hear about it. What is it about?",
+        "annotation_token": [
+            "it"
+        ],
+        "rationale": "The word 'it' is used as a reference to something previously mentioned or understood in the context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That sound nice. Is it, um, easy to read?",
+        "annotation_token": [
+            "it"
+        ],
+        "rationale": "The word 'it' is used as a reference to something previously mentioned or understood in the context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Great. Why you think it is good for me?",
+        "annotation_token": [
+            "it"
+        ],
+        "rationale": "The word 'it' is used as a reference to something previously mentioned or understood in the context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I like motivational. Um, it help me feel... how to say... better?",
+        "annotation_token": [
+            "it"
+        ],
+        "rationale": "The word 'it' is used as a reference to something previously mentioned or understood in the context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Okay, I will try it. Thank you for recommend.",
+        "annotation_token": [
+            "it"
+        ],
+        "rationale": "The word 'it' is used as a reference to something previously mentioned or understood in the context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sure, I will tell you. Maybe we can talk about it together.",
+        "annotation_token": [
+            "it"
+        ],
+        "rationale": "The word 'it' is used as a reference to something previously mentioned or understood in the context.",
+        "grammar_correctness": true
+    }
+]

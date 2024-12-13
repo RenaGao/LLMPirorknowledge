@@ -1,0 +1,60 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hello. I am not feeling so well.",
+        "annotation_token": [
+            "Um",
+            "hello"
+        ],
+        "rationale": "The tokens 'Um' and 'hello' are used as a greeting and an introductory speech act to initiate the conversation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I want to know what is wrong.",
+        "annotation_token": [
+            "I want to know"
+        ],
+        "rationale": "The phrase 'I want to know' is a request for information, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much. I really appreciate your help.",
+        "annotation_token": [
+            "Thank you very much",
+            "I really appreciate your help"
+        ],
+        "rationale": "The phrases 'Thank you very much' and 'I really appreciate your help' are expressions of gratitude, which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hello. I am not feeling so well.",
+        "annotation_token": [
+            "Um",
+            "hello"
+        ],
+        "rationale": "The tokens 'Um' and 'hello' are used as a greeting and an introduction to the conversation, which are common speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I want to know what is wrong.",
+        "annotation_token": [
+            "I want to know"
+        ],
+        "rationale": "The phrase 'I want to know' is a request for information, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much. I really appreciate your help.",
+        "annotation_token": [
+            "Thank you very much",
+            "I really appreciate your help"
+        ],
+        "rationale": "The phrases 'Thank you very much' and 'I really appreciate your help' are expressions of gratitude, which are speech acts.",
+        "grammar_correctness": "correct"
+    }
+]

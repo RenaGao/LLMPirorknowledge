@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "The question number three. It ask about, um, how to say... comparing two things?",
+        "annotation_token": [
+            "It ask"
+        ],
+        "rationale": "The subject 'It' does not agree with the verb 'ask'. The correct form should be 'It asks'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I not sure what to write.",
+        "annotation_token": [
+            "I not sure"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'not sure'. The correct form should be 'I am not sure'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Is there need, um, to write about, like... leaders?",
+        "annotation_token": [
+            "Is there need"
+        ],
+        "rationale": "The subject 'there' does not agree with the verb 'Is'. The correct form should be 'Is there a need'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "But what if I no finish?",
+        "annotation_token": [
+            "I no finish"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'no finish'. The correct form should be 'I do not finish' or 'I don't finish'.",
+        "grammar_correctness": "wrong"
+    }
+]

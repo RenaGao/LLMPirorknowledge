@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I like, um, organizing things and, uh, working with people.",
+        "annotation_token": "organizing things, working with people",
+        "rationale": "The sentence contains noun and verb collocations where 'organizing' is paired with 'things' and 'working' is paired with 'people', both expressing complete actions.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I, um, worked on project in university.",
+        "annotation_token": "worked on project",
+        "rationale": "The sentence contains a noun and verb collocation where 'worked' is paired with 'project', expressing a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We, uh, made plan for small business.",
+        "annotation_token": "made plan",
+        "rationale": "The sentence contains a noun and verb collocation where 'made' is paired with 'plan', expressing a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I, uh, helped to... organize team and talks with, um, professors for advice.",
+        "annotation_token": "organize team, talks with professors",
+        "rationale": "The sentence contains noun and verb collocations where 'organize' is paired with 'team' and 'talks' is paired with 'professors', both expressing complete actions.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, sometimes team, uh, had problem with idea.",
+        "annotation_token": "had problem",
+        "rationale": "The sentence contains a noun and verb collocation where 'had' is paired with 'problem', expressing a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I had to, um, manage and find, um, solution.",
+        "annotation_token": "find solution",
+        "rationale": "The sentence contains a noun and verb collocation where 'find' is paired with 'solution', expressing a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I, um, listen to all ideas and then we, um, discuss together.",
+        "annotation_token": "listen to ideas, discuss together",
+        "rationale": "The sentence contains noun and verb collocations where 'listen' is paired with 'ideas' and 'discuss' is paired with 'together', both expressing complete actions.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I am, um, very organized. And, uh, I work well in team.",
+        "annotation_token": "work in team",
+        "rationale": "The sentence contains a noun and verb collocation where 'work' is paired with 'team', expressing a complete action.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, thank you. My name is Nuch. I am from Bangkok. I study, um, business... management in university.",
+        "annotation_token": [
+            "I am",
+            "I study"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'am' and 'study' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I do a project with my team. We plan event for, um, university.",
+        "annotation_token": [
+            "I do",
+            "We plan"
+        ],
+        "rationale": "The subjects 'I' and 'We' correctly agree with the verbs 'do' and 'plan' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I am, um, leader. I plan and talk with, um, sponsor and coordinate with team.",
+        "annotation_token": [
+            "I am",
+            "I plan",
+            "I talk"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'am', 'plan', and 'talk' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, sometime we have, um, problem with schedule. I talk with team and find solution.",
+        "annotation_token": [
+            "we have",
+            "I talk",
+            "find"
+        ],
+        "rationale": "The subjects 'we' and 'I' correctly agree with the verbs 'have', 'talk', and 'find' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I feel good! I like to learn new culture and, um, improve my English.",
+        "annotation_token": [
+            "I feel",
+            "I like"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'feel' and 'like' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I am, um, hardworking and, uh, good at... detail. I also, uh, have good skill in teamwork.",
+        "annotation_token": [
+            "I am",
+            "I have"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'am' and 'have' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I want to, um, improve my English and, uh, learn more about, um, international business strategy.",
+        "annotation_token": [
+            "I want"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'want' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I feel, um, okay. I like to try new thing and, uh, learn from experience.",
+        "annotation_token": [
+            "I feel",
+            "I like"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'feel' and 'like' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

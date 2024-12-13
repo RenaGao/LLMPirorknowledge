@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I think we can do. We finish BBQ and then go movie theater.",
+        "annotation_token": [
+            "finish",
+            "go"
+        ],
+        "rationale": "The verbs 'finish' and 'go' are in the present tense, but they should be in the future tense to agree with the context of a planned future action.",
+        "grammar_correctness": "wrong"
+    }
+]

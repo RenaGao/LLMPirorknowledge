@@ -1,0 +1,152 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hello... I have, uh, problem with my... my phone.",
+        "annotation_token": [
+            "Um",
+            "hello",
+            "I have",
+            "uh",
+            "problem",
+            "with",
+            "my",
+            "my",
+            "phone"
+        ],
+        "rationale": "The speaker is initiating the conversation and stating the problem, which are acts of greeting and informing.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, so... the phone, it... um, how to say... freeze?",
+        "annotation_token": [
+            "Yes",
+            "so",
+            "the phone",
+            "it",
+            "um",
+            "how to say",
+            "freeze"
+        ],
+        "rationale": "The speaker is confirming understanding and describing the issue, which are acts of confirming and describing.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, okay, I will try.",
+        "annotation_token": [
+            "Ah",
+            "okay",
+            "I will try"
+        ],
+        "rationale": "The speaker is acknowledging the suggestion and expressing intention to try, which are acts of acknowledging and promising.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah... okay, I will check.",
+        "annotation_token": [
+            "Ah",
+            "okay",
+            "I will check"
+        ],
+        "rationale": "The speaker is acknowledging the information and expressing intention to check, which are acts of acknowledging and promising.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for... your help.",
+        "annotation_token": [
+            "Thank you",
+            "for",
+            "your help"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is an act of thanking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, bye-bye!",
+        "annotation_token": [
+            "Thank you",
+            "bye-bye"
+        ],
+        "rationale": "The speaker is expressing gratitude and closing the conversation, which are acts of thanking and leave-taking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, hello... I have, uh, problem with my... my phone.",
+        "annotation_token": [
+            "Um",
+            "hello",
+            "I have",
+            "uh",
+            "problem",
+            "with",
+            "my",
+            "my",
+            "phone"
+        ],
+        "rationale": "The sentence is a speech act of greeting and stating a problem.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, so... the phone, it... um, how to say... freeze?",
+        "annotation_token": [
+            "Yes",
+            "so",
+            "the phone",
+            "it",
+            "um",
+            "how to say",
+            "freeze"
+        ],
+        "rationale": "The sentence is a speech act of confirmation and seeking clarification.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, okay, I will try.",
+        "annotation_token": [
+            "Ah",
+            "okay",
+            "I will try"
+        ],
+        "rationale": "The sentence is a speech act of acknowledgment and intention to act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah... okay, I will check.",
+        "annotation_token": [
+            "Ah",
+            "okay",
+            "I will check"
+        ],
+        "rationale": "The sentence is a speech act of acknowledgment and intention to act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for... your help.",
+        "annotation_token": [
+            "Thank you",
+            "for",
+            "your help"
+        ],
+        "rationale": "The sentence is a speech act of expressing gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, bye-bye!",
+        "annotation_token": [
+            "Thank you",
+            "bye-bye"
+        ],
+        "rationale": "The sentence is a speech act of expressing gratitude and saying goodbye.",
+        "grammar_correctness": "correct"
+    }
+]

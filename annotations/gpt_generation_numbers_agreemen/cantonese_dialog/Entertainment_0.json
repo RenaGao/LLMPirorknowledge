@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Mostly alone, but sometimes with my sister. She love Korean drama too.",
+        "annotation_token": "She love",
+        "rationale": "The subject 'She' is singular, so the verb should be 'loves' to agree in number.",
+        "grammar_correctness": "wrong"
+    }
+]

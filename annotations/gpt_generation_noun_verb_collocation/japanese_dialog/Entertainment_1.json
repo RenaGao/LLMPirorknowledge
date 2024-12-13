@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I love sushi! What is the name of the place?",
+        "annotation_token": "love sushi",
+        "rationale": "The noun 'sushi' and the verb 'love' form a meaningful and complete action, making it a noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Karaoke is very fun! We can sing many songs. Do you like it?",
+        "annotation_token": "sing songs",
+        "rationale": "The noun 'songs' and the verb 'sing' form a meaningful and complete action, making it a noun and verb collocation.",
+        "grammar_correctness": true
+    }
+]

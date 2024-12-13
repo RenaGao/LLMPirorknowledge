@@ -1,0 +1,31 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I will work more hours this week. Maybe, um, I stay late? And I finish by Friday.",
+        "annotation_token": [
+            "more"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an additional amount of hours.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes, good idea. I will use calendar more often, with alert. This will help, um, a lot.",
+        "annotation_token": [
+            "more",
+            "a lot"
+        ],
+        "rationale": "The word 'more' is a quantifier indicating an increased frequency of using the calendar. 'A lot' is a quantifier indicating a large amount of help.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes, good idea. I will use calendar more often, with alert. This will help, um, a lot.",
+        "annotation_token": [
+            "more",
+            "a lot"
+        ],
+        "rationale": "The sentence contains the quantifier 'more' and the numeral phrase 'a lot', which are used to express quantity or degree.",
+        "grammar_correctness": true
+    }
+]

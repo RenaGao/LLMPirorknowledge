@@ -1,0 +1,82 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. During my final year, I led a team project where we developed a digital marketing strategy for a local charity. It was rewarding to see our efforts increase their online engagement by 30%.",
+        "annotation_token": [
+            "a",
+            "30%"
+        ],
+        "rationale": "The word 'a' is a quantifier indicating a single instance of a 'team project'. The numeral '30%' quantifies the increase in online engagement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I believe in open communication. I think it's important to listen to everyone's viewpoints and find a compromise that works for all.",
+        "annotation_token": [
+            "everyone's",
+            "all"
+        ],
+        "rationale": "The word 'everyone's' is a quantifier indicating all individuals' viewpoints. The word 'all' is a quantifier indicating the entirety of the group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. During my final year, I led a team project where we developed a digital marketing strategy for a local charity. It was rewarding to see our efforts increase their online engagement by 30%.",
+        "annotation_token": [
+            "a",
+            "30%"
+        ],
+        "rationale": "The sentence contains the quantifier 'a' referring to 'a team project' and the numeral '30%' indicating the percentage increase in online engagement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I believe in open communication. I think it's important to listen to everyone's viewpoints and find a compromise that works for all.",
+        "annotation_token": [
+            "everyone's",
+            "all"
+        ],
+        "rationale": "The sentence contains the quantifier 'everyone's' referring to all individuals' viewpoints and 'all' indicating the entirety of the group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. During my final year, I led a team project where we developed a digital marketing strategy for a local charity. It was rewarding to see our efforts increase their online engagement by 30%.",
+        "annotation_token": [
+            "a",
+            "30%"
+        ],
+        "rationale": "The sentence contains the quantifier 'a' referring to 'a team project' and the numeral '30%' indicating the percentage increase in online engagement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I believe in open communication. I think it's important to listen to everyone's viewpoints and find a compromise that works for all.",
+        "annotation_token": [
+            "everyone's",
+            "all"
+        ],
+        "rationale": "The sentence contains the quantifier 'everyone's' referring to all individuals' viewpoints and 'all' indicating the entirety of the group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. During my final year, I led a team project where we developed a digital marketing strategy for a local charity. It was rewarding to see our efforts increase their online engagement by 30%.",
+        "annotation_token": [
+            "a",
+            "30%"
+        ],
+        "rationale": "In the sentence, 'a' is a quantifier indicating a singular count, and '30%' is a numeral indicating a specific quantity of increase in online engagement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I believe in open communication. I think it's important to listen to everyone's viewpoints and find a compromise that works for all.",
+        "annotation_token": [
+            "everyone's",
+            "all"
+        ],
+        "rationale": "In the sentence, 'everyone's' is a quantifier indicating inclusion of all people involved, and 'all' is another quantifier indicating completeness or entirety.",
+        "grammar_correctness": true
+    }
+]

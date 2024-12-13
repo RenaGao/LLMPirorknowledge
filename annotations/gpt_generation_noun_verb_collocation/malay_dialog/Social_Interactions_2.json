@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, enjoy. I like see project finish, but also tired sometimes.",
+        "annotation_token": "see project",
+        "rationale": "The noun 'project' and the verb 'see' form a collocation where 'see' is an action performed on the noun 'project'.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I will plan. Thank you for call. It was nice talk, Aina.",
+        "annotation_token": "plan",
+        "rationale": "The noun 'plan' and the verb 'will' form a collocation where 'plan' is an action performed.",
+        "grammar_correctness": true
+    }
+]

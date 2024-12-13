@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I let it simmer maybe ten minutes. Stir sometimes.",
+        "annotation_token": [
+            "let",
+            "simmer",
+            "stir"
+        ],
+        "rationale": "The verbs 'let', 'simmer', and 'stir' are in the present tense, which is consistent with the narrative style of giving instructions or describing a process.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, of course. I cook rice in rice cooker. It is easy.",
+        "annotation_token": [
+            "cook",
+            "is"
+        ],
+        "rationale": "The verbs 'cook' and 'is' are in the present tense, which is appropriate for describing a habitual action or a general truth.",
+        "grammar_correctness": "correct"
+    }
+]

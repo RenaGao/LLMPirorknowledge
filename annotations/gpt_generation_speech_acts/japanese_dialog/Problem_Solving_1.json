@@ -1,0 +1,155 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, hello. Um, I have, uh, problem with my.. um, how to say... computer printer?",
+        "annotation_token": [
+            "Ah",
+            "hello",
+            "Um",
+            "I have",
+            "uh",
+            "problem",
+            "with",
+            "my",
+            "um",
+            "how to say",
+            "computer printer"
+        ],
+        "rationale": "The sentence contains a greeting ('Ah, hello'), a statement of a problem ('I have, uh, problem'), and a request for clarification ('how to say'). These are all speech acts.",
+        "grammar_correctness": "partially correct, but contains disfluencies typical of non-native speakers"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it is not printing. I try many time, but paper, uh, not come out.",
+        "annotation_token": [
+            "Yes",
+            "it is not printing",
+            "I try",
+            "many time",
+            "but",
+            "paper",
+            "uh",
+            "not come out"
+        ],
+        "rationale": "The sentence includes an acknowledgment ('Yes'), a statement of fact ('it is not printing'), and an explanation of the problem ('I try many time, but paper, uh, not come out'). These are speech acts.",
+        "grammar_correctness": "partially correct, but contains errors typical of non-native speakers"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, paper jam? Um, I think no. I open and look, but not see anything.",
+        "annotation_token": [
+            "Ah",
+            "paper jam",
+            "Um",
+            "I think no",
+            "I open and look",
+            "but",
+            "not see anything"
+        ],
+        "rationale": "The sentence includes a question ('paper jam?'), a statement of belief ('I think no'), and a description of an action ('I open and look, but not see anything'). These are speech acts.",
+        "grammar_correctness": "partially correct, but contains errors typical of non-native speakers"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, okay, I try... (pause) Yes! It print! Thank you!",
+        "annotation_token": [
+            "Ah",
+            "okay",
+            "I try",
+            "Yes",
+            "It print",
+            "Thank you"
+        ],
+        "rationale": "The sentence includes an acknowledgment ('Ah, okay'), a statement of intention ('I try'), an expression of success ('Yes! It print!'), and gratitude ('Thank you!'). These are speech acts.",
+        "grammar_correctness": "partially correct, but contains errors typical of non-native speakers"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, I think that is all. Thank you very much for, um, your help!",
+        "annotation_token": [
+            "No",
+            "I think that is all",
+            "Thank you very much",
+            "um",
+            "your help"
+        ],
+        "rationale": "The sentence includes a negation ('No'), a statement of completion ('I think that is all'), and an expression of gratitude ('Thank you very much for, um, your help!'). These are speech acts.",
+        "grammar_correctness": "partially correct, but contains disfluencies typical of non-native speakers"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, hello. Um, I have, uh, problem with my.. um, how to say... computer printer?",
+        "annotation_token": [
+            "Ah",
+            "hello",
+            "Um",
+            "I have",
+            "uh",
+            "problem",
+            "with",
+            "my",
+            "um",
+            "how to say",
+            "computer printer"
+        ],
+        "rationale": "The sentence contains a greeting ('Ah, hello') and a request for help ('I have, uh, problem with my.. um, how to say... computer printer?').",
+        "grammar_correctness": "partially correct, but contains disfluencies typical of non-native speakers"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, paper jam? Um, I think no. I open and look, but not see anything.",
+        "annotation_token": [
+            "Ah",
+            "paper jam",
+            "Um",
+            "I think no",
+            "I open and look",
+            "but not see anything"
+        ],
+        "rationale": "The sentence contains a question ('Ah, paper jam?') and a statement of action ('I open and look, but not see anything').",
+        "grammar_correctness": "partially correct, but contains disfluencies typical of non-native speakers"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, restart. Yes, okay. I do that now... (pause) Um, still same, no change.",
+        "annotation_token": [
+            "Ah",
+            "restart",
+            "Yes",
+            "okay",
+            "I do that now",
+            "Um",
+            "still same",
+            "no change"
+        ],
+        "rationale": "The sentence contains an acknowledgment ('Yes, okay') and a report of action ('I do that now... (pause) Um, still same, no change').",
+        "grammar_correctness": "partially correct, but contains disfluencies typical of non-native speakers"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, okay, I try... (pause) Yes! It print! Thank you!",
+        "annotation_token": [
+            "Ah",
+            "okay",
+            "I try",
+            "Yes",
+            "It print",
+            "Thank you"
+        ],
+        "rationale": "The sentence contains an acknowledgment ('Ah, okay'), a report of action ('I try... (pause) Yes! It print!'), and an expression of gratitude ('Thank you!').",
+        "grammar_correctness": "partially correct, but contains disfluencies typical of non-native speakers"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, I think that is all. Thank you very much for, um, your help!",
+        "annotation_token": [
+            "No",
+            "I think that is all",
+            "Thank you very much",
+            "um",
+            "your help"
+        ],
+        "rationale": "The sentence contains a closing statement ('I think that is all') and an expression of gratitude ('Thank you very much for, um, your help!').",
+        "grammar_correctness": "partially correct, but contains disfluencies typical of non-native speakers"
+    }
+]

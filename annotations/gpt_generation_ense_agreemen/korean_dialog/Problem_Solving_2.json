@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you for understanding. I make sure it not happen again.",
+        "annotation_token": [
+            "make",
+            "not happen"
+        ],
+        "rationale": "The sentence 'I make sure it not happen again.' lacks tense agreement. The verb 'make' should be in the future tense to agree with the intended meaning, and 'not happen' should be 'does not happen' or 'will not happen' to maintain tense consistency.",
+        "grammar_correctness": "wrong"
+    }
+]

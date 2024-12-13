@@ -1,0 +1,43 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I recently graduated with a degree in Environmental Science, and I've always been passionate about sustainability.",
+        "annotation_token": [
+            "graduated",
+            "have always been"
+        ],
+        "rationale": "The sentence uses past tense 'graduated' and present perfect 'have always been' correctly to indicate past completion and ongoing relevance.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "During my final year, I led a team project focused on reducing waste on campus.",
+        "annotation_token": [
+            "led",
+            "focused"
+        ],
+        "rationale": "The sentence uses past tense 'led' and 'focused' to describe actions completed in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We implemented a recycling program that increased the recycling rate by 30%.",
+        "annotation_token": [
+            "implemented",
+            "increased"
+        ],
+        "rationale": "The sentence uses past tense 'implemented' and 'increased' to describe actions completed in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "In five years, I hope to have advanced to a leadership role, where I can influence larger sustainability initiatives.",
+        "annotation_token": [
+            "hope",
+            "to have advanced",
+            "can influence"
+        ],
+        "rationale": "The sentence uses present tense 'hope' and future perfect 'to have advanced' to indicate a future goal, and present 'can influence' for ongoing ability.",
+        "grammar_correctness": "correct"
+    }
+]

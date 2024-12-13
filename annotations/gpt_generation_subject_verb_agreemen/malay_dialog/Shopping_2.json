@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, hi. I buy... a shirt last week.",
+        "annotation_token": "I buy",
+        "rationale": "The verb 'buy' does not agree with the past tense context indicated by 'last week'. It should be 'bought'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, can return? I not sure about the rule.",
+        "annotation_token": "I not sure",
+        "rationale": "The verb 'not sure' does not agree with the subject 'I'. It should be 'I am not sure'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I try. Want to make sure it fit.",
+        "annotation_token": "it fit",
+        "rationale": "The verb 'fit' does not agree with the singular subject 'it'. It should be 'it fits'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hello again. Large is good, it fit well.",
+        "annotation_token": "it fit",
+        "rationale": "The verb 'fit' does not agree with the singular subject 'it'. It should be 'it fits'.",
+        "grammar_correctness": "wrong"
+    }
+]

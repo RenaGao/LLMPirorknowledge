@@ -1,0 +1,117 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. Every morning, I wake up at, um, seven o'clock.",
+        "annotation_token": [
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The tokens 'Ah' and 'yes' are used as speech acts to acknowledge and confirm the statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "First, I do, uh, stretching.",
+        "annotation_token": [
+            "uh"
+        ],
+        "rationale": "The token 'uh' is used as a speech act to indicate hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It help me... how to say... wake up body.",
+        "annotation_token": [
+            "how to say"
+        ],
+        "rationale": "The phrase 'how to say' is a speech act indicating the speaker is searching for the right words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, sometimes my mom cook.",
+        "annotation_token": [
+            "Um"
+        ],
+        "rationale": "The token 'Um' is used as a speech act to indicate hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "But I can... uh, make simple food.",
+        "annotation_token": [
+            "uh"
+        ],
+        "rationale": "The token 'uh' is used as a speech act to indicate hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I like... um, the culture and, uh, lifestyle part.",
+        "annotation_token": [
+            "um",
+            "uh"
+        ],
+        "rationale": "The tokens 'um' and 'uh' are used as speech acts to indicate hesitation or thinking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I take bus.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm the statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes. I listen music.",
+        "annotation_token": [
+            "Oh",
+            "yes"
+        ],
+        "rationale": "The tokens 'Oh' and 'yes' are used as speech acts to express realization and confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You're welcome. Thank you for listeni",
+        "annotation_token": [
+            "You're welcome",
+            "Thank you"
+        ],
+        "rationale": "The phrases 'You're welcome' and 'Thank you' are used as speech acts to express gratitude and politeness.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. Every morning, I wake up at, um, seven o'clock.",
+        "annotation_token": [
+            "Ah",
+            "yes"
+        ],
+        "rationale": "The tokens 'Ah' and 'yes' are used as speech acts to acknowledge or confirm information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes. I listen music. It is relaxing.",
+        "annotation_token": [
+            "Oh",
+            "yes"
+        ],
+        "rationale": "The tokens 'Oh' and 'yes' are used as speech acts to express realization or agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You're welcome. Thank you for listeni",
+        "annotation_token": [
+            "You're welcome",
+            "Thank you"
+        ],
+        "rationale": "The tokens 'You're welcome' and 'Thank you' are used as speech acts to express gratitude and a polite response.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "I run in park, maybe three times week.",
+        "annotation_token": [
+            "times",
+            "week"
+        ],
+        "rationale": "The sentence 'I run in park, maybe three times week.' contains a numbers agreement error. The word 'times' is plural, indicating multiple occurrences, so it should be followed by the plural form 'weeks' to maintain agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, not really. I do some, how to say... pushup? But not much more.",
+        "annotation_token": [
+            "pushup"
+        ],
+        "rationale": "The sentence 'I do some, how to say... pushup?' contains a numbers agreement error. The word 'some' indicates a plural quantity, so it should be followed by the plural form 'pushups' to maintain agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

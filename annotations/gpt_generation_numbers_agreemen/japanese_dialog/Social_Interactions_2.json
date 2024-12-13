@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, it is... how you say... challenging, but I like learn new thing.",
+        "annotation_token": "thing",
+        "rationale": "The noun 'thing' should be in plural form 'things' to agree with the plural context indicated by 'new'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I use... um, coconut milk and many spice.",
+        "annotation_token": "spice",
+        "rationale": "The noun 'spice' should be in plural form 'spices' to agree with the quantifier 'many'.",
+        "grammar_correctness": "wrong"
+    }
+]

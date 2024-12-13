@@ -1,0 +1,32 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I was, um, worried to get lost.",
+        "annotation_token": [
+            "was",
+            "worried"
+        ],
+        "rationale": "The past tense 'was' is correctly used with the past participle 'worried' to indicate a past state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I am looking for a, um, hotel nearby.",
+        "annotation_token": [
+            "am",
+            "looking"
+        ],
+        "rationale": "The present continuous tense 'am looking' is correctly used to indicate an ongoing action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I am not familiar... uh, with this area.",
+        "annotation_token": [
+            "am",
+            "familiar"
+        ],
+        "rationale": "The present tense 'am' is correctly used with the adjective 'familiar' to describe a current state.",
+        "grammar_correctness": "correct"
+    }
+]

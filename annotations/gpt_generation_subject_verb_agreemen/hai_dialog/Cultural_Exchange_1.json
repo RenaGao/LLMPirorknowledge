@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh yes, um, I remember we talk about that.",
+        "annotation_token": "we talk",
+        "rationale": "The subject 'we' is plural, and the verb 'talk' is in the base form, which is incorrect for past tense. It should be 'we talked'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Different country have, uh, different rules for eating.",
+        "annotation_token": "country have",
+        "rationale": "The subject 'country' is singular, and the verb 'have' should be 'has' to agree with the singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, and they use fork and knife more.",
+        "annotation_token": "they use",
+        "rationale": "The subject 'they' is plural, and the verb 'use' correctly agrees with the plural subject.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I sometimes confuse which one to use!",
+        "annotation_token": "I confuse",
+        "rationale": "The subject 'I' is singular, and the verb 'confuse' should be 'get confused' or 'am confused' to correctly convey the intended meaning.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hmm, how about... oh, yes! In Thailand, we not finish all food on plate.",
+        "annotation_token": "we not finish",
+        "rationale": "The subject 'we' is plural, and the verb phrase should be 'do not finish' to correctly agree with the subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, yes. And also, um, we not speak loud at table.",
+        "annotation_token": "we not speak",
+        "rationale": "The subject 'we' is plural, and the verb phrase should be 'do not speak' to correctly agree with the subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, um, we say \"Chon!\" when toast, like \"Cheers.\"",
+        "annotation_token": "we say",
+        "rationale": "The subject 'we' is plural, and the verb 'say' correctly agrees with the plural subject.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "But, uh, we not drink too much.",
+        "annotation_token": "we not drink",
+        "rationale": "The subject 'we' is plural, and the verb phrase should be 'do not drink' to correctly agree with the subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hmm, yes. Maybe, um, learn small thing about the culture before go.",
+        "annotation_token": "learn small thing",
+        "rationale": "The subject is implied to be 'you' or 'one', and the verb 'learn' should agree with the implied subject. Additionally, 'thing' should be plural 'things' to match the context.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It help a lot.",
+        "annotation_token": "It help",
+        "rationale": "The subject 'It' is singular, and the verb should be 'helps' to agree with the singular subject.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you, Nuch. I like talk with you, too.",
+        "annotation_token": "I like talk",
+        "rationale": "The subject 'I' is singular, and the verb phrase should be 'like to talk' or 'like talking' to correctly convey the intended meaning.",
+        "grammar_correctness": "wrong"
+    }
+]

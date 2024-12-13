@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, often we share. It is, uh, like family style. We put dishes in middle and everyone, um, take what they want.",
+        "annotation_token": [
+            "often",
+            "everyone"
+        ],
+        "rationale": "The word 'often' is a quantifier indicating frequency, and 'everyone' is a quantifier indicating all people in the group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, yes, it is good to finish your, uh, plate. It show you like the food. But not too much, so you have space for dessert!",
+        "annotation_token": [
+            "too much"
+        ],
+        "rationale": "The phrase 'too much' is a quantifier indicating an excessive amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Tipping is not very, um, usual. But if service is good, people sometimes give small tip.",
+        "annotation_token": [
+            "sometimes",
+            "small"
+        ],
+        "rationale": "The word 'sometimes' is a quantifier indicating frequency, and 'small' is a quantifier indicating size.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, can be spicy, but some people make not too hot. You can say, um, “less spicy” if you don’t like too hot.",
+        "annotation_token": [
+            "some",
+            "less"
+        ],
+        "rationale": "The word 'some' is a quantifier indicating an unspecified amount, and 'less' is a quantifier indicating a reduced degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, often we share. It is, uh, like family style. We put dishes in middle and everyone, um, take what they want.",
+        "annotation_token": [
+            "often",
+            "everyone"
+        ],
+        "rationale": "The word 'often' is a quantifier indicating frequency, and 'everyone' is a quantifier indicating all people in the group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, yes, it is good to finish your, uh, plate. It show you like the food. But not too much, so you have space for dessert!",
+        "annotation_token": [
+            "too much"
+        ],
+        "rationale": "The phrase 'too much' is a quantifier indicating an excessive amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Tipping is not very, um, usual. But if service is good, people sometimes give small tip.",
+        "annotation_token": [
+            "small"
+        ],
+        "rationale": "The word 'small' is a quantifier indicating a limited amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, can be spicy, but some people make not too hot. You can say, um, “less spicy” if you don’t like too hot.",
+        "annotation_token": [
+            "some",
+            "less"
+        ],
+        "rationale": "The word 'some' is a quantifier indicating an unspecified amount, and 'less' is a quantifier indicating a reduced amount.",
+        "grammar_correctness": true
+    }
+]

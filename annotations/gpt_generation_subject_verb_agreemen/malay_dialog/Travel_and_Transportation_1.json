@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, museum and waterfront. I think they are very nice.",
+        "annotation_token": [
+            "they",
+            "are"
+        ],
+        "rationale": "The subject 'they' is plural and correctly agrees with the plural verb 'are'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, hotel staff... um, they speak English, right?",
+        "annotation_token": [
+            "they",
+            "speak"
+        ],
+        "rationale": "The subject 'they' is plural and correctly agrees with the plural verb 'speak'.",
+        "grammar_correctness": "correct"
+    }
+]

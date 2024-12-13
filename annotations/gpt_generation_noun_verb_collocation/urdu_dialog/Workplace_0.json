@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "The team is working hard, but, uh, there are... how to say... some issues?",
+        "annotation_token": "team is working",
+        "rationale": "The noun 'team' and the verb 'is working' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, some bugs from the new update. We, uh, fixing them now, but it take time.",
+        "annotation_token": "bugs from the new update",
+        "rationale": "The noun 'bugs' and the verb 'from the new update' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I send them email, but, uh, no reply yet.",
+        "annotation_token": "send email",
+        "rationale": "The noun 'email' and the verb 'send' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

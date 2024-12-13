@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I recently graduated from university with a degree in marketing.",
+        "annotation_token": [
+            "recently graduated"
+        ],
+        "rationale": "The verb 'graduated' is in the past tense, which correctly agrees with the adverb 'recently' indicating a past action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "During my studies, I interned at a digital agency, which gave me hands-on experience in running social media campaigns.",
+        "annotation_token": [
+            "interned",
+            "gave"
+        ],
+        "rationale": "The verbs 'interned' and 'gave' are in the past tense, which correctly agree with the context of past actions during the speaker's studies.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I follow several industry blogs and podcasts, and I also participate in online webinars and courses.",
+        "annotation_token": [
+            "follow",
+            "participate"
+        ],
+        "rationale": "The verbs 'follow' and 'participate' are in the present tense, which correctly agree with the ongoing actions described by the speaker.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I’m really interested in content marketing.",
+        "annotation_token": [
+            "am interested"
+        ],
+        "rationale": "The verb 'am' is in the present tense, which correctly agrees with the speaker's current interest in content marketing.",
+        "grammar_correctness": "correct"
+    }
+]

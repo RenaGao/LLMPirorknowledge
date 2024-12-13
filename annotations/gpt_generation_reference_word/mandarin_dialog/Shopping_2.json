@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It not working well.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer to the 'thing' that was bought last week.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is a... how to say... kitchen machine, for mix food.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer to the 'thing' that was bought last week.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, blender! It make noise, but no mix well.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used to refer to the 'blender'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes. Here is receipt. And blender is in bag.",
+        "annotation_token": "Here",
+        "rationale": "The word 'Here' is used to refer to the location or presence of the receipt.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, yes, I bring box. Is it okay?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used to refer to the action of bringing the box.",
+        "grammar_correctness": true
+    }
+]

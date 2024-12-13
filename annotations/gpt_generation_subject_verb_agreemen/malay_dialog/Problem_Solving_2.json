@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I make mistake in data.",
+        "annotation_token": "I make",
+        "rationale": "The subject 'I' does not agree with the verb 'make'. It should be 'I made' to indicate past tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I, um, use wrong numbers for the sales... figures.",
+        "annotation_token": "I use",
+        "rationale": "The subject 'I' does not agree with the verb 'use'. It should be 'I used' to indicate past tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "But it take... some time.",
+        "annotation_token": "it take",
+        "rationale": "The subject 'it' does not agree with the verb 'take'. It should be 'it takes' to indicate present tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I will make checklist, so I not miss... um, step next time.",
+        "annotation_token": "I not miss",
+        "rationale": "The subject 'I' does not agree with the verb 'miss'. It should be 'I do not miss' or 'I will not miss' to indicate future tense agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

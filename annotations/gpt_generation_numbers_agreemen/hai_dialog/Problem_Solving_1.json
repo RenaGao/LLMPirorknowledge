@@ -1,0 +1,11 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I try many time. Still same. I not sure what do next.",
+        "annotation_token": [
+            "time"
+        ],
+        "rationale": "The noun 'time' should be in its plural form 'times' to agree with the quantifier 'many'.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I've been working in digital marketing for the past three years and I'm looking to take the next step in my career.",
+        "annotation_token": [
+            "I've been working",
+            "I'm looking"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'have been working' and 'am looking' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I was drawn to your company's innovative approach to social media campaigns.",
+        "annotation_token": [
+            "I was drawn"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'was drawn' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I believe my skills in content creation and analytics could really contribute to your team's success.",
+        "annotation_token": [
+            "I believe",
+            "skills could contribute"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'believe', and the subject 'skills' correctly agrees with the modal verb 'could contribute'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I focus on key performance indicators like engagement rates, conversion metrics, and audience growth.",
+        "annotation_token": [
+            "I focus"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'focus' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I also make it a point to gather feedback to refine future strategies.",
+        "annotation_token": [
+            "I make"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'make' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I'm proficient with Google Analytics, Hootsuite, and even some custom dashboard solutions.",
+        "annotation_token": [
+            "I'm proficient"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am proficient' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I aim to deepen my expertise in digital marketing while contributing meaningfully to a forward-thinking team.",
+        "annotation_token": [
+            "I aim"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'aim' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you for the opportunity.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The implied subject 'I' correctly agrees with the verb 'thank' in terms of number and person.",
+        "grammar_correctness": "correct"
+    }
+]

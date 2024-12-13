@@ -1,0 +1,50 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, I did install a couple of new apps last week. Do you think they could be causing the slowdown?",
+        "annotation_token": [
+            "a couple of"
+        ],
+        "rationale": "The phrase 'a couple of' is a quantifier indicating an indefinite small number.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, I did install a couple of new apps last week. Do you think they could be causing the slowdown?",
+        "annotation_token": [
+            "a couple of",
+            "last week"
+        ],
+        "rationale": "'A couple of' is a quantifier indicating a small number, and 'last week' includes a numeral indicating a specific time period.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, I did install a couple of new apps last week. Do you think they could be causing the slowdown?",
+        "annotation_token": [
+            "a couple of",
+            "last week"
+        ],
+        "rationale": "The phrase 'a couple of' is a quantifier indicating an unspecified small number, and 'last week' includes a numeral indicating a specific time period.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hmm, I did install a couple of new apps last week. Do you think they could be causing the slowdown?",
+        "annotation_token": [
+            "a couple of",
+            "new"
+        ],
+        "rationale": "The phrase 'a couple of' is a quantifier indicating a small, indefinite number of apps, and 'new' refers to the apps that were recently installed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Not really, I usually just put it to sleep. Should I try a full restart?",
+        "annotation_token": [
+            "a full"
+        ],
+        "rationale": "The phrase 'a full' is a quantifier indicating the completeness of the restart being considered.",
+        "grammar_correctness": true
+    }
+]

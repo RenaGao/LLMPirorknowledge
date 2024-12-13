@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes, I am free. What kind of, um, place do you want to go?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hmm, I like both. But maybe Japanese food tonight, yes?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, but, um, how to say... it is far from here. Maybe find a new one?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to a place previously mentioned or understood in the context.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I love sushi! What is the name of the place?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Karaoke is very fun! We can sing many songs. Do you like it?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to karaoke.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes, I hear it is very popular. Many songs, many rooms.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes, I hear it is very popular. Many songs, many rooms.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to karaoke.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, 6:45 is good. I will be there. Looking forward!",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

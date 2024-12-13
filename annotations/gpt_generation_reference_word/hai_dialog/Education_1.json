@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, Nuch... um, it is quite hard for me to... understand everything.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to the challenging topic in their environmental science course.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, yes. And I think it cause sea level... um, increase?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' refers to the impact of climate change, specifically the melting of ice.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, I see. So, ice from land, not from water, right?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves, indicating their understanding.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, I understand better now.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference to the speaker themselves, indicating their improved understanding.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "And this is bad for city near ocean?",
+        "annotation_token": "this",
+        "rationale": "The word 'this' refers to the situation of rising sea levels due to climate change.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, Nuch. You help me a lot.",
+        "annotation_token": "You",
+        "rationale": "The word 'You' is a reference to Nuch, indicating the person who provided help.",
+        "grammar_correctness": true
+    }
+]

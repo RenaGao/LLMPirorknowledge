@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes! I think about Thai restaurant... um, the one with spicy food? How to say... famous for tom yum?",
+        "annotation_token": "one",
+        "rationale": "The word 'one' is used as a reference to the 'Thai restaurant' mentioned earlier in the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, Spicy Thai Kitchen! I hear it is very good.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to 'Spicy Thai Kitchen' mentioned earlier in the sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, please. I like action movies. They are exciting.",
+        "annotation_token": "They",
+        "rationale": "The word 'They' is used as a reference to 'action movies' mentioned earlier in the sentence.",
+        "grammar_correctness": true
+    }
+]

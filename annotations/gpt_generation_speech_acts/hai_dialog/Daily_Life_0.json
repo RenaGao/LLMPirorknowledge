@@ -1,0 +1,70 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good morning! Um, today my morning is good.",
+        "annotation_token": [
+            "Good morning!",
+            "Um,",
+            "today",
+            "my",
+            "morning",
+            "is",
+            "good."
+        ],
+        "rationale": "The sentence 'Good morning!' is a greeting, which is a type of speech act. The rest of the sentence is a statement about the speaker's morning.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for listen. I hope it was interesti",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "for",
+            "listen.",
+            "I",
+            "hope",
+            "it",
+            "was",
+            "interesti"
+        ],
+        "rationale": "The phrase 'Thank you for listen.' is an expression of gratitude, which is a speech act. The sentence 'I hope it was interesti' is an expression of hope or wish, which is also a speech act.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good morning! Um, today my morning is good.",
+        "annotation_token": [
+            "Good morning!"
+        ],
+        "rationale": "The phrase 'Good morning!' is a greeting, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for listen. I hope it was interesti",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The phrase 'Thank you' is an expression of gratitude, which is a type of speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Good morning! Um, today my morning is good.",
+        "annotation_token": [
+            "Good morning!"
+        ],
+        "rationale": "The phrase 'Good morning!' is a speech act used as a greeting.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for listen. I hope it was interesti",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The phrase 'Thank you' is a speech act used to express gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

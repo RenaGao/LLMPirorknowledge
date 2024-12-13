@@ -1,0 +1,142 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hi, thank you! I'm doing well, a bit nervous, but excited to be here. How about you?",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in the present continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Sure! I recently graduated with a degree in marketing, and I'm really passionate about digital strategies.",
+        "annotation_token": [
+            "I graduated",
+            "I am"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'graduated' in the past tense and 'am' in the present continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’ve been following your company for a while now, and I admire your innovative approach to brand engagement.",
+        "annotation_token": [
+            "I have been following",
+            "I admire"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'have been following' in the present perfect continuous tense and 'admire' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Absolutely. During my internship at XYZ Corp, I led a team to develop a social media campaign that increased our client’s engagement by 30% over three months.",
+        "annotation_token": [
+            "I led",
+            "campaign increased"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'led' in the past tense, and the subject 'campaign' correctly agrees with the verb 'increased' in the past tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I see feedback as an opportunity for growth.",
+        "annotation_token": [
+            "I see"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'see' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I always listen carefully and apply it to improve my work.",
+        "annotation_token": [
+            "I listen",
+            "I apply"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'listen' and 'apply' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I believe in open communication and creating a supportive work environment.",
+        "annotation_token": [
+            "I believe"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'believe' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Sure, there was a time when our project deadline was moved up unexpectedly.",
+        "annotation_token": [
+            "deadline was moved"
+        ],
+        "rationale": "The subject 'deadline' correctly agrees with the verb 'was moved' in the past tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I coordinated with the team to prioritize tasks, and we managed to deliver on time without compromising quality.",
+        "annotation_token": [
+            "I coordinated",
+            "we managed"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'coordinated' in the past tense, and the subject 'we' correctly agrees with the verb 'managed' in the past tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "It taught me a lot about adaptability and leadership.",
+        "annotation_token": [
+            "It taught"
+        ],
+        "rationale": "The subject 'It' correctly agrees with the verb 'taught' in the past tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I’m curious about the company culture.",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in the present continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "How would you describe the team dynamics here?",
+        "annotation_token": [
+            "you describe"
+        ],
+        "rationale": "The subject 'you' correctly agrees with the verb 'describe' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That sounds like a great fit for me.",
+        "annotation_token": [
+            "That sounds"
+        ],
+        "rationale": "The subject 'That' correctly agrees with the verb 'sounds' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you for the insight and for this opportunity to speak with you today.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The subject 'you' correctly agrees with the verb 'thank' in the imperative form.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you, you too! I look forward to hearing from you.",
+        "annotation_token": [
+            "I look"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'look' in the present simple tense.",
+        "grammar_correctness": "correct"
+    }
+]

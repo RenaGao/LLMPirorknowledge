@@ -1,0 +1,142 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. I really like... um, how to say... \"Crash Landing on You.\"",
+        "annotation_token": [
+            "Ah",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Ah', 'um', and 'how to say' are used as speech acts to express hesitation and searching for words.",
+        "grammar_correctness": "These tokens are typical in spoken English to indicate hesitation or thinking, but they are not grammatically necessary."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I watch movie... um, \"Parasite.\" It is very... how to say... thought-provoking?",
+        "annotation_token": [
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'um' and 'how to say' are used as speech acts to express hesitation and searching for words.",
+        "grammar_correctness": "These tokens are typical in spoken English to indicate hesitation or thinking, but they are not grammatically necessary."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I like... um, \"Friends.\" It's very funny and, um, good for learning English.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to express hesitation.",
+        "grammar_correctness": "This token is typical in spoken English to indicate hesitation, but it is not grammatically necessary."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, I watch \"The Office.\" It's also... um, very funny and unique style.",
+        "annotation_token": [
+            "Uh",
+            "um"
+        ],
+        "rationale": "The tokens 'Uh' and 'um' are used as speech acts to express hesitation.",
+        "grammar_correctness": "These tokens are typical in spoken English to indicate hesitation, but they are not grammatically necessary."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, when... um, Michael does... the Dundie Awards. It is so... awkward and funny.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to express hesitation.",
+        "grammar_correctness": "This token is typical in spoken English to indicate hesitation, but it is not grammatically necessary."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think... yes. Comedy is... good for... relaxing after work.",
+        "annotation_token": [
+            "I think",
+            "yes"
+        ],
+        "rationale": "The tokens 'I think' and 'yes' are used as speech acts to express opinion and agreement.",
+        "grammar_correctness": "These tokens are typical in spoken English to express opinion and agreement."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I want to watch... um, \"Stranger Things.\" I hear it is... very exciting and... suspenseful.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to express hesitation.",
+        "grammar_correctness": "This token is typical in spoken English to indicate hesitation, but it is not grammatically necessary."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes. I really like... um, how to say... \"Crash Landing on You.\"",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Ah', 'yes', 'um', and 'how to say' are used as speech acts to express agreement, hesitation, and searching for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I watch movie... um, \"Parasite.\" It is very... how to say... thought-provoking?",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Yes', 'um', and 'how to say' are used as speech acts to express agreement, hesitation, and searching for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I like... um, \"Friends.\" It's very funny and, um, good for learning English.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes' and 'um' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, I watch \"The Office.\" It's also... um, very funny and unique style.",
+        "annotation_token": [
+            "Uh",
+            "um"
+        ],
+        "rationale": "The tokens 'Uh' and 'um' are used as speech acts to express hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, when... um, Michael does... the Dundie Awards. It is so... awkward and funny.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes' and 'um' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think... yes. Comedy is... good for... relaxing after work.",
+        "annotation_token": [
+            "I think",
+            "yes"
+        ],
+        "rationale": "The tokens 'I think' and 'yes' are used as speech acts to express opinion and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I want to watch... um, \"Stranger Things.\" I hear it is... very exciting and... suspenseful.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The token 'um' is used as a speech act to express hesitation.",
+        "grammar_correctness": "correct"
+    }
+]

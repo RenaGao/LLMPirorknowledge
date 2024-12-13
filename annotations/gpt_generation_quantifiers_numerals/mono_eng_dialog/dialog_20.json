@@ -1,0 +1,46 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. During my final year, I led a team in designing a social media campaign for a local nonprofit. We increased their engagement by 40% in two months. It taught me a lot about teamwork and creative problem-solving.",
+        "annotation_token": [
+            "40%",
+            "two",
+            "a lot"
+        ],
+        "rationale": "The sentence contains numerals '40%' and 'two' which quantify the increase in engagement and the duration, respectively. 'A lot' is a quantifier indicating a large amount of learning.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. During my final year, I led a team in designing a social media campaign for a local nonprofit. We increased their engagement by 40% in two months. It taught me a lot about teamwork and creative problem-solving.",
+        "annotation_token": [
+            "40%",
+            "two",
+            "a lot"
+        ],
+        "rationale": "The sentence contains numerals '40%' and 'two' which quantify the increase in engagement and the duration, respectively. 'A lot' is a quantifier indicating a large amount of learning.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. During my final year, I led a team in designing a social media campaign for a local nonprofit. We increased their engagement by 40% in two months. It taught me a lot about teamwork and creative problem-solving.",
+        "annotation_token": [
+            "40%",
+            "two",
+            "a lot"
+        ],
+        "rationale": "The sentence contains numerals '40%' and 'two' which quantify the increase in engagement and the duration, respectively. 'A lot' is a quantifier indicating a large amount of learning.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Absolutely. During my final year, I led a team in designing a social media campaign for a local nonprofit. We increased their engagement by 40% in two months. It taught me a lot about teamwork and creative problem-solving.",
+        "annotation_token": [
+            "a",
+            "40%",
+            "two"
+        ],
+        "rationale": "The sentence contains 'a', '40%', and 'two', which are quantifiers and numerals used to provide specific amounts or measures.",
+        "grammar_correctness": true
+    }
+]

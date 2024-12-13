@@ -1,0 +1,59 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, yes! We want to go somewhere, um, fun and relax. Maybe, uh, beach or mountain.",
+        "annotation_token": [
+            "want",
+            "go"
+        ],
+        "rationale": "The verbs 'want' and 'go' are in the present tense, which is consistent with the speaker's intention to express a current desire or plan.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, Rockies! But, um, I not sure which one is better.",
+        "annotation_token": [
+            "not sure"
+        ],
+        "rationale": "The phrase 'not sure' is missing the auxiliary verb 'am' to correctly form the present tense 'I am not sure'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Some, they like beach. Others, um, like nature walk and see animal. Hard to decide!",
+        "annotation_token": [
+            "like",
+            "see"
+        ],
+        "rationale": "The verbs 'like' and 'see' are in the present tense, which is appropriate for expressing general preferences.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, California... Yes, that can work! But, um, what we do there?",
+        "annotation_token": [
+            "do"
+        ],
+        "rationale": "The verb 'do' should be preceded by 'will' or 'can' to form a correct future or modal question, such as 'what will we do there?' or 'what can we do there?'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, one week is good. I will check with friends. Um, how about place to stay?",
+        "annotation_token": [
+            "is",
+            "will check"
+        ],
+        "rationale": "The verb 'is' is in the present tense, which is appropriate for stating a current opinion. 'Will check' is in the future tense, indicating a future action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Budget... um, not too expensive, but comfortable is important.",
+        "annotation_token": [
+            "is"
+        ],
+        "rationale": "The verb 'is' is in the present tense, which is appropriate for expressing a current opinion or state.",
+        "grammar_correctness": "correct"
+    }
+]

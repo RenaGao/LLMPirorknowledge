@@ -1,0 +1,255 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello, teacher. Um, I have question... about homework.",
+        "annotation_token": [
+            "Hello",
+            "I have question",
+            "about homework"
+        ],
+        "rationale": "The sentence contains speech acts of greeting ('Hello'), stating ('I have question'), and specifying ('about homework').",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, the part where we write, uh, essay... about history.",
+        "annotation_token": [
+            "Yes",
+            "the part where we write",
+            "essay",
+            "about history"
+        ],
+        "rationale": "The sentence contains speech acts of agreement ('Yes'), specifying ('the part where we write'), and topic introduction ('essay about history').",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, the topic is, uh, confusing for me.",
+        "annotation_token": [
+            "Yes",
+            "the topic is",
+            "confusing for me"
+        ],
+        "rationale": "The sentence contains speech acts of agreement ('Yes'), stating ('the topic is'), and expressing confusion ('confusing for me').",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I not sure... how to start.",
+        "annotation_token": [
+            "I not sure",
+            "how to start"
+        ],
+        "rationale": "The sentence contains speech acts of expressing uncertainty ('I not sure') and seeking guidance ('how to start').",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "What I, um, include in the essay?",
+        "annotation_token": [
+            "What I include",
+            "in the essay"
+        ],
+        "rationale": "The sentence contains speech acts of questioning ('What I include') and specifying ('in the essay').",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you very much, teacher.",
+        "annotation_token": [
+            "Yes",
+            "thank you very much",
+            "teacher"
+        ],
+        "rationale": "The sentence contains speech acts of agreement ('Yes'), expressing gratitude ('thank you very much'), and addressing ('teacher').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, see you, teach",
+        "annotation_token": [
+            "Yes",
+            "see you",
+            "teach"
+        ],
+        "rationale": "The sentence contains speech acts of agreement ('Yes'), farewell ('see you'), and addressing ('teach').",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello, teacher. Um, I have question... about homework.",
+        "annotation_token": [
+            "Hello",
+            "I have question"
+        ],
+        "rationale": "The sentence contains a greeting ('Hello') and a statement of having a question, which is a speech act of requesting information.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, the part where we write, uh, essay... about history.",
+        "annotation_token": [
+            "Yes",
+            "the part where we write essay"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes') and a statement about a specific part of the homework, which is a speech act of confirming and requesting clarification.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, the topic is, uh, confusing for me.",
+        "annotation_token": [
+            "Yes",
+            "the topic is confusing for me"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes') and a statement of confusion, which is a speech act of expressing difficulty or seeking help.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I not sure... how to start.",
+        "annotation_token": [
+            "I not sure"
+        ],
+        "rationale": "The sentence contains a statement of uncertainty, which is a speech act of expressing doubt or seeking guidance.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "What I, um, include in the essay?",
+        "annotation_token": [
+            "What I include in the essay"
+        ],
+        "rationale": "The sentence contains a question, which is a speech act of requesting information.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you very much, teacher.",
+        "annotation_token": [
+            "Yes",
+            "thank you very much"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes') and an expression of gratitude, which is a speech act of thanking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, see you, teach",
+        "annotation_token": [
+            "Yes",
+            "see you"
+        ],
+        "rationale": "The sentence contains an affirmation ('Yes') and a farewell ('see you'), which is a speech act of leave-taking.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello, teacher. Um, I have question... about homework.",
+        "annotation_token": [
+            "Hello",
+            "I have question"
+        ],
+        "rationale": "The speaker is greeting the teacher and expressing a need for information or help, which are both speech acts.",
+        "grammar_correctness": "wrong, 'I have question' should be 'I have a question'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, the part where we write, uh, essay... about history.",
+        "annotation_token": [
+            "Yes",
+            "we write essay"
+        ],
+        "rationale": "The speaker is confirming understanding and stating an action, which are both speech acts.",
+        "grammar_correctness": "wrong, 'we write essay' should be 'we write an essay'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um, the topic is, uh, confusing for me.",
+        "annotation_token": [
+            "Yes",
+            "the topic is confusing for me"
+        ],
+        "rationale": "The speaker is confirming and expressing a state of confusion, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I not sure... how to start.",
+        "annotation_token": [
+            "I not sure"
+        ],
+        "rationale": "The speaker is expressing uncertainty, which is a speech act.",
+        "grammar_correctness": "wrong, 'I not sure' should be 'I am not sure'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "What I, um, include in the essay?",
+        "annotation_token": [
+            "What I include"
+        ],
+        "rationale": "The speaker is asking a question, which is a speech act.",
+        "grammar_correctness": "wrong, 'What I include' should be 'What should I include'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, Boston Tea Party... um, I need to, um, explain it?",
+        "annotation_token": [
+            "Yes",
+            "I need to explain it"
+        ],
+        "rationale": "The speaker is confirming and asking for clarification, which are both speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, the conclusion part... um, what I write there?",
+        "annotation_token": [
+            "Yes",
+            "what I write there"
+        ],
+        "rationale": "The speaker is confirming and asking a question, which are both speech acts.",
+        "grammar_correctness": "wrong, 'what I write there' should be 'what should I write there'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, um, I try to do that.",
+        "annotation_token": [
+            "Okay",
+            "I try to do that"
+        ],
+        "rationale": "The speaker is agreeing and expressing intention, which are both speech acts.",
+        "grammar_correctness": "wrong, 'I try to do that' should be 'I will try to do that'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you very much, teacher. I try my best.",
+        "annotation_token": [
+            "Yes",
+            "thank you",
+            "I try my best"
+        ],
+        "rationale": "The speaker is confirming, expressing gratitude, and expressing intention, which are all speech acts.",
+        "grammar_correctness": "wrong, 'I try my best' should be 'I will try my best'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you. I, um, work on it now.",
+        "annotation_token": [
+            "Thank you",
+            "I work on it now"
+        ],
+        "rationale": "The speaker is expressing gratitude and stating an action, which are both speech acts.",
+        "grammar_correctness": "wrong, 'I work on it now' should be 'I will work on it now'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, see you, teach",
+        "annotation_token": [
+            "Yes",
+            "see you"
+        ],
+        "rationale": "The speaker is confirming and saying goodbye, which are both speech acts.",
+        "grammar_correctness": "wrong, 'teach' should be 'teacher'"
+    }
+]

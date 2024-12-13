@@ -1,0 +1,25 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hi! Um, yes, I think maybe we go to Japan? I hear it is very nice in spring with cherry flowers.",
+        "annotation_token": [
+            "think",
+            "go",
+            "hear",
+            "is"
+        ],
+        "rationale": "The sentence contains a mix of present tense ('think', 'hear', 'is') and a base form verb ('go') which should be in the present tense ('are going') to maintain tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I ask Wing and Tom. They say they want to come. More people, more fun!",
+        "annotation_token": [
+            "ask",
+            "say",
+            "want"
+        ],
+        "rationale": "The sentence uses present tense verbs ('ask', 'say', 'want') consistently, which aligns with the context of the conversation.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I like speaking English.",
+        "annotation_token": "speaking English",
+        "rationale": "The noun 'English' and the verb 'speaking' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I see price, but I think it is... um, too high?",
+        "annotation_token": "see price",
+        "rationale": "The noun 'price' and the verb 'see' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Maybe I can... talk about price?",
+        "annotation_token": "talk about price",
+        "rationale": "The noun 'price' and the verb 'talk about' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Uh, he say price can be, um, reduced a little.",
+        "annotation_token": "say price",
+        "rationale": "The noun 'price' and the verb 'say' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

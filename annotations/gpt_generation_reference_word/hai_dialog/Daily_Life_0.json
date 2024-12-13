@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is easy to make.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the previously mentioned breakfast consisting of rice and egg.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It is... um, how to say... comfortable?",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the desk mentioned earlier in the conversation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It helps me remember things.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' refers to the schedule in the phone that helps the speaker remember things.",
+        "grammar_correctness": true
+    }
+]

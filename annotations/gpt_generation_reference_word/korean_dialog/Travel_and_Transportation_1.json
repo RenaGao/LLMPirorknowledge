@@ -1,0 +1,82 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes, please. I am looking for a, um, hotel nearby. I am not familiar... uh, with this area.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, I think it is... how to say... \"Blue Sky Hotel\"?",
+        "annotation_token": [
+            "I",
+            "it"
+        ],
+        "rationale": "The word 'I' refers to the speaker, and 'it' refers to the hotel being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you. Can you, um, tell me the direction?",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the listener.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Big park. Okay, I see. Is it far from there?",
+        "annotation_token": [
+            "I",
+            "it",
+            "there"
+        ],
+        "rationale": "The word 'I' refers to the speaker, 'it' refers to the park, and 'there' refers to the location being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, five minutes. I understand. Thank you so much. I was, um, worried to get lost.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, yes. Is there, uh, place to eat near hotel?",
+        "annotation_token": "there",
+        "rationale": "The word 'there' is a reference word referring to the location near the hotel.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I like, um, Korean food. Is there Korean restaurant?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Oh, that's good! I miss Korean food, um, very much.",
+        "annotation_token": [
+            "I",
+            "that"
+        ],
+        "rationale": "The word 'I' refers to the speaker, and 'that' refers to the information about Korean food being available.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, home food is best. Thank you again for your help.",
+        "annotation_token": "your",
+        "rationale": "The word 'your' is a reference word referring to the listener's help.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I will. Thank you, have a nice day!",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    }
+]

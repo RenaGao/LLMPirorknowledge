@@ -1,0 +1,124 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I want to return, please. Is it okay?",
+        "annotation_token": [
+            "Yes",
+            "I want to return",
+            "please",
+            "Is it okay"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an affirmative response ('Yes'), a request ('I want to return'), a politeness marker ('please'), and a request for confirmation ('Is it okay?').",
+        "grammar_correctness": "The sentence is mostly correct, but 'I want to return, please.' could be more naturally phrased as 'I would like to return this, please.'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, here is receipt. I keep it always.",
+        "annotation_token": [
+            "Yes",
+            "here is receipt",
+            "I keep it always"
+        ],
+        "rationale": "The sentence contains an affirmative response ('Yes'), a declarative statement ('here is receipt'), and an assurance ('I keep it always').",
+        "grammar_correctness": "The sentence is mostly correct, but 'here is receipt' should be 'here is the receipt' and 'I keep it always' could be more naturally phrased as 'I always keep it.'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I understand. Thank you for help today.",
+        "annotation_token": [
+            "Okay",
+            "I understand",
+            "Thank you for help today"
+        ],
+        "rationale": "The sentence contains an acknowledgment ('Okay'), a statement of understanding ('I understand'), and an expression of gratitude ('Thank you for help today').",
+        "grammar_correctness": "The sentence is mostly correct, but 'Thank you for help today' should be 'Thank you for your help today.'"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, I think that is all. Thank you very much!",
+        "annotation_token": [
+            "No",
+            "I think that is all",
+            "Thank you very much"
+        ],
+        "rationale": "The sentence contains a negative response ('No'), a statement of completion ('I think that is all'), and an expression of gratitude ('Thank you very much').",
+        "grammar_correctness": "The sentence is correct and aligns with native English speaker's grammar usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I want to return, please. Is it okay?",
+        "annotation_token": [
+            "Yes",
+            "I want to return",
+            "please",
+            "Is it okay"
+        ],
+        "rationale": "The sentence contains multiple speech acts: an affirmative response ('Yes'), a request ('I want to return'), a politeness marker ('please'), and a request for confirmation ('Is it okay?').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, here is receipt. I keep it always.",
+        "annotation_token": [
+            "Yes",
+            "here is receipt",
+            "I keep it always"
+        ],
+        "rationale": "The sentence includes an affirmative response ('Yes'), a statement of presentation ('here is receipt'), and a statement of habitual action ('I keep it always').",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, good. I was worry, maybe too late.",
+        "annotation_token": [
+            "Ah",
+            "good",
+            "I was worry",
+            "maybe too late"
+        ],
+        "rationale": "The sentence contains an expression of realization ('Ah'), an expression of satisfaction ('good'), an expression of concern ('I was worry'), and a speculation ('maybe too late').",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, refund is good for me.",
+        "annotation_token": [
+            "Um",
+            "refund is good for me"
+        ],
+        "rationale": "The sentence includes a hesitation marker ('Um') and an expression of preference ('refund is good for me').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I use credit card. Is that okay for refund?",
+        "annotation_token": [
+            "I use credit card",
+            "Is that okay for refund"
+        ],
+        "rationale": "The sentence contains a statement of action ('I use credit card') and a request for confirmation ('Is that okay for refund?').",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, I understand. Thank you for help today.",
+        "annotation_token": [
+            "Okay",
+            "I understand",
+            "Thank you for help today"
+        ],
+        "rationale": "The sentence includes an expression of agreement ('Okay'), an expression of comprehension ('I understand'), and an expression of gratitude ('Thank you for help today').",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "No, I think that is all. Thank you very much!",
+        "annotation_token": [
+            "No",
+            "I think that is all",
+            "Thank you very much"
+        ],
+        "rationale": "The sentence contains a negation ('No'), a statement of completion ('I think that is all'), and an expression of gratitude ('Thank you very much').",
+        "grammar_correctness": "correct"
+    }
+]

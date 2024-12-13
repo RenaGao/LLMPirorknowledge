@@ -1,0 +1,94 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We think about Lumphini Park. It is, uh, big and have many space for children to play.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of something, in this case, space for children to play.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, we bring water and some juice. Uh, my children like orange juice a lot.",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier used to indicate an unspecified amount of juice.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It will be five of us. Me, my wife, two children, and my mother.",
+        "annotation_token": [
+            "five",
+            "two"
+        ],
+        "rationale": "The words 'five' and 'two' are numerals used to specify the exact number of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We think about, um, 9:30 in morning. It is, uh, not too hot.",
+        "annotation_token": [
+            "9:30"
+        ],
+        "rationale": "The expression '9:30' is a numeral indicating a specific time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, we have, um, a ball to play football and, uh, some books for read.",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier used to indicate an unspecified number of books.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We think about Lumphini Park. It is, uh, big and have many space for children to play.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of something, in this case, space for children to play.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, we bring water and some juice. Uh, my children like orange juice a lot.",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier used to indicate an unspecified amount of juice.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It will be five of us. Me, my wife, two children, and my mother.",
+        "annotation_token": [
+            "five",
+            "two"
+        ],
+        "rationale": "The words 'five' and 'two' are numerals used to specify the number of people in the group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We think about, um, 9:30 in morning. It is, uh, not too hot.",
+        "annotation_token": [
+            "9:30"
+        ],
+        "rationale": "The time '9:30' is a numeral indicating a specific time of day.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, we have, um, a ball to play football and, uh, some books for read.",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "The word 'some' is a quantifier used to indicate an unspecified number of books.",
+        "grammar_correctness": true
+    }
+]

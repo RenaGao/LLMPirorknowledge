@@ -1,0 +1,93 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Hello, Alex. Um, I am Mei. Nice to meet you.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, it is, um, very lively. I like music here.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the environment or situation being discussed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I from Beijing. I move here for study. Um, university.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I study... um, business. Business management.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I am... third year now. One more year to finish.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, maybe find job here. I like... how to say... opportunities?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I want to work in, um, marketing. I like creative, um, things.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I work in, um, small company last summer. Very good experience.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I learn a lot. People there very kind and helpful.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I like, um, cooking. And sometimes, I go hiking. Nature here is beautiful.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I like making dumplings. It's... um, traditional for my family.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sure, I can show you! It will be fun.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sure, I can show you! It will be fun.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the activity of making dumplings.",
+        "grammar_correctness": true
+    }
+]

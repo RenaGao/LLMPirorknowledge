@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Hi! I am good, but, um, feeling little tired. You know, work is busy.",
+        "annotation_token": "work is",
+        "rationale": "The noun 'work' and the verb 'is' form a collocation expressing a state of being.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, I try, but sometimes not easy. I want to be more healthy.",
+        "annotation_token": "I try",
+        "rationale": "The noun 'I' and the verb 'try' form a collocation expressing an action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I start to, um, eat more vegetable. But, um, I still eat too much sweet. It's difficult.",
+        "annotation_token": "I start",
+        "rationale": "The noun 'I' and the verb 'start' form a collocation expressing an action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh yes, I like soda too much. It's hard, but I try, um, drink water more.",
+        "annotation_token": "I like",
+        "rationale": "The noun 'I' and the verb 'like' form a collocation expressing a preference.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Sleep? Um, sometimes not enough. I go to bed late because, uh, I watch TV.",
+        "annotation_token": "I watch",
+        "rationale": "The noun 'I' and the verb 'watch' form a collocation expressing an action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Uh, not much. I walk a little, but not often. Maybe I need more, um, movement?",
+        "annotation_token": "I walk",
+        "rationale": "The noun 'I' and the verb 'walk' form a collocation expressing an action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, short walk. I can do after work. I feel more energy, yes?",
+        "annotation_token": "I feel",
+        "rationale": "The noun 'I' and the verb 'feel' form a collocation expressing a state of being.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you, I will try these. You give me good ideas!",
+        "annotation_token": "You give",
+        "rationale": "The noun 'You' and the verb 'give' form a collocation expressing an action.",
+        "grammar_correctness": true
+    }
+]

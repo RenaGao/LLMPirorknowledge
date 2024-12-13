@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, yes, I think we can, uh, do party at his house.",
+        "annotation_token": "do party",
+        "rationale": "The noun 'party' and the verb 'do' form a collocation that expresses a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, I can try. I will, um, message her later.",
+        "annotation_token": "message her",
+        "rationale": "The noun 'message' and the verb 'will' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, yes! The one with, um, spicy chicken. I think he will like that.",
+        "annotation_token": "like that",
+        "rationale": "The noun 'that' and the verb 'like' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Maybe simple but nice. We can, uh, use balloons and... um, banner?",
+        "annotation_token": "use balloons",
+        "rationale": "The noun 'balloons' and the verb 'use' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Hmm, maybe... oh, he like sports. We can do something with... um, football theme?",
+        "annotation_token": "like sports",
+        "rationale": "The noun 'sports' and the verb 'like' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, good idea! We also need, um, music. He like what type of music?",
+        "annotation_token": "like music",
+        "rationale": "The noun 'music' and the verb 'like' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Okay, I can help with that. Maybe I can ask a few friends for song ideas.",
+        "annotation_token": "ask friends",
+        "rationale": "The noun 'friends' and the verb 'ask' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Maybe, um, start at 5 p.m.? So, we have time for, uh, eat and talk before he come.",
+        "annotation_token": "have time",
+        "rationale": "The noun 'time' and the verb 'have' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, maybe some games. If we have... um, football theme, we can play like... small game outside?",
+        "annotation_token": "play game",
+        "rationale": "The noun 'game' and the verb 'play' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, that is good. I think Aiman will be happy. I will, uh, start planning the message to his sister now.",
+        "annotation_token": "start planning",
+        "rationale": "The noun 'planning' and the verb 'start' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

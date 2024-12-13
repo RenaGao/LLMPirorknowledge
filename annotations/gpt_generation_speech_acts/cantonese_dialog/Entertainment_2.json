@@ -1,0 +1,227 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, I think... um, \"The Joy Luck Club\" is very good. You know this book?",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "I think",
+            "um",
+            "You know this book?"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Ah', 'yes', 'I think', 'um', and 'You know this book?' which are used to express agreement, hesitation, and inquiry.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It about, um, Chinese mothers and daughters. Very... how to say... touching, yes.",
+        "annotation_token": [
+            "um",
+            "how to say",
+            "yes"
+        ],
+        "rationale": "The sentence contains speech acts such as 'um', 'how to say', and 'yes' which are used to express hesitation and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, many stories about, uh, family and tradition. And, um, generation gap too.",
+        "annotation_token": [
+            "Yes",
+            "uh",
+            "um"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Yes', 'uh', and 'um' which are used to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I feel... relate to it. It show how, um, culture change affect family.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The sentence contains the speech act 'um' which is used to express hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, a little. It make me think... about my mom and grandma.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The sentence contains the speech act 'Yes' which is used to express agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think it good for, um, understanding different culture and, uh, family value.",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "uh"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Yes', 'um', and 'uh' which are used to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It... it also have humor, so not only sad.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any explicit speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it balance the, um, serious part.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Yes' and 'um' which are used to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, I think... um, \"The Joy Luck Club\" is very good. You know this book?",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "I think",
+            "um",
+            "You know this book?"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Ah', 'yes', 'I think', 'um', and 'You know this book?' which are used to express agreement, hesitation, and inquiry.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It about, um, Chinese mothers and daughters. Very... how to say... touching, yes.",
+        "annotation_token": [
+            "um",
+            "how to say",
+            "yes"
+        ],
+        "rationale": "The sentence contains speech acts such as 'um', 'how to say', and 'yes' which are used to express hesitation and agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, many stories about, uh, family and tradition. And, um, generation gap too.",
+        "annotation_token": [
+            "Yes",
+            "uh",
+            "um"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Yes', 'uh', and 'um' which are used to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I feel... relate to it. It show how, um, culture change affect family.",
+        "annotation_token": [
+            "um"
+        ],
+        "rationale": "The sentence contains the speech act 'um' which is used to express hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, a little. It make me think... about my mom and grandma.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The sentence contains the speech act 'Yes' which is used to express agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think it good for, um, understanding different culture and, uh, family value.",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "uh"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Yes', 'um', and 'uh' which are used to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It... it also have humor, so not only sad.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any explicit speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it balance the, um, serious part.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Yes' and 'um' which are used to express agreement and hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, I think... um, \"The Joy Luck Club\" is very good. You know this book?",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "I think",
+            "um",
+            "You know this book?"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Ah', 'yes', 'I think', 'um', and 'You know this book?' which are used to express agreement, hesitation, and inquiry.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Very... how to say... touching, yes.",
+        "annotation_token": [
+            "how to say",
+            "yes"
+        ],
+        "rationale": "The phrase 'how to say' is a speech act indicating a search for words, and 'yes' is an agreement or confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I feel... relate to it.",
+        "annotation_token": [
+            "I feel"
+        ],
+        "rationale": "'I feel' is a speech act expressing personal emotion or opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "It make me think... about my mom and grandma.",
+        "annotation_token": [
+            "It make me think"
+        ],
+        "rationale": "'It make me think' is a speech act indicating reflection or contemplation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think it good for, um, understanding different culture and, uh, family value.",
+        "annotation_token": [
+            "Yes",
+            "I think",
+            "um",
+            "uh"
+        ],
+        "rationale": "The sentence contains speech acts such as 'Yes', 'I think', 'um', and 'uh' which are used to express agreement, opinion, hesitation, and filler.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it balance the, um, serious part.",
+        "annotation_token": [
+            "Yes",
+            "um"
+        ],
+        "rationale": "'Yes' is a speech act expressing agreement, and 'um' is a filler indicating hesitation.",
+        "grammar_correctness": "correct"
+    }
+]

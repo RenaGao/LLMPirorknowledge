@@ -1,0 +1,132 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! I’m considering applying to your university and wanted to know more about the application process.",
+        "annotation_token": [
+            "Hi!",
+            "I’m considering applying to your university",
+            "wanted to know more about the application process"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hi!'), an expression of intention ('I’m considering applying to your university'), and a request for information ('wanted to know more about the application process').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Could you give me some guidance?",
+        "annotation_token": [
+            "Could you give me some guidance?"
+        ],
+        "rationale": "This sentence is a request for guidance, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Do you have any tips on what to include?",
+        "annotation_token": [
+            "Do you have any tips on what to include?"
+        ],
+        "rationale": "This sentence is a request for advice, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Is there a specific format I should follow?",
+        "annotation_token": [
+            "Is there a specific format I should follow?"
+        ],
+        "rationale": "This sentence is a request for information, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "What about deadlines?",
+        "annotation_token": [
+            "What about deadlines?"
+        ],
+        "rationale": "This sentence is a request for information regarding deadlines, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Is there anything else I should be aware of?",
+        "annotation_token": [
+            "Is there anything else I should be aware of?"
+        ],
+        "rationale": "This sentence is a request for additional information, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much for your help!",
+        "annotation_token": [
+            "Thank you so much for your help!"
+        ],
+        "rationale": "This sentence is an expression of gratitude, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi! I’m considering applying to your university and wanted to know more about the application process.",
+        "annotation_token": [
+            "Hi!",
+            "I’m considering applying to your university",
+            "wanted to know more about the application process"
+        ],
+        "rationale": "The sentence contains multiple speech acts: a greeting ('Hi!'), an expression of intention ('I’m considering applying to your university'), and a request for information ('wanted to know more about the application process').",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Could you give me some guidance?",
+        "annotation_token": [
+            "Could you give me some guidance?"
+        ],
+        "rationale": "This sentence is a request for guidance, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Do you have any tips on what to include?",
+        "annotation_token": [
+            "Do you have any tips on what to include?"
+        ],
+        "rationale": "This sentence is a request for advice, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Is there a specific format I should follow?",
+        "annotation_token": [
+            "Is there a specific format I should follow?"
+        ],
+        "rationale": "This sentence is a request for information, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "What about deadlines?",
+        "annotation_token": [
+            "What about deadlines?"
+        ],
+        "rationale": "This sentence is a request for information regarding deadlines, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Is there anything else I should be aware of?",
+        "annotation_token": [
+            "Is there anything else I should be aware of?"
+        ],
+        "rationale": "This sentence is a request for additional information, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much for your help!",
+        "annotation_token": [
+            "Thank you so much for your help!"
+        ],
+        "rationale": "This sentence is an expression of gratitude, which is a speech act.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Morning! I’m a bit nervous, to be honest, but mostly excited about the opportunity.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Well, I’ve always admired your approach to sustainability and innovation.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "The recent project on renewable energy solutions really caught my eye.",
+        "annotation_token": "my",
+        "rationale": "The word 'my' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Certainly. In my last role, I led a team to develop a recycling program that reduced waste by 30%.",
+        "annotation_token": "my",
+        "rationale": "The word 'my' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Certainly. In my last role, I led a team to develop a recycling program that reduced waste by 30%.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "It was rewarding to see tangible results.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word referring to the recycling program.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I believe in open communication.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Listening to all perspectives and finding a common ground usually works well.",
+        "annotation_token": "all",
+        "rationale": "The word 'all' is a reference word referring to all perspectives.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I’m curious about the professional development opportunities your company offers.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Could you elaborate on that?",
+        "annotation_token": "that",
+        "rationale": "The word 'that' is a reference word referring to the professional development opportunities.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That sounds fantastic.",
+        "annotation_token": "That",
+        "rationale": "The word 'That' is a reference word referring to the professional development opportunities.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I really appreciate the emphasis on growth and learning.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you for the opportunity and for the insightful conversation.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the listener.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I look forward to hearing from you.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I look forward to hearing from you.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the listener.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, hi. I come because I feel not so good.",
+        "annotation_token": [
+            "I come"
+        ],
+        "rationale": "The subject 'I' does not agree with the verb 'come'. It should be 'I came' or 'I have come' for past tense or 'I am coming' for present continuous.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I also feel... um, tired? And my body is, um, hot.",
+        "annotation_token": [
+            "my body is"
+        ],
+        "rationale": "The subject 'my body' agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, fever. My body is hot and sometimes cold.",
+        "annotation_token": [
+            "My body is"
+        ],
+        "rationale": "The subject 'my body' agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, no sore throat, but... um, sometimes my stomach not happy.",
+        "annotation_token": [
+            "my stomach not happy"
+        ],
+        "rationale": "The subject 'my stomach' does not agree with the verb. It should be 'my stomach is not happy'.",
+        "grammar_correctness": "wrong"
+    }
+]

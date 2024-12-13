@@ -1,0 +1,96 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I buy this shirt last week, and it is, um, too big. Can I, uh, bring back and get small size?",
+        "annotation_token": [
+            "last",
+            "small"
+        ],
+        "rationale": "The word 'last' is a quantifier indicating the final week in a sequence, and 'small' is a quantifier describing the size of the shirt.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, good. And, um, if I don’t find size, can I, um, get money back?",
+        "annotation_token": [
+            "size"
+        ],
+        "rationale": "The word 'size' is a quantifier referring to the measurement or dimension of the shirt.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Okay, thank you so much. And, um, how many days I have to return?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to ask about the number of days available for return.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, okay. So I have, um, three weeks more?",
+        "annotation_token": [
+            "three",
+            "more"
+        ],
+        "rationale": "The word 'three' is a numeral indicating the number of weeks, and 'more' is a quantifier indicating an additional amount of time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, no, I think... no, wait! I have one more. If I need, um, not here, but online return?",
+        "annotation_token": [
+            "one",
+            "more"
+        ],
+        "rationale": "The word 'one' is a numeral indicating a single additional question, and 'more' is a quantifier indicating an additional amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I buy this shirt last week, and it is, um, too big. Can I, uh, bring back and get small size?",
+        "annotation_token": [
+            "last",
+            "small"
+        ],
+        "rationale": "The word 'last' is a quantifier indicating the final week in a sequence, and 'small' is a quantifier describing the size of the shirt.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, good. And, um, if I don’t find size, can I, um, get money back?",
+        "annotation_token": [
+            "size"
+        ],
+        "rationale": "The word 'size' is a quantifier referring to the measurement or extent of the shirt.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Okay, thank you so much. And, um, how many days I have to return?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to ask about the number of days available for return.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, okay. So I have, um, three weeks more?",
+        "annotation_token": [
+            "three"
+        ],
+        "rationale": "The word 'three' is a numeral indicating the specific number of weeks available for return.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, no, I think... no, wait! I have one more. If I need, um, not here, but online return?",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "The word 'one' is a numeral indicating a single additional question or concern.",
+        "grammar_correctness": true
+    }
+]

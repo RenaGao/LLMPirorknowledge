@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I work in, um, how to say... marketing. I help company sell product.",
+        "annotation_token": [
+            "work",
+            "help",
+            "sell"
+        ],
+        "rationale": "The verbs 'work', 'help', and 'sell' are in the present tense, which is consistent with the context of describing current activities.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I like to cook Thai food. Um, and I also... run in the park.",
+        "annotation_token": [
+            "like",
+            "cook",
+            "run"
+        ],
+        "rationale": "The verbs 'like', 'cook', and 'run' are in the present tense, which is consistent with the context of describing current habits or preferences.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I like to make, um, green curry. It is spicy but very good.",
+        "annotation_token": [
+            "like",
+            "make",
+            "is"
+        ],
+        "rationale": "The verbs 'like', 'make', and 'is' are in the present tense, which is consistent with the context of describing current preferences and characteristics.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It is not hard, but must... have right ingredient. Fresh is best.",
+        "annotation_token": [
+            "is",
+            "must",
+            "have",
+            "is"
+        ],
+        "rationale": "The verbs 'is', 'must', 'have', and 'is' are in the present tense, which is consistent with the context of describing general truths or characteristics.",
+        "grammar_correctness": "correct"
+    }
+]

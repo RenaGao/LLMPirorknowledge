@@ -1,0 +1,57 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I did a project... about market research. We, um, look at data and see... trends for clothing sale.",
+        "annotation_token": [
+            "did",
+            "look",
+            "see"
+        ],
+        "rationale": "The sentence contains a mix of past tense ('did') and present tense ('look', 'see') verbs, which indicates a lack of tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I, um... I analyze data and make, uh, report. I also talk with group... to share idea.",
+        "annotation_token": [
+            "analyze",
+            "make",
+            "talk"
+        ],
+        "rationale": "The sentence uses present tense verbs ('analyze', 'make', 'talk') to describe past actions, indicating a lack of tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I learn... how to use Excel better. And also, um, how to communicate... clearly with team.",
+        "annotation_token": [
+            "learn",
+            "communicate"
+        ],
+        "rationale": "The sentence uses present tense verbs ('learn', 'communicate') to describe past learning experiences, indicating a lack of tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, yes. We have problem with data... it was not, um, correct. So, I work with my friend to... how to say... fix it?",
+        "annotation_token": [
+            "have",
+            "was",
+            "work"
+        ],
+        "rationale": "The sentence contains a mix of present tense ('have', 'work') and past tense ('was') verbs, indicating a lack of tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I try to stay... calm. I make list of tasks and do... one by one. It help me not stress.",
+        "annotation_token": [
+            "try",
+            "make",
+            "do",
+            "help"
+        ],
+        "rationale": "The sentence uses present tense verbs ('try', 'make', 'do', 'help') to describe past actions, indicating a lack of tense agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

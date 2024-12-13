@@ -1,0 +1,169 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, yes, please. I am looking for hotel. How to say... um, a place for sleep?",
+        "annotation_token": [
+            "Uh",
+            "yes",
+            "please",
+            "How to say",
+            "um"
+        ],
+        "rationale": "The tokens 'Uh', 'yes', 'please', 'How to say', and 'um' are used as speech acts to express politeness, hesitation, and request for information.",
+        "grammar_correctness": "The use of these speech acts is generally correct, though 'How to say' is not a standard phrase in native English."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, I think it is called... um, Green... Green House Hotel?",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "I think",
+            "um"
+        ],
+        "rationale": "The tokens 'Ah', 'yes', 'I think', and 'um' are used as speech acts to express realization, agreement, uncertainty, and hesitation.",
+        "grammar_correctness": "The use of these speech acts is generally correct, though 'I think' is slightly informal."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much. You are very, um, helpful!",
+        "annotation_token": [
+            "Thank you",
+            "um"
+        ],
+        "rationale": "The tokens 'Thank you' and 'um' are used as speech acts to express gratitude and hesitation.",
+        "grammar_correctness": "The use of these speech acts is correct and aligns with native English usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I, um, visit for holiday. Want to see... uh, many sights.",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Yes', 'um', and 'uh' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "The use of these speech acts is generally correct, though the sentence structure is slightly informal."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will. Thank you! I go now to... um, check-in?",
+        "annotation_token": [
+            "Yes",
+            "Thank you",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes', 'Thank you', and 'um' are used as speech acts to express agreement, gratitude, and hesitation.",
+        "grammar_correctness": "The use of these speech acts is correct and aligns with native English usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much. Have a nice day!",
+        "annotation_token": [
+            "Thank you very much",
+            "Have a nice day"
+        ],
+        "rationale": "The tokens 'Thank you very much' and 'Have a nice day' are used as speech acts to express gratitude and well-wishing.",
+        "grammar_correctness": "The use of these speech acts is correct and aligns with native English usage."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, yes, please. I am looking for hotel. How to say... um, a place for sleep?",
+        "annotation_token": [
+            "Uh",
+            "yes",
+            "please",
+            "How to say",
+            "um"
+        ],
+        "rationale": "The tokens 'Uh', 'yes', 'please', 'How to say', and 'um' are used as speech acts to express politeness, hesitation, and request for information.",
+        "grammar_correctness": "The use of these speech acts is generally correct, although 'How to say' is a non-native structure."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, yes, I think it is called... um, Green... Green House Hotel?",
+        "annotation_token": [
+            "Ah",
+            "yes",
+            "I think",
+            "um"
+        ],
+        "rationale": "The tokens 'Ah', 'yes', 'I think', and 'um' are used as speech acts to express realization, agreement, uncertainty, and hesitation.",
+        "grammar_correctness": "The use of these speech acts is generally correct, although 'I think' is a non-native structure in this context."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "That is good. I am... how you say... not sure where is front and back?",
+        "annotation_token": [
+            "how you say"
+        ],
+        "rationale": "The token 'how you say' is used as a speech act to express uncertainty and request for confirmation.",
+        "grammar_correctness": "The use of 'how you say' is a non-native structure."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes, I see. The red... uh, building, right?",
+        "annotation_token": [
+            "Yes",
+            "yes",
+            "I see",
+            "uh"
+        ],
+        "rationale": "The tokens 'Yes', 'yes', 'I see', and 'uh' are used as speech acts to express agreement, understanding, and hesitation.",
+        "grammar_correctness": "The use of these speech acts is generally correct."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think... yes, I can. But, um, if I lost, maybe I ask someone again?",
+        "annotation_token": [
+            "I think",
+            "yes",
+            "um",
+            "maybe"
+        ],
+        "rationale": "The tokens 'I think', 'yes', 'um', and 'maybe' are used as speech acts to express uncertainty, agreement, hesitation, and possibility.",
+        "grammar_correctness": "The use of these speech acts is generally correct, although 'I think' is a non-native structure in this context."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you so much. You are very, um, helpful!",
+        "annotation_token": [
+            "Thank you",
+            "um"
+        ],
+        "rationale": "The tokens 'Thank you' and 'um' are used as speech acts to express gratitude and hesitation.",
+        "grammar_correctness": "The use of these speech acts is correct."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I, um, visit for holiday. Want to see... uh, many sights.",
+        "annotation_token": [
+            "Yes",
+            "um",
+            "uh"
+        ],
+        "rationale": "The tokens 'Yes', 'um', and 'uh' are used as speech acts to express agreement and hesitation.",
+        "grammar_correctness": "The use of these speech acts is generally correct."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I will. Thank you! I go now to... um, check-in?",
+        "annotation_token": [
+            "Yes",
+            "Thank you",
+            "um"
+        ],
+        "rationale": "The tokens 'Yes', 'Thank you', and 'um' are used as speech acts to express agreement, gratitude, and hesitation.",
+        "grammar_correctness": "The use of these speech acts is correct."
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you very much. Have a nice day!",
+        "annotation_token": [
+            "Thank you",
+            "Have a nice day"
+        ],
+        "rationale": "The tokens 'Thank you' and 'Have a nice day' are used as speech acts to express gratitude and well-wishing.",
+        "grammar_correctness": "The use of these speech acts is correct."
+    }
+]

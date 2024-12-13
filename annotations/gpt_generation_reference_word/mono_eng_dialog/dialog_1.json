@@ -1,0 +1,93 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Morning! I’m doing well, thanks. A bit nervous, but excited too.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Sure! I recently graduated with a degree in marketing, and I’ve always been passionate about digital media.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Your company stood out to me because of its innovative approach to social media campaigns.",
+        "annotation_token": "its",
+        "rationale": "The word 'its' is a reference word referring to the company.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Absolutely. I worked on a campaign for a local non-profit that aimed to increase volunteer sign-ups.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "We used targeted ads and storytelling, and it ended up boosting their numbers by 30%.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word referring to the campaign.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "The biggest challenge was limited resources.",
+        "annotation_token": "The",
+        "rationale": "The word 'The' is a reference word referring to the previously mentioned campaign.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I focused on maximizing our impact by leveraging partnerships with local businesses, which helped stretch our budget further.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I always try to view feedback as a learning opportunity.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I take notes, ask clarifying questions if needed, and apply the insights to future projects.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I’m curious about the team dynamics here.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Could you share a bit about how your team collaborates on projects?",
+        "annotation_token": "your",
+        "rationale": "The word 'your' is a reference word referring to the listener's team.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "That sounds fantastic.",
+        "annotation_token": "That",
+        "rationale": "The word 'That' is a reference word referring to the previously mentioned team dynamics.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you for the insights and the opportunity to discuss this role.",
+        "annotation_token": "this",
+        "rationale": "The word 'this' is a reference word referring to the role being discussed.",
+        "grammar_correctness": true
+    }
+]

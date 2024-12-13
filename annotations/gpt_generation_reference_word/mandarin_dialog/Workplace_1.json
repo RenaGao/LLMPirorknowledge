@@ -1,0 +1,142 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, thank you. My name is Mei. I come from Beijing. I have study business in university... um, for three years.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I like, um, how do you say... working with numbers and people. I think this job is good for... my skills.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I did a project... about market research. We, um, look at data and see... trends for clothing sale.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I did a project... about market research. We, um, look at data and see... trends for clothing sale.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word used to refer to the speaker and her team or group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I, um... I analyze data and make, uh, report. I also talk with group... to share idea.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I learn... how to use Excel better. And also, um, how to communicate... clearly with team.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes. We have problem with data... it was not, um, correct. So, I work with my friend to... how to say... fix it?",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word used to refer to the speaker and her team or group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes. We have problem with data... it was not, um, correct. So, I work with my friend to... how to say... fix it?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes. We have problem with data... it was not, um, correct. So, I work with my friend to... how to say... fix it?",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is a reference word used to refer to the problem with the data.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, correct. We check all numbers and make sure... they are right.",
+        "annotation_token": "We",
+        "rationale": "The word 'We' is a reference word used to refer to the speaker and her team or group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, correct. We check all numbers and make sure... they are right.",
+        "annotation_token": "they",
+        "rationale": "The word 'they' is a reference word used to refer to the numbers.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I try to stay... calm. I make list of tasks and do... one by one. It help me not stress.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I try to stay... calm. I make list of tasks and do... one by one. It help me not stress.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is a reference word used to refer to the process of making a list of tasks and doing them one by one.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I know your company is... um, leader in fashion. Very famous, uh, brand. You, um, innovate... in design.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I know your company is... um, leader in fashion. Very famous, uh, brand. You, um, innovate... in design.",
+        "annotation_token": "You",
+        "rationale": "The word 'You' is a reference word used to refer to the person or company Mei is speaking to.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I want to... get more experience in business. Maybe one day, um, become manager... to lead team.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I, um, plan to learn from senior people. Also, take, uh, courses to improve... my skills.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, I want to know... what skills are most important for this job?",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, that is... very helpful. I will focus on these.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Mei.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you very much for this... opportunity. I hope to see you aga",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word used to refer to the speaker, Mei.",
+        "grammar_correctness": true
+    }
+]

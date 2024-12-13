@@ -1,0 +1,32 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I've recently graduated with a degree in Marketing from University of Leeds.",
+        "annotation_token": [
+            "I've",
+            "graduated"
+        ],
+        "rationale": "The present perfect tense 'I've graduated' is used to indicate an action that was completed at some point in the past but is relevant to the present.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "During my final year, I led a team project where we developed a digital marketing strategy for a local charity.",
+        "annotation_token": [
+            "led",
+            "developed"
+        ],
+        "rationale": "The past tense 'led' and 'developed' are used to describe actions that were completed in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It was rewarding to see our efforts increase their online engagement by 30%.",
+        "annotation_token": [
+            "was",
+            "increase"
+        ],
+        "rationale": "The past tense 'was' is used to describe a past state, while 'increase' is in the base form because it follows 'to see', which requires the base form of the verb.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Not really. I sleep late. Uh, I watch too many series at night.",
+        "annotation_token": [
+            "sleep",
+            "watch"
+        ],
+        "rationale": "The verbs 'sleep' and 'watch' are in the present tense, which is consistent with the habitual actions being described.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I think I will try that. Any other tips for... um, health?",
+        "annotation_token": [
+            "think",
+            "will try"
+        ],
+        "rationale": "The verb 'think' is in the present tense, and 'will try' is in the future tense, which is appropriate for expressing a current thought and a future intention.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I will start today. Thank you for your advice.",
+        "annotation_token": [
+            "will start"
+        ],
+        "rationale": "The verb 'will start' is in the future tense, which is appropriate for expressing a future action.",
+        "grammar_correctness": "correct"
+    }
+]

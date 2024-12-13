@@ -1,0 +1,66 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Absolutely. At my last job, I managed a team for a major product launch. It involved coordinating between different departments and ensuring we met all deadlines.",
+        "annotation_token": [
+            "managed",
+            "involved",
+            "met"
+        ],
+        "rationale": "The verbs 'managed', 'involved', and 'met' are all in the past tense, which is consistent with the context of discussing a past job experience.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We mainly used Trello for task management and Slack for communication. I found them both very effective.",
+        "annotation_token": [
+            "used",
+            "found"
+        ],
+        "rationale": "The verbs 'used' and 'found' are in the past tense, which aligns with the context of describing past actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We did face a few hiccups, like supplier delays. I made sure to have contingency plans and kept open lines of communication with the team.",
+        "annotation_token": [
+            "did face",
+            "made",
+            "kept"
+        ],
+        "rationale": "The verbs 'did face', 'made', and 'kept' are in the past tense, which is appropriate for recounting past events.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I actually enjoy learning new things. I usually start with online courses and then apply what I've learned to real projects.",
+        "annotation_token": [
+            "enjoy",
+            "start",
+            "apply",
+            "have learned"
+        ],
+        "rationale": "The verbs 'enjoy', 'start', and 'apply' are in the present tense, indicating habitual actions, while 'have learned' is in the present perfect tense, showing a completed action with relevance to the present.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I aim to advance into a senior management role, where I can lead larger projects and mentor junior team members.",
+        "annotation_token": [
+            "aim",
+            "can lead",
+            "mentor"
+        ],
+        "rationale": "The verbs 'aim', 'can lead', and 'mentor' are in the present tense, reflecting future intentions and capabilities.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you for the opportunity to discuss my experience. I look forward to the possibility of working together.",
+        "annotation_token": [
+            "look forward"
+        ],
+        "rationale": "The verb 'look forward' is in the present tense, indicating a current feeling or anticipation.",
+        "grammar_correctness": "correct"
+    }
+]

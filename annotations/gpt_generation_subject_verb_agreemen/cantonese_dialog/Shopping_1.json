@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes, it is very nice.",
+        "annotation_token": [
+            "it is"
+        ],
+        "rationale": "The subject 'it' agrees with the verb 'is' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I like the color and... um, design.",
+        "annotation_token": [
+            "I like"
+        ],
+        "rationale": "The subject 'I' agrees with the verb 'like' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I will take for $42.",
+        "annotation_token": [
+            "I will take"
+        ],
+        "rationale": "The subject 'I' agrees with the verb phrase 'will take' in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "You are... um, very helpful.",
+        "annotation_token": [
+            "You are"
+        ],
+        "rationale": "The subject 'You' agrees with the verb 'are' in number and person.",
+        "grammar_correctness": "correct"
+    }
+]

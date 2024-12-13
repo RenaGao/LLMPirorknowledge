@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Sure! I recently graduated with a degree in Environmental Science, and I've always been passionate about sustainability.",
+        "annotation_token": "graduated with a degree",
+        "rationale": "The noun 'degree' and the verb 'graduated' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Absolutely. During my final year, I led a team project focused on reducing waste on campus.",
+        "annotation_token": "led a team project",
+        "rationale": "The noun 'project' and the verb 'led' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We implemented a recycling program that increased the recycling rate by 30%.",
+        "annotation_token": "implemented a recycling program",
+        "rationale": "The noun 'program' and the verb 'implemented' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "It taught me a lot about teamwork and project management.",
+        "annotation_token": "taught me a lot",
+        "rationale": "The noun 'lot' and the verb 'taught' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I believe open communication is key.",
+        "annotation_token": "believe open communication",
+        "rationale": "The noun 'communication' and the verb 'believe' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I always encourage team members to share their ideas and concerns.",
+        "annotation_token": "encourage team members",
+        "rationale": "The noun 'members' and the verb 'encourage' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "If a challenge arises, I like to gather everyone's input and find a solution collaboratively.",
+        "annotation_token": "find a solution",
+        "rationale": "The noun 'solution' and the verb 'find' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "In five years, I hope to have advanced to a leadership role, where I can influence larger sustainability initiatives.",
+        "annotation_token": "influence larger sustainability initiatives",
+        "rationale": "The noun 'initiatives' and the verb 'influence' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you for the opportunity.",
+        "annotation_token": "thank you",
+        "rationale": "The noun 'you' and the verb 'thank' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

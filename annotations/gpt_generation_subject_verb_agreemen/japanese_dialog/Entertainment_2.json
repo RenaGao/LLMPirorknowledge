@@ -1,0 +1,110 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hello, Sarah! I am good, thank you. How about you?",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, yes. I read a book, how to say... very famous? It is called, uh, “Norwegian Wood” by Murakami.",
+        "annotation_token": [
+            "I read",
+            "It is"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'read' in the past tense, and the subject 'It' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Hmm, it is... how to say... deep? It talks about life and, um, love in a way that is very... um, touching.",
+        "annotation_token": [
+            "it is",
+            "It talks"
+        ],
+        "rationale": "The subject 'it' correctly agrees with the verb 'is' and 'talks' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think, um, the characters are very... real? They have, uh, real problems and feel... how to say... alive.",
+        "annotation_token": [
+            "I think",
+            "the characters are",
+            "They have"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'think', 'the characters' correctly agrees with the verb 'are', and 'They' correctly agrees with the verb 'have' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, there is a part, um, where they talk about music. I like music a lot, so it was... um, interesting to me.",
+        "annotation_token": [
+            "there is",
+            "they talk",
+            "I like",
+            "it was"
+        ],
+        "rationale": "The subject 'there' correctly agrees with the verb 'is', 'they' correctly agrees with the verb 'talk', 'I' correctly agrees with the verb 'like', and 'it' correctly agrees with the verb 'was' in the past tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think, um, they should try. It is, uh, good for thinking and... um, feeling. Also, it is good practice for... um, reading English too if they use the translation.",
+        "annotation_token": [
+            "I think",
+            "they should",
+            "It is",
+            "it is",
+            "they use"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'think', 'they' correctly agrees with the modal verb 'should', 'It' correctly agrees with the verb 'is', and 'they' correctly agrees with the verb 'use' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I read “Kafka on the Shore.” It is also... um, strange but interesting. I like it too.",
+        "annotation_token": [
+            "I read",
+            "It is",
+            "I like"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'read', 'It' correctly agrees with the verb 'is', and 'I' correctly agrees with the verb 'like' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I think, um, his world is very... um, how to say... different? It is like a... um, dream but real life.",
+        "annotation_token": [
+            "I think",
+            "his world is",
+            "It is"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'think', 'his world' correctly agrees with the verb 'is', and 'It' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I want to read, um, more. Maybe “1Q84”? I hear it is very... um, long but good.",
+        "annotation_token": [
+            "I want",
+            "I hear",
+            "it is"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'want', 'I' correctly agrees with the verb 'hear', and 'it' correctly agrees with the verb 'is' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you, Sarah. I hope you enjoy it! Let’s talk about it when you fini",
+        "annotation_token": [
+            "I hope",
+            "you enjoy"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'hope', and 'you' correctly agrees with the verb 'enjoy' in the present tense.",
+        "grammar_correctness": "correct"
+    }
+]

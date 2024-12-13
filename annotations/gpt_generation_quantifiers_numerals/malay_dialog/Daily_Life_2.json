@@ -1,0 +1,95 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "A bit of salt also.",
+        "annotation_token": [
+            "A bit"
+        ],
+        "rationale": "'A bit' is a quantifier used to indicate a small amount of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sometimes cucumber too, for fresh taste.",
+        "annotation_token": [
+            "Sometimes"
+        ],
+        "rationale": "'Sometimes' is a quantifier indicating an indefinite frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe... once a week.",
+        "annotation_token": [
+            "once",
+            "a"
+        ],
+        "rationale": "'Once' is a numeral indicating a single occurrence, and 'a' is a quantifier indicating one unit of time (week).",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe one hour?",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "'One' is a numeral indicating a single unit of time (hour).",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, yes, my favorite meal is nasi lemak. It is, um, rice with coconut... coconut, uh, flavor. Very popular in Malaysia.",
+        "annotation_token": [
+            "my"
+        ],
+        "rationale": "'My' is a quantifier indicating possession.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "A bit of salt also.",
+        "annotation_token": [
+            "A bit"
+        ],
+        "rationale": "'A bit' is a quantifier indicating a small amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Use chili, onion, garlic, and some... um, shrimp paste.",
+        "annotation_token": [
+            "some"
+        ],
+        "rationale": "'Some' is a quantifier indicating an unspecified amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I add fried anchovies, peanuts, and boiled egg. Sometimes cucumber too, for fresh taste.",
+        "annotation_token": [
+            "Sometimes"
+        ],
+        "rationale": "'Sometimes' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, not every day. Maybe... once a week. It is special, you know?",
+        "annotation_token": [
+            "every",
+            "once",
+            "a"
+        ],
+        "rationale": "'Every' is a quantifier indicating frequency, 'once' is a numeral indicating a single occurrence, and 'a' is a quantifier indicating one unit.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe one hour? Depends how fast I cook. But worth the time!",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "'One' is a numeral indicating a single unit of time.",
+        "grammar_correctness": true
+    }
+]

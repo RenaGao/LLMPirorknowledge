@@ -1,0 +1,24 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe three day? Not too long, not too short.",
+        "annotation_token": [
+            "three",
+            "not too long",
+            "not too short"
+        ],
+        "rationale": "The sentence contains the numeral 'three' and the quantifiers 'not too long' and 'not too short' which indicate the duration of the trip.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Maybe three day? Not too long, not too short.",
+        "annotation_token": [
+            "three",
+            "not too long",
+            "not too short"
+        ],
+        "rationale": "The sentence contains the numeral 'three' and the quantifiers 'not too long' and 'not too short' which indicate the duration of the trip.",
+        "grammar_correctness": true
+    }
+]

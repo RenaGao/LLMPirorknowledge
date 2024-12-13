@@ -1,0 +1,185 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, um... yes, I want to talk about the report.",
+        "annotation_token": [
+            "Hi",
+            "yes",
+            "I want to talk about the report"
+        ],
+        "rationale": "The speaker is initiating a conversation and expressing a desire to discuss a specific topic, which are acts of greeting and intention.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I, um, use wrong numbers for the sales... figures.",
+        "annotation_token": [
+            "I use wrong numbers for the sales figures"
+        ],
+        "rationale": "The speaker is making a statement about a past action, which is an act of informing.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I, how to say... I sorry for this.",
+        "annotation_token": [
+            "I sorry for this"
+        ],
+        "rationale": "The speaker is attempting to apologize, which is an act of expressing regret.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think I can correct numbers and, um, update report.",
+        "annotation_token": [
+            "Yes",
+            "I think I can correct numbers and update report"
+        ],
+        "rationale": "The speaker is expressing agreement and intention to take corrective action, which are acts of agreement and commitment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, maybe I need help to check again after I finish?",
+        "annotation_token": [
+            "maybe I need help to check again after I finish"
+        ],
+        "rationale": "The speaker is requesting assistance, which is an act of asking for help.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think I will also add note in report about mistake and correction, so all know.",
+        "annotation_token": [
+            "Yes",
+            "I think I will also add note in report about mistake and correction"
+        ],
+        "rationale": "The speaker is expressing agreement and intention to inform others, which are acts of agreement and informing.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I want to do better.",
+        "annotation_token": [
+            "Yes",
+            "I want to do better"
+        ],
+        "rationale": "The speaker is expressing agreement and a desire for improvement, which are acts of agreement and commitment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I agree. Thank you for your support.",
+        "annotation_token": [
+            "Yes",
+            "I agree",
+            "Thank you for your support"
+        ],
+        "rationale": "The speaker is expressing agreement and gratitude, which are acts of agreement and thanking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, see you then. Thank you aga",
+        "annotation_token": [
+            "Okay",
+            "see you then",
+            "Thank you"
+        ],
+        "rationale": "The speaker is closing the conversation and expressing gratitude, which are acts of leave-taking and thanking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hi, um... yes, I want to talk about the report.",
+        "annotation_token": [
+            "Hi",
+            "yes",
+            "I want to talk about the report"
+        ],
+        "rationale": "The speaker is initiating a conversation and expressing a desire to discuss a specific topic, which are acts of greeting and intention.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I, um, use wrong numbers for the sales... figures.",
+        "annotation_token": [
+            "I use wrong numbers for the sales figures"
+        ],
+        "rationale": "The speaker is admitting a mistake, which is an act of confession.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I, how to say... I sorry for this.",
+        "annotation_token": [
+            "I sorry for this"
+        ],
+        "rationale": "The speaker is apologizing, which is an act of apology.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think I can correct numbers and, um, update report.",
+        "annotation_token": [
+            "I think I can correct numbers and update report"
+        ],
+        "rationale": "The speaker is expressing an intention to take corrective action, which is an act of commitment.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, maybe I need help to check again after I finish?",
+        "annotation_token": [
+            "I need help to check again after I finish"
+        ],
+        "rationale": "The speaker is requesting assistance, which is an act of request.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I think I will also add note in report about mistake and correction, so all know.",
+        "annotation_token": [
+            "I think I will also add note in report about mistake and correction"
+        ],
+        "rationale": "The speaker is expressing an intention to inform others, which is an act of informing.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I want to do better.",
+        "annotation_token": [
+            "I want to do better"
+        ],
+        "rationale": "The speaker is expressing a desire for self-improvement, which is an act of commitment.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I agree.",
+        "annotation_token": [
+            "I agree"
+        ],
+        "rationale": "The speaker is expressing agreement, which is an act of agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for your support.",
+        "annotation_token": [
+            "Thank you for your support"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is an act of thanking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Okay, see you then.",
+        "annotation_token": [
+            "Okay",
+            "see you then"
+        ],
+        "rationale": "The speaker is closing the conversation and expressing a future meeting, which are acts of farewell and arrangement.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, I see. How long is the book? Because sometimes, long book can be... um, difficult for me.",
+        "annotation_token": [
+            "How long",
+            "sometimes"
+        ],
+        "rationale": "'How long' is a question about the quantity of time or length, and 'sometimes' is a quantifier indicating frequency.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "That is good. Maybe I try read it little by little.",
+        "annotation_token": [
+            "little by little"
+        ],
+        "rationale": "'Little by little' is a quantifier phrase indicating gradual progression or small amounts over time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, I see. How long is the book? Because sometimes, long book can be... um, difficult for me.",
+        "annotation_token": [
+            "How long",
+            "sometimes"
+        ],
+        "rationale": "The sentence contains the quantifier 'sometimes' and the numeral-related phrase 'How long', which are used to inquire about the duration or length of the book.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "That is good. Maybe I try read it little by little.",
+        "annotation_token": [
+            "little by little"
+        ],
+        "rationale": "The phrase 'little by little' is a quantifier indicating a gradual process or small amounts over time.",
+        "grammar_correctness": true
+    }
+]

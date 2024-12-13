@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I recently graduated with a degree in Environmental Science, and I've always been passionate about sustainability.",
+        "annotation_token": [
+            "I recently graduated",
+            "I've always been"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'graduated' and 'have been' in terms of number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "We implemented a recycling program that increased the recycling rate by 30%.",
+        "annotation_token": [
+            "We implemented",
+            "program that increased"
+        ],
+        "rationale": "The subject 'We' correctly agrees with the verb 'implemented', and the subject 'program' correctly agrees with the verb 'increased'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I believe open communication is key.",
+        "annotation_token": [
+            "I believe",
+            "communication is"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'believe', and the subject 'communication' correctly agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I always encourage team members to share their ideas and concerns.",
+        "annotation_token": [
+            "I always encourage"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'encourage'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "If a challenge arises, I like to gather everyone's input and find a solution collaboratively.",
+        "annotation_token": [
+            "challenge arises",
+            "I like"
+        ],
+        "rationale": "The subject 'challenge' correctly agrees with the verb 'arises', and the subject 'I' correctly agrees with the verb 'like'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "In five years, I hope to have advanced to a leadership role, where I can influence larger sustainability initiatives.",
+        "annotation_token": [
+            "I hope",
+            "I can influence"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'hope' and 'can influence'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "This position seems like a great stepping stone to gain the necessary experience and understanding of industry practices.",
+        "annotation_token": [
+            "position seems"
+        ],
+        "rationale": "The subject 'position' correctly agrees with the verb 'seems'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you for the opportunity.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The implied subject 'I' correctly agrees with the verb 'thank'.",
+        "grammar_correctness": "correct"
+    }
+]

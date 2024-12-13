@@ -1,0 +1,230 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, sure! Um, there is one called Songkran.",
+        "annotation_token": [
+            "Yes",
+            "sure"
+        ],
+        "rationale": "The tokens 'Yes' and 'sure' are used as a speech act to confirm and agree with the previous statement or question.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it mean... how to say... purify and bless.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, everywhere.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, some wear traditional clothes.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, be careful with water.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, very busy.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You are welcome!",
+        "annotation_token": [
+            "You",
+            "are",
+            "welcome"
+        ],
+        "rationale": "The phrase 'You are welcome' is a speech act used to acknowledge thanks.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, no problem.",
+        "annotation_token": [
+            "Yes",
+            "no",
+            "problem"
+        ],
+        "rationale": "The phrase 'Yes, no problem' is a speech act used to agree and assure the listener that there is no issue.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, sure! Um, there is one called Songkran.",
+        "annotation_token": [
+            "Yes",
+            "sure"
+        ],
+        "rationale": "The tokens 'Yes' and 'sure' are used as a speech act to confirm and agree with the previous statement or question.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it mean... how to say... purify and bless.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, everywhere.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, some wear traditional clothes.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, be careful with water.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, very busy.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to confirm or agree with the previous statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You are welcome! If you come, I can help show around.",
+        "annotation_token": [
+            "You are welcome"
+        ],
+        "rationale": "The phrase 'You are welcome' is used as a speech act to acknowledge thanks.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, no problem.",
+        "annotation_token": [
+            "Yes",
+            "no problem"
+        ],
+        "rationale": "The tokens 'Yes' and 'no problem' are used as a speech act to confirm and assure the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, sure! Um, there is one called Songkran.",
+        "annotation_token": [
+            "Yes",
+            "sure"
+        ],
+        "rationale": "The tokens 'Yes' and 'sure' are used as a speech act to express agreement and confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, it mean... how to say... purify and bless.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, everywhere.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, some wear traditional clothes.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, be careful with water.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, very busy.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "The token 'Yes' is used as a speech act to express agreement or affirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You are welcome!",
+        "annotation_token": [
+            "You",
+            "are",
+            "welcome"
+        ],
+        "rationale": "The phrase 'You are welcome' is a speech act used to respond to thanks.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, no problem.",
+        "annotation_token": [
+            "Yes",
+            "no",
+            "problem"
+        ],
+        "rationale": "The phrase 'Yes, no problem' is a speech act used to express willingness or agreement.",
+        "grammar_correctness": "correct"
+    }
+]

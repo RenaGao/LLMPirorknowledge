@@ -1,0 +1,77 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Good morning! I'm feeling a bit nervous, but mostly excited.",
+        "annotation_token": [
+            "I'm feeling"
+        ],
+        "rationale": "The present continuous tense 'I'm feeling' is used to describe a current state or action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Well, I've always admired your company's innovative approach and commitment to sustainability.",
+        "annotation_token": [
+            "I've always admired"
+        ],
+        "rationale": "The present perfect tense 'I've always admired' is used to express an action that started in the past and continues to the present.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Sure! At my last job, I led a team to develop a recycling initiative that reduced our waste by 30% in just six months.",
+        "annotation_token": [
+            "I led",
+            "reduced"
+        ],
+        "rationale": "The past simple tense 'I led' and 'reduced' are used to describe completed actions in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I focused on open communication and setting clear goals.",
+        "annotation_token": [
+            "I focused"
+        ],
+        "rationale": "The past simple tense 'I focused' is used to describe a completed action in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I also made sure to recognize and celebrate small victories along the way.",
+        "annotation_token": [
+            "made sure"
+        ],
+        "rationale": "The past simple tense 'made sure' is used to describe a completed action in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I believe in addressing conflicts directly and calmly, finding a solution that respects everyone's perspective.",
+        "annotation_token": [
+            "I believe"
+        ],
+        "rationale": "The present simple tense 'I believe' is used to express a general truth or belief.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I'd love to know more about the team's current projects and how this position fits into the bigger picture.",
+        "annotation_token": [
+            "I'd love",
+            "fits"
+        ],
+        "rationale": "The conditional 'I'd love' is used to express a desire, and the present simple 'fits' is used to describe a current state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "That sounds exciting and exactly the kind of work I'm passionate about.",
+        "annotation_token": [
+            "sounds",
+            "I'm passionate"
+        ],
+        "rationale": "The present simple 'sounds' is used to describe a current state, and the present continuous 'I'm passionate' is used to describe a current state or action.",
+        "grammar_correctness": "correct"
+    }
+]

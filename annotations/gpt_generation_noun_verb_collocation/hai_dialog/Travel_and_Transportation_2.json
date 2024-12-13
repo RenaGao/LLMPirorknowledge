@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Oh, yes! I like this idea.",
+        "annotation_token": "like idea",
+        "rationale": "The noun 'idea' and the verb 'like' form a meaningful and complete action, making it a noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I think we can, um, do cooking class.",
+        "annotation_token": "do cooking class",
+        "rationale": "The noun 'cooking class' and the verb 'do' form a meaningful and complete action, making it a noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, and then we eat what we cook.",
+        "annotation_token": "eat what we cook",
+        "rationale": "The noun 'what we cook' and the verb 'eat' form a meaningful and complete action, making it a noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I think maybe Nuch and Ploy want to come.",
+        "annotation_token": "want to come",
+        "rationale": "The noun 'Nuch and Ploy' and the verb 'want' form a meaningful and complete action, making it a noun and verb collocation.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, me too! Will be fun trip.",
+        "annotation_token": "be fun trip",
+        "rationale": "The noun 'trip' and the verb 'be' form a meaningful and complete action, making it a noun and verb collocation.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, thank you. Um, I have problem with... how to say... supply and demand?",
+        "annotation_token": "problem",
+        "rationale": "The noun 'problem' should be plural 'problems' to agree with the context of 'supply and demand', which implies multiple issues.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Uh... I don't understand when price go up or down. Why this happen?",
+        "annotation_token": "price",
+        "rationale": "The noun 'price' should be plural 'prices' to agree with the context of multiple price changes.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Okay, so if trend is gone, then demand is less?",
+        "annotation_token": "trend",
+        "rationale": "The noun 'trend' should be plural 'trends' to agree with the context of multiple trends affecting demand.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "He enjoy a lot.",
+        "annotation_token": "enjoy a lot",
+        "rationale": "The verb 'enjoy' and the noun 'a lot' form a collocation expressing a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Now he can, um, do garden every day.",
+        "annotation_token": "do garden",
+        "rationale": "The verb 'do' and the noun 'garden' form a collocation expressing a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, he grow many thing.",
+        "annotation_token": "grow many thing",
+        "rationale": "The verb 'grow' and the noun 'thing' form a collocation expressing a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I work in office.",
+        "annotation_token": "work in office",
+        "rationale": "The verb 'work' and the noun 'office' form a collocation expressing a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I do, um... number? Finance, yes.",
+        "annotation_token": "do number",
+        "rationale": "The verb 'do' and the noun 'number' form a collocation expressing a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I think Japan first.",
+        "annotation_token": "think Japan",
+        "rationale": "The verb 'think' and the noun 'Japan' form a collocation expressing a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I never go there, but I hear it is nice.",
+        "annotation_token": "go there",
+        "rationale": "The verb 'go' and the noun 'there' form a collocation expressing a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "We can see many thing together.",
+        "annotation_token": "see many thing",
+        "rationale": "The verb 'see' and the noun 'thing' form a collocation expressing a complete action.",
+        "grammar_correctness": false
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Thank you for talk with me today.",
+        "annotation_token": "talk with me",
+        "rationale": "The verb 'talk' and the noun 'me' form a collocation expressing a complete action.",
+        "grammar_correctness": false
+    }
+]

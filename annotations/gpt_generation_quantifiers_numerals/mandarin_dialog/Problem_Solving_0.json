@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, a little bit. I wait for one hour and then go home.",
+        "annotation_token": [
+            "a little bit",
+            "one"
+        ],
+        "rationale": "The phrase 'a little bit' is a quantifier indicating a small amount, and 'one' is a numeral indicating a specific quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, this weekend is good. Um, around, uh, afternoon?",
+        "annotation_token": [
+            "this"
+        ],
+        "rationale": "The word 'this' is a quantifier indicating a specific time period, 'this weekend'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, a little bit. I wait for one hour and then go home.",
+        "annotation_token": [
+            "a little bit",
+            "one"
+        ],
+        "rationale": "The phrase 'a little bit' is a quantifier indicating a small amount, and 'one' is a numeral indicating a specific quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, this weekend is good. Um, around, uh, afternoon?",
+        "annotation_token": [
+            "this"
+        ],
+        "rationale": "The word 'this' is a quantifier specifying a particular weekend.",
+        "grammar_correctness": true
+    }
+]

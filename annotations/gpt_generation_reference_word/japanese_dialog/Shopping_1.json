@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "I look for, um... leather bag. It is good quality.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the 'leather bag' mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes. Over there, that shop. But, it is... um... a little expensive, I think.",
+        "annotation_token": "it",
+        "rationale": "The word 'it' is used as a reference to 'that shop' mentioned in the previous sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, can we ask, maybe... 60 dollars? It is close to my budget.",
+        "annotation_token": "It",
+        "rationale": "The word 'It' is used as a reference to the price of '60 dollars' mentioned in the previous sentence.",
+        "grammar_correctness": true
+    }
+]

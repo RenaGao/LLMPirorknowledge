@@ -1,0 +1,74 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We maybe go... how to say... the big park near river. What it call?",
+        "annotation_token": [
+            "the"
+        ],
+        "rationale": "The word 'the' is used as a definite article, which can function as a quantifier in this context, specifying a particular park.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We bring, um, like sandwiches, fruits... and my mother make, uh, nasi lemak.",
+        "annotation_token": [
+            "like"
+        ],
+        "rationale": "The word 'like' is used as a quantifier to indicate an example of items being brought.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, no, just my family. Not too many people.",
+        "annotation_token": [
+            "too many"
+        ],
+        "rationale": "The phrase 'too many' is a quantifier indicating an excessive number of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We go in morning, maybe... 9 a.m. So not too hot.",
+        "annotation_token": [
+            "9"
+        ],
+        "rationale": "The numeral '9' specifies the time they plan to go, functioning as a numeral.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We maybe go... how to say... the big park near river. What it call?",
+        "annotation_token": [
+            "the big"
+        ],
+        "rationale": "The phrase 'the big' includes the quantifier 'the' and the adjective 'big', which can be considered as a numeral in terms of size.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We bring, um, like sandwiches, fruits... and my mother make, uh, nasi lemak.",
+        "annotation_token": [
+            "like"
+        ],
+        "rationale": "The word 'like' is used as a quantifier to indicate an example or approximation of the items being brought.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, no, just my family. Not too many people.",
+        "annotation_token": [
+            "too many"
+        ],
+        "rationale": "The phrase 'too many' is a quantifier indicating an excessive amount of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "We go in morning, maybe... 9 a.m. So not too hot.",
+        "annotation_token": [
+            "9 a.m."
+        ],
+        "rationale": "The phrase '9 a.m.' is a numeral indicating a specific time.",
+        "grammar_correctness": true
+    }
+]

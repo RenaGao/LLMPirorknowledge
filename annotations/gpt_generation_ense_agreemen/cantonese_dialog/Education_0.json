@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, I watch English movies.",
+        "annotation_token": [
+            "watch"
+        ],
+        "rationale": "The verb 'watch' is in the present tense, which agrees with the present context of the sentence.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, it's, uh, uh, mostly is develop my speaking.",
+        "annotation_token": [
+            "is develop"
+        ],
+        "rationale": "The phrase 'is develop' shows incorrect tense agreement. It should be 'is developing' or 'develops' to agree with the present tense.",
+        "grammar_correctness": "wrong"
+    }
+]

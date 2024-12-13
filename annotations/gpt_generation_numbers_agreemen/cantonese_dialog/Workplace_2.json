@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I have some question. I need to, um, understand the report. It is a bit confusing.",
+        "annotation_token": "question",
+        "rationale": "The noun 'question' should be in plural form 'questions' to agree with the quantifier 'some'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Hmm... there are many comment. Some good, some bad. How I should, um, use them?",
+        "annotation_token": "comment",
+        "rationale": "The noun 'comment' should be in plural form 'comments' to agree with the quantifier 'many'.",
+        "grammar_correctness": "wrong"
+    }
+]

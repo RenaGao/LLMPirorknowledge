@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Oh, yes! There are many difference, um... how to say... like, how people use chopsticks and fork.",
+        "annotation_token": [
+            "difference"
+        ],
+        "rationale": "The word 'difference' should be in plural form 'differences' to agree with the plural quantifier 'many'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, in restaurant, we maybe share more dishes. Here, sometimes people have own plate.",
+        "annotation_token": [
+            "plate"
+        ],
+        "rationale": "The word 'plate' should be in plural form 'plates' to agree with the plural quantifier 'people'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, exactly! We put many dish in middle and everyone take, um, little by little.",
+        "annotation_token": [
+            "dish"
+        ],
+        "rationale": "The word 'dish' should be in plural form 'dishes' to agree with the plural quantifier 'many'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "We put chopstick on holder or beside bowl. And maybe say something like... um, thank you for meal.",
+        "annotation_token": [
+            "chopstick"
+        ],
+        "rationale": "The word 'chopstick' should be in plural form 'chopsticks' to agree with the context of using a pair.",
+        "grammar_correctness": "wrong"
+    }
+]

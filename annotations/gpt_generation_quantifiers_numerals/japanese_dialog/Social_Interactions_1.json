@@ -1,0 +1,84 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes. Next Saturday. Uh, what do you think we should do?",
+        "annotation_token": [
+            "Next"
+        ],
+        "rationale": "The word 'Next' is used as a quantifier to specify the time frame of 'Saturday'.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, there is one near my house. I can... um, I can order it.",
+        "annotation_token": [
+            "one"
+        ],
+        "rationale": "The word 'one' is a numeral used to specify the quantity of an item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, soda and juice. Um, do we need decoration?",
+        "annotation_token": [
+            "decoration"
+        ],
+        "rationale": "The word 'decoration' is used in a general sense without a quantifier, but the context implies a need for some amount of decoration.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sure, I can buy balloons and banner. When do we set up?",
+        "annotation_token": [
+            "balloons",
+            "banner"
+        ],
+        "rationale": "The words 'balloons' and 'banner' imply a quantity, with 'balloons' being plural indicating more than one, and 'banner' implying a singular item.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Friday evening is good. I will bring decorations, and you do... um, what was it?",
+        "annotation_token": [
+            "decorations"
+        ],
+        "rationale": "The word 'decorations' is a plural noun indicating more than one item, serving as a quantifier.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, yes. Next Saturday. Uh, what do you think we should do?",
+        "annotation_token": [
+            "Next"
+        ],
+        "rationale": "The word 'Next' is a quantifier indicating the time frame of the event.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, soda and juice. Um, do we need decoration?",
+        "annotation_token": [
+            "do"
+        ],
+        "rationale": "The word 'do' is used as a quantifier in the context of asking about the necessity of decoration.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Sure, I can buy balloons and banner. When do we set up?",
+        "annotation_token": [
+            "When"
+        ],
+        "rationale": "The word 'When' is a quantifier indicating the time frame for setting up.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Friday evening is good. I will bring decorations, and you do... um, what was it?",
+        "annotation_token": [
+            "Friday"
+        ],
+        "rationale": "The word 'Friday' is a numeral indicating a specific day of the week.",
+        "grammar_correctness": true
+    }
+]

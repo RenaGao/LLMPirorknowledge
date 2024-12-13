@@ -1,0 +1,29 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, yes, gazpacho! My sister like it very much.",
+        "annotation_token": [
+            "like"
+        ],
+        "rationale": "The verb 'like' should be in agreement with the singular subject 'My sister', thus it should be 'likes'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, recently weather is very good, I hope it stay same.",
+        "annotation_token": [
+            "stay"
+        ],
+        "rationale": "The verb 'stay' should be in agreement with the singular subject 'it', thus it should be 'stays'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, maybe just, uh, relax and take picture. My family like to, uh, take picture for memory.",
+        "annotation_token": [
+            "like"
+        ],
+        "rationale": "The verb 'like' should be in agreement with the singular subject 'My family', thus it should be 'likes'.",
+        "grammar_correctness": "wrong"
+    }
+]

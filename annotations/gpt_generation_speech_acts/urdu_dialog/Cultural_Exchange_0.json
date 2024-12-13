@@ -1,0 +1,206 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, of course.",
+        "annotation_token": [
+            "Um",
+            "yes",
+            "of course"
+        ],
+        "rationale": "The speaker is using these tokens to express agreement and confirmation, which are common speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You know Eid?",
+        "annotation_token": [
+            "You",
+            "know",
+            "Eid"
+        ],
+        "rationale": "The speaker is using this question to check the listener's knowledge, which is a speech act of inquiry.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, um, Eid is after Ramadan.",
+        "annotation_token": [
+            "Sure",
+            "um"
+        ],
+        "rationale": "The speaker is using 'Sure' to express certainty and 'um' as a filler, both of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We, um, not eat or drink from sunrise to sunset.",
+        "annotation_token": [
+            "We",
+            "um",
+            "not",
+            "eat",
+            "or",
+            "drink"
+        ],
+        "rationale": "The speaker is describing a practice, which is a speech act of informing.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "On Eid, we... how to say... celebrate?",
+        "annotation_token": [
+            "On",
+            "Eid",
+            "we",
+            "how",
+            "to",
+            "say",
+            "celebrate"
+        ],
+        "rationale": "The speaker is using 'how to say' to express uncertainty and 'celebrate' as a confirmation, both are speech acts.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, celebrate with family.",
+        "annotation_token": [
+            "Yes",
+            "celebrate",
+            "with",
+            "family"
+        ],
+        "rationale": "The speaker is confirming the previous statement, which is a speech act of agreement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for listening!",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "for",
+            "listening"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is a speech act of thanking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I hope you, um, understand more about Eid now.",
+        "annotation_token": [
+            "I",
+            "hope",
+            "you",
+            "um",
+            "understand",
+            "more",
+            "about",
+            "Eid",
+            "now"
+        ],
+        "rationale": "The speaker is expressing a wish or hope, which is a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Um, yes, of course.",
+        "annotation_token": [
+            "Um",
+            "yes",
+            "of course"
+        ],
+        "rationale": "The speaker is affirming or agreeing, which is a speech act of agreement or confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You know Eid?",
+        "annotation_token": [
+            "You",
+            "know",
+            "Eid"
+        ],
+        "rationale": "The speaker is asking a question, which is a speech act of inquiry.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Sure, um, Eid is after Ramadan.",
+        "annotation_token": [
+            "Sure",
+            "um"
+        ],
+        "rationale": "The speaker is providing confirmation and explanation, which are speech acts of agreement and informing.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "We, um, not eat or drink from sunrise to sunset.",
+        "annotation_token": [
+            "We",
+            "um",
+            "not",
+            "eat",
+            "or",
+            "drink"
+        ],
+        "rationale": "The speaker is describing a practice, which is a speech act of informing.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "On Eid, we... how to say... celebrate?",
+        "annotation_token": [
+            "On",
+            "Eid",
+            "we",
+            "how",
+            "to",
+            "say",
+            "celebrate"
+        ],
+        "rationale": "The speaker is seeking confirmation or clarification, which is a speech act of inquiry.",
+        "grammar_correctness": "incorrect"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, celebrate with family.",
+        "annotation_token": [
+            "Yes",
+            "celebrate",
+            "with",
+            "family"
+        ],
+        "rationale": "The speaker is confirming and providing information, which are speech acts of agreement and informing.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you for listening!",
+        "annotation_token": [
+            "Thank",
+            "you",
+            "for",
+            "listening"
+        ],
+        "rationale": "The speaker is expressing gratitude, which is a speech act of thanking.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I hope you, um, understand more about Eid now.",
+        "annotation_token": [
+            "I",
+            "hope",
+            "you",
+            "um",
+            "understand",
+            "more",
+            "about",
+            "Eid",
+            "now"
+        ],
+        "rationale": "The speaker is expressing a wish or hope, which is a speech act of expressing desire.",
+        "grammar_correctness": "correct"
+    }
+]

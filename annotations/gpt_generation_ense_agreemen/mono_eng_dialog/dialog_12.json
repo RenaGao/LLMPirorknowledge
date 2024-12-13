@@ -1,0 +1,55 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I’ve always been passionate about marketing, and your company’s innovative approach really resonates with me.",
+        "annotation_token": [
+            "I’ve",
+            "been",
+            "resonates"
+        ],
+        "rationale": "The sentence uses present perfect tense 'I’ve been' to describe a continuous state up to the present and present simple tense 'resonates' to describe a current state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Absolutely! In my previous role, I spearheaded a social media campaign that increased engagement by 30%.",
+        "annotation_token": [
+            "spearheaded",
+            "increased"
+        ],
+        "rationale": "The sentence uses past simple tense 'spearheaded' and 'increased' to describe completed actions in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I believe open communication is essential.",
+        "annotation_token": [
+            "believe",
+            "is"
+        ],
+        "rationale": "The sentence uses present simple tense 'believe' and 'is' to describe a current belief and state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I often find myself in a leadership role, but I’m also comfortable being a supportive team member.",
+        "annotation_token": [
+            "find",
+            "am"
+        ],
+        "rationale": "The sentence uses present simple tense 'find' and present continuous tense 'am' to describe habitual actions and current state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I’d love to know more about the team I’d potentially be working with and what a typical day might look like.",
+        "annotation_token": [
+            "would",
+            "be",
+            "might",
+            "look"
+        ],
+        "rationale": "The sentence uses modal verbs 'would' and 'might' to express potential future actions.",
+        "grammar_correctness": "correct"
+    }
+]

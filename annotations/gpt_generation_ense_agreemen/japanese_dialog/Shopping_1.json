@@ -1,0 +1,118 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, very nice day. I like the market here. Many thing to buy.",
+        "annotation_token": [
+            "like",
+            "to buy"
+        ],
+        "rationale": "The verb 'like' is in present tense, and 'to buy' is an infinitive form, which is consistent with the present tense context.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, today I want to buy... how to say... a bag? Yes, a bag for work.",
+        "annotation_token": [
+            "want",
+            "to buy"
+        ],
+        "rationale": "The verb 'want' is in present tense, and 'to buy' is an infinitive form, which is consistent with the present tense context.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I look for, um... leather bag. It is good quality.",
+        "annotation_token": [
+            "look",
+            "is"
+        ],
+        "rationale": "The verb 'look' is in present tense, and 'is' is also in present tense, which is consistent with the present tense context.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I want to spend not too much. Maybe around, uh, 50 dollars?",
+        "annotation_token": [
+            "want",
+            "to spend"
+        ],
+        "rationale": "The verb 'want' is in present tense, and 'to spend' is an infinitive form, which is consistent with the present tense context.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Ah, yes. Over there, that shop. But, it is... um... a little expensive, I think.",
+        "annotation_token": [
+            "is",
+            "think"
+        ],
+        "rationale": "The verb 'is' is in present tense, and 'think' is also in present tense, which is consistent with the present tense context.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, please! I am not so good at... um, bargain?",
+        "annotation_token": [
+            "am"
+        ],
+        "rationale": "The verb 'am' is in present tense, which is consistent with the present tense context.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "They say, uh, 70 dollars. But I want lower if can.",
+        "annotation_token": [
+            "say",
+            "want"
+        ],
+        "rationale": "The verbs 'say' and 'want' are in present tense, which is consistent with the present tense context.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, good idea! I think they like cash more.",
+        "annotation_token": [
+            "think",
+            "like"
+        ],
+        "rationale": "The verbs 'think' and 'like' are in present tense, which is consistent with the present tense context.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Um, can we ask, maybe... 60 dollars? It is close to my budget.",
+        "annotation_token": [
+            "ask",
+            "is"
+        ],
+        "rationale": "The verb 'ask' is in present tense, and 'is' is also in present tense, which is consistent with the present tense context.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, thank you! I am happy with this price.",
+        "annotation_token": [
+            "am"
+        ],
+        "rationale": "The verb 'am' is in present tense, which is consistent with the present tense context.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you for help. I learn much from you today.",
+        "annotation_token": [
+            "learn"
+        ],
+        "rationale": "The verb 'learn' is in present tense, which is consistent with the present tense context.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I will. Thank you so mu",
+        "annotation_token": [
+            "will"
+        ],
+        "rationale": "The verb 'will' is a modal auxiliary indicating future tense, which is consistent with the context of expressing future intention.",
+        "grammar_correctness": "correct"
+    }
+]

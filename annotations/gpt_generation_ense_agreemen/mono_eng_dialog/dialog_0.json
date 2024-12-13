@@ -1,0 +1,42 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Absolutely. I recently graduated with a degree in marketing, and I've been working on building my skills in digital strategy.",
+        "annotation_token": [
+            "graduated",
+            "have been working"
+        ],
+        "rationale": "The sentence uses past tense 'graduated' to indicate a completed action and present perfect continuous 'have been working' to indicate an ongoing action that started in the past and continues to the present.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Of course. In my last internship, I led a campaign focused on eco-friendly products, which increased sales by 20% over three months.",
+        "annotation_token": [
+            "led",
+            "increased"
+        ],
+        "rationale": "The sentence uses past tense 'led' and 'increased' to describe actions that were completed in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I believe my creative mindset and data-driven approach can help develop engaging campaigns.",
+        "annotation_token": [
+            "believe",
+            "can help",
+            "develop"
+        ],
+        "rationale": "The sentence uses present tense 'believe' and modal 'can' with base form 'help' and 'develop' to express a current belief and potential future action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I was wondering about opportunities for professional development here.",
+        "annotation_token": [
+            "was wondering"
+        ],
+        "rationale": "The sentence uses past continuous 'was wondering' to indicate a past action that was ongoing.",
+        "grammar_correctness": "correct"
+    }
+]

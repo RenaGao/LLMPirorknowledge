@@ -1,0 +1,56 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, my favorite is Hari Raya. You know it?",
+        "annotation_token": [
+            "You know it?"
+        ],
+        "rationale": "The phrase 'You know it?' is a speech act as it is a question intended to check the listener's knowledge or awareness about Hari Raya.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! After fasting, we celebrate.",
+        "annotation_token": [
+            "Yes, yes!"
+        ],
+        "rationale": "The phrase 'Yes, yes!' is a speech act as it is an affirmative response to a previous question or statement.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You’re welcome! I happy to tell you about",
+        "annotation_token": [
+            "You’re welcome!"
+        ],
+        "rationale": "The phrase 'You’re welcome!' is a speech act as it is a polite response to someone expressing thanks.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, my favorite is Hari Raya. You know it?",
+        "annotation_token": [
+            "You know it?"
+        ],
+        "rationale": "The phrase 'You know it?' is a speech act as it is a question directed at the listener to confirm their knowledge or awareness.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, yes! After fasting, we celebrate.",
+        "annotation_token": [
+            "Yes, yes!"
+        ],
+        "rationale": "The phrase 'Yes, yes!' is a speech act as it is an affirmation or agreement in response to a previous statement or question.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "You’re welcome! I happy to tell you about",
+        "annotation_token": [
+            "You’re welcome!"
+        ],
+        "rationale": "The phrase 'You’re welcome!' is a speech act as it is a polite response to thanks, indicating that the speaker is pleased to have been of assistance.",
+        "grammar_correctness": "correct"
+    }
+]

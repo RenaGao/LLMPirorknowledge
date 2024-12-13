@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, very nice day. I like the market here. Many thing to buy.",
+        "annotation_token": "thing",
+        "rationale": "The noun 'thing' should be in plural form 'things' to agree with the quantifier 'many'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Thank you for help. I learn much from you today.",
+        "annotation_token": "help",
+        "rationale": "The noun 'help' is uncountable and does not require a plural form, but the sentence lacks an article or possessive pronoun, such as 'the help' or 'your help'.",
+        "grammar_correctness": "wrong"
+    }
+]

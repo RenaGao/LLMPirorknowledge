@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Um, hello. I have problem with my laptop.",
+        "annotation_token": "have problem",
+        "rationale": "The noun 'problem' and the verb 'have' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, uh, when I turn on, it... um, how to say... screen is black.",
+        "annotation_token": "turn on",
+        "rationale": "The noun 'screen' and the verb 'turn' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Ah, yes. I charge it full last night.",
+        "annotation_token": "charge it",
+        "rationale": "The noun 'it' (referring to the laptop) and the verb 'charge' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Battery is good.",
+        "annotation_token": "is good",
+        "rationale": "The noun 'Battery' and the verb 'is' form a collocation that expresses a complete state.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, that is good. I need address, please.",
+        "annotation_token": "need address",
+        "rationale": "The noun 'address' and the verb 'need' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Yes, Mid Valley is near. I go there.",
+        "annotation_token": "go there",
+        "rationale": "The noun 'there' (referring to a place) and the verb 'go' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "No, thank you. You help a lot.",
+        "annotation_token": "help a lot",
+        "rationale": "The noun 'a lot' and the verb 'help' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

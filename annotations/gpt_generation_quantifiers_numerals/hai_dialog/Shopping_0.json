@@ -1,0 +1,66 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Size, um... for family. Five people. Is that... okay size?",
+        "annotation_token": [
+            "Five"
+        ],
+        "rationale": "The word 'Five' is a numeral indicating the number of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, budget... maybe not too expensive. Just good quality.",
+        "annotation_token": [
+            "not too"
+        ],
+        "rationale": "The phrase 'not too' is a quantifier indicating a degree of expense.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, no, only rice cooker. Thank you so much.",
+        "annotation_token": [
+            "only"
+        ],
+        "rationale": "The word 'only' is a quantifier indicating exclusivity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Size, um... for family. Five people. Is that... okay size?",
+        "annotation_token": [
+            "Five"
+        ],
+        "rationale": "The word 'Five' is a numeral indicating the number of people.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Ah, budget... maybe not too expensive. Just good quality.",
+        "annotation_token": [
+            "not too"
+        ],
+        "rationale": "The phrase 'not too' is a quantifier indicating a degree of expense.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "$50... yes, I think okay. Um, do you have... more color? Different color?",
+        "annotation_token": [
+            "$50",
+            "more"
+        ],
+        "rationale": "'$50' is a numeral indicating the price, and 'more' is a quantifier indicating additional quantity.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, no, only rice cooker. Thank you so much.",
+        "annotation_token": [
+            "only"
+        ],
+        "rationale": "The word 'only' is a quantifier indicating exclusivity.",
+        "grammar_correctness": true
+    }
+]

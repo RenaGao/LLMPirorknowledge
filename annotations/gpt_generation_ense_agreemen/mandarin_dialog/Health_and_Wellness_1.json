@@ -1,0 +1,62 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, um, I've been okay, I think. But, you know, feeling a bit tired every day.",
+        "annotation_token": [
+            "I've been",
+            "feeling"
+        ],
+        "rationale": "The present perfect tense 'I've been' is used to describe a state that started in the past and continues to the present, and 'feeling' is in the present participle form, which is consistent with the present perfect continuous tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Uh, not really. I sleep late... often, and eat too much... snacks.",
+        "annotation_token": [
+            "sleep",
+            "eat"
+        ],
+        "rationale": "The simple present tense 'sleep' and 'eat' are used to describe habitual actions.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I should try. But sometimes, I cannot stop watching... uh, how to say... TV shows?",
+        "annotation_token": [
+            "should try",
+            "cannot stop watching"
+        ],
+        "rationale": "The modal 'should' is followed by the base form 'try', and 'cannot stop' is followed by the gerund 'watching', which is consistent with English grammar rules.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Exercise... um, not often. I walk, but not much.",
+        "annotation_token": [
+            "walk"
+        ],
+        "rationale": "The simple present tense 'walk' is used to describe a habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, yes. I will look for video. Thank you, it sounds fun.",
+        "annotation_token": [
+            "will look",
+            "sounds"
+        ],
+        "rationale": "The future tense 'will look' is used to describe a future action, and the simple present tense 'sounds' is used to describe a current state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Oh, yes, drink more water. I often forget. I will use... um, timer to remind.",
+        "annotation_token": [
+            "drink",
+            "forget",
+            "will use"
+        ],
+        "rationale": "The imperative 'drink' is used as a command, 'forget' is in the simple present tense to describe a habitual action, and 'will use' is in the future tense to describe a future action.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, I've been okay, I think.",
+        "annotation_token": [
+            "Oh",
+            "um",
+            "I think"
+        ],
+        "rationale": "The tokens 'Oh' and 'um' are discourse markers indicating hesitation or thinking, and 'I think' is a hedging expression, all of which are speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "But, you know, feeling a bit tired every day.",
+        "annotation_token": [
+            "you know"
+        ],
+        "rationale": "'You know' is a discourse marker used to engage the listener or seek agreement, functioning as a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, not really.",
+        "annotation_token": [
+            "Uh"
+        ],
+        "rationale": "'Uh' is a filler word indicating hesitation, functioning as a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "But sometimes, I cannot stop watching... uh, how to say... TV shows?",
+        "annotation_token": [
+            "uh",
+            "how to say"
+        ],
+        "rationale": "'Uh' is a filler word indicating hesitation, and 'how to say' is a phrase used to express difficulty in finding the right words, both functioning as speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes. I will look for video.",
+        "annotation_token": [
+            "Oh",
+            "yes"
+        ],
+        "rationale": "'Oh' is an interjection expressing realization or agreement, and 'yes' is an affirmative response, both functioning as speech acts.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Xiao Ming. I will try these things.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "'Thank you' is an expression of gratitude, functioning as a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, stay healthy together.",
+        "annotation_token": [
+            "Yes"
+        ],
+        "rationale": "'Yes' is an affirmative response, functioning as a speech act.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, um, I've been okay, I think. But, you know, feeling a bit tired every day.",
+        "annotation_token": [
+            "Oh",
+            "um",
+            "I think",
+            "you know"
+        ],
+        "rationale": "The tokens 'Oh', 'um', 'I think', and 'you know' are used as speech acts to express hesitation, uncertainty, or to engage the listener.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, not really. I sleep late... often, and eat too much... snacks.",
+        "annotation_token": [
+            "Uh",
+            "not really"
+        ],
+        "rationale": "The tokens 'Uh' and 'not really' are used as speech acts to express hesitation and negation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, I should try. But sometimes, I cannot stop watching... uh, how to say... TV shows?",
+        "annotation_token": [
+            "Yes",
+            "uh",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Yes', 'uh', and 'how to say' are used as speech acts to express agreement, hesitation, and searching for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, yes. I will look for video. Thank you, it sounds fun.",
+        "annotation_token": [
+            "Oh",
+            "yes",
+            "Thank you"
+        ],
+        "rationale": "The tokens 'Oh', 'yes', and 'Thank you' are used as speech acts to express realization, agreement, and gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Thank you, Xiao Ming. I will try these things. You always help me.",
+        "annotation_token": [
+            "Thank you"
+        ],
+        "rationale": "The token 'Thank you' is used as a speech act to express gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, stay healthy together. Thank you aga",
+        "annotation_token": [
+            "Yes",
+            "Thank you"
+        ],
+        "rationale": "The tokens 'Yes' and 'Thank you' are used as speech acts to express agreement and gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, yes, Aisha. I... how to say... I was little upset about yesterday.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, uh... when you say you not want to come... um, to my party. I feel, uh, like you not care.",
+        "annotation_token": "you",
+        "rationale": "The word 'you' is a reference word referring to the listener, Aisha.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, I see now. I thought, um, maybe you angry or... not like my party.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, uh, maybe we can meet for lunch this week?",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to both the speaker and the listener.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Let me check... Um, yes, Thursday is good. What time?",
+        "annotation_token": "me",
+        "rationale": "The word 'me' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Ah, yes! I want to go there. They have good cake, I hear.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Um, no. Just happy we talk about this. I feel better now.",
+        "annotation_token": "we",
+        "rationale": "The word 'we' is a reference word referring to both the speaker and the listener.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Yes, important. I will try more next time to talk, if I feel... um, not sure.",
+        "annotation_token": "I",
+        "rationale": "The word 'I' is a reference word referring to the speaker.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Reference Word",
+        "annotation_sentence": "Thank you, Aisha. You are a good friend.",
+        "annotation_token": "You",
+        "rationale": "The word 'You' is a reference word referring to the listener, Aisha.",
+        "grammar_correctness": true
+    }
+]

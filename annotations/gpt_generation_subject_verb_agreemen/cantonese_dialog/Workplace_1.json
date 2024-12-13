@@ -1,0 +1,61 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Uh, yes, thank you. My name is Mei-Ling. I come from Hong Kong. I study business in university.",
+        "annotation_token": [
+            "I come",
+            "I study"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'come' and 'study' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I am... um, how to say... very interested in marketing.",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I work on, um, a project for, uh, making a product more... uh, known? Like advertisement.",
+        "annotation_token": [
+            "I work"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'work' in the present simple tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I was, um, team leader. I organize, uh, meeting and discuss idea with team.",
+        "annotation_token": [
+            "I was",
+            "I organize",
+            "discuss"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'was' in the past simple tense and 'organize' in the present simple tense. However, 'discuss' should be 'discusses' to agree with the singular subject 'I'.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I, um, use planner. I write down what to do and, uh, check time for each task.",
+        "annotation_token": [
+            "I use",
+            "I write",
+            "check"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'use' and 'write' in the present simple tense. However, 'check' should be 'checks' to agree with the singular subject 'I'.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you very much. I am happy to be he",
+        "annotation_token": [
+            "I am"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am' in the present simple tense.",
+        "grammar_correctness": "correct"
+    }
+]

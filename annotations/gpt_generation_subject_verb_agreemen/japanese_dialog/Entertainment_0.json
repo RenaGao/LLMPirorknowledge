@@ -1,0 +1,70 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I like one called \"Detective Conan.\" It is, um, a Japanese anime.",
+        "annotation_token": [
+            "I like",
+            "It is"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'like' and the subject 'It' correctly agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I enjoy... um, how Conan solve, uh, mystery.",
+        "annotation_token": [
+            "I enjoy"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'enjoy'. However, 'Conan solve' should be 'Conan solves' for correct subject-verb agreement.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, yes. I watch... um, Sherlock Holmes movie before.",
+        "annotation_token": [
+            "I watch"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'watch'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, yes. I like \"Friends.\" It is funny and, uh, good for learn English.",
+        "annotation_token": [
+            "I like",
+            "It is"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'like' and the subject 'It' correctly agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Um, I like Chandler. He is... how to say... very funny and make joke.",
+        "annotation_token": [
+            "I like",
+            "He is"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'like' and the subject 'He' correctly agrees with the verb 'is'. However, 'make joke' should be 'makes jokes' for correct subject-verb agreement.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I think... um, it help.",
+        "annotation_token": [
+            "I think"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'think'. However, 'it help' should be 'it helps' for correct subject-verb agreement.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I want to watch \"Breaking Bad.\" I hear it is very... um, exciting and good story.",
+        "annotation_token": [
+            "I want",
+            "I hear",
+            "it is"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verbs 'want' and 'hear', and the subject 'it' correctly agrees with the verb 'is'.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Okay, straight and then left. Is it, uh... how many minute walk?",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is used as a quantifier which indicates an unspecified large number.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you. And, um, any good restaurant there?",
+        "annotation_token": [
+            "any"
+        ],
+        "rationale": "The word 'any' is used as a quantifier suggesting one or some of a thing or number of things, no matter how much or how many.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, but not too much spice. Um, you know, balance?",
+        "annotation_token": [
+            "much"
+        ],
+        "rationale": "The word 'much' is used as a quantifier to refer to a large amount of something.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you. And, uh, anything else I should, um, see around?",
+        "annotation_token": [
+            "anything"
+        ],
+        "rationale": "The word 'anything' is used as a quantifier meaning any object, event, or matter, indicating the speaker's open-ended inquiry about additional things to see.",
+        "grammar_correctness": true
+    }
+]

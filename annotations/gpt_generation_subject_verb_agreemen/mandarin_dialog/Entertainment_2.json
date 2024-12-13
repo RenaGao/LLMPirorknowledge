@@ -1,0 +1,79 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, yes, that's right. I want to, um, find something interesting. Do you have recommend?",
+        "annotation_token": "Do you have",
+        "rationale": "The subject 'you' and the verb 'have' agree in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "\"The Alchemist\"? Hmm, I think I not hear before. What it about?",
+        "annotation_token": "I think",
+        "rationale": "The subject 'I' and the verb 'think' agree in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Oh, that sound very good! Why you think it good for, um, me to read?",
+        "annotation_token": "that sound",
+        "rationale": "The subject 'that' and the verb 'sound' do not agree in number. It should be 'sounds'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, improving English is important for me! Uh, is it easy to understand?",
+        "annotation_token": "it easy",
+        "rationale": "The subject 'it' and the verb 'is' agree in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Magic? Like, uh, fantasy story?",
+        "annotation_token": "Magic",
+        "rationale": "The sentence is a fragment and lacks a verb, so subject-verb agreement cannot be assessed.",
+        "grammar_correctness": "N/A"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Ah, I see. How long is the book? Because sometimes, long book can be... um, difficult for me.",
+        "annotation_token": "I see",
+        "rationale": "The subject 'I' and the verb 'see' agree in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "That is good. Maybe I try read it little by little.",
+        "annotation_token": "That is",
+        "rationale": "The subject 'That' and the verb 'is' agree in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, reflect... like think about meaning, right?",
+        "annotation_token": "reflect",
+        "rationale": "The sentence is a fragment and lacks a subject, so subject-verb agreement cannot be assessed.",
+        "grammar_correctness": "N/A"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Thank you, I will do that! Um, where can I get the book? Is it in library?",
+        "annotation_token": "I will do",
+        "rationale": "The subject 'I' and the verb 'will do' agree in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Great! I will start look for it this weekend.",
+        "annotation_token": "I will start",
+        "rationale": "The subject 'I' and the verb 'will start' agree in number and person.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "Yes, I will tell you. Thank you so much for the recommend!",
+        "annotation_token": "I will tell",
+        "rationale": "The subject 'I' and the verb 'will tell' agree in number and person.",
+        "grammar_correctness": "correct"
+    }
+]

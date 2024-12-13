@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Sure, your university has a great reputation for its engineering program, and I’ve heard a lot about the innovative projects students get to work on.",
+        "annotation_token": "students get",
+        "rationale": "The noun 'students' and the verb 'get' form a collocation that expresses a complete action, where students are the subject performing the action of getting to work on projects.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "I worked on a small solar panel project in high school. It was fascinating to see how much energy we could harness from the sun.",
+        "annotation_token": "energy harness",
+        "rationale": "The noun 'energy' and the verb 'harness' form a collocation that expresses a complete action, where energy is the object being harnessed.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Academically, I hope to bring a fresh perspective and perhaps collaborate on innovative projects.",
+        "annotation_token": "projects collaborate",
+        "rationale": "The noun 'projects' and the verb 'collaborate' form a collocation that expresses a complete action, where projects are the focus of collaboration.",
+        "grammar_correctness": true
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "Hi there, I'm having some trouble with my laptop.",
+        "annotation_token": "having trouble",
+        "rationale": "The noun 'trouble' and the verb 'having' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "It keeps restarting unexpectedly.",
+        "annotation_token": "keeps restarting",
+        "rationale": "The noun 'It' is not explicit, but the verb 'restarting' is paired with 'keeps' to form a meaningful action.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Noun & Verb Collocation",
+        "annotation_sentence": "It started yesterday after I installed some updates.",
+        "annotation_token": "installed updates",
+        "rationale": "The noun 'updates' and the verb 'installed' form a collocation that expresses a complete action.",
+        "grammar_correctness": true
+    }
+]

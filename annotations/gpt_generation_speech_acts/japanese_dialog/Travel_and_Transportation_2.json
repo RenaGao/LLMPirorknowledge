@@ -1,0 +1,114 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello, Sarah! I am good, thank you. How about you?",
+        "annotation_token": [
+            "Hello",
+            "thank you",
+            "How about you"
+        ],
+        "rationale": "The sentence contains speech acts: 'Hello' is a greeting, 'thank you' is an expression of gratitude, and 'How about you?' is an inquiry about the other person's state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, vacation sounds nice! Um, how about... Kyoto? I think it is very beautiful.",
+        "annotation_token": [
+            "Oh",
+            "how about",
+            "I think"
+        ],
+        "rationale": "The sentence contains speech acts: 'Oh' is an expression of surprise or realization, 'how about' is a suggestion, and 'I think' is an expression of opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um... maybe we can visit, uh, temples? And see, uh, how to say... traditional houses?",
+        "annotation_token": [
+            "Yes",
+            "maybe",
+            "how to say"
+        ],
+        "rationale": "The sentence contains speech acts: 'Yes' is an agreement, 'maybe' is a suggestion or possibility, and 'how to say' is a request for help in expressing something.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, me too! It will be fun, I think. Thank you, Sarah, for planning with me!",
+        "annotation_token": [
+            "Yes",
+            "me too",
+            "I think",
+            "Thank you"
+        ],
+        "rationale": "The sentence contains speech acts: 'Yes' is an agreement, 'me too' is an expression of shared sentiment, 'I think' is an expression of opinion, and 'Thank you' is an expression of gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, let’s do that. See you soon, Sarah!",
+        "annotation_token": [
+            "Yes",
+            "let’s do that",
+            "See you soon"
+        ],
+        "rationale": "The sentence contains speech acts: 'Yes' is an agreement, 'let’s do that' is a suggestion or plan, and 'See you soon' is a farewell.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Hello, Sarah! I am good, thank you. How about you?",
+        "annotation_token": [
+            "Hello",
+            "thank you",
+            "How about you"
+        ],
+        "rationale": "The sentence contains speech acts: 'Hello' is a greeting, 'thank you' is an expression of gratitude, and 'How about you?' is an inquiry about the other person's state.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, vacation sounds nice! Um, how about... Kyoto? I think it is very beautiful.",
+        "annotation_token": [
+            "Oh",
+            "how about",
+            "I think"
+        ],
+        "rationale": "The sentence contains speech acts: 'Oh' is an expression of surprise or interest, 'how about' is a suggestion, and 'I think' is an expression of opinion.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, um... maybe we can visit, uh, temples? And see, uh, how to say... traditional houses?",
+        "annotation_token": [
+            "Yes",
+            "maybe",
+            "how to say"
+        ],
+        "rationale": "The sentence contains speech acts: 'Yes' is an agreement, 'maybe' is a suggestion or possibility, and 'how to say' is a hesitation or search for words.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, me too! It will be fun, I think. Thank you, Sarah, for planning with me!",
+        "annotation_token": [
+            "Yes",
+            "me too",
+            "I think",
+            "Thank you"
+        ],
+        "rationale": "The sentence contains speech acts: 'Yes' is an agreement, 'me too' is an expression of shared sentiment, 'I think' is an expression of opinion, and 'Thank you' is an expression of gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, let’s do that. See you soon, Sarah!",
+        "annotation_token": [
+            "Yes",
+            "let’s do that",
+            "See you soon"
+        ],
+        "rationale": "The sentence contains speech acts: 'Yes' is an agreement, 'let’s do that' is a suggestion or plan, and 'See you soon' is a farewell.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Good morning! I’m a bit nervous, but mostly excited to be here.",
+        "annotation_token": [
+            "a bit",
+            "mostly"
+        ],
+        "rationale": "The sentence contains quantifiers 'a bit' and 'mostly' which indicate the degree of nervousness and excitement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I’d love to get involved in student-led research projects and perhaps start a new sustainability initiative on campus.",
+        "annotation_token": [
+            "a new"
+        ],
+        "rationale": "The sentence contains the quantifier 'a new' which indicates the singularity and novelty of the sustainability initiative.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Good morning! I’m a bit nervous, but mostly excited to be here.",
+        "annotation_token": [
+            "a bit",
+            "mostly"
+        ],
+        "rationale": "The sentence contains quantifiers 'a bit' and 'mostly' which indicate the degree of nervousness and excitement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Good morning! I’m a bit nervous, but mostly excited to be here.",
+        "annotation_token": [
+            "a bit",
+            "mostly"
+        ],
+        "rationale": "'A bit' and 'mostly' are quantifiers that describe the extent of nervousness and excitement.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Good morning! I’m a bit nervous, but mostly excited to be here.",
+        "annotation_token": [
+            "a bit",
+            "mostly"
+        ],
+        "rationale": "'a bit' is a quantifier expressing a small amount, and 'mostly' is a quantifier indicating the majority of the feeling.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Well, I’ve always admired your strong focus on research and innovation. Plus, your environmental science program is highly regarded, which aligns perfectly with my career goals.",
+        "annotation_token": [
+            "always"
+        ],
+        "rationale": "'always' is a quantifier indicating the entirety of time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Certainly. I was part of our school’s eco-club, where we organized community clean-ups and initiated a recycling awareness campaign. It was rewarding to see the impact we could make.",
+        "annotation_token": [
+            "part"
+        ],
+        "rationale": "'part' is a quantifier indicating a portion of the group.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I’d love to get involved in student-led research projects and perhaps start a new sustainability initiative on campus. I believe in the power of collective efforts.",
+        "annotation_token": [
+            "a new"
+        ],
+        "rationale": "'a new' is a numeral indicating one of something that is newly started.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I’m curious about the opportunities for internships within the environmental science program. Are there partnerships with local organizations?",
+        "annotation_token": [
+            "the",
+            "local"
+        ],
+        "rationale": "'the' is a definite article functioning as a quantifier to specify specific opportunities, 'local' as a quantifier indicating the proximity.",
+        "grammar_correctness": true
+    }
+]

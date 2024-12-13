@@ -1,0 +1,29 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, maybe... we can go to movie? Is there good movie now?",
+        "annotation_token": [
+            "movie"
+        ],
+        "rationale": "The noun 'movie' should be plural 'movies' to agree with the context of going to watch multiple movies or considering multiple options.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Yes, I think we can do. We finish BBQ and then go movie theater.",
+        "annotation_token": [
+            "movie theater"
+        ],
+        "rationale": "The noun 'movie theater' should be plural 'movie theaters' to agree with the context of considering multiple theaters or options.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Um, yes, I think better to book. Many people like to see new movie.",
+        "annotation_token": [
+            "movie"
+        ],
+        "rationale": "The noun 'movie' should be plural 'movies' to agree with the context of many people watching multiple movies.",
+        "grammar_correctness": "wrong"
+    }
+]

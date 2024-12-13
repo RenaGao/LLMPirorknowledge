@@ -1,0 +1,212 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi there, I have a few questions about my university application. I just want to make sure I’ve filled everything out correctly.",
+        "annotation_token": [
+            "a few",
+            "everything"
+        ],
+        "rationale": "The phrase 'a few' is a quantifier indicating a small number of questions, and 'everything' is a quantifier indicating all items or details in the application.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I’ve done that. But I’m not sure if my references have been submitted. Can you check on that?",
+        "annotation_token": [],
+        "rationale": "There are no quantifiers or numerals in this sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It’s 1234567. I hope everything’s in order.",
+        "annotation_token": [
+            "1234567",
+            "everything"
+        ],
+        "rationale": "The number '1234567' is a numeral representing a specific reference number, and 'everything' is a quantifier indicating all items or details.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, great! That’s a relief. I was also wondering about the status of my transcripts.",
+        "annotation_token": [],
+        "rationale": "There are no quantifiers or numerals in this sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Awesome, thanks. One last thing—when should I expect to hear back about the decision?",
+        "annotation_token": [
+            "One"
+        ],
+        "rationale": "The word 'One' is a numeral indicating a single remaining question or concern.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Perfect, I’ll keep an eye out for that. Thanks so much for your help!",
+        "annotation_token": [],
+        "rationale": "There are no quantifiers or numerals in this sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Will do, thank you. You too!",
+        "annotation_token": [],
+        "rationale": "There are no quantifiers or numerals in this sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi there, I have a few questions about my university application. I just want to make sure I’ve filled everything out correctly.",
+        "annotation_token": [
+            "a few",
+            "everything"
+        ],
+        "rationale": "The phrase 'a few' is a quantifier indicating an indefinite small number of questions, and 'everything' is a quantifier indicating all items or details in the application.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I’ve done that. But I’m not sure if my references have been submitted. Can you check on that?",
+        "annotation_token": [],
+        "rationale": "There are no quantifiers or numerals in this sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It’s 1234567. I hope everything’s in order.",
+        "annotation_token": [
+            "everything"
+        ],
+        "rationale": "The word 'everything' is a quantifier indicating all items or details are in order.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, great! That’s a relief. I was also wondering about the status of my transcripts.",
+        "annotation_token": [],
+        "rationale": "There are no quantifiers or numerals in this sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Awesome, thanks. One last thing—when should I expect to hear back about the decision?",
+        "annotation_token": [
+            "One"
+        ],
+        "rationale": "The word 'One' is a numeral indicating a single remaining item or question.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Perfect, I’ll keep an eye out for that. Thanks so much for your help!",
+        "annotation_token": [],
+        "rationale": "There are no quantifiers or numerals in this sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Will do, thank you. You too!",
+        "annotation_token": [],
+        "rationale": "There are no quantifiers or numerals in this sentence.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi there, I have a few questions about my university application. I just want to make sure I’ve filled everything out correctly.",
+        "annotation_token": [
+            "a few",
+            "everything"
+        ],
+        "rationale": "The phrase 'a few' is a quantifier indicating an indefinite small number of questions, and 'everything' is a quantifier referring to all items or details in the application.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It’s 1234567. I hope everything’s in order.",
+        "annotation_token": [
+            "1234567",
+            "everything"
+        ],
+        "rationale": "The number '1234567' is a numeral representing a specific reference number, and 'everything' is a quantifier referring to all items or details being in order.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, great! That’s a relief. I was also wondering about the status of my transcripts.",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Awesome, thanks. One last thing—when should I expect to hear back about the decision?",
+        "annotation_token": [
+            "One"
+        ],
+        "rationale": "The word 'One' is a numeral indicating a single remaining question or concern.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Perfect, I’ll keep an eye out for that. Thanks so much for your help!",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Will do, thank you. You too!",
+        "annotation_token": [],
+        "rationale": "This sentence does not contain any quantifiers or numerals.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Hi there, I have a few questions about my university application. I just want to make sure I’ve filled everything out correctly.",
+        "annotation_token": [
+            "a few",
+            "everything"
+        ],
+        "rationale": "'A few' is a quantifier indicating an indefinite small number, and 'everything' is a quantifier indicating all things or all items.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I’ve done that. But I’m not sure if my references have been submitted. Can you check on that?",
+        "annotation_token": [
+            "that"
+        ],
+        "rationale": "'That' is used as a quantifier in this context, referring to the singular item of filling out the references.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It’s 1234567. I hope everything’s in order.",
+        "annotation_token": [
+            "everything"
+        ],
+        "rationale": "'Everything' is a quantifier referring to all details or aspects of the application being in order.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Oh, great! That’s a relief. I was also wondering about the status of my transcripts.",
+        "annotation_token": [
+            "That"
+        ],
+        "rationale": "'That' is used as a quantifier in this context, referring to the situation or information being a relief.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Awesome, thanks. One last thing—when should I expect to hear back about the decision?",
+        "annotation_token": [
+            "One",
+            "last"
+        ],
+        "rationale": "'One' is a numeral indicating a single item or point, and 'last' is a quantifier indicating the final item or point.",
+        "grammar_correctness": true
+    }
+]

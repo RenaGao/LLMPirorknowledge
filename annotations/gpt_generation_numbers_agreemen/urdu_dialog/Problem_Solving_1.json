@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "When I push the button, it is only, um, light blink and then nothing.",
+        "annotation_token": "light blink",
+        "rationale": "The phrase 'light blink' lacks number agreement. In standard English, it should be 'light blinks' to agree with the singular subject 'light'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Numbers agreement",
+        "annotation_sentence": "Okay, one moment... Um, still same problem. Light blink again, no start.",
+        "annotation_token": "Light blink",
+        "rationale": "The phrase 'Light blink' lacks number agreement. In standard English, it should be 'Light blinks' to agree with the singular subject 'Light'.",
+        "grammar_correctness": "wrong"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, yes. Dumpling, it look like... um... old money, so is for wealth. Fish mean, um, surplus, more than need?",
+        "annotation_token": [
+            "look",
+            "mean",
+            "need"
+        ],
+        "rationale": "The verbs 'look', 'mean', and 'need' should be in the present tense third person singular form to agree with their subjects 'Dumpling', 'Fish', and the implied subject 'it' respectively.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, we give... uh, red envelope with money inside. It is called hóngbāo, for children and young people.",
+        "annotation_token": [
+            "give"
+        ],
+        "rationale": "The verb 'give' is correctly used in the present tense to describe a habitual action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hmm, it depend, but usually, um, even number is better. Odd number is not good luck.",
+        "annotation_token": [
+            "depend"
+        ],
+        "rationale": "The verb 'depend' should be in the present tense third person singular form 'depends' to agree with its subject 'it'.",
+        "grammar_correctness": "wrong"
+    }
+]

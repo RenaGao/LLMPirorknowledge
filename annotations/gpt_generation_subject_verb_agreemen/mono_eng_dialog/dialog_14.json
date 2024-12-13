@@ -1,0 +1,29 @@
+[
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I make it a point to take online courses and attend workshops regularly.",
+        "annotation_token": [
+            "I make"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'make' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I try to see challenges as learning opportunities.",
+        "annotation_token": [
+            "I try"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'try' in the present tense.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Subject-Verb Agreement",
+        "annotation_sentence": "I’m looking to grow my skills in a collaborative environment and contribute to projects that have a positive social impact.",
+        "annotation_token": [
+            "I’m looking"
+        ],
+        "rationale": "The subject 'I' correctly agrees with the verb 'am looking' in the present continuous tense.",
+        "grammar_correctness": "correct"
+    }
+]

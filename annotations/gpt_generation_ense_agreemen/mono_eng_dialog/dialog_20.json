@@ -1,0 +1,90 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I'm particularly interested in this role because of your company's innovative approach to digital marketing, which aligns with my career goals.",
+        "annotation_token": [
+            "I'm",
+            "interested",
+            "aligns"
+        ],
+        "rationale": "The sentence maintains consistent present tense agreement with 'I'm', 'interested', and 'aligns'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Absolutely. During my final year, I led a team in designing a social media campaign for a local nonprofit.",
+        "annotation_token": [
+            "led",
+            "designing"
+        ],
+        "rationale": "The sentence maintains consistent past tense agreement with 'led' and 'designing'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We increased their engagement by 40% in two months.",
+        "annotation_token": [
+            "increased"
+        ],
+        "rationale": "The sentence maintains consistent past tense agreement with 'increased'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It taught me a lot about teamwork and creative problem-solving.",
+        "annotation_token": [
+            "taught"
+        ],
+        "rationale": "The sentence maintains consistent past tense agreement with 'taught'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I see feedback as an opportunity to improve.",
+        "annotation_token": [
+            "see"
+        ],
+        "rationale": "The sentence maintains consistent present tense agreement with 'see'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I try to approach it with an open mind and focus on the overall project goals.",
+        "annotation_token": [
+            "try",
+            "approach",
+            "focus"
+        ],
+        "rationale": "The sentence maintains consistent present tense agreement with 'try', 'approach', and 'focus'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Constructive criticism has often led to better outcomes in my experience.",
+        "annotation_token": [
+            "has led"
+        ],
+        "rationale": "The sentence maintains consistent present perfect tense agreement with 'has led'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "I appreciate the insights, and I'm excited about the possibility of contributing to such dynamic projects.",
+        "annotation_token": [
+            "appreciate",
+            "I'm",
+            "excited"
+        ],
+        "rationale": "The sentence maintains consistent present tense agreement with 'appreciate', 'I'm', and 'excited'.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Thank you for the opportunity. I look forward to hearing from you.",
+        "annotation_token": [
+            "look forward"
+        ],
+        "rationale": "The sentence maintains consistent present tense agreement with 'look forward'.",
+        "grammar_correctness": "correct"
+    }
+]

@@ -1,0 +1,179 @@
+[
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you. Um, I have problem with... how to say... supply and demand?",
+        "annotation_token": [
+            "Yes",
+            "thank you",
+            "Um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Yes', 'thank you', 'Um', and 'how to say' are used as speech acts to express agreement, gratitude, hesitation, and a request for clarification respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh... I don't understand when price go up or down. Why this happen?",
+        "annotation_token": [
+            "Uh",
+            "I don't understand",
+            "Why this happen"
+        ],
+        "rationale": "The tokens 'Uh' and 'I don't understand' are used as speech acts to express hesitation and lack of understanding, while 'Why this happen' is a request for explanation.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, okay. But if supply is more, then price go down, right?",
+        "annotation_token": [
+            "Ah",
+            "okay",
+            "right"
+        ],
+        "rationale": "The tokens 'Ah' and 'okay' are used as speech acts to express realization and agreement, while 'right' is used to seek confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, I see. But what about... uh... equilibrium?",
+        "annotation_token": [
+            "Oh",
+            "I see",
+            "uh"
+        ],
+        "rationale": "The tokens 'Oh' and 'I see' are used as speech acts to express realization and understanding, while 'uh' indicates hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, stable price... I understand now. Um, can it change?",
+        "annotation_token": [
+            "Ah",
+            "I understand now",
+            "Um",
+            "can it change"
+        ],
+        "rationale": "The tokens 'Ah' and 'I understand now' are used as speech acts to express realization and comprehension, while 'Um' indicates hesitation and 'can it change' is a request for information.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think I get it now. Thank you for explain. It was, um, very helpful.",
+        "annotation_token": [
+            "I think I get it now",
+            "Thank you",
+            "um",
+            "very helpful"
+        ],
+        "rationale": "The tokens 'I think I get it now' and 'Thank you' are used as speech acts to express understanding and gratitude, while 'um' indicates hesitation and 'very helpful' is an expression of appreciation.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, maybe later. I need to study more. But thank you very much.",
+        "annotation_token": [
+            "Uh",
+            "maybe later",
+            "thank you very much"
+        ],
+        "rationale": "The tokens 'Uh' and 'maybe later' are used as speech acts to express hesitation and postponement, while 'thank you very much' is an expression of gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you. Have a good d",
+        "annotation_token": [
+            "Yes",
+            "thank you",
+            "Have a good d"
+        ],
+        "rationale": "The tokens 'Yes' and 'thank you' are used as speech acts to express agreement and gratitude, while 'Have a good d' is an incomplete expression of a farewell wish.",
+        "grammar_correctness": "partially correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you. Um, I have problem with... how to say... supply and demand?",
+        "annotation_token": [
+            "Yes",
+            "thank you",
+            "Um",
+            "how to say"
+        ],
+        "rationale": "The tokens 'Yes', 'thank you', 'Um', and 'how to say' are used as speech acts to acknowledge, express gratitude, hesitate, and request clarification respectively.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh... I don't understand when price go up or down. Why this happen?",
+        "annotation_token": [
+            "Uh",
+            "Why"
+        ],
+        "rationale": "The token 'Uh' is used as a speech act to indicate hesitation, and 'Why' is used to request an explanation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, okay. But if supply is more, then price go down, right?",
+        "annotation_token": [
+            "Ah",
+            "okay",
+            "right"
+        ],
+        "rationale": "The tokens 'Ah' and 'okay' are used as speech acts to express realization and agreement, while 'right' is used to seek confirmation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Oh, I see. But what about... uh... equilibrium?",
+        "annotation_token": [
+            "Oh",
+            "I see",
+            "uh"
+        ],
+        "rationale": "The tokens 'Oh' and 'I see' are used as speech acts to express understanding, and 'uh' indicates hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Ah, stable price... I understand now. Um, can it change?",
+        "annotation_token": [
+            "Ah",
+            "I understand now",
+            "Um"
+        ],
+        "rationale": "The tokens 'Ah' and 'I understand now' are used as speech acts to express realization and comprehension, while 'Um' indicates hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "I think I get it now. Thank you for explain. It was, um, very helpful.",
+        "annotation_token": [
+            "I think",
+            "Thank you",
+            "um"
+        ],
+        "rationale": "The tokens 'I think' and 'Thank you' are used as speech acts to express tentative understanding and gratitude, while 'um' indicates hesitation.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Uh, maybe later. I need to study more. But thank you very much.",
+        "annotation_token": [
+            "Uh",
+            "thank you very much"
+        ],
+        "rationale": "The token 'Uh' is used as a speech act to indicate hesitation, and 'thank you very much' expresses gratitude.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "speech_act",
+        "annotation_sentence": "Yes, thank you. Have a good d",
+        "annotation_token": [
+            "Yes",
+            "thank you"
+        ],
+        "rationale": "The tokens 'Yes' and 'thank you' are used as speech acts to acknowledge and express gratitude.",
+        "grammar_correctness": "correct"
+    }
+]

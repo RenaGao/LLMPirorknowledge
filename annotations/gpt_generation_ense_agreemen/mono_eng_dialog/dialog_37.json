@@ -1,0 +1,41 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I completed a summer internship last year at a solar energy startup.",
+        "annotation_token": [
+            "completed",
+            "last year"
+        ],
+        "rationale": "The verb 'completed' is in the past tense, which agrees with the time expression 'last year', indicating a past action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "It was a fantastic experience that solidified my interest in sustainable technologies.",
+        "annotation_token": [
+            "was",
+            "solidified"
+        ],
+        "rationale": "The verbs 'was' and 'solidified' are in the past tense, indicating that the experience and the solidification of interest happened in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "We faced some unexpected issues, and collaborating with others to find solutions was a big learning curve.",
+        "annotation_token": [
+            "faced",
+            "was"
+        ],
+        "rationale": "The verbs 'faced' and 'was' are in the past tense, indicating that the issues and the learning curve occurred in the past.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I was wondering about the opportunities for students to engage with faculty on research projects.",
+        "annotation_token": [
+            "was wondering"
+        ],
+        "rationale": "The phrase 'was wondering' is in the past continuous tense, indicating a past action or thought process.",
+        "grammar_correctness": "correct"
+    }
+]

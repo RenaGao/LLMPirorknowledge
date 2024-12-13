@@ -1,0 +1,77 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, yes, thank you. I, um, like to do... uh, running. I run in park, maybe three times week.",
+        "annotation_token": [
+            "three"
+        ],
+        "rationale": "The word 'three' is a numeral indicating the number of times the speaker runs in a week.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I run, um, maybe... thirty minutes? Sometimes more, if I have, uh... how to say... energy.",
+        "annotation_token": [
+            "thirty"
+        ],
+        "rationale": "The word 'thirty' is a numeral indicating the duration of time the speaker runs.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, not really. I do some, how to say... pushup? But not much more.",
+        "annotation_token": [
+            "some",
+            "much"
+        ],
+        "rationale": "The word 'some' is a quantifier indicating an unspecified amount of pushups, and 'much' is a quantifier indicating a small amount of additional exercise.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you. I need, uh, easy things. Cooking is, um, not my strong... how to say... strong point?",
+        "annotation_token": [
+            "easy"
+        ],
+        "rationale": "The word 'easy' is a quantifier indicating the type of things the speaker needs, referring to simplicity or lack of difficulty.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Uh, yes, thank you. I, um, like to do... uh, running. I run in park, maybe three times week.",
+        "annotation_token": [
+            "three"
+        ],
+        "rationale": "The word 'three' is a numeral indicating the number of times the speaker runs in a week.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "I run, um, maybe... thirty minutes? Sometimes more, if I have, uh... how to say... energy.",
+        "annotation_token": [
+            "thirty",
+            "more"
+        ],
+        "rationale": "The word 'thirty' is a numeral indicating the duration of the run, and 'more' is a quantifier indicating an additional amount of time.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Um, not really. I do some, how to say... pushup? But not much more.",
+        "annotation_token": [
+            "some",
+            "much"
+        ],
+        "rationale": "The word 'some' is a quantifier indicating an unspecified amount of pushups, and 'much' is a quantifier indicating a small amount of additional exercise.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Thank you. I need, uh, easy things. Cooking is, um, not my strong... how to say... strong point?",
+        "annotation_token": [
+            "easy"
+        ],
+        "rationale": "The word 'easy' is a quantifier indicating the level of difficulty of the things needed.",
+        "grammar_correctness": true
+    }
+]

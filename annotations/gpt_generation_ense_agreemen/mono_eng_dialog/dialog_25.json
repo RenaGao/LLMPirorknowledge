@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I heard there’s a new collaboration tool.",
+        "annotation_token": [
+            "heard",
+            "there's"
+        ],
+        "rationale": "The sentence uses past tense 'heard' and present tense 'there's' (there is), which shows a lack of tense agreement.",
+        "grammar_correctness": "wrong"
+    }
+]

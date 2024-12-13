@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I, um, visit for holiday. Want to see... uh, many sights.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of sights.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Two blocks... and hotel is on... right, yes?",
+        "annotation_token": [
+            "Two"
+        ],
+        "rationale": "The word 'Two' is a numeral indicating the number of blocks.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, I, um, visit for holiday. Want to see... uh, many sights.",
+        "annotation_token": [
+            "many"
+        ],
+        "rationale": "The word 'many' is a quantifier used to indicate a large number of sights.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Two blocks... and hotel is on... right, yes?",
+        "annotation_token": [
+            "Two"
+        ],
+        "rationale": "The word 'Two' is a numeral used to specify the exact number of blocks.",
+        "grammar_correctness": true
+    }
+]

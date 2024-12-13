@@ -1,0 +1,57 @@
+[
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, um, I have time. We talk about the deadline, right?",
+        "annotation_token": [
+            "have",
+            "talk"
+        ],
+        "rationale": "The sentence contains verbs 'have' and 'talk' which should agree in tense. 'Have' is present tense, but 'talk' should be 'are talking' to maintain present continuous tense agreement.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Hm, I think I go well, but some part is, um, how to say... difficult.",
+        "annotation_token": [
+            "go"
+        ],
+        "rationale": "The verb 'go' should be in the present continuous form 'am going' to agree with the present tense 'think'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "The part with, um, data... data analysis. It take much time.",
+        "annotation_token": [
+            "take"
+        ],
+        "rationale": "The verb 'take' should be 'takes' to agree with the singular subject 'It'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, I will do that. Thank you for, um, understanding.",
+        "annotation_token": [
+            "will do"
+        ],
+        "rationale": "The verb phrase 'will do' is correctly in future tense, agreeing with the context of a future action.",
+        "grammar_correctness": "correct"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, we are team. I feel, um, better now.",
+        "annotation_token": [
+            "are"
+        ],
+        "rationale": "The verb 'are' should be 'are a' to correctly agree with the noun 'team'.",
+        "grammar_correctness": "wrong"
+    },
+    {
+        "type": "Tense agreement",
+        "annotation_sentence": "Yes, we will finish it well. Thank you again!",
+        "annotation_token": [
+            "will finish"
+        ],
+        "rationale": "The verb phrase 'will finish' is correctly in future tense, agreeing with the context of a future action.",
+        "grammar_correctness": "correct"
+    }
+]

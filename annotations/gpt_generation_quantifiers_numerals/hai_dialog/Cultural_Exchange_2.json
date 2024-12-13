@@ -1,0 +1,42 @@
+[
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, all over! In big city, um, very... crowded and big festival. In village, more... how to say, quiet?",
+        "annotation_token": [
+            "all",
+            "more"
+        ],
+        "rationale": "The sentence contains quantifiers 'all' and 'more' which are used to indicate quantity or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It last three days. But sometime more long, depend on place.",
+        "annotation_token": [
+            "three",
+            "more"
+        ],
+        "rationale": "The sentence contains the numeral 'three' indicating a specific number of days, and the quantifier 'more' indicating an additional amount.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "Yes, all over! In big city, um, very... crowded and big festival. In village, more... how to say, quiet?",
+        "annotation_token": [
+            "all",
+            "more"
+        ],
+        "rationale": "The sentence contains quantifiers 'all' and 'more' which are used to indicate quantity or degree.",
+        "grammar_correctness": true
+    },
+    {
+        "type": "Quantifiers and Numerals",
+        "annotation_sentence": "It last three days. But sometime more long, depend on place.",
+        "annotation_token": [
+            "three",
+            "more"
+        ],
+        "rationale": "The sentence contains the numeral 'three' indicating a specific number of days, and the quantifier 'more' indicating an additional amount.",
+        "grammar_correctness": true
+    }
+]
