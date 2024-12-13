@@ -1,5 +1,6 @@
 import openai
 import os
+import argparse
 
 
 def read_instruction(instruction_path):
@@ -41,8 +42,19 @@ def request(output_dir_path, system_instruction, assist_instruction, topic_list,
 
 
 if __name__ == '__main__':
-    os.environ["OPENAI_API_KEY"] = ("")
-    openai.organization = ""
+    parser = argparse.ArgumentParser(description="Set paths and API credentials for GPT generation.")
+    parser.add_argument("--context_instruction_dir_path", required=False, default="instructions/context_instructions",
+                        help="Path to the context instruction directory")
+    parser.add_argument("--generation_instruction_dir_path", required=False, default="instructions/generation_instructions",
+                        help="Path to the generation instruction directory")
+    parser.add_argument("--output_dir", required=True, default="../gpt_generation_data/data_0", help="Path to the output directory")
+    parser.add_argument("--openai_api_key", required=True, help="OpenAI API key")
+    parser.add_argument("--openai_org", required=False, help="OpenAI organization ID")
+
+    args = parser.parse_args()
+
+    os.environ["OPENAI_API_KEY"] = args.openai_api_key
+    openai.organization = args.openai_org
     openai.api_key = os.environ.get("OPENAI_API_KEY")
     MODEL = "gpt-4o"
 
@@ -291,8 +303,9 @@ if __name__ == '__main__':
       ]
     }]
 
-    context_instruction_dir_path = "instructions/context_instructions"
-    generation_instruction_dir_path = "instructions/generation_instructions"
+    context_instruction_dir_path = args.context_instruction_dir_path
+    generation_instruction_dir_path = args.generation_instruction_dir_path
+    output_dir = args.output_dir
 
     for context_instruction, generation_instruction in zip(sorted(os.listdir(context_instruction_dir_path)), sorted(os.listdir(generation_instruction_dir_path))):
         language = context_instruction.strip(".txt")
@@ -300,13 +313,7 @@ if __name__ == '__main__':
         generation_instruction_path = os.path.join(generation_instruction_dir_path, generation_instruction)
         system_instruction = read_instruction(context_instruction_path)
         instruction = read_instruction(generation_instruction_path)
-        output_dir_path = f"../gpt_generation_data/data_0/{language}_dialog"
+        output_dir_path = output_dir + f"{language}_dialog"
         if not os.path.exists(output_dir_path):
             os.makedirs(output_dir_path)
-        request(output_dir_path, system_instruction, instruction, new_topic_list, repeat_id=1)
-        request(output_dir_path, system_instruction, instruction, new_topic_list, repeat_id=2)
-        request(output_dir_path, system_instruction, instruction, new_topic_list, repeat_id=3)
-
-
-
-
+        request(output_dir_path, system_instruction, instruction, new_topic_list)
