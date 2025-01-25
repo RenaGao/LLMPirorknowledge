@@ -1,6 +1,6 @@
 # LLMPirorknowledge
 
-This is the code,dialogue datasets, and results for *Prior Knowledge Matters: An Information-Theoretic Analysis of In-Context Learning in LLM for L2 Dialogues*
+This is the code,dialogue datasets, and results for *Can LLMs Simulate L2-English Dialogue? An Information-Theoretic Analysis of L1-Dependent Biases*
 
 ### The Distribution Divergence Results
 
