@@ -1,0 +1,53 @@
+**Speaker A (NS, Customer Service Representative):** Hi, thank you for calling Tech Support. How can I assist you today?  
+
+**Speaker B (L2, Cantonese):** Ah, hello. I have problem with my computer. It... um... not turn on.  
+
+**Speaker A (NS):** I see. So your computer won’t start at all?  
+
+**Speaker B (L2, Cantonese):** Yes, yes. I press button, but nothing happen.  
+
+**Speaker A (NS):** Okay, let’s try a few things. Is the computer plugged in?  
+
+**Speaker B (L2, Cantonese):** Plugged in? Ah, yes. I check already. The... um... wire is connected.  
+
+**Speaker A (NS):** Good. Does the power light on the computer turn on when you press the button?  
+
+**Speaker B (L2, Cantonese):** No, no light. No sound, nothing.  
+
+**Speaker A (NS):** Alright. Can you try turning it on while holding the power button for 10 seconds?  
+
+**Speaker B (L2, Cantonese):** Um... hold button for 10 seconds? Okay, I try. *[Pauses]* No, still not work.  
+
+**Speaker A (NS):** Hmm, I see. Do you have another power cable you can try? Maybe the cable is faulty.  
+
+**Speaker B (L2, Cantonese):** Another cable? I think I have one. Let me check... *[Pauses]* Yes, I try now. *[Pauses]* Still same problem.  
+
+**Speaker A (NS):** Okay, it sounds like it might be an issue with the power supply inside the computer.  
+
+**Speaker B (L2, Cantonese):** Power supply? Is it... um... big problem?  
+
+**Speaker A (NS):** It might require a repair. Do you have a warranty for your computer?  
+
+**Speaker B (L2, Cantonese):** Warranty? Yes, I think so. I buy it one year ago.  
+
+**Speaker A (NS):** Great. Then we can help you with a repair under warranty. I’ll need some details to set this up for you.  
+
+**Speaker B (L2, Cantonese):** Ah, okay. Thank you.  
+
+**Speaker A (NS):** Let me get your information. What’s your name and the model of your computer?  
+
+**Speaker B (L2, Cantonese):** My name is Wing. The computer is... um... HP Notebook.  
+
+**Speaker A (NS):** Thank you, Wing. I’ll process this for you. You’ll receive an email with instructions for the repair.  
+
+**Speaker B (L2, Cantonese):** Okay, thank you. You help me a lot.  
+
+**Speaker A (NS):** You’re welcome! Is there anything else I can assist you with today?  
+
+**Speaker B (L2, Cantonese):** No, that’s all. Thank you again.  
+
+**Speaker A (NS):** You’re welcome. Have a great day, Wing!  
+
+**Speaker B (L2, Cantonese):** You too. Goodbye!  
+
+**Speaker A (NS):** Goodbye!

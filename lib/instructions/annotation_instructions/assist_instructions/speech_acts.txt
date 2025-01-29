@@ -1,30 +1,49 @@
-TASK: Read the provided dialogue passage.
-Find the sentence in the passage that have speech acts and annotate all the speech acts tokens.
+TASK: Read the provided dialogue passage. 
+Find all the utterances in the passage that have speech acts and annotate all the tokens associated with the speech act. 
+
+Terminology:
+In the philosophy of language and linguistics, a speech act is something expressed by an individual that not only presents information but performs an action as well.
+For example, the phrase "I would like the mashed potatoes; could you please pass them to me?" is considered a speech act as it expresses the speaker's desire to acquire the mashed potatoes, as well as presenting a request that someone pass the potatoes to them.
+According to Kent Bach, "almost any speech act is really the performance of several acts at once, distinguished by different aspects of the speaker's intention: there is the act of saying something, what one does in saying it, such as requesting or promising, and how one is trying to affect one's audience".
+The contemporary use of the term "speech act" goes back to J. L. Austin's development of performative utterances and his theory of locutionary, illocutionary, and perlocutionary acts. Speech acts serve their function once they are said or communicated. 
+These are commonly taken to include acts such as apologizing, promising, ordering, answering, requesting, complaining, warning, inviting, refusing, and congratulating.
 
 Example:
 
-Passage:
+Passage: 
+Yes, I like speaking English.
 Uh, because English can use all over the world.  You can use it speak to anyone.
 Uh, in Japan---I just speak English in my English class.
 Uh, it's about the English book and the topic is in that book.
-About the school life.
+About a school life.
 Or my hobby.
-Yes, I want more chance to speak.
+Yes, I want more chance to speak. 
 What, uh, like more, uh, sports.
 Or games.
 Yes, I like that.
-Uh, I watch English movies.
+Uh, I watched English movies yesterday.
 Speaking?
 Yes, it's, uh, uh, mostly is develop my speaking.
-And at the same time, it can develop my speaking - my listening.
-Yes.
-Uh, one-to-one is better.
-Uh, because it's easy to conversation.  In a group, you don't know when to speak.
-Its depends on what you want to do.  If you just want do some research, the most important is reading and if you want to live, uh, foreign - live like America, you should, uh, improve your speaking and listening.
 
-
-Sentence: ' You can use it speak to anyone.'
-Annoated Text: ' You can use it speak to anyone.'
-Grammar Correctness：wrong, and not fit into the context
+{
+    "type": "Speech acts",
+    "annotation_utterance": 'You can use it speak to anyone.'
+    "annotation_tokens":[
+        {"token": "You can use it speak",
+        "grammar correctness": False,
+        "rationale": "This sentence provides a permission to use English to speak to anyone, but it does not fit the context.",
+        },
+    ]
+}
+{
+    "type": "Speech acts",
+    "annotation_utterance": 'Speaking?'
+    "annotation_tokens":[
+        {"token": "Speaking?",
+        "grammar correctness": True,
+        "rationale": "This is a question that is asking for clarification.",
+        },
+    ]
+}
 
 {text}

@@ -1,0 +1,39 @@
+**Scene: Mei and Wing are discussing a new task at work. Mei is the native English speaker, and Wing is the Cantonese-speaking Second-Language learner.**
+
+**Speaker A (Mei, NS):** Hey, Wing! Thanks for coming in today. I wanted to go over a new task with you.
+
+**Speaker B (Wing, L2, Cantonese):** Ah, yes. Hi, Mei. I come. What is task?
+
+**Speaker A (Mei, NS):** So, we need to update the client database. It’s a bit outdated, and we want to make sure all the information is current.
+
+**Speaker B (Wing, L2, Cantonese):** Oh, I see. Um... how to say... update client information. Got it.
+
+**Speaker A (Mei, NS):** Exactly. We need to check their contact details, like phone numbers and email addresses. Also, make sure their addresses are correct.
+
+**Speaker B (Wing, L2, Cantonese):** Phone number, email, address. Yes, I understand. Um... how to do it?
+
+**Speaker A (Mei, NS):** We can use the database software we have. It’s pretty straightforward. You just need to open the client records and update the fields as needed.
+
+**Speaker B (Wing, L2, Cantonese):** Client record, open, update field. Um... I can do it. But, I need to check... how to use software?
+
+**Speaker A (Mei, NS):** Sure, I can walk you through it. We can do a quick demo. It’s not too complicated.
+
+**Speaker B (Wing, L2, Cantonese):** Oh, thank you. Demo will help. I can learn better with example.
+
+**Speaker A (Mei, NS):** No problem. I’ll show you the steps and we can practice together. That way, you’ll feel more comfortable with it.
+
+**Speaker B (Wing, L2, Cantonese):** Practice together, good idea. I will learn fast.
+
+**Speaker A (Mei, NS):** Great! When would be a good time for you to go over this?
+
+**Speaker B (Wing, L2, Cantonese):** Um... how about tomorrow? I free in afternoon.
+
+**Speaker A (Mei, NS):** Tomorrow afternoon works for me. Let’s say 2 p.m.?
+
+**Speaker B (Wing, L2, Cantonese):** 2 p.m. is fine. I can come to your office.
+
+**Speaker A (Mei, NS):** Perfect. I’ll see you then. Thanks, Wing!
+
+**Speaker B (Wing, L2, Cantonese):** Thanks, Mei. See you tomorrow! Bye.
+
+**Speaker A (Mei, NS):** Bye, Wing! Have a good day!

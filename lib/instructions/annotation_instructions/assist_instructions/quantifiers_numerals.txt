@@ -1,13 +1,13 @@
-TASK: Read the provided dialogue passage.
-Find the sentence in the passage that have Quantifiers and Numerals and annotate all the Quantifiers and Numerals tokens.
+TASK: Read the provided dialogue passage. 
+Find all the utterances in the passage that have quantifiers or numerals and annotate all the corresponding expressions. 
 
 Example:
 
-Passage:
+Passage: 
 Yes, I like speaking in English.
 What?
-Yeah, I - you know, I was - I was born in China and I like to - I like watch movie and - in my XXX  school and in high school and in college.
-So, I want to speak English and I think speaking English will be always very good, you know---
+Yeah, I - you know, I was - I was born in China and I like to - I like watch movie and - in my XXX  school and in high school and in college. 
+So, I want to speak English and I think speaking English will be always very good, you know--- 
 Yeah, you know, I - since I - I went to Japan, I didn't have any much chance to speak English because the Japanese don't speak in English.
 They don't understand what I'm saying so - a little bit about last time, yeah last time a week.
 Uh, you know, I was doing part-time job here.  I was working in a hotel.
@@ -25,13 +25,51 @@ Yeah, it doesn't matter.
 Yeah, I think they are all important but most important is speaking.
 Because speaking is the most - most, how to say, uh, it's most way to - to communicate with each other.
 Yeah, when, yeah, you can writing here, but if the people don't have chance to read it, what - what do you write, right?  Speaking with each other and the way is the first way to get your point.
+ 
 
-Sentence: 'Yeah, you know, I - since I - I went to Japan, I didn't have any much chance to speak English because the Japanese don't speak in English.',
-'They don't understand what I'm saying so - a little bit about last time, yeah last time a week.',
-'Yeah, I - yeah that matter I - there was any chance to speak. ',
-'Yeah, I think they are all important but most important is speaking.'
-
-Annotated Text: ‘any much’,'a little bit','any','all','most'
-grammar correctness: true
+{
+    "type": "Quantifiers and Numerals",
+    "annotation_utterance": 'Yeah, you know, I - since I - I went to Japan, I didn't have any much chance to speak English because the Japanese don't speak in English.'
+    "annotation_tokens":[
+        {"token": "any much",
+        "grammar correctness": False,
+        "rationale": "The use of "any" is a quantifier and fits the context, but the expression 'any much' is unnatural.",
+        },
+    ]
+}
+{
+    "type": "Quantifiers and Numerals",
+    "annotation_utterance": 'They don't understand what I'm saying so - a little bit about last time, yeah last time a week.'
+    "annotation_tokens":[
+        {"token": "a little bit",
+        "grammar correctness": True,
+        "rationale": "'a little bit' is a numerical expression and fits the context.",
+        },
+    ]
+}
+{
+    "type": "Quantifiers and Numerals",
+    "annotation_utterance": 'Yeah, I - yeah that matter I - there was any chance to speak.'
+    "annotation_tokens":[
+        {"token": "any",
+        "grammar correctness": True,
+        "rationale": "'any' is a quantifier and fits the context.",
+        },
+    ]
+}
+{
+    "type": "Quantifiers and Numerals",
+    "annotation_utterance": 'Yeah, I think they are all important but most important is speaking.'
+    "annotation_tokens":[
+        {"token": "all",
+        "grammar correctness": True,
+        "rationale": "'all' is a quantifier and used for plural word 'they.'",
+        },
+        {"token": "most",
+        "grammar correctness": False,
+        "rationale": "'most' is properly used, but it should accompany a determiner 'the.'",
+        },
+    ]
+}
 
 {text}

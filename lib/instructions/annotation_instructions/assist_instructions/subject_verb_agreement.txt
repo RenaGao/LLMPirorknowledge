@@ -1,30 +1,89 @@
-TASK: Read the provided dialogue passage.
-Find the sentence in the passage that have Subject-Verb agreement and annotate all the Subject-Verb agreement tokens.
+TASK: Read the provided dialogue passage. 
+Find all the utterances in the passage that have subject-verb agreement with respect to person and number and annotate all the tokens under the agreement.
 
 Example:
 
-Passage:
+Passage: 
+Yes, I like speaking English.
 Uh, because English can use all over the world.  You can use it speak to anyone.
 Uh, in Japan---I just speak English in my English class.
-Uh, it's about the English book and the topic is in that book.
-About the school life.
-Or my hobby.
-Yes, I want more chance to speak.
-What, uh, like more, uh, sports.
-Or games.
 Yes, I like that.
-Uh, I watch English movies.
+Uh, I watched English movies yesterday.
 Speaking?
 Yes, it's, uh, uh, mostly is develop my speaking.
 And at the same time, it can develop my speaking - my listening.
 Yes.
-Uh, one-to-one is better. s
+Uh, one-to-one is better. 
 Uh, because it's easy to conversation.  In a group, you don't know when to speak.
 Its depends on what you want to do.  If you just want do some research, the most important is reading and if you want to live, uh, foreign - live like America, you should, uh, improve your speaking and listening.
 
-
-Sentence: 'Uh, I watch English movies.'Yes, it's, uh, uh, mostly is develop my speaking.','In a group, you don't know when to speak.','Its depends on what you want to do. '
-Annoated Text: 'I watch','is develop my speaking','you don't know ','Its depends'
-Grammar Correctness: wrong
+{
+    "type": "Subject-verb agreement",
+    "annotation_utterance": 'Yes, I like speaking English.'
+    "annotation_tokens":[
+        {"token": "I like",
+        "grammar correctness": True,
+        "rationale": "The verb 'like' aligns with the subject 'I' in grammatical number.",
+        },
+    ]
+}
+{
+    "type": "Subject-verb agreement",
+    "annotation_utterance": 'I just speak English in my English class.'
+    "annotation_tokens":[
+        {"token": "I speak",
+        "grammar correctness": True,
+        "rationale": "The verb 'speak' aligns with the subject 'I' in grammatical number.",
+        },
+    ]
+}
+{
+    "type": "Subject-verb agreement",
+    "annotation_utterance": 'Yes, it's, uh, uh, mostly is develop my speaking.'
+    "annotation_tokens":[
+        {"token": "it's, mostly is develop",
+        "grammar correctness": False,
+        "rationale": "The verb 'is' aligns with the subject 'it', but the accompanying verb 'develop' is incorrect as it should be passive voice.",
+        },
+    ]
+}
+{
+    "type": "Subject-verb agreement",
+    "annotation_utterance": 'one-to-one is better',
+    "annotation_tokens":[
+        {"token": "one-to-one is",
+        "grammar correctness": True,
+        "rationale": "The verb 'is' aligns with the subject 'one-to-one' in grammatical number.",
+        },
+    ]
+}
+{
+    "type": "Subject-verb agreement",
+    "annotation_utterance": 'Its depends on what you want to do.'
+    "annotation_tokens":[
+        {"token": "Its depends",
+        "grammar correctness": False,
+        "rationale": "The subject of the verb 'depends' is 'Its,' which is in an incorrect form.",
+        },
+    ]
+}
+{
+    "type": "Subject-verb agreement",
+    "annotation_utterance": 'If you just want do some research, the most important is reading and if you want to live, uh, foreign - live like America, you should, uh, improve your speaking and listening.'
+    "annotation_tokens":[
+        {"token": "you just want",
+        "grammar correctness": True,
+        "rationale": "The verb 'want' aligns with the subject 'you' in grammatical number.",
+        },
+        {"token": "the most important is",
+        "grammar correctness": True,
+        "rationale": "The verb 'is' aligns with the subject 'the most important' in grammatical number.",
+        },
+        {"token": "you want to live",
+        "grammar correctness": True,
+        "rationale": "The verb 'want' aligns with the subject 'you' in grammatical number.",
+        },
+    ]
+ }
 
 {text}

@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hi, Wing! Thanks for coming in today. How are you?
+
+**Speaker B (L2, Cantonese):** Hi, Mei! I am good, thank you. How you are?
+
+**Speaker A (NS):** I'm doing well, thanks. So, we need to discuss the upcoming project deadline. When do you think we can finish the project?
+
+**Speaker B (L2, Cantonese):** Um, I think, we can... finish it by... by next Friday. Is that good?
+
+**Speaker A (NS):** Next Friday is a bit tight. Can we push it back to the following Monday?
+
+**Speaker B (L2, Cantonese):** Monday, it is okay. But... um, we need to work hard. Team, they have many task already.
+
+**Speaker A (NS):** I understand. Let's see if we can prioritize some tasks. Which parts of the project are taking the most time?
+
+**Speaker B (L2, Cantonese):** The coding part, it is slow. And also, testing need more time.
+
+**Speaker A (NS):** Okay, let's focus on the coding and testing. Can you assign more team members to those areas?
+
+**Speaker B (L2, Cantonese):** Yes, I can. But... we also have... um, design... design thing to do.
+
+**Speaker A (NS):** Got it. Let's break it down. Can you give me a brief update on the design progress?
+
+**Speaker B (L2, Cantonese):** Design, it is... um, we finish about half. But some part need more time.
+
+**Speaker A (NS):** I see. Let's have a check-in meeting on Wednesday to review the progress. That way, we can make sure we're on track for Monday.
+
+**Speaker B (L2, Cantonese):** Yes, Wednesday, it is good. We can... um, talk more about it.
+
+**Speaker A (NS):** Great. And if you need any help or resources, let me know. I'll support you.
+
+**Speaker B (L2, Cantonese):** Thank you, Mei. I will tell team to work hard. We can do it!
+
+**Speaker A (NS):** I'm confident in your team. Thanks, Wing. Have a good day!
+
+**Speaker B (L2, Cantonese):** You too. Goodbye, Mei!
+
+**Speaker A (NS):** Goodbye, Wing! Talk to you soon.

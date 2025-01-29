@@ -1,28 +1,54 @@
-TASK: Read the provided dialogue passage.
-Find the sentence in the passage that have speech acts and annotate all the model verbs tokens.
+TASK: Read the provided dialogue passage. 
+Find all the utterances in the passage that have modal verbs or related expressions that indicate likelihood, ability, permission, or obligation and annotate all of them. 
 
 Example:
 
-Passage:
+Passage: 
+Yes, I like speaking English.
 Uh, because English can use all over the world.  You can use it speak to anyone.
 Uh, in Japan---I just speak English in my English class.
 Uh, it's about the English book and the topic is in that book.
-About the school life.
+About a school life.
 Or my hobby.
-Yes, I want more chance to speak.
+Yes, I want more chance to speak. 
 What, uh, like more, uh, sports.
 Or games.
 Yes, I like that.
-Uh, I watch English movies.
+Uh, I watched English movies yesterday.
 Speaking?
 Yes, it's, uh, uh, mostly is develop my speaking.
 And at the same time, it can develop my speaking - my listening.
-Yes.
-Uh, one-to-one is better.
-Uh, because it's easy to conversation.  In a group, you don't know when to speak.
-Its depends on what you want to do.  If you just want do some research, the most important is reading and if you want to live, uh, foreign - live like America, you should, uh, improve your speaking and listening.
 
 
-Sentence: ' You can use it speak to anyone.', 'And at the same time, it can develop my speaking - my listening.'
-Annoated Text: 'can','can'
-grammar correctness: true
+{
+    "type": "Modal verbs",
+    "annotation_utterance": 'You can use it speak to anyone.''
+    "annotation_tokens":[
+        {"token": "can",
+        "grammar correctness": True,
+        "rationale": "The modal verb 'can' is used to express the ability to use English to speak to anyone.",
+        },
+    ]
+}
+{
+    "type": "Modal verbs",
+    "annotation_utterance": 'And at the same time, it can develop my speaking - my listening.'
+    "annotation_tokens":[
+        {"token": "can",
+        "grammar correctness": True,
+        "rationale": "The modal verb 'can' is used to express the ability to develop speaking and listening.",
+        },
+    ]
+}
+{
+    "type": "Modal verbs",
+    "annotation_utterance": "Yes, it's, uh, uh, mostly is develop my speaking."
+    "annotation_tokens":[
+    {"token": "mostly",
+        "grammar correctness": True,
+        "rationale": "The word 'mostly' expresses a kind of likelihood of the event.",
+    }
+    ]
+}
+
+{text}

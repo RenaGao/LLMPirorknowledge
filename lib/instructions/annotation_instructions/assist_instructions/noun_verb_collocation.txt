@@ -1,21 +1,36 @@
-TASK:
-TASK: Read the provided dialogue passage.
-
-Find the sentence in the passage that have Noun & verb collocations and annotate all the tokens including Nouns and verbs under the collocations.
-Note that Noun & Verb Collocation refers to a pairing of a noun and a verb, which independently express a meaningful and complete action. For example, 'he want' are not collocation because it is not completed.
-Also, the tokens you give should be pairs that both Noun and verb are explicit, and noun can not be pronouns.
+TASK: Read the provided dialogue passage. 
+Find all the utterances in the passage that have noun and verb collocations and annotate all the tokens including nouns and verbs under the collocations. 
 
 Example:
 
-Passage:
+Passage: 
 Yes, I like speaking English.
 Uh, because English can use all over the world.  You can use it speak to anyone.
 Uh, in Japan---I just speak English in my English class.
 Uh, it's about the English book and the topic is in that book.
-About the school life.
+About a school life.
+Or my hobby.
 
-Annotated Sentences: 'Yes, I like speaking English.', 'Uh, in Japan---I just speak English in my English class.'
-Annotated Tokens: 'speaking English','speak English'.
-Grammar Correctness: True
+
+{
+    "type": "Noun & verb collocations",
+    "annotation_utterance": "Yes, I like speaking English.',
+    "annotation_tokens":[
+        {"token": "speaking English",
+        "grammar correctness": True,
+        "rationale": "The collocation 'speaking English' is natural and fits the context.",
+        },
+    ]
+}
+{
+    "type": "Noun & verb collocations",
+    "annotation_utterance": "Uh, in Japan---I just speak English in my English class.",
+    "annotation_tokens":[
+        {"token": "speak English",
+        "grammar correctness": True,
+        "rationale": "The collocation 'speak English' is natural and fits the context.",
+        },
+    ]
+}
 
 {text}

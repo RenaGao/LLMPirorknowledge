@@ -1,16 +1,45 @@
-TASK: Read the provided dialogue passage.
-Find all the sentences with reference word and annotate the all the Reference word in the passage.
+TASK: Read the provided dialogue passage. 
+Find all the utterances with reference word and annotate the all the Reference words in the passage. 
 
 Example:
 
-Passage:
+Passage: 
+Yes, I like speaking English.
 Uh, because English can use all over the world.  You can use it speak to anyone.
 Uh, in Japan---I just speak English in my English class.
 Uh, it's about the English book and the topic is in that book.
-About the school life.
+About a school life.
+Or my hobby.
 
-Sentence: 'Yes, I like speaking English.', 'Uh, in Japan---I just speak English in my English class.', 'Uh, it's about the English book and the topic is in that book.'
-Annoated Text: 'I','I','it'.
-Grammar Correctness: True
+{
+    "type": "Reference word",
+    "annotation_utterance": "Yes, I like speaking English.',
+    "annotation_tokens":[
+        {"token": "I",
+        "grammar correctness": True
+        "rationale": "The reference words 'I' is used to refer to the speaker.",
+        },
+    ]
+}
+{
+    "type": "Reference word",
+    "annotation_utterance": "Uh, in Japan---I just speak English in my English class.",
+    "annotation_tokens":[
+        {"token": "I",
+        "grammar correctness": True
+        "rationale": "The reference words 'I' is used to refer to the speaker.",
+        },
+    ]
+}
+{
+    "type": "Reference word",
+    "annotation_utterance": "Uh, it's about the English book and the topic is in that book.",
+    "annotation_tokens":[
+        {"token": "it",
+        "grammar correctness": True
+        "rationale": "The reference words 'it' is used to refer to the English book. This usage is correct with respect to the grammatical number.",
+        },
+    ]
+}
 
 {text}

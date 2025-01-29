@@ -1,0 +1,47 @@
+**Speaker A (NS):** Hello! Thank you for calling our customer service. How can I assist you today?
+
+**Speaker B (L2, Cantonese):** Ah, hello. I have... um, problem. I cannot open my... my... how to say... email.
+
+**Speaker A (NS):** I see. Can you tell me more about the issue? When did it start?
+
+**Speaker B (L2, Cantonese):** It start... um, this morning. I try to open my email, and it just... um, show error message.
+
+**Speaker A (NS):** I understand. Could you please read me the error message?
+
+**Speaker B (L2, Cantonese):** Yes, it say... um, "Connection failed. Please check your internet connection."
+
+**Speaker A (NS):** Thank you. Have you checked your internet connection?
+
+**Speaker B (L2, Cantonese):** Yes, I check. My internet is working. I can use... um, other website, but not my email.
+
+**Speaker A (NS):** Okay. Let’s try a few things. First, can you try restarting your device?
+
+**Speaker B (L2, Cantonese):** Um, restart... my computer? Okay, I try. (Pause) I restart, but still not work.
+
+**Speaker A (NS):** Alright. Let’s try clearing the cache and cookies in your web browser. Do you know how to do that?
+
+**Speaker B (L2, Cantonese):** Um, how to clear... um, cache? No, I not know.
+
+**Speaker A (NS):** No problem. I can guide you through it. Which browser are you using?
+
+**Speaker B (L2, Cantonese):** I use... um, Chrome.
+
+**Speaker A (NS):** Great. Open Chrome and go to the top right corner. Click on the three dots, then go to "More tools" and select "Clear browsing data."
+
+**Speaker B (L2, Cantonese):** Okay, I follow. (Pause) I clear, but still not work.
+
+**Speaker A (NS):** I see. Let’s try one more thing. Can you log out of your email account and log back in?
+
+**Speaker B (L2, Cantonese):** Yes, I try. (Pause) I log out and log back in, but still same error.
+
+**Speaker A (NS):** I understand. It seems like there might be an issue with the server. I’ll need to escalate this to our technical support team. Can I get your name and contact information to follow up with you?
+
+**Speaker B (L2, Cantonese):** Yes, my name is Wing. My phone is... um, 555-1234.
+
+**Speaker A (NS):** Thank you, Wing. I’ll make sure to pass this information to our team. They will contact you as soon as possible. Is there anything else I can help you with today?
+
+**Speaker B (L2, Cantonese):** No, that’s all. Thank you for your help.
+
+**Speaker A (NS):** You’re welcome, Wing. Have a good day!
+
+**Speaker B (L2, Cantonese):** You too. Bye-bye.
