@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Wake up many times in night.",
-        "annotation_token": "times",
-        "rationale": "The noun 'times' is plural, indicating multiple occurrences, but the preposition 'in' should be 'at' to correctly indicate the time of day.",
-        "grammar_correctness": "wrong"
-    }
-]

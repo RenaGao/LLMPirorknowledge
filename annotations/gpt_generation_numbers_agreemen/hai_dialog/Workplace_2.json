@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Yes, one test is very good. I think it improve speed... um, fast?",
-        "annotation_token": "it improve",
-        "rationale": "The verb 'improve' should agree in number with its subject 'it'. The correct form should be 'it improves'.",
-        "grammar_correctness": "wrong"
-    }
-]

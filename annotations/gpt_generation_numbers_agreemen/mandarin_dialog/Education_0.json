@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Thank you for help, uh, and patience.",
-        "annotation_token": "help",
-        "rationale": "The word 'help' is used as a noun here, and it is uncountable. However, it is paired with 'patience', which is also uncountable, but the sentence structure suggests a list of countable items. The sentence should use 'the help' or 'your help' to match the structure.",
-        "grammar_correctness": "wrong"
-    }
-]

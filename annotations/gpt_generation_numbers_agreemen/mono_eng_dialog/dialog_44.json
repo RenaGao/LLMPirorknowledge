@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "I like to keep the dialogue open and ensure everyone is on the same page.",
-        "annotation_token": "everyone is",
-        "rationale": "The subject 'everyone' is singular, and the verb 'is' correctly agrees with it in number.",
-        "grammar_correctness": "correct"
-    }
-]

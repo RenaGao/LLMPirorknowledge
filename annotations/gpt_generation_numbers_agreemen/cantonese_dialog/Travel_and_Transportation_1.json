@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Ah, okay. Thank you. And, um, how long it take to walk there?",
-        "annotation_token": "it take",
-        "rationale": "The subject 'it' is singular, so the verb should be 'takes' to agree in number.",
-        "grammar_correctness": "wrong"
-    }
-]

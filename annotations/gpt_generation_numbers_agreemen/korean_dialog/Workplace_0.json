@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Um, the testing phase... I am worried it take long time.",
-        "annotation_token": "take",
-        "rationale": "The verb 'take' should agree in number with the singular subject 'it', so it should be 'takes'.",
-        "grammar_correctness": "wrong"
-    }
-]

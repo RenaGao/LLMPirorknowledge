@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Noun & Verb Collocation",
-        "annotation_sentence": "I think it was the green curry. It remind... um, remind me of home.",
-        "annotation_token": "curry remind",
-        "rationale": "The noun 'curry' and the verb 'remind' form a meaningful and complete action, expressing that the curry evokes a memory of home.",
-        "grammar_correctness": true
-    }
-]

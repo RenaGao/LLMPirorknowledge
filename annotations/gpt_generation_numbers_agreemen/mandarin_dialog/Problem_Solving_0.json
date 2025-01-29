@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Yes, that is good idea. We can say \"p.m.\" or \"a.m.\" also, right?",
-        "annotation_token": "idea",
-        "rationale": "The noun 'idea' is singular and should be preceded by the article 'a' to maintain number agreement.",
-        "grammar_correctness": "wrong"
-    }
-]

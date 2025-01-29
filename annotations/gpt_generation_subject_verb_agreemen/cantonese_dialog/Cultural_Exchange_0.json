@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Subject-Verb Agreement",
-        "annotation_sentence": "The story is about a woman, Chang’e. She fly to moon after, um, drink a... special potion.",
-        "annotation_token": "She fly",
-        "rationale": "The subject 'She' does not agree with the verb 'fly'. The correct form should be 'flies' to match the third person singular subject.",
-        "grammar_correctness": "wrong"
-    }
-]

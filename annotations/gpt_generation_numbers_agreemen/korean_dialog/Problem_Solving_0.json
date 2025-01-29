@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "I know we all busy.",
-        "annotation_token": "we all busy",
-        "rationale": "The sentence 'I know we all busy.' lacks agreement in number between the subject 'we' and the verb phrase. The correct form should be 'we are all busy' to maintain subject-verb agreement.",
-        "grammar_correctness": "wrong"
-    }
-]

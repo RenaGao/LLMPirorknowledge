@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Ah, yes! I want to go there. They have good cake, I hear.",
-        "annotation_token": "cake",
-        "rationale": "The word 'cake' is used in a context where it should be plural to match the implied meaning of multiple cakes being available, as 'they have good cakes' would be more appropriate.",
-        "grammar_correctness": "wrong"
-    }
-]

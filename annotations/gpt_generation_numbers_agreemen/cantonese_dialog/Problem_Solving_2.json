@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Yes, team is important.",
-        "annotation_token": "team",
-        "rationale": "The noun 'team' is singular, but it is often used to refer to a group of people, which can lead to confusion in number agreement. In this context, 'team' is correctly used as a singular noun.",
-        "grammar_correctness": "correct"
-    }
-]

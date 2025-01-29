@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "I have most of them ready, but I'm unsure about the recommendation letters. How many do I need?",
-        "annotation_token": "letters",
-        "rationale": "The noun 'letters' is plural, which requires a plural form of the verb or quantifier. The question 'How many do I need?' correctly uses 'many' to refer to a plural noun.",
-        "grammar_correctness": "correct"
-    }
-]

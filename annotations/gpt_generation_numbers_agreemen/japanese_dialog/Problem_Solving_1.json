@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "I try many time, but paper, uh, not come out.",
-        "annotation_token": "time",
-        "rationale": "The noun 'time' should be in plural form 'times' to agree with the quantifier 'many'.",
-        "grammar_correctness": "wrong"
-    }
-]

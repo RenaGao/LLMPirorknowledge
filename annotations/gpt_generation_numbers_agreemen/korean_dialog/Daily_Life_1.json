@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Uh, my family is five person. Maybe my cousin come, too.",
-        "annotation_token": "person",
-        "rationale": "The noun 'person' should be in plural form 'people' to agree with the number 'five'.",
-        "grammar_correctness": "wrong"
-    }
-]

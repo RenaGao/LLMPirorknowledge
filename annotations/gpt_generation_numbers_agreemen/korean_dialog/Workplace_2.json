@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Yes, I make account yesterday.",
-        "annotation_token": "account",
-        "rationale": "The noun 'account' should be plural to agree with the implied context of creating multiple accounts, or the verb should be adjusted to indicate a singular account was made.",
-        "grammar_correctness": "wrong"
-    }
-]

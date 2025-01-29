@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Wow, there are a lot of things running.",
-        "annotation_token": "are",
-        "rationale": "The verb 'are' correctly agrees in number with the plural noun 'things'.",
-        "grammar_correctness": "correct"
-    }
-]

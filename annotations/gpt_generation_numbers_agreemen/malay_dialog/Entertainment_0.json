@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "I also like comedy. Um, like \"Friends\". It make me laugh a lot.",
-        "annotation_token": "It make",
-        "rationale": "The subject 'It' is singular, so the verb should be 'makes' to agree in number.",
-        "grammar_correctness": "wrong"
-    }
-]

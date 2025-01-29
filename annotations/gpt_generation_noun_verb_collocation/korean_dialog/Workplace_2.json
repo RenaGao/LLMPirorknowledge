@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Noun & Verb Collocation",
-        "annotation_sentence": "Yes, I make account yesterday.",
-        "annotation_token": "make account",
-        "rationale": "The noun 'account' and the verb 'make' form a collocation that expresses a complete action.",
-        "grammar_correctness": true
-    }
-]

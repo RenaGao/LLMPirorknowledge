@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Not really. I sleep late. Uh, I watch too many series at night.",
-        "annotation_token": "series",
-        "rationale": "The word 'series' is used correctly as it is both singular and plural in English, but the context suggests multiple series are being watched.",
-        "grammar_correctness": "correct"
-    }
-]

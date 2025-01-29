@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Ah, yes. I think spicy food make it worse. Also, fried food.",
-        "annotation_token": "make",
-        "rationale": "The subject 'spicy food' is singular, so the verb should be 'makes' to agree in number.",
-        "grammar_correctness": "wrong"
-    }
-]

@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Yes, yes, I can do that. Add more... um, salad and fruits.",
-        "annotation_token": "fruits",
-        "rationale": "The word 'fruits' is used in the plural form, which is correct when referring to multiple types or pieces of fruit.",
-        "grammar_correctness": "correct"
-    }
-]

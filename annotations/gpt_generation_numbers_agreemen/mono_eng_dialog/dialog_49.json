@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "I think it's important to listen to everyone's viewpoints and find a compromise that works for all.",
-        "annotation_token": "viewpoints",
-        "rationale": "The word 'viewpoints' is a plural noun, and it correctly agrees with the possessive pronoun 'everyone's', which is singular but refers to multiple individuals' perspectives.",
-        "grammar_correctness": "correct"
-    }
-]

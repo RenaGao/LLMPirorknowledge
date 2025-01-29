@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "I have side a is 3 and side b is 4.",
-        "annotation_token": "side a is 3 and side b is 4",
-        "rationale": "The sentence 'I have side a is 3 and side b is 4.' lacks number agreement. The correct form should be 'I have sides a and b, where a is 3 and b is 4.' to ensure agreement in number.",
-        "grammar_correctness": "wrong"
-    }
-]

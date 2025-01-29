@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Yes, yes, return. I buy last week but... it no fit.",
-        "annotation_token": "it no fit",
-        "rationale": "The subject 'it' is singular, but the verb 'fit' should be 'fits' to agree in number with the singular subject.",
-        "grammar_correctness": "wrong"
-    }
-]

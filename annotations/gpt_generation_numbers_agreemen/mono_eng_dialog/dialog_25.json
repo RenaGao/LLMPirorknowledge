@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "One last thing—do users need to have an account to access these features?",
-        "annotation_token": "features",
-        "rationale": "The word 'features' is a plural noun and correctly agrees with the plural verb 'do' and the plural pronoun 'these'.",
-        "grammar_correctness": "correct"
-    }
-]

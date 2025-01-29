@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "I understand. So I go straight, two blocks...",
-        "annotation_token": "blocks",
-        "rationale": "The word 'blocks' is correctly used in plural form to indicate more than one block, which aligns with the context of giving directions.",
-        "grammar_correctness": "correct"
-    }
-]

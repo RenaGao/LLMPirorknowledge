@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "He say okay, can give... bigger discount, but only if I buy three items.",
-        "annotation_token": "items",
-        "rationale": "The word 'items' is plural, which correctly agrees with the number 'three'.",
-        "grammar_correctness": "correct"
-    }
-]

@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Roots... ah, solutions! So, if I find, um, two numbers, it is done?",
-        "annotation_token": "numbers",
-        "rationale": "The speaker uses 'numbers' to refer to multiple solutions, which is correct in terms of number agreement as it matches the plural form 'two'.",
-        "grammar_correctness": "correct"
-    }
-]

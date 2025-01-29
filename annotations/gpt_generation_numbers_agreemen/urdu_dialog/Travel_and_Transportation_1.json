@@ -1,9 +1,0 @@
-[
-    {
-        "type": "Numbers agreement",
-        "annotation_sentence": "Okay, straight and then left. Is it, uh... how many minute walk?",
-        "annotation_token": "minute",
-        "rationale": "The word 'minute' should be in plural form 'minutes' to agree with the plural quantifier 'how many'.",
-        "grammar_correctness": "wrong"
-    }
-]
