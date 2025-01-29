@@ -1,0 +1,19 @@
+**Speaker A (NS):** Hi, welcome to the team! I’m Sarah. How’s your first day going?  
+**Speaker B (L2, Cantonese):** Ah, hello Sarah! My name is Alex. First day is... um, good but a bit nervous.  
+**Speaker A (NS):** Don’t worry, everyone feels that way at first. Let me show you how to use the task management system.  
+**Speaker B (L2, Cantonese):** Yes, please. I not familiar with this system. Is it... um, difficult to learn?  
+**Speaker A (NS):** Not at all. I’ll walk you through it step by step. First, you log in here with your email and password.  
+**Speaker B (L2, Cantonese):** Okay, I understand. Log in with email and password. After that, what should I do?  
+**Speaker A (NS):** Once you’re in, you’ll see a list of projects. Click on the one assigned to you, and it will show your tasks.  
+**Speaker B (L2, Cantonese):** Ah, I see. So I click project, then see task. How to... um... how to mark task as finish?  
+**Speaker A (NS):** Good question! Just click the checkbox next to the task, and it will mark it as complete.  
+**Speaker B (L2, Cantonese):** Oh, very simple. And if I have question about task, who I... um... who I ask for help?  
+**Speaker A (NS):** You can ask me or anyone on the team. We’re all happy to help.  
+**Speaker B (L2, Cantonese):** That is very kind. Thank you, Sarah. I think I can... um... do it now.  
+**Speaker A (NS):** You’re welcome! If you need more help, just let me know. How does the process look to you so far?  
+**Speaker B (L2, Cantonese):** It looks... um, clear. I will try it later.  
+**Speaker A (NS):** Great! Let me know how it goes. We’re glad to have you on the team.  
+**Speaker B (L2, Cantonese):** Thank you, Sarah. I am glad to be here too. See you later!  
+**Speaker A (NS):** See you later, Alex! Have a great day!  
+**Speaker B (L2, Cantonese):** You too, Sarah. Goodbye!  
+**Speaker A (NS):** Goodbye!
