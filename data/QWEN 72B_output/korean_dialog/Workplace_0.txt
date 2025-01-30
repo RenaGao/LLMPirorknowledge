@@ -1,0 +1,43 @@
+**Speaker A (NS):** Hi Jisoo, thanks for joining this meeting. How are you today?
+
+**Speaker B (L2, Korean):** Ah, hello. I am good, thank you. How you are?
+
+**Speaker A (NS):** I'm doing well, thanks. So, we need to discuss the upcoming project deadline. Can you tell me where we are with the project right now?
+
+**Speaker B (L2, Korean):** Um, we, how to say... we are in final stage. We finish most of work, but still some... some thing left to do.
+
+**Speaker A (NS):** Okay, can you be a bit more specific? What parts are still pending?
+
+**Speaker B (L2, Korean):** Yes, um, the testing part. We need more time to test everything, make sure no bug.
+
+**Speaker A (NS):** I see. When do you think you'll be able to complete the testing?
+
+**Speaker B (L2, Korean):** Um, I think... we can finish testing by next Friday, but it depend on how many bug we find.
+
+**Speaker A (NS):** That sounds reasonable. Can you give me a rough estimate of the total number of tasks left?
+
+**Speaker B (L2, Korean):** Yes, we have about five major tasks. And some small tasks, maybe ten.
+
+**Speaker A (NS):** Got it. Let's make sure we stay on track. Can you set up a daily check-in to update me on the progress?
+
+**Speaker B (L2, Korean):** Yes, I can do that. We will check every day and tell you what we do.
+
+**Speaker A (NS):** Great, that will help me keep an eye on everything. And if you run into any issues, please let me know immediately.
+
+**Speaker B (L2, Korean):** Of course. I will let you know right away if we have problem.
+
+**Speaker A (NS):** Perfect. Let's also plan a team meeting for the end of the week to go over the final details.
+
+**Speaker B (L2, Korean):** Yes, good idea. Team meeting on Friday, um, how about three o'clock?
+
+**Speaker A (NS):** Three o'clock works. I'll send out a calendar invite. Is there anything else we need to discuss?
+
+**Speaker B (L2, Korean):** No, I think we cover everything. Thank you for meeting with me.
+
+**Speaker A (NS):** You're welcome, Jisoo. Thanks for the update. Let's stay in touch and make sure we hit that deadline.
+
+**Speaker B (L2, Korean):** Yes, we will. See you on Friday.
+
+**Speaker A (NS):** See you then. Have a good day!
+
+**Speaker B (L2, Korean):** You too. Bye!

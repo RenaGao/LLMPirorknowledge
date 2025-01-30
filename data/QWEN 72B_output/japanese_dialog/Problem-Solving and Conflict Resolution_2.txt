@@ -1,0 +1,39 @@
+**Speaker A (NS):** Hi, Sora! How's it going today?
+
+**Speaker B (L2, Japanese):** Hi, Sora here. I am good, thank you. How you are?
+
+**Speaker A (NS):** I'm doing well, thanks! We need to talk about the project deadline. It's coming up soon, and I think we need to plan some steps to address it.
+
+**Speaker B (L2, Japanese):** Yes, I agree. Project is important. How we should start?
+
+**Speaker A (NS):** Let's start by breaking down the tasks we need to complete. Can you think of any specific things we need to do?
+
+**Speaker B (L2, Japanese):** Um... we need to... um, finish report and... and... data analysis.
+
+**Speaker A (NS):** Right, finishing the report and data analysis are key. What about the presentation? We need to prepare for that as well.
+
+**Speaker B (L2, Japanese):** Yes, presentation too. Maybe we can... um, how to say... divide work?
+
+**Speaker A (NS):** That’s a good idea. I can handle the report, and you can focus on the data analysis. Then, we can work on the presentation together.
+
+**Speaker B (L2, Japanese):** That sound good. I will work on data analysis. When we meet to check progress?
+
+**Speaker A (NS):** Let's meet every week to check our progress. How about Friday afternoons?
+
+**Speaker B (L2, Japanese):** Friday afternoon is fine. But, um, maybe we can also send email every day for update?
+
+**Speaker A (NS):** Sure, daily updates via email will help us stay on track. That’s a great idea.
+
+**Speaker B (L2, Japanese):** Good. And, um, if we have problem, we can talk and find solution?
+
+**Speaker A (NS):** Absolutely, communication is key. If we run into any issues, we should discuss them right away.
+
+**Speaker B (L2, Japanese):** Yes, I understand. Thank you for plan.
+
+**Speaker A (NS):** No problem, Sora. It’s a team effort. Let’s do our best.
+
+**Speaker B (L2, Japanese):** Yes, we do our best. Thank you. See you Friday!
+
+**Speaker A (NS):** See you Friday! Have a good day, Sora!
+
+**Speaker B (L2, Japanese):** You too! Bye!

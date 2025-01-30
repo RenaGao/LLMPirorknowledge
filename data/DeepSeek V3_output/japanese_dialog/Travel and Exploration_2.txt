@@ -1,0 +1,23 @@
+**Speaker A (NS):** Hi there! Can I help you with something? You look a bit lost.  
+**Speaker B (L2, Japanese):** Ah, yes. Excuse me, I search for... um... how to say... Kyoto Tower? Is it near here?  
+**Speaker A (NS):** Oh, Kyoto Tower! Yes, it’s not far. Are you walking?  
+**Speaker B (L2, Japanese):** Yes, I walk. But I not know the way. Can you tell me?  
+**Speaker A (NS):** Sure! Go straight down this street for about 10 minutes. You’ll see a big station. The tower is next to it.  
+**Speaker B (L2, Japanese):** Ah, I see. So, go straight... and station is... um... place with trains?  
+**Speaker A (NS):** Exactly! Kyoto Station. You can’t miss it.  
+**Speaker B (L2, Japanese):** Thank you! And, um... is there something famous to see near tower?  
+**Speaker A (NS):** Yes, there’s a shopping mall and a nice observation deck at the tower. You can see the whole city from there!  
+**Speaker B (L2, Japanese):** Wow, sounds fun! I go there first. Thank you very much for help.  
+**Speaker A (NS):** You’re welcome! Let me know if you need more help.  
+**Speaker B (L2, Japanese):** Yes, I will. And, uh... can I ask one more? Is there restaurant nearby?  
+**Speaker A (NS):** Yes, there are plenty. What kind of food do you like?  
+**Speaker B (L2, Japanese):** I want try Kyoto food. Something local.  
+**Speaker A (NS):** There’s a great place near the tower called “Nishiki Warai.” They serve Kyoto-style sushi.  
+**Speaker B (L2, Japanese):** Kyoto-style sushi? Like... different from Tokyo sushi?  
+**Speaker A (NS):** Yes, it’s a bit sweeter and uses local ingredients. You should try it!  
+**Speaker B (L2, Japanese):** Okay, I try it! Thank you so much for help. You are very kind.  
+**Speaker A (NS):** No problem at all! Enjoy Kyoto Tower and the food.  
+**Speaker B (L2, Japanese):** Yes, I will! Goodbye, and thank you again!  
+**Speaker A (NS):** Goodbye! Have a great day!  
+
+**End of conversation.**

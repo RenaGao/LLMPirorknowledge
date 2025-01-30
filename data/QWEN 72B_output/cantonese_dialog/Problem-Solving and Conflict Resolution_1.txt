@@ -1,0 +1,45 @@
+**Speaker A (NS):** Hi, Wing, thanks for calling. How can I assist you today?
+
+**Speaker B (L2, Cantonese):** Hello, um, I have problem with my internet. It no work.
+
+**Speaker A (NS):** I see. Can you describe the issue in more detail?
+
+**Speaker B (L2, Cantonese):** Yes, when I try to connect, it show error message. And, um, no web page can load.
+
+**Speaker A (NS):** Okay, let’s try to troubleshoot this. First, have you checked if your router is on and all the cables are properly connected?
+
+**Speaker B (L2, Cantonese):** Yes, I check already. Everything look fine.
+
+**Speaker A (NS):** Great. Let’s try restarting your router. Can you unplug it for about 30 seconds and plug it back in?
+
+**Speaker B (L2, Cantonese):** Okay, I try. (Pause) It still not work after restart.
+
+**Speaker A (NS):** Alright, let’s move on to the next step. Can you open your command prompt and type ‘ipconfig’ to see if you have an IP address?
+
+**Speaker B (L2, Cantonese):** Um, how to open command prompt?
+
+**Speaker A (NS):** Sure, on your computer, press the Windows key and R together, then type ‘cmd’ and press Enter.
+
+**Speaker B (L2, Cantonese):** Okay, I do that. (Pause) It show some number, is this IP address?
+
+**Speaker A (NS):** Yes, that’s right. It looks like your computer is getting an IP address. Let’s try pinging a website to see if you can reach the internet. Type ‘ping www.google.com’ and press Enter.
+
+**Speaker B (L2, Cantonese):** Okay, I type that. (Pause) It say, um, ‘request timed out.’
+
+**Speaker A (NS):** Got it. This suggests there might be an issue with your DNS settings. Let’s try flushing your DNS cache. Type ‘ipconfig /flushdns’ and press Enter.
+
+**Speaker B (L2, Cantonese):** Okay, I try. (Pause) It say ‘successfully flushed DNS cache.’
+
+**Speaker A (NS):** Good. Now, try going to a website and see if it loads.
+
+**Speaker B (L2, Cantonese):** I try. (Pause) It work! Web page load now.
+
+**Speaker A (NS):** Excellent! That’s great news. Is everything else working as expected?
+
+**Speaker B (L2, Cantonese):** Yes, all good now. Thank you so much for help!
+
+**Speaker A (NS):** You’re welcome, Wing. If you have any more issues, don’t hesitate to call us. Have a great day!
+
+**Speaker B (L2, Cantonese):** Thank you, you too. Goodbye!
+
+**Speaker A (NS):** Goodbye, Wing!

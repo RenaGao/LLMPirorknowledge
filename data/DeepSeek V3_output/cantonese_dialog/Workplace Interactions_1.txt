@@ -1,0 +1,25 @@
+ 
+**Speaker A (NS):** Hi, nice to meet you! I’m Sara. I’ll be showing you how to use the new project management tool.  
+**Speaker B (L2, Cantonese):** Ah, hello Sara. I’m Ken. Thank you for teach me. Um, I want to know how it works.  
+**Speaker A (NS):** No problem. First, you’ll need to log in using your company email. Do you know how to do that?  
+**Speaker B (L2, Cantonese):** Yes, I think so. I have my email and password... but sometimes, I forget password.  
+**Speaker A (NS):** That’s okay. If you forget, you can click “Forgot Password” and reset it. Try logging in now.  
+**Speaker B (L2, Cantonese):** Okay. I try... um, it’s working. Now, what I should do next?  
+**Speaker A (NS):** Great! Next, you’ll see the dashboard. That’s where all your projects and tasks are listed.  
+**Speaker B (L2, Cantonese):** Dashboard... is it like main page?  
+**Speaker A (NS):** Exactly! It’s the main page where you can see everything. Click on one of the projects to open it.  
+**Speaker B (L2, Cantonese):** I see. I click... ah, now I see the tasks inside. How to add new task?  
+**Speaker A (NS):** Good question. Click the “Add Task” button at the top. Then, fill in the details like the task name and deadline.  
+**Speaker B (L2, Cantonese):** Oh, I try... um, how to say... it’s easy?  
+**Speaker A (NS):** Yes, it’s pretty straightforward. Once you’re done, click “Save,” and it’ll appear in the list.  
+**Speaker B (L2, Cantonese):** Okay, I save it. What next?  
+**Speaker A (NS):** If you want to assign the task to someone, click on it and select “Assign.” Then, choose the person from the list.  
+**Speaker B (L2, Cantonese):** Assign... yes, I try. I choose my colleague, John. Is it correct?  
+**Speaker A (NS):** Perfect! Now John will get a notification about the task. Any questions so far?  
+**Speaker B (L2, Cantonese):** Um... yes. How to check if task is done?  
+**Speaker A (NS):** Good question. When the task is completed, you can mark it as “Done” by clicking the checkbox next to it.  
+**Speaker B (L2, Cantonese):** Ah, I understand. Thank you, Sara. This tool is very helpful.  
+**Speaker A (NS):** You’re welcome! If you have any more questions, feel free to ask.  
+**Speaker B (L2, Cantonese):** Okay, I will. Thank you again, Sara. See you later!  
+**Speaker A (NS):** See you, Ken! Have a great day!  
+**Speaker B (L2, Cantonese):** You too! Goodbye!

@@ -1,0 +1,45 @@
+**Speaker A (NS):** Hi there! How can I assist you today?
+
+**Speaker B (L2, Korean):** Hello. I want to return this thing... um, this product. It is... uh, not working properly.
+
+**Speaker A (NS):** Sure, I can help with that. Can you tell me what the issue is with the product?
+
+**Speaker B (L2, Korean):** Um, it not turn on. I plug it in, but nothing happen.
+
+**Speaker A (NS):** I see. Let me check it out for you. Can you also show me the receipt, please?
+
+**Speaker B (L2, Korean):** Yes, sure. Here is the receipt. It from last week.
+
+**Speaker A (NS):** Thank you. According to our return policy, we can accept returns within 30 days of purchase. It looks like you’re within that timeframe.
+
+**Speaker B (L2, Korean):** Good. But, um... I want to ask, can I get money back or... how to say... exchange for different product?
+
+**Speaker A (NS):** Absolutely, you can choose either a refund or an exchange. Which would you prefer?
+
+**Speaker B (L2, Korean):** I think exchange. I want different model, better one.
+
+**Speaker A (NS):** That works. Do you have a specific model in mind, or would you like some recommendations?
+
+**Speaker B (L2, Korean):** Um, I see... how to say... in the store, there is better one. Can you show me?
+
+**Speaker A (NS):** Of course! Let’s take a look at what we have available. Follow me to the electronics section.
+
+**Speaker B (L2, Korean):** Thank you. I appreciate it.
+
+**Speaker A (NS):** No problem at all. Here’s a newer model that has better reviews. Would you like to try this one?
+
+**Speaker B (L2, Korean):** Yes, I think this one looks good. How much is it?
+
+**Speaker A (NS):** This model is $150. Since you’re exchanging, we’ll apply the cost of your original purchase to the new one.
+
+**Speaker B (L2, Korean):** Okay, that is fine. I want this one.
+
+**Speaker A (NS):** Great choice! I’ll process the exchange for you right away.
+
+**Speaker B (L2, Korean):** Thank you very much. It is very helpful.
+
+**Speaker A (NS):** You’re welcome! If you need any more assistance, feel free to ask. Have a great day!
+
+**Speaker B (L2, Korean):** Yes, thank you. Goodbye.
+
+**Speaker A (NS):** Goodbye! Take care.

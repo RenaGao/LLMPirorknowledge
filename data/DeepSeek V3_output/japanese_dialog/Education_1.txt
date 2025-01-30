@@ -1,0 +1,44 @@
+**Speaker A (NS):** Hi, Sora! I heard you’re studying for the math test. How’s it going?  
+
+**Speaker B (L2, Japanese):** Ah, hello! Yes, I study math now. But... um, I have problem with... how to say... this part. It is about... um, function.  
+
+**Speaker A (NS):** Oh, functions? Like quadratic functions?  
+
+**Speaker B (L2, Japanese):** Yes, quadratic! I understand... um, basic part. But when it is more complex, I feel... how to say... confused.  
+
+**Speaker A (NS):** I see. So, is it the graphing part or solving equations that’s tricky?  
+
+**Speaker B (L2, Japanese):** Ah, graphing is okay. But solving... um, equation when it has... uh, more than one variable. It is difficult.  
+
+**Speaker A (NS):** Oh, you mean systems of equations? Like when you have multiple equations with two variables?  
+
+**Speaker B (L2, Japanese):** Yes, yes! System of equation. I can’t find... um, the way to solve it fast.  
+
+**Speaker A (NS):** Got it. One method is substitution. You solve one equation for one variable and put it into the other. Would you like me to explain?  
+
+**Speaker B (L2, Japanese):** Ah, yes, please! I try to understand, but... um, it is not clear in my head.  
+
+**Speaker A (NS):** Sure! Let’s take an example. Say you have:  
+1) x + y = 5  
+2) 2x - y = 1  
+First, solve equation 1 for y: y = 5 - x. Then, put that into equation 2. Does that make sense?  
+
+**Speaker B (L2, Japanese):** Ah, I see! So, we put y = 5 - x into number 2 equation. Then, we can find x, right?  
+
+**Speaker A (NS):** Exactly! And once you have x, you can find y. Try it out and let me know if you get stuck.  
+
+**Speaker B (L2, Japanese):** I will try! Thank you so much. This is... um, more clear now.  
+
+**Speaker A (NS):** No problem! Also, there’s another method called elimination. You can try that too if substitution feels tricky.  
+
+**Speaker B (L2, Japanese):** Elimination? Ah, yes, I read about it. But I think I need more practice.  
+
+**Speaker A (NS):** Practice is key! If you want, we can work on some problems together next time.  
+
+**Speaker B (L2, Japanese):** That is very kind! I would like it very much.  
+
+**Speaker A (NS):** Great! Let’s plan for it. Good luck with your studying for now.  
+
+**Speaker B (L2, Japanese):** Yes, thank you! I will try my best. See you next time!  
+
+**Speaker A (NS):** See you, Sora! You’ve got this.

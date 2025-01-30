@@ -1,0 +1,17 @@
+**Speaker A (NS):** Hi, Minji! Thanks for coming to help with the new project. Are you familiar with the task we’re working on?
+**Speaker B (Korean):** Ah, yes. I think... I hear about it, but I not yet fully understand. Can you explain again, please?
+**Speaker A (NS):** Sure! We’re creating a new database for our client to track their inventory. The first step is to gather all the product details and input them into the system. Does that make sense?
+**Speaker B (Korean):** Hmm, I think so. So, we must... collect information about all product, and then put it in the program?
+**Speaker A (NS):** Exactly! We’ll use Excel to organize the data and then import it into the database. Do you know how to work with Excel?
+**Speaker B (Korean):** Yes, a little. I use Excel before, but maybe not very... expert. I can try my best.
+**Speaker A (NS):** That’s great. There’s also a specific format we need to follow for the data. For example, the product name goes in the first column, and the price in the second. Each row represents one product.
+**Speaker B (Korean):** Ah, I see. So, product name first, then price. Is there any other... information we need to include?
+**Speaker A (NS):** Yes, we’ll also need the product category and the quantity. Those go in the third and fourth columns. I’ll send you a sample file so you can see it clearly.
+**Speaker B (Korean):** That will be helpful. Thank you. When is the... deadline for this task?
+**Speaker A (NS):** We’ll need to finish it by Friday. Does that give you enough time?
+**Speaker B (Korean):** Hmm, I think so. I will work hard to finish on time. If I have... question, can I ask you?
+**Speaker A (NS):** Of course! Feel free to message me anytime. We’re a team, so don’t hesitate to reach out.
+**Speaker B (Korean):** Okay, thank you. I will start work now and let you know progress.
+**Speaker A (NS):** Sounds good. Let’s check in tomorrow to see how it’s going. Good luck, Minji!
+**Speaker B (Korean):** Thank you! I will do my best. See you tomorrow.
+**Speaker A (NS):** See you!

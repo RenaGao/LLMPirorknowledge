@@ -1,0 +1,37 @@
+**Speaker A (Native Speaker, NS):** Hi Xiao Li, thanks for coming in today. I wanted to go over the process for setting up a new project on our platform. Do you have a few minutes to go through it?
+
+**Speaker B (Second-Language Speaker, Mandarin):** Sure, thank you. I have time. Can you tell me, um, how to start a new project?
+
+**Speaker A:** Of course! The first step is to log in to our project management system. Have you used it before?
+
+**Speaker B:** Ah, yes, I used it a little. But I forget some... how to say... some parts.
+
+**Speaker A:** No problem. Once you log in, you’ll see the dashboard. From there, you need to click on the “New Project” button. It’s usually at the top.
+
+**Speaker B:** Oh, I see. Then what I do?
+
+**Speaker A:** After you click “New Project,” you’ll need to fill in the project details. This includes the project name, start and end dates, and a brief description.
+
+**Speaker B:** Okay, I got it. And then?
+
+**Speaker A:** Next, you’ll need to add team members. You can do this by clicking on the “Add Team Members” button. You can search for their names or email addresses.
+
+**Speaker B:** I understand. And what about, um, the tasks?
+
+**Speaker A:** Good question. After adding team members, you can start creating tasks. Each task should have a clear description, a deadline, and an assigned team member.
+
+**Speaker B:** Yes, I see. So, I create task, and then assign to team member?
+
+**Speaker A:** Exactly! And don’t forget to set priorities for each task. This helps everyone know which tasks are the most important.
+
+**Speaker B:** Got it. And, um, how to check progress?
+
+**Speaker A:** You can check the progress by going to the “Project Overview” tab. It will show you the status of each task and how much has been completed.
+
+**Speaker B:** Okay, I will try it. Thank you for explaining.
+
+**Speaker A:** You’re welcome! If you have any questions or run into any issues, feel free to reach out to me or any other team member.
+
+**Speaker B:** Sure, I will. Thanks again. Have a good day!
+
+**Speaker A:** You too, Xiao Li. See you around!

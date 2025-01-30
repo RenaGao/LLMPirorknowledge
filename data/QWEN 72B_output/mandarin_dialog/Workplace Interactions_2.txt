@@ -1,0 +1,35 @@
+**Speaker A (Native Speaker, NS):** Hi, Xiao Li! How are you doing today?
+
+**Speaker B (Second-Language Speaker, Mandarin):** Hi! I am good, thank you. How about you?
+
+**Speaker A:** I'm doing well, thanks! I wanted to talk about our team meeting this week. What do you think about scheduling it for tomorrow afternoon?
+
+**Speaker B:** Tomorrow afternoon? Um, that sounds good. What time?
+
+**Speaker A:** How about 3 p.m.?
+
+**Speaker B:** Three p.m. Okay, I can do that. What we need to discuss?
+
+**Speaker A:** Well, we need to go over the project timeline, review everyone's progress, and plan the next steps. Do you have any other topics you want to add to the agenda?
+
+**Speaker B:** Um, yes. I think... we should talk about the budget. And maybe... how to say... resource allocation?
+
+**Speaker A:** Good point! We should definitely cover the budget and resource allocation. Anything else?
+
+**Speaker B:** No, I think that is all. Um, how long the meeting will be?
+
+**Speaker A:** Let's plan for about an hour. That should give us enough time to cover everything.
+
+**Speaker B:** One hour, okay. I will prepare some notes. Where is the meeting?
+
+**Speaker A:** Let's have it in the conference room on the second floor. Is that convenient for you?
+
+**Speaker B:** Yes, conference room is fine. I will be there on time.
+
+**Speaker A:** Great! Thanks, Xiao Li. I'll send out the agenda and reminders to everyone.
+
+**Speaker B:** Thank you. I look forward to it. See you tomorrow.
+
+**Speaker A:** See you tomorrow! Have a good day!
+
+**Speaker B:** You too! Bye!

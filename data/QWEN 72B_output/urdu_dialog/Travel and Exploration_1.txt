@@ -1,0 +1,49 @@
+**Speaker A (NS):** Hi, it's great to meet you! What's your name?
+
+**Speaker B (L2, Urdu):** Hi, my name is Bilal. Nice to meet you.
+
+**Speaker A (NS):** Nice to meet you, Bilal. Can you tell me about your favorite place to visit?
+
+**Speaker B (L2, Urdu):** Um, my favorite place to visit is... how to say... the new library in my city.
+
+**Speaker A (NS):** Oh, that sounds interesting! What do you like about it?
+
+**Speaker B (L2, Urdu):** The environment there is very good. It is very quiet, and I can study a lot.
+
+**Speaker A (NS):** That’s great. What kind of books do you usually read there?
+
+**Speaker B (L2, Urdu):** I usually read history books. And sometimes, I read storybooks.
+
+**Speaker A (NS):** History books and storybooks sound really interesting. Do you have a favorite book you’ve read there?
+
+**Speaker B (L2, Urdu):** Yes, I read a book about the Mughal Empire. It was very interesting.
+
+**Speaker A (NS):** The Mughal Empire! That’s a fascinating topic. What did you learn from it?
+
+**Speaker B (L2, Urdu):** I learn about the emperors, their architecture, and their culture. It is very rich history.
+
+**Speaker A (NS):** That sounds wonderful. Do you go to the library often?
+
+**Speaker B (L2, Urdu):** Yes, I try to go every week. It helps me to focus on my studies.
+
+**Speaker A (NS):** That’s a good habit. Do you have any study goals you’re working on?
+
+**Speaker B (L2, Urdu):** Yes, I want to improve my English. And also, I want to read more books on Urdu poetry.
+
+**Speaker A (NS):** Reading Urdu poetry is a great goal. Who is your favorite Urdu poet?
+
+**Speaker B (L2, Urdu):** My favorite poet is Allama Iqbal. His poetry is very deep and meaningful.
+
+**Speaker A (NS):** Allama Iqbal is indeed a great choice. What do you enjoy most about his poetry?
+
+**Speaker B (L2, Urdu):** I enjoy the way he talks about freedom and the spirit of the people. It is very inspiring.
+
+**Speaker A (NS):** That’s really inspiring. It’s always good to have goals and places that help you achieve them. Thanks for sharing, Bilal.
+
+**Speaker B (L2, Urdu):** Thank you. It was nice talking to you.
+
+**Speaker A (NS):** It was nice talking to you too. Let’s stay in touch and maybe visit the library together sometime.
+
+**Speaker B (L2, Urdu):** Yes, that would be great. Goodbye!
+
+**Speaker A (NS):** Goodbye, Bilal. Take care!

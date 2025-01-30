@@ -1,0 +1,51 @@
+**Speaker A (NS):** Hi there! My name is Alex. It's nice to meet you. What's your name?
+
+**Speaker B (L2, Urdu):** Hi, my name is Bilal. Nice to meet you, Alex. How you doing?
+
+**Speaker A (NS):** I'm doing well, thank you. Where are you from, Bilal?
+
+**Speaker B (L2, Urdu):** I am from Pakistan. I live in Karachi. How about you?
+
+**Speaker A (NS):** I'm from here in the States. So, what brings you to this area?
+
+**Speaker B (L2, Urdu):** I am studying... um, business management in a university here. I like the program very much.
+
+**Speaker A (NS):** That's great! What do you like about it?
+
+**Speaker B (L2, Urdu):** The professors are very nice, and the courses are interesting. I learn a lot. What about you? What do you do?
+
+**Speaker A (NS):** I work at a tech company. I'm a software developer. It's a challenging but rewarding job.
+
+**Speaker B (L2, Urdu):** Oh, that is cool. I like technology too. Do you work on apps?
+
+**Speaker A (NS):** Yes, I do. I mostly work on mobile apps and web applications. What kind of apps do you use a lot?
+
+**Speaker B (L2, Urdu):** I use social media a lot, and also some educational apps for my studies. Do you like reading?
+
+**Speaker A (NS):** Yes, I love reading! What do you like to read?
+
+**Speaker B (L2, Urdu):** I like reading history books and Urdu poetry. I find them very interesting. What about you?
+
+**Speaker A (NS):** I enjoy reading both fiction and non-fiction. I’m currently reading a book about artificial intelligence.
+
+**Speaker B (L2, Urdu):** Oh, that sounds interesting. I have read some articles about AI, but I want to read more. Do you have any book recommendations?
+
+**Speaker A (NS):** Sure! I can recommend a few. How about "AI Superpowers" by Kai-Fu Lee? It’s a great read.
+
+**Speaker B (L2, Urdu):** Yes, I will check it out. Thank you! Do you like to go to the library?
+
+**Speaker A (NS):** Yes, I do. I find it a peaceful place to read and study. Have you visited the new library here?
+
+**Speaker B (L2, Urdu):** Yes, I went there yesterday. The environment is very good, and they have a lot of resources.
+
+**Speaker A (NS):** That’s great! I go there often. Maybe we can go together sometime and share some books.
+
+**Speaker B (L2, Urdu):** Yes, I would like that. It sounds like a good idea.
+
+**Speaker A (NS):** Perfect! How about we meet at the library next week?
+
+**Speaker B (L2, Urdu):** Yes, that works for me. Let’s meet on Wednesday at 2 PM.
+
+**Speaker A (NS):** Sounds good! I’ll see you then. Have a great day, Bilal.
+
+**Speaker B (L2, Urdu):** You too, Alex. Bye!

@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hi there! Welcome to the team. I’m Sarah. Let me explain your first task.  
+**Speaker B (L2, Japanese):** Ah, hello Sarah-san. Thank you. I am... um, Kenji. Nice to meet you.  
+
+**Speaker A (NS):** Nice to meet you too, Kenji. So, your task is to organize the monthly sales report. Have you done something like this before?  
+**Speaker B (L2, Japanese):** Yes, but... um, in my last company, the system was different. Here, I am not sure how to... how to start.  
+
+**Speaker A (NS):** No problem! I’ll guide you. First, you need to collect data from our sales team. Do you know where to find it?  
+**Speaker B (L2, Japanese):** Data... is it in the computer? Maybe in Excel?  
+
+**Speaker A (NS):** Exactly! It’s in Excel. You’ll find the file in the shared folder called “Sales Data.” Can you open that folder?  
+**Speaker B (L2, Japanese):** Yes, I see it. But, um, there are many files. Which one I should use?  
+
+**Speaker A (NS):** Good question. Look for the one named “Monthly_Sales_October.xlsx.” That’s the one for this month.  
+**Speaker B (L2, Japanese):** Ah, got it. Thank you. And then... um, what should I do with the data?  
+
+**Speaker A (NS):** You’ll need to summarize it. Make a table showing total sales and compare it to last month. Do you know how to create tables in Excel?  
+**Speaker B (L2, Japanese):** A little. I think... I can make table. But maybe I need help for compare.  
+
+**Speaker A (NS):** That’s okay. I’ll show you how to do that. First, let’s get the table ready. When you’re done, we’ll look at the comparison.  
+**Speaker B (L2, Japanese):** Okay, I will try. Thank you, Sarah-san.  
+
+**Speaker A (NS):** You’re welcome! Oh, and one more thing—please send the report to the manager by Friday. Can you do that?  
+**Speaker B (L2, Japanese):** Yes, I understand. Friday is deadline. I will finish it.  
+
+**Speaker A (NS):** Great! Let me know if you have any questions. I’m here to help.  
+**Speaker B (L2, Japanese):** Thank you. I will... um, ask if I need help.  
+
+**Speaker A (NS):** Perfect. Welcome again, Kenji. I’m sure you’ll do a great job.  
+**Speaker B (L2, Japanese):** Thank you, Sarah-san. I will do my best.  
+
+**Speaker A (NS):** Let’s meet tomorrow to check your progress. Sound good?  
+**Speaker B (L2, Japanese):** Yes, tomorrow is good. Thank you!  
+
+**Speaker A (NS):** Alright, see you then!  
+**Speaker B (L2, Japanese):** See you tomorrow!  
+
+(The conversation ends with a complete sentence and clear agreement to meet the next day.)

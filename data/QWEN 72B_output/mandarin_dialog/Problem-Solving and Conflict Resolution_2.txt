@@ -1,0 +1,37 @@
+**Speaker A (Native Speaker, NS):** Hi, Xiao Ming! How are you today?
+
+**Speaker B (Second-Language Speaker, Mandarin):** Hi, I am good, thank you. You?
+
+**Speaker A:** I’m doing well, thanks! I wanted to talk about the upcoming project deadline. Have you had a chance to look at it?
+
+**Speaker B:** Yes, I look at it. It is... how to say... it is very tight. We need work hard.
+
+**Speaker A:** Absolutely, it’s a tight timeline. I think we should brainstorm some steps to make sure we stay on track. What do you think?
+
+**Speaker B:** Good idea. We can... um... make plan. First, we divide tasks.
+
+**Speaker A:** That’s a great start. We can break down the tasks and assign them based on our strengths. What tasks do you think you’re best suited for?
+
+**Speaker B:** I can do... um... research and data collection. I am good at finding information.
+
+**Speaker A:** Perfect! I’ll handle the design and implementation. We can also set daily check-ins to make sure we’re on track. How does that sound?
+
+**Speaker B:** Sounds good. We can meet every day, talk about progress.
+
+**Speaker A:** Exactly. And we should also set some milestones to keep us motivated. For example, completing the initial research by the end of this week.
+
+**Speaker B:** Yes, that is good. We also need contingency plan, in case something goes wrong.
+
+**Speaker A:** Absolutely, having a backup plan is important. We can identify potential risks and figure out how to address them early on. What risks do you see?
+
+**Speaker B:** Um... technical issues, like software not working, or data not available. Also, team member might get sick.
+
+**Speaker A:** Those are good points. We can keep an eye on the software and have a backup data source. And for health issues, we can stay flexible and help each other out. Does that cover everything?
+
+**Speaker B:** Yes, I think so. We have clear plan now.
+
+**Speaker A:** Great! I’m confident we can meet the deadline with this plan. Thanks for brainstorming with me, Xiao Ming.
+
+**Speaker B:** No problem! I think we can do it. See you tomorrow for the first check-in.
+
+**Speaker A:** Sounds good, see you tomorrow! Have a great day!

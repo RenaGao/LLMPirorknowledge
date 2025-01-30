@@ -1,0 +1,33 @@
+**NS (Native Speaker, Teacher):** Hi Nuch! How are you today?
+
+**L2 (Second-Language Speaker, Thai):** Hi! I am good, thank you. Teacher, I have question about homework.
+
+**NS:** Of course, Nuch! What do you need help with?
+
+**L2:** Um, the math homework. I not understand this problem, number five.
+
+**NS:** Sure, let's take a look. Can you tell me what the problem is asking?
+
+**L2:** It is about... um, finding the area of a triangle. But I not sure how to start.
+
+**NS:** Okay, let’s break it down. The problem gives you the base and the height of the triangle, right?
+
+**L2:** Yes, base is 10 cm and height is 8 cm.
+
+**NS:** Great. The formula for the area of a triangle is one-half times the base times the height. So, you multiply 10 by 8, and then divide by 2.
+
+**L2:** Ah, I see. So, 10 times 8 is 80, and then 80 divided by 2 is 40.
+
+**NS:** Exactly! So the area of the triangle is 40 square centimeters. Does that make sense?
+
+**L2:** Yes, I think I understand now. But, one more thing. How to know when use this formula?
+
+**NS:** Good question! You use this formula whenever you need to find the area of a triangle and you have the base and height. It’s a standard formula.
+
+**L2:** Ah, okay. Thank you, Teacher. I will practice more.
+
+**NS:** That’s a great idea! If you have any more questions, don’t hesitate to ask.
+
+**L2:** I will. Thank you very much, Teacher. Goodbye.
+
+**NS:** You’re welcome, Nuch. Have a great day! Goodbye!

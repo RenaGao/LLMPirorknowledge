@@ -1,0 +1,49 @@
+**Speaker A (NS):** Hello! Welcome to Tech Support. My name is Alex. How can I assist you today?
+
+**Speaker B (L2, Korean):** Hello. My name is Minji. I have... um, problem with my computer.
+
+**Speaker A (NS):** I see. Could you tell me more about the issue, Minji?
+
+**Speaker B (L2, Korean):** Yes. My computer, it not work. Um, when I open, it just... show black screen.
+
+**Speaker A (NS):** I understand. Is this a desktop or a laptop computer?
+
+**Speaker B (L2, Korean):** It is laptop. Samsung.
+
+**Speaker A (NS):** Got it. Have you tried restarting your laptop? Sometimes a simple reboot can fix the issue.
+
+**Speaker B (L2, Korean):** Yes, I try. Not work.
+
+**Speaker A (NS):** Okay. Let's try a few more steps. First, can you check if the power cable is properly connected?
+
+**Speaker B (L2, Korean):** Um, how to say... it connected. Yes, it connected.
+
+**Speaker A (NS):** Great. Could you also check if the battery is charged or if the charger is working?
+
+**Speaker B (L2, Korean):** Battery... um, it low. But charger, it work.
+
+**Speaker A (NS):** Understood. Let's try plugging in the charger and give it a few minutes to see if the battery charges. Then, try turning it on again.
+
+**Speaker B (L2, Korean):** Okay, I try. (Pauses) Um, still not work.
+
+**Speaker A (NS):** I see. Let’s try another approach. Could you press the F2 key during startup to enter the BIOS settings and see if the display settings are correct?
+
+**Speaker B (L2, Korean):** Um, F2... key? Where is it?
+
+**Speaker A (NS):** It’s usually on the top row of keys. It might be labeled F2.
+
+**Speaker B (L2, Korean):** Okay, I find. (Pauses) Um, still black screen.
+
+**Speaker A (NS):** I understand. This sounds like a more serious issue. It might be a hardware problem. Have you had any recent drops or spills on the laptop?
+
+**Speaker B (L2, Korean):** No, no. Nothing like that.
+
+**Speaker A (NS):** Okay. I recommend bringing your laptop to a repair shop. They can diagnose and fix the issue more effectively.
+
+**Speaker B (L2, Korean):** Ah, I see. Thank you for your help, Alex.
+
+**Speaker A (NS):** You're welcome, Minji. If you need any further assistance, feel free to contact us again. Have a great day!
+
+**Speaker B (L2, Korean):** Thank you. Goodbye.
+
+**Speaker A (NS):** Goodbye, Minji. Take care!

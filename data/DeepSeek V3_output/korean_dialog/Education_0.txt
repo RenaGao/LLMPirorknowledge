@@ -1,0 +1,20 @@
+**Speaker A (NS):** Hey, are you ready for the exam next week?  
+**Speaker B (L2, Korean):** Ah, the exam... I think I need more study. I feel little nervous.  
+**Speaker A (NS):** Oh, I get that. Exams can be stressful. What part are you worried about?  
+**Speaker B (L2, Korean):** Um, the math problem... especially the one with, uh, how to say... the thing with shapes?  
+**Speaker A (NS):** Oh, geometry?  
+**Speaker B (L2, Korean):** Yes, geometry! It is very hard for me. I try many time, but still confused.  
+**Speaker A (NS):** Maybe we can study together? I can help explain it.  
+**Speaker B (L2, Korean):** Really? That will be great! Thank you so much. When we can meet?  
+**Speaker A (NS):** How about tomorrow after class? Around 4 p.m.?  
+**Speaker B (L2, Korean):** Yes, 4 p.m. is good for me. Where we meet?  
+**Speaker A (NS):** We can meet at the library. It’s quiet and we can focus.  
+**Speaker B (L2, Korean):** Library is good idea. I bring my... uh, note... notes and book.  
+**Speaker A (NS):** Perfect. I’ll bring my notes too. We’ll figure out those geometry problems together.  
+**Speaker B (L2, Korean):** Thank you very much. I feel little better now.  
+**Speaker A (NS):** No problem! We’ve got this. Just stay positive, okay?  
+**Speaker B (L2, Korean):** Okay! I will do my best.  
+**Speaker A (NS):** Great attitude. See you tomorrow, then!  
+**Speaker B (L2, Korean):** Yes, see you tomorrow! Thank you again.  
+
+**[Conversation ends with a complete sentence within 20 turns.]**

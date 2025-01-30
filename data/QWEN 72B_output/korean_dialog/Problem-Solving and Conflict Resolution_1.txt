@@ -1,0 +1,47 @@
+**Speaker A (NS):** Hi Jisoo, thanks for calling. I'm here to help with the issue you're having with your internet service. Can you tell me more about it?
+
+**Speaker B (L2, Korean):** Ah, hello. Yes, thank you. My internet is... um, very slow. It usually fast, but now it is very slow.
+
+**Speaker A (NS):** I see. When did you first notice the issue?
+
+**Speaker B (L2, Korean):** Um, yesterday. I try to do video call, but it keep... um, dis-connecting.
+
+**Speaker A (NS):** Okay, that sounds frustrating. Let's try a few things to fix it. First, can you check if the issue is with all devices or just one?
+
+**Speaker B (L2, Korean):** Um, I check my phone and my laptop. Both are slow. Maybe... um, all devices?
+
+**Speaker A (NS):** Got it. Have you tried restarting your router?
+
+**Speaker B (L2, Korean):** Yes, I restart it. But it not help.
+
+**Speaker A (NS):** Alright. Let's try a few more steps. Can you run a speed test for me? This will help us see if the issue is with your connection.
+
+**Speaker B (L2, Korean):** Um, how to do speed test?
+
+**Speaker A (NS):** No problem. You can go to a website like speedtest.net and click on "Go" to start the test. Can you do that for me now?
+
+**Speaker B (L2, Korean):** Okay, I will do. *pauses* It say my speed is 10 Mbps. That is... um, low?
+
+**Speaker A (NS):** That is quite low, especially if you usually get higher speeds. Let's check for any ongoing maintenance or outages in your area. Can you give me your address or zip code?
+
+**Speaker B (L2, Korean):** Sure, my zip code is 12345.
+
+**Speaker A (NS):** Thanks. Let me check that for you. *pauses* There doesn’t seem to be any ongoing maintenance or outages in your area. 
+
+**Speaker B (L2, Korean):** Okay, what next?
+
+**Speaker A (NS):** Let's try resetting your modem. This can often resolve connectivity issues. Can you find the reset button on your modem and press it for about 10 seconds?
+
+**Speaker B (L2, Korean):** Um, I find it. I press it now. *pauses* It is rebooting.
+
+**Speaker A (NS):** Great. Once it’s back up, can you run another speed test and let me know the results?
+
+**Speaker B (L2, Korean):** Okay, I will do. *pauses* It say my speed is 50 Mbps now. That is much better!
+
+**Speaker A (NS):** That’s excellent news! It looks like the reset helped. If you experience any more issues, please don’t hesitate to call us.
+
+**Speaker B (L2, Korean):** Thank you so much. I feel much better now.
+
+**Speaker A (NS):** You’re welcome, Jisoo. Have a great day! Goodbye!
+
+**Speaker B (L2, Korean):** Goodbye! Thank you!

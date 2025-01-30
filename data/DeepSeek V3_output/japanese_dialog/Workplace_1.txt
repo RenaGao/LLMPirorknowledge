@@ -1,0 +1,27 @@
+**Speaker A (NS):** Hi, welcome! Please take a seat. Can you start by telling me a little about yourself?  
+**Speaker B (L2, Japanese):** Ah, yes. My name is Hiroshi. I from Osaka. I have work for... um, five years in IT company.  
+**Speaker A (NS):** That’s great! What kind of work did you do there?  
+**Speaker B (L2, Japanese):** I do... um, how to say... system maintenance. And also, I help to make new software program.  
+**Speaker A (NS):** So, you were involved in both maintenance and software development?  
+**Speaker B (L2, Japanese):** Yes, yes. I do both. It was... um, challenging but very interesting.  
+**Speaker A (NS):** I can imagine. Why are you interested in this position?  
+**Speaker B (L2, Japanese):** I want to learn more about... um, new technology. And I like teamwork. This company is famous for good teamwork, I think.  
+**Speaker A (NS):** That’s true! We value collaboration here. Can you tell me about a time you worked successfully in a team?  
+**Speaker B (L2, Japanese):** Ah, yes. Last year, my team make new... um, system for customer. I work with designer, programmer, and... um, manager. We talk a lot and share idea. It was success.  
+**Speaker A (NS):** That sounds like a great experience. What role did you play in that project?  
+**Speaker B (L2, Japanese):** I was... um, main programmer. I write code for the system and fix problem... when it happen.  
+**Speaker A (NS):** Excellent. What do you think is your greatest strength?  
+**Speaker B (L2, Japanese):** I think I am... um, hard worker. I always try to finish my work on time. And I can learn new thing quickly.  
+**Speaker A (NS):** Those are great qualities. Any weaknesses you’re working on?  
+**Speaker B (L2, Japanese):** Ah, yes. My English is... not so good. I try to improve. And sometimes, I take too much time to... um, perfect my work.  
+**Speaker A (NS):** That’s understandable. Improving language skills takes time, and we can support you with that. Do you have any questions for me?  
+**Speaker B (L2, Japanese):** Yes. What is... um, most important thing for success in this job?  
+**Speaker A (NS):** Great question. The most important thing is being adaptable and willing to learn. We work in a fast-paced environment, so staying curious and flexible is key.  
+**Speaker B (L2, Japanese):** I understand. I think I can do that.  
+**Speaker A (NS):** That’s good to hear. Thank you for your time, Hiroshi. We’ll be in touch soon.  
+**Speaker B (L2, Japanese):** Thank you very much. I am... um, looking forward to hearing from you.  
+
+**Speaker A (NS):** Have a great day, Hiroshi.  
+**Speaker B (L2, Japanese):** Thank you. You too. Goodbye!  
+
+**End of Conversation.**

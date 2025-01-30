@@ -1,0 +1,45 @@
+**Speaker A (NS):** Hi, Sora! How are you today?
+
+**Speaker B (L2, Japanese):** Hello, I am good. Thank you for calling. Um, I have problem. My internet not working.
+
+**Speaker A (NS):** I’m sorry to hear that, Sora. Let’s try to figure it out. When did the issue start?
+
+**Speaker B (L2, Japanese):** It start yesterday. I try restart router, but no change.
+
+**Speaker A (NS):** Okay, that’s a good first step. Have you checked if there are any service outages in your area?
+
+**Speaker B (L2, Japanese):** Um, how to check... I do not know. Can you tell me?
+
+**Speaker A (NS):** Sure! You can visit our website and look for the service status page. It will show any known issues.
+
+**Speaker B (L2, Japanese):** Oh, I see. I will check it now. One moment, please.
+
+**Speaker A (NS):** No problem, take your time.
+
+**Speaker B (L2, Japanese):** Okay, I see. It say there is issue in my area. How long it take to fix?
+
+**Speaker A (NS):** Usually, it takes a few hours. If it’s not resolved by tonight, we can send a technician to your place.
+
+**Speaker B (L2, Japanese):** I see. Um, I have work tomorrow. Should I stay home?
+
+**Speaker A (NS):** If the issue isn’t resolved by morning, it’s a good idea. But we’ll try to get it fixed as soon as possible.
+
+**Speaker B (L2, Japanese):** Okay, thank you. One more thing. My phone also not working. It might be same problem?
+
+**Speaker A (NS):** It’s possible, especially if it’s related to the same service provider. Can you try calling from a different device?
+
+**Speaker B (L2, Japanese):** Yes, I try. I use friend’s phone. It work.
+
+**Speaker A (NS):** That’s good to know. It sounds like the issue is specific to your location. We’ll keep an eye on it.
+
+**Speaker B (L2, Japanese):** Okay, thank you. I will wait and see. If it not fixed, I call you again, okay?
+
+**Speaker A (NS):** Absolutely, please do. And if you need any more help, just let us know.
+
+**Speaker B (L2, Japanese):** Yes, thank you very much. I appreciate your help.
+
+**Speaker A (NS):** You’re welcome, Sora. Have a great day, and I hope everything gets back to normal soon.
+
+**Speaker B (L2, Japanese):** Thank you, you too. Goodbye!
+
+**Speaker A (NS):** Goodbye, Sora! Take care.

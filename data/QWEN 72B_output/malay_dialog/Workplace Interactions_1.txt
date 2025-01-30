@@ -1,0 +1,47 @@
+**Speaker A (NS):** Hi Farah, thanks for coming in today! I wanted to go over the process for setting up a new project in our system. Do you have a moment?
+
+**Speaker B (L2, Malay):** Hi, Aiman. Yes, I have time. Please, tell me how to do it.
+
+**Speaker A (NS):** Great! First, you need to log into our project management tool. Have you used it before?
+
+**Speaker B (L2, Malay):** Um, a little bit. Not very much.
+
+**Speaker A (NS):** No problem. Once you’re logged in, you’ll see a dashboard. From there, you can create a new project by clicking on the “New Project” button.
+
+**Speaker B (L2, Malay):** Okay, I see it. What next?
+
+**Speaker A (NS):** After you click that, you’ll need to fill in some basic details. The project name, start date, and end date are the most important. Then, you can add a project description if you want.
+
+**Speaker B (L2, Malay):** Ah, I understand. So, I put the name, and... um, date. And description, if I want to.
+
+**Speaker A (NS):** Exactly! Once you’ve filled in those details, you can add team members to the project. Just type their names in the “Team Members” section, and they’ll get an invitation email.
+
+**Speaker B (L2, Malay):** I see. How to add tasks?
+
+**Speaker A (NS):** Good question! After you’ve added the team members, you can start adding tasks. Click on the “Tasks” tab, and then you can add individual tasks. Each task should have a title, a description, and a due date.
+
+**Speaker B (L2, Malay):** Okay, so title, description, and... due date. And, um, who do the task?
+
+**Speaker A (NS):** Right! You can assign each task to a specific team member. Just select their name from the dropdown menu when you create the task.
+
+**Speaker B (L2, Malay):** Ah, I get it. So, I select the person, and they will know they have to do it.
+
+**Speaker A (NS):** Exactly! And if you need to update or change anything, you can edit the task at any time. It’s pretty straightforward.
+
+**Speaker B (L2, Malay):** Yeah, it looks simple. One more thing, how to check the progress?
+
+**Speaker A (NS):** Good question! You can check the project’s progress by looking at the “Gantt Chart” or the “Task List.” These will show you which tasks are completed, in progress, or overdue.
+
+**Speaker B (L2, Malay):** Oh, I see. The chart and list show everything. Very helpful.
+
+**Speaker A (NS):** Yes, they are. If you have any questions or run into any issues, feel free to ask me. I’m always here to help.
+
+**Speaker B (L2, Malay):** Thank you, Aiman. I feel more confident now.
+
+**Speaker A (NS):** That’s great to hear! Let’s catch up next week to see how it’s going. Sound good?
+
+**Speaker B (L2, Malay):** Yes, that’s fine. See you next week!
+
+**Speaker A (NS):** Perfect. Have a great day, Farah!
+
+**Speaker B (L2, Malay):** You too, Aiman. Bye!

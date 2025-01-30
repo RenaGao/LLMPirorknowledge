@@ -1,0 +1,25 @@
+**Speaker A (NS):** Hi, Yuki! Long time no see. How have you been?  
+**Speaker B (L2, Japanese):** Ah, hello! I am fine, thank you. But... um, I feel little tired these days.  
+**Speaker A (NS):** Oh no, that’s not good. Are you getting enough sleep?  
+**Speaker B (L2, Japanese):** Sleep? Maybe not so much. I work late, and then... um, I watch TV before sleep.  
+**Speaker A (NS):** I see. Watching TV before bed can make it harder to fall asleep. Maybe try reading a book instead?  
+**Speaker B (L2, Japanese):** Ah, reading book. That is good idea. But sometimes... how to say... I feel too tired to read.  
+**Speaker A (NS):** That’s understandable. Have you tried exercising? It can actually give you more energy.  
+**Speaker B (L2, Japanese):** Exercise? Yes, I think it is good. But I don’t have time... um, I am very busy.  
+**Speaker A (NS):** Even a short walk during lunch break can help. You don’t need to spend hours at the gym.  
+**Speaker B (L2, Japanese):** Lunch break... hmm, maybe I try that. And also, I think my food is not so healthy.  
+**Speaker A (NS):** What do you usually eat?  
+**Speaker B (L2, Japanese):** I eat... um, fast food or convenience store food. It is quick, but... not good, I think.  
+**Speaker A (NS):** I get that. Maybe try preparing simple meals at home? It’s healthier and easier on your budget.  
+**Speaker B (L2, Japanese):** Preparing meal... yes, but I don’t know how to cook many things.  
+**Speaker A (NS):** You can start with something easy, like salads or sandwiches. I can even send you some simple recipes.  
+**Speaker B (L2, Japanese):** Ah, that is very kind. Thank you! I will try to cook little by little.  
+**Speaker A (NS):** That’s the spirit! Small changes can make a big difference.  
+**Speaker B (L2, Japanese):** Yes, I think so too. So... sleep better, walk more, and cook healthy food.  
+**Speaker A (NS):** Exactly! You’ve got this. Let me know how it goes, okay?  
+**Speaker B (L2, Japanese):** I will! Thank you for your advice. See you next time!  
+**Speaker A (NS):** You’re welcome, Yuki! Take care and see you soon!  
+**Speaker B (L2, Japanese):** Goodbye!  
+**Speaker A (NS):** Goodbye! Let’s catch up again soon.  
+
+(Conversation ends in 20 turns.)

@@ -1,0 +1,33 @@
+**Speaker A (NS):** Hi there! Welcome to the team. I’m Alex. How are you doing today?  
+**Speaker B (Mandarin Speaker):** Hello, Alex. I am fine, thank you. My name is Li Wei. Nice to meet you.  
+
+**Speaker A:** Nice to meet you too, Li Wei. I’ll help get you started on your first task. Have you worked on data analysis before?  
+**Speaker B:** Yes, I have some experience. I use Excel before... um, and also... Python? But not very expert.  
+
+**Speaker A:** That’s great! For this task, you’ll need to analyze some customer feedback data. Do you know how to use pivot tables in Excel?  
+**Speaker B:** Pivot table? Ah, yes, I think I use it once. But... um, how to say... not very sure.  
+
+**Speaker A:** No worries! I can guide you. First, open the Excel file and highlight the data. Then, go to the “Insert” tab and click “Pivot Table.” Does that make sense?  
+**Speaker B:** Yes, I try. Highlight data, then... insert, pivot table. Okay, I think I can do it.  
+
+**Speaker A:** Perfect. After that, you’ll drag the customer categories into the rows and their ratings into the values. This will summarize the data.  
+**Speaker B:** Drag... rows, and ratings... into values. Okay, I understand. Thank you for explain.  
+
+**Speaker A:** You’re welcome! Once you’re done, save the file and share it with me. Let me know if you have any questions.  
+**Speaker B:** Okay, I will save and share. Um... if I have problem, I can ask you?  
+
+**Speaker A:** Absolutely! Just message me anytime. By the way, do you know how to share files on Teams?  
+**Speaker B:** Teams? Ah, yes, I use it before. I think I can do it. If I forget, I will... um, check how to do it.  
+
+**Speaker A:** Sounds good. Just let me know if you need help. Great job so far!  
+**Speaker B:** Thank you, Alex. I will try my best.  
+
+**Speaker A:** I’m sure you’ll do well. Let’s touch base tomorrow to see how it’s going.  
+**Speaker B:** Okay, touch base tomorrow. See you then!  
+
+**Speaker A:** Have a great day, Li Wei!  
+**Speaker B:** You too, Alex. Goodbye!  
+
+**Speaker A:** Goodbye!  
+
+*(End of conversation)*

@@ -1,0 +1,49 @@
+**Speaker A (NS):** Hi, Bilal! How are you today?
+
+**Speaker B (L2, Urdu):** Hi, I am good. Thank you. How are you?
+
+**Speaker A (NS):** I'm doing well, thanks for asking. I heard you were having some issues with your internet service. Can you tell me more about it?
+
+**Speaker B (L2, Urdu):** Yes, um, internet... it not work. Sometimes, it very slow. And other times, it disconnect.
+
+**Speaker A (NS):** I see. When did this start happening?
+
+**Speaker B (L2, Urdu):** It start last week. Before that, everything was fine.
+
+**Speaker A (NS):** Okay. Have you tried restarting your router?
+
+**Speaker B (L2, Urdu):** Yes, I try. But it not help much.
+
+**Speaker A (NS):** Alright. Let's try a few more things. Have you checked if there are any updates for your router's firmware?
+
+**Speaker B (L2, Urdu):** Firmware? Um, how to say... I think no. I do not know how to check.
+
+**Speaker A (NS):** No problem. It’s usually found in the settings of your router. You can access that through a web browser. Do you want me to guide you through it?
+
+**Speaker B (L2, Urdu):** Yes, please. That would be very helpful.
+
+**Speaker A (NS):** Great! First, you need to connect to your router’s web interface. You can usually do this by typing the router’s IP address into your web browser. It’s often something like `192.168.1.1`.
+
+**Speaker B (L2, Urdu):** Okay, I will try. Give me a moment. (Pause) I see the login page. What is next?
+
+**Speaker A (NS):** Good! Now, you’ll need to enter your username and password. If you haven’t changed them, they might be something like ‘admin’ for both.
+
+**Speaker B (L2, Urdu):** I try. (Pause) Yes, I am in. What now?
+
+**Speaker A (NS):** Perfect! Look for a section called ‘Firmware Update’ or ‘Software Update’. Click on it and see if there are any updates available.
+
+**Speaker B (L2, Urdu):** I find it. There is an update available. How do I install it?
+
+**Speaker A (NS):** Usually, there’s a button that says ‘Download’ or ‘Install’. Click on that, and the router will download and install the update. It might take a few minutes.
+
+**Speaker B (L2, Urdu):** Okay, I start the update. (Pause) It is done. What now?
+
+**Speaker A (NS):** Great job! Now, let’s see if the issue is resolved. Try accessing the internet again and see if it’s faster and more stable.
+
+**Speaker B (L2, Urdu):** I check. (Pause) Yes, it is much better now. Thank you so much!
+
+**Speaker A (NS):** You’re welcome! I’m glad it’s working. If you have any more issues, feel free to reach out.
+
+**Speaker B (L2, Urdu):** Thank you again. I will. Have a good day!
+
+**Speaker A (NS):** You too, Bilal. Take care!

@@ -1,0 +1,20 @@
+**Speaker A (NS):** Hi, Kenta! Do you have a moment to talk about the new project deadlines?  
+**Speaker B (L2, Japanese):** Ah, yes, of course. I think... maybe project deadline is next week?  
+**Speaker A (NS):** That’s right—the first draft is due next Friday. How’s your part coming along?  
+**Speaker B (L2, Japanese):** Um, I working on data analysis now. But it is... a little difficult. Maybe need more time?  
+**Speaker A (NS):** I understand. Can you tell me what’s challenging about it?  
+**Speaker B (L2, Japanese):** The data is... very big. And some information is missing. So, um... I must find solution.  
+**Speaker A (NS):** Got it. Would it help if I assisted you with cleaning up the data?  
+**Speaker B (L2, Japanese):** Oh, thank you! That would be very helpful. But I also need to... um, check numbers again for report.  
+**Speaker A (NS):** No problem. We can split the tasks. I’ll handle the data cleanup, and you focus on the report. Does that work?  
+**Speaker B (L2, Japanese):** Yes, that is good idea. Thank you. I will... um, finish report by Thursday.  
+**Speaker A (NS):** Perfect. Let’s meet again on Thursday to review everything before the deadline.  
+**Speaker B (L2, Japanese):** Yes, I will prepare well. Thank you for help.  
+**Speaker A (NS):** You’re welcome! Is there anything else you need from me?  
+**Speaker B (L2, Japanese):** No, I think it is okay. Maybe... if I have more question, I will ask you.  
+**Speaker A (NS):** Sounds good. Feel free to reach out anytime.  
+**Speaker B (L2, Japanese):** Okay, I will do that. Thank you again.  
+**Speaker A (NS):** No problem. Let’s wrap this up and get back to work. Good luck with the report!  
+**Speaker B (L2, Japanese):** Yes, I will do my best. Goodbye!  
+**Speaker A (NS):** Goodbye, Kenta! See you on Thursday.  
+**Speaker B (L2, Japanese):** Yes, see you on Thursday. Thank you for your time.

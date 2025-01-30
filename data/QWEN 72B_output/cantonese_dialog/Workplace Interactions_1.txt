@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hey Wing, thanks for coming in today! I wanted to go over the process for setting up a new project on our team. Are you familiar with it already?
+
+**Speaker B (L2, Cantonese):** Ah, not too much. I know a little bit, but I need more detail. How to start?
+
+**Speaker A (NS):** Sure thing! The first step is to create a project folder on our shared drive. Do you know where that is?
+
+**Speaker B (L2, Cantonese):** Yes, I think so. It is... um, in the company folder, right?
+
+**Speaker A (NS):** Exactly! In the company folder, you’ll see a section called "Projects." That’s where you create a new folder for each project. What do you think is the next step?
+
+**Speaker B (L2, Cantonese):** Um, I think... is to name the folder. Use the project name, no?
+
+**Speaker A (NS):** That’s correct! Make sure the folder name is clear and follows our naming convention. For example, if the project is called "Sunshine Beach," the folder might be named "Sunshine_Beach_Project."
+
+**Speaker B (L2, Cantonese):** Okay, I get it. And then?
+
+**Speaker A (NS):** After creating the folder, you need to set up the necessary files and subfolders inside it. For example, you might have subfolders for "Documents," "Images," and "Code." Does that make sense?
+
+**Speaker B (L2, Cantonese):** Yes, I understand. Documents, Images, and Code. And then, we put the files in these folders?
+
+**Speaker A (NS):** Exactly! Make sure to organize the files neatly. Once the folder structure is set up, the next step is to share access with the team members. You can do this through the drive’s sharing settings.
+
+**Speaker B (L2, Cantonese):** Um, how to say... sharing settings. It is in the... right-click menu, no?
+
+**Speaker A (NS):** Yes, you right-click on the folder and select "Share." Then you can add the team members' email addresses and set their permissions, like "Edit" or "View."
+
+**Speaker B (L2, Cantonese):** Got it. And the last step?
+
+**Speaker A (NS):** The last step is to create a project briefing document. This document should include the project goals, timeline, and key milestones. It helps everyone stay on the same page.
+
+**Speaker B (L2, Cantonese):** Okay, I see. Project goals, timeline, and milestones. I will write it down.
+
+**Speaker A (NS):** Great! Do you have any questions about any of these steps?
+
+**Speaker B (L2, Cantonese):** No, I think I understand. It sounds good. Thank you for explaining.
+
+**Speaker A (NS):** You’re welcome, Wing! If you have any more questions, feel free to ask. I’ll be around. Have a good day!
+
+**Speaker B (L2, Cantonese):** Thanks, you too. Goodbye!
+
+**Speaker A (NS):** Goodbye, Wing! See you soon!

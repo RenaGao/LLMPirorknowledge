@@ -1,0 +1,21 @@
+---
+**Speaker A (NS):** Hey, Mei. Do you have a moment? I need help understanding this math problem.
+**Speaker B (L2, Cantonese):** Uh, yes. I have time. What is the problem about?
+**Speaker A (NS):** It’s about factorizing quadratic equations. I’m stuck on this one: x² + 5x + 6.
+**Speaker B (L2, Cantonese):** Oh, I see. Let me think... um, you need find two numbers. They add to 5 and, um, multiply to 6.
+**Speaker A (NS):** Right. So, what would those numbers be?
+**Speaker B (L2, Cantonese):** I think... 2 and 3. Because 2 + 3 is 5, and 2 times 3 is 6.
+**Speaker A (NS):** That makes sense. So, how would I write the factors?
+**Speaker B (L2, Cantonese):** You write... (x + 2) and (x + 3). Because, um, when you multiply them, it becomes x² + 5x + 6.
+**Speaker A (NS):** Got it! So, the answer is (x + 2)(x + 3)?
+**Speaker B (L2, Cantonese):** Yes, that’s correct. If you want, I can explain another example. To make sure you understand.
+**Speaker A (NS):** That would be great. Let’s try x² + 7x + 12.
+**Speaker B (L2, Cantonese):** Okay. So, we need two numbers. They add to 7 and multiply to 12.
+**Speaker A (NS):** Hmm, what could those numbers be?
+**Speaker B (L2, Cantonese):** Um... 3 and 4. Because 3 + 4 is 7, and 3 times 4 is 12.
+**Speaker A (NS):** Perfect! So, the factors are (x + 3)(x + 4)?
+**Speaker B (L2, Cantonese):** Exactly! You’re doing very good.
+**Speaker A (NS):** Thanks so much, Mei. This really helped.
+**Speaker B (L2, Cantonese):** No problem. If you have any more questions, just ask.
+**Speaker A (NS):** Will do. Have a great day!
+**Speaker B (L2, Cantonese):** You too. Bye!

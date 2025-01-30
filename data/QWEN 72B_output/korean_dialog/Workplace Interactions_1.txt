@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hi Minji! Thanks for coming. How are you today?
+
+**Minji (L2, Korean):** Hi! I am good. Thank you. How are you?
+
+**Speaker A (NS):** I’m doing well, thanks. So, we’re going to be working on setting up the new project management system. Have you used one of these before?
+
+**Minji (L2, Korean):** Um, yes, I have. I use... uh, how to say... Trello?
+
+**Speaker A (NS):** That’s a great one! This system is a bit different. It’s called Asana. Do you have any questions about it?
+
+**Minji (L2, Korean):** Yes, um, how to start? What I need to do first?
+
+**Speaker A (NS):** First, you’ll need to create an account. It’s pretty straightforward. Just go to the Asana website and follow the prompts.
+
+**Minji (L2, Korean):** Okay, I understand. Then, what is next step?
+
+**Speaker A (NS):** After you create your account, you’ll join our team workspace. I’ll send you an invitation link. Once you’re in, you can start exploring the different projects.
+
+**Minji (L2, Korean):** Ah, I see. So, I wait for your email with link?
+
+**Speaker A (NS):** Exactly! And once you’re in the workspace, you can check out the different boards and tasks. Each board represents a project, and each task has a description and due date.
+
+**Minji (L2, Korean):** Yes, I understand. Tasks have... um, description and due date. How to update task?
+
+**Speaker A (NS):** You can update tasks by clicking on them. From there, you can mark them as complete, add comments, and attach files if needed.
+
+**Minji (L2, Korean):** I see. So, I click on task and can add comment and file. Very useful.
+
+**Speaker A (NS):** Absolutely! And if you have any questions or need help, just let me know. I’m always here to assist.
+
+**Minji (L2, Korean):** Thank you. I will try my best to learn and use it well.
+
+**Speaker A (NS):** Great! I’m sure you’ll do fantastic. Let’s touch base next week to see how you’re doing.
+
+**Minji (L2, Korean):** Yes, that sounds good. Thank you for your help.
+
+**Speaker A (NS):** No problem at all. Have a great day, Minji!
+
+**Minji (L2, Korean):** You too. Goodbye!
+
+**Speaker A (NS):** Goodbye, Minji!

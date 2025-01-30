@@ -1,0 +1,18 @@
+**Speaker A (NS):** Hi, thank you for calling Tech Support. How can I help you today?  
+**Speaker B (L2, Korean):** Hello. Um, my computer... it is not working. I think it is problem with... uh, internet?  
+**Speaker A (NS):** I see. Are you having trouble connecting to the internet?  
+**Speaker B (L2, Korean):** Yes. I try to... um, connect, but it say... no internet.  
+**Speaker A (NS):** Got it. Let’s check a few things. Can you try restarting your computer first?  
+**Speaker B (L2, Korean):** Okay, I try. Um... how to say... I already turn off and on, but still not working.  
+**Speaker A (NS):** I see. Have you checked if other devices are connected to the same Wi-Fi?  
+**Speaker B (L2, Korean):** Ah, yes. My phone is okay. Only computer... um, have problem.  
+**Speaker A (NS):** Alright. Let’s try resetting the network settings. Can you go to the settings on your computer?  
+**Speaker B (L2, Korean):** Settings? Yes, okay. I go there.  
+**Speaker A (NS):** Great. Look for "Network & Internet" and then click "Network Reset."  
+**Speaker B (L2, Korean):** Okay... um, I find it. I click now.  
+**Speaker A (NS):** Perfect. After it resets, try connecting to the internet again.  
+**Speaker B (L2, Korean):** Okay, I try... um, it is working now! Thank you so much!  
+**Speaker A (NS):** You’re welcome! I’m glad it’s fixed. If you have any more issues, feel free to call back.  
+**Speaker B (L2, Korean):** Thank you. You are very kind. I will remember. Goodbye!  
+**Speaker A (NS):** Goodbye! Have a great day!  
+**Speaker B (L2, Korean):** You too. Thank you again. Goodbye!

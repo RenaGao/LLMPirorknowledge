@@ -1,0 +1,23 @@
+**Speaker A (NS):** Hi, Jisoo! Do you have a moment to talk about the project deadlines?  
+**Speaker B (L2, Korean):** Yes, of course. I am here. What we need to talk?  
+**Speaker A (NS):** Great. I just wanted to check if you’re on track with your tasks. How’s it going?  
+**Speaker B (L2, Korean):** Um, I think it’s okay. But I have problem with... how to say... the report part. It is difficult for me.  
+**Speaker A (NS):** I see. What part of the report is giving you trouble?  
+**Speaker B (L2, Korean):** The data analysis. I need to make... uh, graph, but I don’t know which program is best.  
+**Speaker A (NS):** Oh, you can use Excel or Tableau. Have you tried either of those?  
+**Speaker B (L2, Korean):** Excel, yes. But Tableau is new for me. Maybe you can... teach me a little?  
+**Speaker A (NS):** Sure! I can show you the basics. How about we meet tomorrow morning?  
+**Speaker B (L2, Korean):** Tomorrow morning is... um, okay. What time is good?  
+**Speaker A (NS):** Does 10 a.m. work for you?  
+**Speaker B (L2, Korean):** Yes, 10 a.m. is fine. I will prepare my data before.  
+**Speaker A (NS):** Perfect. And how about the presentation slides? Are they ready?  
+**Speaker B (L2, Korean):** Almost. I finished first, uh, draft. Maybe you can check after I learn Tableau?  
+**Speaker A (NS):** Of course. Let’s review everything together tomorrow.  
+**Speaker B (L2, Korean):** Thank you so much for helping. I was little worried.  
+**Speaker A (NS):** No problem at all. We’ll make sure everything is ready for the deadline.  
+**Speaker B (L2, Korean):** Yes, I feel much better now. I will see you tomorrow at 10.  
+**Speaker A (NS):** Great. See you then! If you have any other questions, just let me know.  
+**Speaker B (L2, Korean):** Okay, I will. Thank you again. Have a good day!  
+**Speaker A (NS):** You too, Jisoo. Bye!  
+
+*End of conversation.*

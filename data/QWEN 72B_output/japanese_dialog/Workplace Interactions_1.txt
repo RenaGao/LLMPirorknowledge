@@ -1,0 +1,57 @@
+**Speaker A (NS):** Hi, Aki! Thanks for coming in today. I wanted to walk you through the process of setting up a new project on our platform. Are you ready to get started?
+
+**Speaker B (L2, Japanese):** Yes, thank you. I am ready. Um, how to start?
+
+**Speaker A (NS):** Great! First, we need to create a new project in our project management tool. Let's open the dashboard and click on the "Create New Project" button.
+
+**Speaker B (L2, Japanese):** Ah, I see. It is here. What is next?
+
+**Speaker A (NS):** Next, you'll need to fill in the project details. That includes the project name, the start date, and the end date. Make sure to include a clear description of the project as well.
+
+**Speaker B (L2, Japanese):** Um, project name... how to choose good name?
+
+**Speaker A (NS):** Good question! The name should be descriptive and easy to understand. For example, if it’s a marketing campaign, you might call it "Spring Marketing 2024."
+
+**Speaker B (L2, Japanese):** Okay, I understand. Spring Marketing 2024. And start date is... um, April first?
+
+**Speaker A (NS):** Perfect. And what about the end date? When do you think the project will be completed?
+
+**Speaker B (L2, Japanese):** End date... um, how to say... June thirty?
+
+**Speaker A (NS):** June 30th, that’s right. And don’t forget to add a short description. What are the main goals of this project?
+
+**Speaker B (L2, Japanese):** Main goals... to increase sales and... um, how to say... customer engagement?
+
+**Speaker A (NS):** Exactly! You can write something like, "Increase sales and customer engagement for the spring season."
+
+**Speaker B (L2, Japanese):** Okay, I write it. Next step?
+
+**Speaker A (NS):** Next, we need to assign team members to the project. Click on the "Add Team Members" button and select the people who will be working on this project.
+
+**Speaker B (L2, Japanese):** I see. I add team members. How many we need?
+
+**Speaker A (NS):** It depends on the project size, but for this one, let’s add the marketing team, the design team, and the sales team.
+
+**Speaker B (L2, Japanese):** Marketing, design, and sales. I add them. What is next?
+
+**Speaker A (NS):** Great! The next step is to set up the project tasks. We need to break down the project into smaller, manageable tasks and assign them to the team members.
+
+**Speaker B (L2, Japanese):** Tasks... um, like... create content, design ads, and... um, send emails?
+
+**Speaker A (NS):** Yes, exactly! Those are some good examples. You can also add deadlines for each task to ensure everything stays on track.
+
+**Speaker B (L2, Japanese):** Okay, I add tasks and deadlines. Last step?
+
+**Speaker A (NS):** The last step is to review and confirm the project details. Make sure everything looks correct and then click "Save Project."
+
+**Speaker B (L2, Japanese):** I review everything. It looks good. I click "Save Project."
+
+**Speaker A (NS):** Perfect! You’ve successfully set up the new project. Do you have any questions or is there anything else you need help with?
+
+**Speaker B (L2, Japanese):** No, I think I understand. Thank you very much for your help.
+
+**Speaker A (NS):** You’re welcome, Aki! If you have any more questions, feel free to ask. Have a great day!
+
+**Speaker B (L2, Japanese):** Thank you, you too! Goodbye!
+
+**Speaker A (NS):** Goodbye, Aki! See you later!

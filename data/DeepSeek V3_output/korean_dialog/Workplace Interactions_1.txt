@@ -1,0 +1,39 @@
+**Speaker A (NS):** Hi, welcome to the team! How are you doing today?  
+**Speaker B (L2, Korean):** Thank you! I’m a bit nervous, but I’m okay. Nice to meet you.  
+
+**Speaker A (NS):** Nice to meet you too. Don’t worry—we’ll help you get comfortable. Let’s go over your first task. Have you used our project management tool before?  
+**Speaker B (L2, Korean):** Um... not really. I see it, but I don’t know how to use.  
+
+**Speaker A (NS):** No problem. It’s called Trello. It helps us organize tasks. First, you need to log in with your email. Can you do that?  
+**Speaker B (L2, Korean):** Yes, I think I can. Wait... ah, I log in now.  
+
+**Speaker A (NS):** Great! Now, you’ll see boards. Each board is for a different project. Click on the “Marketing Campaign” board.  
+**Speaker B (L2, Korean):** Marketing... Campaign? Oh, I see it. Yes, I click.  
+
+**Speaker A (NS):** Perfect. Inside the board, there are lists like “To Do,” “In Progress,” and “Done.” Under “To Do,” you’ll find tasks. Your task is called “Create Social Media Posts.” Can you see it?  
+**Speaker B (L2, Korean):** Ah, yes. I see “Create Social Media Posts.” But... um, how to... move it?  
+
+**Speaker A (NS):** Good question. Click on the task, and drag it to “In Progress” when you start working. When you finish, drag it to “Done.”  
+**Speaker B (L2, Korean):** Ah, okay. I try... oh, it move! Yes, now it’s in “In Progress.”  
+
+**Speaker A (NS):** Exactly! Once the task is done, just drag it to “Done.” That’s how we track progress. Any questions so far?  
+**Speaker B (L2, Korean):** Uh... yes. If I have problem, who I can ask?  
+
+**Speaker A (NS):** You can ask me, or you can message the team in our Slack channel. We’re all here to help.  
+**Speaker B (L2, Korean):** Thank you. I feel better now.  
+
+**Speaker A (NS):** You’re doing great. Oh, and don’t forget to add comments in the task if you have updates or questions. Just click on the task and type below.  
+**Speaker B (L2, Korean):** Okay. I write comment... like this?  
+
+**Speaker A (NS):** Yes, exactly! That’s how everyone stays updated. You’re catching on quickly.  
+**Speaker B (L2, Korean):** Thank you. I will try my best.  
+
+**Speaker A (NS):** I know you will. Let’s check in tomorrow to see how it’s going. Sound good?  
+**Speaker B (L2, Korean):** Yes, sounds good. Thank you for your help.  
+
+**Speaker A (NS):** You’re welcome! Have a great first day.  
+**Speaker B (L2, Korean):** Thank you. You too. Goodbye!  
+
+**Speaker A (NS):** Goodbye! See you tomorrow.  
+
+*End of conversation.*

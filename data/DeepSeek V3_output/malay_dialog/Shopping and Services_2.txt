@@ -1,0 +1,61 @@
+**Speaker A (NS, Customer Service Representative):**  
+Hello! Thank you for calling XYZ Electronics Customer Service. How can I assist you today?  
+
+**Speaker B (L2, Malay):**  
+Ah, yes, hello. I want to tell about... uh, problem with my recent purchase.  
+
+**Speaker A (NS):**  
+Of course. I’m here to help. Can you tell me what the issue is?  
+
+**Speaker B (L2, Malay):**  
+I buy laptop last week, but now... um, the screen... it become black. Cannot see anything.  
+
+**Speaker A (NS):**  
+I’m sorry to hear that. Did the screen suddenly go black, or was there something you did before it happened?  
+
+**Speaker B (L2, Malay):**  
+Suddenly. I just open laptop, but no screen. Only black.  
+
+**Speaker A (NS):**  
+I see. Did you try charging it or restarting it?  
+
+**Speaker B (L2, Malay):**  
+Yes, I try. I charge, and I press the... um, power button long time, but still no change.  
+
+**Speaker A (NS):**  
+Okay, thank you for trying that. It sounds like there might be an issue with the display. Do you still have the receipt or order number?  
+
+**Speaker B (L2, Malay):**  
+Yes, I have receipt. I... um, keep it safe.  
+
+**Speaker A (NS):**  
+Great. I can help you process a return or exchange. Would you prefer that?  
+
+**Speaker B (L2, Malay):**  
+Exchange, please. I need laptop for my work.  
+
+**Speaker A (NS):**  
+Understood. I’ll guide you through the steps. First, can you send me a photo of the receipt and the issue with the screen?  
+
+**Speaker B (L2, Malay):**  
+Yes, I can send. Um, how to send? By email?  
+
+**Speaker A (NS):**  
+Yes, you can email it to support@xyzelectronics.com. Once I receive it, I’ll arrange the exchange.  
+
+**Speaker B (L2, Malay):**  
+Okay, I send now. Thank you for helping me.  
+
+**Speaker A (NS):**  
+You’re welcome! Is there anything else I can assist you with today?  
+
+**Speaker B (L2, Malay):**  
+No, that’s all. Thank you very much.  
+
+**Speaker A (NS):**  
+Alright. Once I get your email, I’ll follow up with the next steps. Have a great day!  
+
+**Speaker B (L2, Malay):**  
+Thank you. You too. Goodbye!  
+
+**End of Conversation.**

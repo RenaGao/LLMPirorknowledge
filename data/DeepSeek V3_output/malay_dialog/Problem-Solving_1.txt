@@ -1,0 +1,20 @@
+**Speaker A (NS):** Hi there! How can I help you today?  
+**Speaker B (L2, Malay):** Hello, um... I have problem with my... my phone. It not work.  
+**Speaker A (NS):** I’m sorry to hear that. Could you tell me more about the issue?  
+**Speaker B (L2, Malay):** Yes... um, the screen is black. I try to turn on, but nothing happen.  
+**Speaker A (NS):** Got it. Have you tried charging it? Sometimes a dead battery can cause that.  
+**Speaker B (L2, Malay):** Yes, I plug in, but... um, no light. Also, it not feel warm like usually.  
+**Speaker A (NS):** Hmm, that’s unusual. Let’s try a few things. First, can you hold the power button for about 20 seconds?  
+**Speaker B (L2, Malay):** 20 seconds? Okay, I try... Um, no. Still black.  
+**Speaker A (NS):** Alright. Next, let’s try a different charger or cable. Sometimes the issue is with the charging equipment.  
+**Speaker B (L2, Malay):** Sorry, I don’t have other charger now. Maybe later I can test.  
+**Speaker A (NS):** That’s fine. If that doesn’t work, it might be a hardware issue. Does your phone have any warranty?  
+**Speaker B (L2, Malay):** Warranty? Yes, I think so. I buy it... uh, six month ago.  
+**Speaker A (NS):** Perfect! You should be covered. I’d recommend visiting the service center with your receipt. They can fix it for you.  
+**Speaker B (L2, Malay):** Ah, okay. Where is the service center?  
+**Speaker A (NS):** There’s one at the downtown mall. Do you know the area?  
+**Speaker B (L2, Malay):** Yes, I know. I go there this week. Thank you for helping.  
+**Speaker A (NS):** You’re welcome! Let me know if you need more assistance. Have a great day!  
+**Speaker B (L2, Malay):** Thank you so much. You also have a good day!  
+
+**End of conversation.**

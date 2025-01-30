@@ -1,0 +1,45 @@
+**Speaker A (NS):** Good morning! Thank you for coming in today. Can you please introduce yourself?
+
+**Speaker B (L2, Japanese):** Good morning. My name is Aki. I from Kyoto. I am... um, how to say... computer engineer.
+
+**Speaker A (NS):** Computer engineer, that’s great! Can you tell me a little more about your background?
+
+**Speaker B (L2, Japanese):** Yes, I study computer engineering at Kyoto University. I study it for four years. Um, and I do internship at a software company.
+
+**Speaker A (NS):** That’s impressive. What kind of projects did you work on during your internship?
+
+**Speaker B (L2, Japanese):** I work on... um, developing a... a system for managing customer data. It is for a retail company.
+
+**Speaker A (NS):** Sounds interesting. What was your role in that project?
+
+**Speaker B (L2, Japanese):** I write code for the... for the database. Um, and I also test the system to make sure it work correctly.
+
+**Speaker A (NS):** Great. What do you think were the biggest challenges you faced in that project?
+
+**Speaker B (L2, Japanese):** The biggest challenge is... um, how to make the system run fast. We have a lot of data, so it is difficult to... um, optimize the performance.
+
+**Speaker A (NS):** I understand. How did you overcome that challenge?
+
+**Speaker B (L2, Japanese):** We use... um, caching techniques. And also, we optimize the database queries. That help a lot.
+
+**Speaker A (NS):** Excellent problem-solving skills! Why are you interested in this position?
+
+**Speaker B (L2, Japanese):** I like working on... um, challenging projects. And I want to learn more about... um, cloud computing. This company have good reputation for that.
+
+**Speaker A (NS):** That’s great to hear. What do you think you can bring to our team?
+
+**Speaker B (L2, Japanese):** I bring strong... um, technical skills. And I am good at working in team. I can communicate well with others.
+
+**Speaker A (NS):** Wonderful. Lastly, do you have any questions for me?
+
+**Speaker B (L2, Japanese):** Yes, um... how is the company culture here?
+
+**Speaker A (NS):** Our company culture is very supportive and collaborative. We encourage learning and growth, and we have a lot of team-building activities.
+
+**Speaker B (L2, Japanese):** That sounds very nice. Thank you for telling me.
+
+**Speaker A (NS):** You’re welcome, Aki. Thank you for your time today. We’ll be in touch soon.
+
+**Speaker B (L2, Japanese):** Thank you very much. Goodbye.
+
+**Speaker A (NS):** Goodbye, Aki. Have a great day!

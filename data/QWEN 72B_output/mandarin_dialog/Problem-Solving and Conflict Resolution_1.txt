@@ -1,0 +1,33 @@
+**Speaker A (Native Speaker, NS):** Hi, Xiao Li! Thanks for joining me today. How are you?
+
+**Speaker B (Second-Language Speaker, Mandarin):** Hi, I am good, thank you. How are you?
+
+**Speaker A:** I'm doing well, thanks. I wanted to talk to you about a technical issue I've been having with my internet service. Do you have any ideas on how to fix it?
+
+**Speaker B:** Um, yes, I have some idea. First, you can try restart router, maybe?
+
+**Speaker A:** That's a good point. I've tried that, but it didn't seem to help much. Any other suggestions?
+
+**Speaker B:** How to say... you can check if other devices also have same problem. Maybe is problem with your computer, not the router.
+
+**Speaker A:** That's a good tip. I'll check that. What if it's still not working?
+
+**Speaker B:** You can try call your internet provider, ask for help. They have tech support.
+
+**Speaker A:** Right, I should do that. I just don't like calling customer service; it can be such a hassle sometimes.
+
+**Speaker B:** Yes, can be. But sometimes they can fix problem quickly. Also, you can try check online for solutions. Sometimes people post helpful tips on forums.
+
+**Speaker A:** That's a good idea. I'll look into that. Do you have any specific websites or forums in mind?
+
+**Speaker B:** Um, you can try... how to say... Google "internet troubleshooting" and see what come up. Also, Reddit have good community help.
+
+**Speaker A:** Great, I'll give that a try. Thanks for the advice, Xiao Li. I really appreciate it.
+
+**Speaker B:** No problem! Hope it help. If you still have problem, let me know. Maybe I can help more.
+
+**Speaker A:** That's very kind of you. I'll definitely keep you updated. Thanks again!
+
+**Speaker B:** You are welcome. Good luck with your internet! Bye!
+
+**Speaker A:** Thanks! Take care! Bye!

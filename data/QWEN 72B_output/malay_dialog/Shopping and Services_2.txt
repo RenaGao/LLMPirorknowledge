@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hello! Thank you for calling our customer service. My name is Alex. How may I assist you today?
+
+**Speaker B (L2, Malay):** Ah, hello. My name is Farah. I have a problem with my recent purchase. Um, I buy a... how to say... a thing for cooking.
+
+**Speaker A (NS):** Oh, you mean a kitchen appliance?
+
+**Speaker B (L2, Malay):** Yes, a kitchen appliance. It is a blender, but it not work properly.
+
+**Speaker A (NS):** I see. Could you tell me more about the issue you’re experiencing with the blender?
+
+**Speaker B (L2, Malay):** Sure. When I try to use it, it make a very loud noise and it not blend the food. Um, it just... uh, spin but not blend.
+
+**Speaker A (NS):** That sounds frustrating. When did you first notice this issue?
+
+**Speaker B (L2, Malay):** I notice it right after I use it for the first time. It was a few days ago.
+
+**Speaker A (NS):** I understand. Have you tried following the troubleshooting steps in the user manual?
+
+**Speaker B (L2, Malay):** I read the manual, but it not help. I try everything, but the problem still there.
+
+**Speaker A (NS):** I’m sorry to hear that. Let’s look into this. Could you please provide me with your order number and the model number of the blender?
+
+**Speaker B (L2, Malay):** Yes, my order number is 123456789. The model number is B123. Um, it on the bottom of the blender.
+
+**Speaker A (NS):** Thank you, Farah. I’ll check that for you. In the meantime, can you send us a photo of the issue? It might help us diagnose the problem better.
+
+**Speaker B (L2, Malay):** Yes, I can do that. How to send it?
+
+**Speaker A (NS):** You can email it to us at support@example.com or send it through our app. Which one is more convenient for you?
+
+**Speaker B (L2, Malay):** I use the app. It is easier for me.
+
+**Speaker A (NS):** Great! Please send the photo, and we’ll get back to you as soon as possible. Is there anything else I can assist you with today?
+
+**Speaker B (L2, Malay):** No, that is all. Thank you for your help.
+
+**Speaker A (NS):** You’re welcome, Farah. We’ll make sure to resolve this issue for you. Have a great day!
+
+**Speaker B (L2, Malay):** Thank you, you too. Goodbye.
+
+**Speaker A (NS):** Goodbye, Farah. Take care!

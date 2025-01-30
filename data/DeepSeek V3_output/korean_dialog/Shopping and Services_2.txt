@@ -1,0 +1,51 @@
+**Speaker A (Native Speaker, NS):** Hi, thank you for calling customer service. How can I assist you today?  
+
+**Speaker B (Second-Language Speaker, Korean):** Ah, yes, hello. I have problem with... um, thing I bought.  
+
+**Speaker A (NS):** Okay, no problem. Can you tell me what you purchased?  
+
+**Speaker B (L2):** Yes, I buy... um, how to say... machine for making coffee.  
+
+**Speaker A (NS):** A coffee maker?  
+
+**Speaker B (L2):** Yes, coffee maker. But... um, it not working.  
+
+**Speaker A (NS):** I’m sorry to hear that. Can you describe what’s wrong with it?  
+
+**Speaker B (L2):** When I press button, nothing happen. No sound, no coffee.  
+
+**Speaker A (NS):** I see. Have you checked the power cord? Is it plugged in?  
+
+**Speaker B (L2):** Yes, I check. It is... um, plugged in. But still not working.  
+
+**Speaker A (NS):** Okay, that’s unusual. Did you buy it recently?  
+
+**Speaker B (L2):** Yes, I buy it... um, last week.  
+
+**Speaker A (NS):** Got it. Since it’s still under warranty, we can replace it for you. Did you keep the receipt?  
+
+**Speaker B (L2):** Yes, I have receipt. But... uh, how to replace?  
+
+**Speaker A (NS):** You can bring it to the store where you bought it, or we can arrange a return through the mail. Which would you prefer?  
+
+**Speaker B (L2):** Um, I think... go to store is better.  
+
+**Speaker A (NS):** Sure. Do you know the location of the store?  
+
+**Speaker B (L2):** Yes, it is near my house. I can go tomorrow.  
+
+**Speaker A (NS):** Perfect. Just bring the coffee maker and the receipt, and they’ll take care of it for you.  
+
+**Speaker B (L2):** Okay, thank you. And I need... um, new one, right?  
+
+**Speaker A (NS):** Yes, they’ll give you a new coffee maker. If there’s any issue, just let them know.  
+
+**Speaker B (L2):** Ah, good. Thank you for helping me.  
+
+**Speaker A (NS):** You’re welcome! I’m glad we could resolve this. Have a great day!  
+
+**Speaker B (L2):** Thank you. You too. Goodbye!  
+
+**Speaker A (NS):** Goodbye!  
+
+**End of conversation.**

@@ -1,0 +1,45 @@
+**Speaker A (NS):** Hi, Aiman! How are you doing today?
+
+**Speaker B (L2, Malay):** Hi, Farah! I am good, thank you. How about you?
+
+**Speaker A (NS):** I’m doing well, thanks. We have a study group meeting today. What topic are you finding challenging right now?
+
+**Speaker B (L2, Malay):** Um, the topic is... how to say... it is about the theory of relativity. I find it difficult to understand.
+
+**Speaker A (NS):** That can be tough. Do you want me to explain it to you?
+
+**Speaker B (L2, Malay):** Yes, please. I would like that very much.
+
+**Speaker A (NS):** Sure! The theory of relativity is actually two theories: special relativity and general relativity. Special relativity deals with objects moving at constant speeds, like how time and space change for objects moving close to the speed of light.
+
+**Speaker B (L2, Malay):** Oh, I see. Time and space change... um, how to say... different for fast things.
+
+**Speaker A (NS):** Exactly! For example, if you’re traveling in a spaceship at a very high speed, time for you would slow down compared to someone on Earth. This is called time dilation.
+
+**Speaker B (L2, Malay):** Time dilation... it is like time move slower for fast thing.
+
+**Speaker A (NS):** Yes, that’s right! And then there’s general relativity, which deals with gravity and how it affects space and time.
+
+**Speaker B (L2, Malay):** Gravity affect... um, space and time. It is very hard to imagine.
+
+**Speaker A (NS):** It is! But think of it this way: imagine space as a fabric. Massive objects like the sun or planets can cause this fabric to curve or bend. This curvature is what we experience as gravity.
+
+**Speaker B (L2, Malay):** Space is like fabric... and big thing make it curve. This is how gravity work.
+
+**Speaker A (NS):** Exactly! So, when an object falls towards the Earth, it’s not being pulled by a force, but rather following the curve of space.
+
+**Speaker B (L2, Malay):** Oh, I understand now. It is like... how to say... object follow the curve.
+
+**Speaker A (NS):** Yes, you got it! It’s a bit counterintuitive, but that’s what makes it so fascinating.
+
+**Speaker B (L2, Malay):** Yes, it is very interesting. Thank you for explaining it to me, Farah.
+
+**Speaker A (NS):** You’re welcome, Aiman! Do you have any more questions about it?
+
+**Speaker B (L2, Malay):** No, I think I understand it better now. Thank you again.
+
+**Speaker A (NS):** Great! We should probably get ready for the study group meeting. See you there?
+
+**Speaker B (L2, Malay):** Yes, see you there! Thanks for the help.
+
+**Speaker A (NS):** No problem! See you later, Aiman.

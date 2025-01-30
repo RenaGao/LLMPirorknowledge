@@ -1,0 +1,41 @@
+**Speaker A (Native Speaker, NS):** Hi, Xiao Ming! How are you? It's great to chat with you today.
+
+**Speaker B (Second-Language Speaker, Mandarin):** Hi! I am good, thank you. How about you?
+
+**Speaker A:** I'm doing well, thanks! So, I heard you had a recent personal achievement. Can you tell me about it?
+
+**Speaker B:** Yes, last month, I... um, how to say... I finish big project at work.
+
+**Speaker A:** That's great! Can you tell me more about the project?
+
+**Speaker B:** It is about... um, making new system for... for customer service. We... we use new software, and it... it help customers a lot.
+
+**Speaker A:** That sounds really impressive. What did you do specifically in the project?
+
+**Speaker B:** I... I design the... the user interface. And also, I... I write some code to make it work better.
+
+**Speaker A:** Wow, that's fantastic! How do you feel about completing this project?
+
+**Speaker B:** I feel... um, very proud. It is hard work, but I learn a lot. Also, my boss say, "Good job!" which... which make me happy.
+
+**Speaker A:** That's wonderful! It's always great to receive positive feedback, especially for something you worked hard on. What does this achievement mean to you?
+
+**Speaker B:** It mean... it mean I can do big things. I... I feel more confident now. And also, I want to do more projects like this.
+
+**Speaker A:** That's a great attitude to have. It's amazing how much a single achievement can boost your confidence. What are your next steps?
+
+**Speaker B:** Next, I want to... um, learn more about... about artificial intelligence. I think it is very interesting.
+
+**Speaker A:** That's a fantastic goal! AI is a really exciting field. Do you have any specific areas of AI you're interested in?
+
+**Speaker B:** Yes, I want to learn about... um, machine learning and... and natural language processing. I think it can help me in my job.
+
+**Speaker A:** Absolutely, those are great areas to focus on. I'm sure you'll do well. It was great chatting with you about your achievement, Xiao Ming.
+
+**Speaker B:** Thank you! It is... it is nice to talk about it. I... I feel happy.
+
+**Speaker A:** I'm glad to hear that. Well, it's getting late. We should probably wrap up. Thank you for sharing your story!
+
+**Speaker B:** No problem! Thank you for talking with me. Goodbye!
+
+**Speaker A:** Goodbye, Xiao Ming! Take care and good luck with your future projects!

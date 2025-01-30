@@ -1,0 +1,33 @@
+**Speaker A (NS):** Good afternoon! How can I assist you today?
+
+**Speaker B (L2, Malay):** Good afternoon. Um, I have problem... problem with my internet.
+
+**Speaker A (NS):** I see. Can you tell me more about the issue you’re having?
+
+**Speaker B (L2, Malay):** Yes, my internet... it not working. It’s very slow, and sometimes it disconnect.
+
+**Speaker A (NS):** I’m sorry to hear that. Have you tried restarting your router?
+
+**Speaker B (L2, Malay):** Yes, I try. But, it not help.
+
+**Speaker A (NS):** Okay, let’s try a few more things. Can you check if all the cables are connected properly?
+
+**Speaker B (L2, Malay):** Um, how to say... cable? I check, yes, all connect.
+
+**Speaker A (NS):** Great. Let’s try resetting your network settings as well. Can you go to your device settings and reset the network?
+
+**Speaker B (L2, Malay):** Um, I not sure how to do that. Can you... um, guide me?
+
+**Speaker A (NS):** Of course! First, go to your settings. Then, find the network and internet section. There should be an option to reset network settings.
+
+**Speaker B (L2, Malay):** Okay, I find it. I press reset. What next?
+
+**Speaker A (NS):** Good. Now, wait for it to reset. It might take a few minutes. Once it’s done, try connecting to the internet again.
+
+**Speaker B (L2, Malay):** Okay, I wait. (Pause) It’s working now! Thank you so much!
+
+**Speaker A (NS):** You’re welcome! I’m glad to hear that. If you have any more issues, feel free to reach out.
+
+**Speaker B (L2, Malay):** Yes, thank you. I appreciate your help. Goodbye!
+
+**Speaker A (NS):** No problem at all. Have a great day! Goodbye!

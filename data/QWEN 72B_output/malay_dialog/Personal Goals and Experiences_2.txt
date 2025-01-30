@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hi, Farah! It's great to talk to you. How are you doing today?
+
+**Speaker B (L2, Malay):** Hi, I am good, thank you. How about you?
+
+**Speaker A (NS):** I'm doing well, thanks for asking. Can you tell me about a recent personal achievement you're proud of?
+
+**Speaker B (L2, Malay):** Um, recently I... I complete my course for web design. It is... it was online course, and I study very hard for it.
+
+**Speaker A (NS):** That's fantastic! How long did the course take?
+
+**Speaker B (L2, Malay):** It take about... about three month. I learn many thing, like HTML, CSS, and some JavaScript.
+
+**Speaker A (NS):** That's impressive! What motivated you to take this course?
+
+**Speaker B (L2, Malay):** I want to... how to say... upgrade my skill. And also, I like to create website. It is... it is fun and challenging for me.
+
+**Speaker A (NS):** That’s great! Did you have any particular project or assignment that you enjoyed the most?
+
+**Speaker B (L2, Malay):** Yes, I have to make website for... um... small business. It is for... for bakery. I design it and it look very nice. I... I proud of it.
+
+**Speaker A (NS):** That’s awesome! What was the most challenging part of creating that website?
+
+**Speaker B (L2, Malay):** The most... most difficult part is... um... how to make it responsive. I mean, it must look good on phone and on computer. It... it take a lot of time to fix.
+
+**Speaker A (NS):** I can imagine. It can be quite tricky. How do you feel now that you’ve completed the course?
+
+**Speaker B (L2, Malay):** I feel very happy and... and proud. I think it is good step for my career. And I... I want to learn more about web design.
+
+**Speaker A (NS):** That’s a great attitude to have! What are your next steps?
+
+**Speaker B (L2, Malay):** I want to find some freelance work to gain more experience. And also, I want to take another course, maybe for... for advanced JavaScript.
+
+**Speaker A (NS):** That sounds like a solid plan! I wish you all the best with your future projects and learning.
+
+**Speaker B (L2, Malay):** Thank you very much. I... I really appreciate your support.
+
+**Speaker A (NS):** You’re welcome, Farah. It was great chatting with you. Let’s talk again soon.
+
+**Speaker B (L2, Malay):** Yes, let’s talk again. Thank you, bye!
+
+**Speaker A (NS):** Bye, Farah! Take care!

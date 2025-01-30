@@ -1,0 +1,47 @@
+**Speaker A (Native Speaker, NS):** Hello! Thank you for calling customer service. My name is Alex. How can I assist you today?
+
+**Speaker B (Second-Language Speaker, Mandarin):** Hello, Alex. I... um... I have problem with my... uh, computer.
+
+**Speaker A:** I understand. Can you tell me more about the problem you're experiencing?
+
+**Speaker B:** Um, my computer, it... it not working. It... um... it show black screen.
+
+**Speaker A:** I see. When did this start happening?
+
+**Speaker B:** It start yesterday... um... when I turn on it.
+
+**Speaker A:** Got it. Have you tried restarting your computer?
+
+**Speaker B:** Yes, I try it many times, but still not working.
+
+**Speaker A:** Okay. Have you noticed any error messages or unusual sounds when you try to turn it on?
+
+**Speaker B:** No, no sound. Just black screen.
+
+**Speaker A:** I understand. Let's try a few troubleshooting steps. First, can you check if all the cables are securely connected?
+
+**Speaker B:** Um... how to say... the wires? Yes, I check them. They all okay.
+
+**Speaker A:** Great. What about the power outlet? Is the computer getting power?
+
+**Speaker B:** Yes, I plug it in... um... in wall. It... it have power.
+
+**Speaker A:** Good. Let's try one more thing. Can you remove the battery, wait for a minute, and then put it back in?
+
+**Speaker B:** Okay, I do that... um... that thing. I take out battery, wait one minute, put back in. Still not work.
+
+**Speaker A:** I see. It sounds like there might be a hardware issue. We can arrange for a technician to come and take a look. Would that be okay?
+
+**Speaker B:** Yes, that is good. When can technician come?
+
+**Speaker A:** We can schedule a visit for tomorrow. Would that work for you?
+
+**Speaker B:** Yes, tomorrow is fine. Thank you, Alex.
+
+**Speaker A:** You're welcome! I'll send you a confirmation email with the details. Is there anything else you need help with?
+
+**Speaker B:** No, that is all. Thank you very much.
+
+**Speaker A:** No problem! Have a good day. Goodbye!
+
+**Speaker B:** Goodbye, Alex. Thank you!

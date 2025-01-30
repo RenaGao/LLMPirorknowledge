@@ -1,0 +1,37 @@
+**Scene: Two coworkers, Alex (Native Speaker) and Nuch (Second-Language Speaker, Thai), are planning steps to address a shared problem at work.**
+
+**Speaker A (Alex, NS):** Hey Nuch, how’s it going? Thanks for meeting with me today.
+
+**Speaker B (Nuch, L2, Thai):** Hi Alex, I fine. What we talk about today?
+
+**Speaker A (Alex, NS):** We need to figure out how to improve our project management process. We’ve had some delays recently, and I think we can do better. What do you think?
+
+**Speaker B (Nuch, L2, Thai):** Yes, I agree. Um... we have problem with communication and tracking progress.
+
+**Speaker A (Alex, NS):** Exactly. How about we start by setting up a regular check-in schedule? We can have short meetings every week to update each other.
+
+**Speaker B (Nuch, L2, Thai):** That good idea. Maybe we can use... how to say... software for project management?
+
+**Speaker A (Alex, NS):** Yes, something like that. There are a few tools we can use, like Asana or Trello. They help us keep track of tasks and deadlines.
+
+**Speaker B (Nuch, L2, Thai):** I know Trello. It is easy to use. We can try it.
+
+**Speaker A (Alex, NS):** Great! We can also set clear goals for each phase of the project. This will help us stay focused and on track.
+
+**Speaker B (Nuch, L2, Thai):** Yes, clear goals are important. And, um, how to say... follow-up with each other?
+
+**Speaker A (Alex, NS):** Absolutely. We can send each other updates via email or Slack. This way, we can address any issues quickly.
+
+**Speaker B (Nuch, L2, Thai):** Good. And we should, um, review our progress at the end of each month.
+
+**Speaker A (Alex, NS):** That’s a great idea. It will help us see what’s working and what needs improvement. Let’s summarize our plan: weekly check-ins, using Trello for task management, setting clear goals, regular updates, and monthly reviews.
+
+**Speaker B (Nuch, L2, Thai):** Yes, that sounds good. We can start this week, yes?
+
+**Speaker A (Alex, NS):** Perfect. Thanks for your input, Nuch. I think this plan will really help us.
+
+**Speaker B (Nuch, L2, Thai):** You welcome, Alex. I look forward to work with you.
+
+**Speaker A (Alex, NS):** Me too! Let’s catch up next week to see how it’s going. Have a good day, Nuch.
+
+**Speaker B (Nuch, L2, Thai):** Thank you. Bye, Alex!

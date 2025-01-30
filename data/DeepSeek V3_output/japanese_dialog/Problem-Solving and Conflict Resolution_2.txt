@@ -1,0 +1,17 @@
+**Speaker A (NS):** Hi, Yuki. I heard you’re having some trouble with the new project software. Can we talk about it?  
+**Speaker B (L2, Japanese):** Ah, yes. Thank you. The software... it is difficult for me. I cannot find, um, how to save data.  
+**Speaker A (NS):** Oh, the "Save" function? Let me show you. First, click the top left corner. Do you see the "File" menu?  
+**Speaker B (L2, Japanese):** File menu... yes, I see it. Then what I do?  
+**Speaker A (NS):** Click "File," and then select "Save As." That lets you choose where to store the file.  
+**Speaker B (L2, Japanese):** Oh! Save As. I understand. But... um, where is good place to save it?  
+**Speaker A (NS):** Good question. Let’s create a folder on the desktop for this project. I’ll help you name it.  
+**Speaker B (L2, Japanese):** Okay, thank you. Desktop folder is good idea. I will try.  
+**Speaker A (NS):** Great! Did it work?  
+**Speaker B (L2, Japanese):** Yes, I think so. I save file now. But... another problem. Um, how to open it again?  
+**Speaker A (NS):** No problem. Just go to the folder, find the file, and double-click it. It will open automatically.  
+**Speaker B (L2, Japanese):** Double-click... ah, I see. I try it. Yes, it works! Thank you very much.  
+**Speaker A (NS):** You’re welcome! Let me know if you have more questions. We can go over exporting data next time.  
+**Speaker B (L2, Japanese):** That’s kind. I will study more about the software before next time. Um, see you later!  
+**Speaker A (NS):** Sounds good. See you later, Yuki!  
+
+**Conversation ends with a complete sentence.**

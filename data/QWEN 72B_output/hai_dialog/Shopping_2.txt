@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hi there! Welcome to our store. How can I assist you today?
+
+**Speaker B (L2, Thai):** Hello. Um, I want to return this... um, thing.
+
+**Speaker A (NS):** Sure, no problem. Can you tell me a bit more about the item you want to return?
+
+**Speaker B (L2, Thai):** It is... um, a... a... blanket. Yes, a blanket. I bought it last week.
+
+**Speaker A (NS):** Got it. Do you have the receipt with you?
+
+**Speaker B (L2, Thai):** Yes, I have. Here it is.
+
+**Speaker A (NS):** Thank you. Let me check this for you. (Pauses) Our return policy allows returns within 30 days of purchase, as long as the item is in its original condition and has all the tags attached.
+
+**Speaker B (L2, Thai):** Oh, that is good. So, I can return it?
+
+**Speaker A (NS):** Yes, you can. Does the blanket have any signs of use or damage?
+
+**Speaker B (L2, Thai):** No, it is new. I did not use it.
+
+**Speaker A (NS):** Perfect. We can process the return for you. Would you like a refund or an exchange?
+
+**Speaker B (L2, Thai):** Um, I want a refund.
+
+**Speaker A (NS):** Okay, I can do that. Can you confirm your payment method? Was it cash or credit card?
+
+**Speaker B (L2, Thai):** It was... credit card. Yes, credit card.
+
+**Speaker A (NS):** Great. I'll process the refund to your card now. (Pauses) All done! The refund will be credited to your account within 3-5 business days.
+
+**Speaker B (L2, Thai):** Thank you so much. That is very helpful.
+
+**Speaker A (NS):** You're welcome! Is there anything else you need help with today?
+
+**Speaker B (L2, Thai):** No, that is all. Thank you very much for your help.
+
+**Speaker A (NS):** It's my pleasure. Have a great day!
+
+**Speaker B (L2, Thai):** Thank you, you too! Goodbye.
+
+**Speaker A (NS):** Goodbye! Take care.

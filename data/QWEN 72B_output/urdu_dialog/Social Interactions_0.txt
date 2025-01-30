@@ -1,0 +1,45 @@
+**Speaker A (NS):** Hi there! I’m Alex. What’s your name?
+
+**Speaker B (L2, Urdu):** Hi, my name is Ayesha. Nice to meet you, Alex.
+
+**Speaker A (NS):** Nice to meet you too, Ayesha! Where are you from?
+
+**Speaker B (L2, Urdu):** I from Pakistan. But now I live in this city for my studies.
+
+**Speaker A (NS):** That’s great! What are you studying here?
+
+**Speaker B (L2, Urdu):** I study... um... literature. Yes, literature. My focus is on... how to say... modern poetry.
+
+**Speaker A (NS):** Modern poetry, that’s fascinating! Do you have a favorite poet?
+
+**Speaker B (L2, Urdu):** Yes, I like Faiz Ahmed Faiz very much. His poems are so... um... powerful and full of meaning.
+
+**Speaker A (NS):** Faiz Ahmed Faiz is a wonderful choice. What about you, Alex? What do you do?
+
+**Speaker B (L2, Urdu):** Oh, Alex, you not yet introduced yourself. What you do?
+
+**Speaker A (NS):** Right, my apologies! I’m a software engineer. I work at a tech company here in the city. I mostly work on developing new apps.
+
+**Speaker B (L2, Urdu):** Ah, very interesting. Apps, like... um... for mobile phones?
+
+**Speaker A (NS):** Exactly! We create apps for both smartphones and tablets. How do you find your studies here?
+
+**Speaker B (L2, Urdu):** I find it very good. The library here is amazing, and the professors are very helpful. I learn a lot.
+
+**Speaker A (NS):** That’s great to hear! Do you have any hobbies or interests outside of your studies?
+
+**Speaker B (L2, Urdu):** Yes, I like to read books, and I also enjoy cooking. I often make Pakistani dishes for my friends.
+
+**Speaker A (NS):** That sounds delicious! Maybe you can teach me some recipes sometime.
+
+**Speaker B (L2, Urdu):** Sure, I would like that. Do you like Pakistani food?
+
+**Speaker A (NS):** I’ve tried a few dishes and I really enjoyed them. I’m looking forward to trying more.
+
+**Speaker B (L2, Urdu):** Good, we will have fun. Um, how to say... it is late now. We should maybe exchange numbers?
+
+**Speaker A (NS):** That’s a great idea! We can definitely keep in touch. Here, let me give you my number.
+
+**Speaker B (L2, Urdu):** Thank you, Alex. It was nice to meet you.
+
+**Speaker A (NS):** Nice to meet you too, Ayesha! Have a great evening!

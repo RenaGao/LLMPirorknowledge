@@ -1,0 +1,31 @@
+**Speaker A (NS):** Hi there! I'm Alex. Can you help me with something?
+
+**Speaker B (L2, Urdu):** Yes, of course. My name is Bilal. What can I help you with?
+
+**Speaker A (NS):** Thanks, Bilal. I’m new to this town and I need to find the main library. Could you give me directions?
+
+**Speaker B (L2, Urdu):** Sure, I can help you. The main library is not far from here. Um, how to say... you need to go straight for about two blocks.
+
+**Speaker A (NS):** Okay, two blocks straight. And then what?
+
+**Speaker B (L2, Urdu):** Then, you have to turn left at the big tree. You will see a big tree, yes?
+
+**Speaker A (NS):** Yes, I see the big tree. What’s next?
+
+**Speaker B (L2, Urdu):** After the big tree, you go straight again for one more block. Then, you will see the library on your right side.
+
+**Speaker A (NS):** Great, so I go straight for two blocks, turn left at the big tree, go straight for one more block, and the library will be on my right. Got it!
+
+**Speaker B (L2, Urdu):** Yes, that is correct. The library is a big building with a lot of glass windows.
+
+**Speaker A (NS):** Thanks for the detailed directions, Bilal. Is there anything else I should know?
+
+**Speaker B (L2, Urdu):** No, I think that is everything. The library opens at 9:00 AM and closes at 7:00 PM. They have a good collection of books and a quiet reading area.
+
+**Speaker A (NS):** That sounds perfect. I’m really looking forward to checking it out. Thanks again for your help!
+
+**Speaker B (L2, Urdu):** You are welcome, Alex. If you need any more help, feel free to ask. Hope you enjoy the library!
+
+**Speaker A (NS):** I will. Thanks a lot, Bilal. Have a great day!
+
+**Speaker B (L2, Urdu):** You too, Alex. Goodbye!

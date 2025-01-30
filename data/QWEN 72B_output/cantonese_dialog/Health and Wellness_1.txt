@@ -1,37 +1,39 @@
-**Speaker A (NS):** Hey, Mei! How are you doing today?
+**Speaker A (NS):** Hi there! Thanks for coming in today. My name is Alex, and I'm a fitness trainer. How about you?
 
-**Speaker B (L2, Cantonese):** Ah, I am good. You are good, yeah? How to say... I have some question. I want stay healthy.
+**Speaker B (L2, Cantonese):** Hello, I am Mei. Nice to meet you. I want to... um, get fit and healthy.
 
-**Speaker A (NS):** Of course! I’m happy to help. What kind of advice are you looking for?
+**Speaker A (NS):** That’s a great goal, Mei! Can you tell me a bit more about what you have in mind?
 
-**Speaker B (L2, Cantonese):** Um, how to eat good and exercise. I not sure I do right.
+**Speaker B (L2, Cantonese):** Yes, I want to lose some weight and have more... more... energy, you know?
 
-**Speaker A (NS):** That’s a great place to start. Eating well and exercising are key. For eating, it’s important to have a balanced diet with lots of fruits and vegetables.
+**Speaker A (NS):** Absolutely, I understand. How often do you currently exercise?
 
-**Speaker B (L2, Cantonese):** Fruits and vegetables, yeah. I know. But, how much I need eat every day?
+**Speaker B (L2, Cantonese):** Now, I go... um, go gym two time in week. But I want to do more.
 
-**Speaker A (NS):** A good rule of thumb is to try to have at least five servings of fruits and vegetables each day. That’s about two cups of fruit and two and a half cups of vegetables.
+**Speaker A (NS):** That’s a good start. What kind of exercises do you usually do?
 
-**Speaker B (L2, Cantonese):** Ok, five. I try do that. And for exercise, what you think?
+**Speaker B (L2, Cantonese):** I do some running, and also, um... how to say... weight lifting?
 
-**Speaker A (NS):** Aim for at least 150 minutes of moderate exercise or 75 minutes of vigorous exercise each week. That could be walking, running, swimming, or even dancing.
+**Speaker A (NS):** Yes, weight lifting. That’s great. Have you tried any other types of exercise, like cardio or yoga?
 
-**Speaker B (L2, Cantonese):** Dancing? I like dancing! But, I not sure I can do 150 minutes. Is too much?
+**Speaker B (L2, Cantonese):** I try yoga, but I find it... um, hard to focus. Maybe I try more cardio?
 
-**Speaker A (NS):** It might seem like a lot, but you can break it down into smaller sessions. For example, 30 minutes of exercise five days a week.
+**Speaker A (NS):** Sure, cardio can be a lot of fun and really effective. Do you have any specific goals in mind, like a target weight or a particular event?
 
-**Speaker B (L2, Cantonese):** Oh, 30 minutes... that is better. I can do that. And what about drink? I need drink water, right?
+**Speaker B (L2, Cantonese):** Yes, I want to run 5K race in three month. That is my goal.
 
-**Speaker A (NS):** Absolutely! Staying hydrated is very important. Try to drink at least eight glasses of water a day.
+**Speaker A (NS):** That’s a fantastic goal! We can definitely work on a plan to help you achieve it. How does that sound?
 
-**Speaker B (L2, Cantonese):** Eight glasses, ok. I will try remember that. Thank you, Wing. You help me a lot.
+**Speaker B (L2, Cantonese):** Sound good! I... I trust you.
 
-**Speaker A (NS):** You’re welcome, Mei! If you have any more questions, feel free to ask. Staying healthy is a journey, and I’m here to support you.
+**Speaker A (NS):** Great! I’ll put together a workout plan that includes both cardio and strength training. We’ll start with three days a week and see how it goes.
 
-**Speaker B (L2, Cantonese):** Thank you so much. I feel good now. Um, we can talk again soon?
+**Speaker B (L2, Cantonese):** Three days, okay. I can do that. Thank you, Alex.
 
-**Speaker A (NS):** Definitely! We can catch up next week and see how you’re doing. Take care, Mei!
+**Speaker A (NS):** You’re welcome, Mei! If you have any questions or need adjustments, just let me know. How about we schedule our next session for next Tuesday?
 
-**Speaker B (L2, Cantonese):** Ok, bye-bye! See you next week. Thank you!
+**Speaker B (L2, Cantonese):** Yes, Tuesday is good. See you next Tuesday!
 
-**Speaker A (NS):** Bye, Mei! Talk to you soon!
+**Speaker A (NS):** Perfect! See you then, Mei. Take care.
+
+**Speaker B (L2, Cantonese):** You too. Goodbye!

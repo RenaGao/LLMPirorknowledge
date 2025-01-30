@@ -1,0 +1,25 @@
+**Speaker A (NS):** Hello! Thank you for calling customer service. How can I help you today?  
+**Speaker B (L2, Cantonese):** Hello, um… I have problem with my recent buy.  
+**Speaker A (NS):** I’m sorry to hear that. What’s the issue with your purchase?  
+**Speaker B (L2, Cantonese):** I buy phone last week, but it not work… um, how to say… it cannot turn on.  
+**Speaker A (NS):** Oh, the phone doesn’t turn on at all? That’s definitely frustrating. Did you try charging it?  
+**Speaker B (L2, Cantonese):** Yes, I charge it many time, but still… no power. It is like… dead.  
+**Speaker A (NS):** I understand. It sounds like there might be a defect. Do you have the receipt or order number?  
+**Speaker B (L2, Cantonese):** Yes, I have receipt. It is in my bag… wait, I find it. Here, the number is 123456.  
+**Speaker A (NS):** Great, thank you. Let me check that for you.  
+**Speaker B (L2, Cantonese):** Thank you. I worry because it is new phone, and I need it for work.  
+**Speaker A (NS):** I completely understand. I’ll do my best to resolve this quickly.  
+**Speaker B (L2, Cantonese):** Thank you. You very kind.  
+**Speaker A (NS):** You’re welcome! I see the order here. Since the phone is defective, we can either replace it or issue a refund. Which would you prefer?  
+**Speaker B (L2, Cantonese):** Ah, I think… I want new phone. How long it take?  
+**Speaker A (NS):** We can ship a replacement within 2–3 business days. Does that work for you?  
+**Speaker B (L2, Cantonese):** Yes, that is okay. But… how I return the old phone?  
+**Speaker A (NS):** We’ll email you a return label. Just pack it securely and drop it off at the post office.  
+**Speaker B (L2, Cantonese):** Okay, I understand. Thank you for help.  
+**Speaker A (NS):** You’re welcome! Is there anything else I can assist you with today?  
+**Speaker B (L2, Cantonese):** No, that is all. Thank you very much.  
+**Speaker A (NS):** Great! You should receive the replacement phone and return label soon. Have a wonderful day!  
+**Speaker B (L2, Cantonese):** Thank you, you too. Goodbye!  
+**Speaker A (NS):** Goodbye!  
+
+(End of conversation)

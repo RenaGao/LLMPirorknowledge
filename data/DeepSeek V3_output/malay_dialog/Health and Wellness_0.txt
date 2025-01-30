@@ -1,0 +1,21 @@
+**Speaker A (NS, Doctor):** Good morning! How can I help you today?  
+**Speaker B (L2, Malay):** Good morning, Doctor. I feel not well, um... since two days.  
+**Speaker A (NS):** I see. Could you tell me more about your symptoms?  
+**Speaker B (L2, Malay):** Ah, yes. I have headache... uh, very strong. And also, my body feel... um, warm? Like have fever.  
+**Speaker A (NS):** A headache and fever. Anything else?  
+**Speaker B (L2, Malay):** Yes, I feel tired always. And my throat... uh, how to say... pain when swallow.  
+**Speaker A (NS):** A sore throat and tiredness. Have you measured your temperature?  
+**Speaker B (L2, Malay):** Yes, Doctor. I use thermometer. It say 38.5.  
+**Speaker A (NS):** That’s quite high. Do you have a cough or runny nose?  
+**Speaker B (L2, Malay):** Uh, no cough, but sometimes my nose is... uh, water come out.  
+**Speaker A (NS):** I understand. It sounds like you might have the flu. Have you taken any medication?  
+**Speaker B (L2, Malay):** I take... uh, paracetamol, but not help much.  
+**Speaker A (NS):** Okay. I’ll prescribe you something stronger for the fever and pain. And rest is very important.  
+**Speaker B (L2, Malay):** Yes, Doctor. I will rest. Um... how long I will feel like this?  
+**Speaker A (NS):** Usually, the flu lasts about a week. If you don’t feel better by then, come back, okay?  
+**Speaker B (L2, Malay):** Okay, Doctor. Thank you very much for your help.  
+**Speaker A (NS):** You’re welcome. Take care, and get well soon!  
+**Speaker B (L2, Malay):** Yes, Doctor. I try to rest and take medicine. See you next time.  
+**Speaker A (NS):** Yes, see you next time. Take care!  
+
+**End of conversation.**

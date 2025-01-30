@@ -1,0 +1,22 @@
+**Speaker A (NS, Store Employee):** Good afternoon! How can I help you today?  
+**Speaker B (L2, Japanese Customer):** Ah, yes, hello. I want... um, to return this thing.  
+**Speaker A (NS):** Sure, no problem. Do you have the receipt?  
+**Speaker B (L2):** Yes, yes. I have it here.  
+**Speaker A (NS):** Great. May I see it, please?  
+**Speaker B (L2):** Here. Oh, wait, I think I... put it in other bag. One moment, please.  
+**Speaker A (NS):** Take your time.  
+**Speaker B (L2):** Found it! Here is receipt.  
+**Speaker A (NS):** Perfect, thank you. And what’s the reason for returning it?  
+**Speaker B (L2):** It is... um, not fit for my need. I buy for work, but too small.  
+**Speaker A (NS):** I see. Just to confirm, it’s unused and in its original packaging, right?  
+**Speaker B (L2):** Yes, yes. I not open it.  
+**Speaker A (NS):** That’s great. I can process the refund for you. Would you prefer the refund back to your card or store credit?  
+**Speaker B (L2):** Card, please. How long it take?  
+**Speaker A (NS):** It usually takes 3 to 5 business days to appear on your statement.  
+**Speaker B (L2):** Okay. That is fine.  
+**Speaker A (NS):** Alright, I’ll process it now. Is there anything else I can help you with today?  
+**Speaker B (L2):** No, thank you. You are very kind.  
+**Speaker A (NS):** You’re welcome! Have a great day.  
+**Speaker B (L2):** You too. Thank you for your help. Goodbye!  
+
+The conversation ends with the customer successfully returning the product and expressing gratitude.

@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hey, welcome to the team! I’m Sarah. Today, I’ll explain how to handle the weekly report.  
+**Speaker B (Mandarin Speaker):** Thank you, Sarah. Okay, I listen carefully.  
+
+**Speaker A:** Great! First, you need to collect data from the sales team every Monday.  
+**Speaker B:** Ah, collect data... from sales team. What kind of data?  
+
+**Speaker A:** It’s mostly numbers, like how many products they sold. Sometimes, they also give feedback.  
+**Speaker B:** Oh, I see. Numbers and... um, feedback. Okay.  
+
+**Speaker A:** After collecting, you need to organize it into a spreadsheet. Do you know how to use Excel?  
+**Speaker B:** Yes, I know Excel. But maybe need... some practice again.  
+
+**Speaker A:** No problem. Once the data is in Excel, you calculate the total sales for the week.  
+**Speaker B:** Calculate total sales. I think I can do this.  
+
+**Speaker A:** Next, you write a summary. Just a few sentences about trends or what stood out.  
+**Speaker B:** Summary... maybe need help with words. My English writing is... not so good.  
+
+**Speaker A:** I can help with that. Once the summary is done, you email the report to the manager.  
+**Speaker B:** Ah, send email to manager. I can do this.  
+
+**Speaker A:** Perfect. Oh, and don’t forget to save the file with the correct name. Like “Sales_Report_Week1.”  
+**Speaker B:** Okay, save file with name... “Sales_Report_Week1.” Got it.  
+
+**Speaker A:** That’s pretty much it. Do you have any questions?  
+**Speaker B:** Um... how to say... what if sales team not give data on time?  
+
+**Speaker A:** Good question. If they’re late, just remind them politely.  
+**Speaker B:** Remind them... politely. Okay, I understand.  
+
+**Speaker A:** Great! Let me know if you need help with anything else.  
+**Speaker B:** Thank you, Sarah. I will try my best.  
+
+**Speaker A:** I’m sure you’ll do great. Let’s meet again tomorrow to check progress.  
+**Speaker B:** Yes, tomorrow. Thank you again, Sarah. See you!  
+
+**Speaker A:** See you tomorrow! Good luck with the first report!  
+**Speaker B:** Thank you! I will work hard.  
+
+**Speaker A:** That’s the spirit! Bye for now.  
+**Speaker B:** Bye, Sarah!

@@ -1,0 +1,39 @@
+**Speaker A (Native Speaker, NS):** Hi, Xiao Li! Thanks for coming in today. How are you doing?
+
+**Speaker B (Second-Language Speaker, Mandarin):** Hi! I am good, thank you. How you doing?
+
+**Speaker A:** I'm doing well, thanks! We need to discuss the upcoming project deadline. When is the final submission due?
+
+**Speaker B:** Um, the deadline is... let me check... next Friday.
+
+**Speaker A:** Next Friday, got it. Do you have any concerns about meeting the deadline?
+
+**Speaker B:** Yes, I... um, worry about... how to say... the workload. It is big project, and team members also have other things.
+
+**Speaker A:** I understand. Is there anything specific that’s causing the most concern?
+
+**Speaker B:** The data analysis part. It need lot of time and... um, skills. I think we need more person to help.
+
+**Speaker A:** That makes sense. Have you talked to the team about it?
+
+**Speaker B:** Yes, I talk to them. They say they can help, but they also busy.
+
+**Speaker A:** Okay. How about we schedule a team meeting to discuss this? We can find the best way to distribute the tasks.
+
+**Speaker B:** Good idea! When we have meeting?
+
+**Speaker A:** How about tomorrow afternoon at 2 p.m.?
+
+**Speaker B:** 2 p.m. is fine. I will tell the team.
+
+**Speaker A:** Great! And if you have any other issues, feel free to come to me. I want to make sure everyone is comfortable and the project is on track.
+
+**Speaker B:** Thank you! I will. Um, anything else we need talk about?
+
+**Speaker A:** I think that covers everything. Thanks for bringing up the concerns. I’ll see you tomorrow at the meeting.
+
+**Speaker B:** Yes, see you tomorrow. Thank you!
+
+**Speaker A:** You’re welcome. Have a good day, Xiao Li!
+
+**Speaker B:** You too! Bye!

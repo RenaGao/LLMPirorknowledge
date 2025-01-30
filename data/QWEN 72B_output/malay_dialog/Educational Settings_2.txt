@@ -1,0 +1,39 @@
+**Speaker A (NS):** Hey, Farah! How’s it going?
+
+**Speaker B (L2, Malay):** Hi, Aiman! I fine, thanks. How about you?
+
+**Speaker A (NS):** I’m good, thanks! We have a study group meeting today. Do you have any topics you want to discuss?
+
+**Speaker B (L2, Malay):** Yes, I have one. I think... um, the topic about... how to say... the theory of relativity. It is very hard for me.
+
+**Speaker A (NS):** Ah, the theory of relativity! That’s a tough one. What exactly is challenging about it for you?
+
+**Speaker B (L2, Malay):** Um... I don’t understand the concept of time dilation. How time can be different for different people.
+
+**Speaker A (NS):** That’s a great point. Time dilation is one of the most interesting and confusing parts. So, imagine you have a clock moving at a very high speed compared to another clock that’s stationary.
+
+**Speaker B (L2, Malay):** Yes, I know that. But how the time... how to say... change?
+
+**Speaker A (NS):** The time on the moving clock will actually run slower compared to the stationary one. This is because the faster an object moves, the slower time passes for it.
+
+**Speaker B (L2, Malay):** Oh, I see. So, if I travel very fast, my time will... um, slow down?
+
+**Speaker A (NS):** Exactly! It’s a bit counterintuitive, but that’s what the theory predicts. It’s been proven by experiments too.
+
+**Speaker B (L2, Malay):** That is very interesting. But... how to apply it in real life?
+
+**Speaker A (NS):** Good question! One practical example is the GPS system. The satellites in orbit are moving very fast, so their clocks run slightly slower than clocks on Earth. We have to account for this to get accurate GPS signals.
+
+**Speaker B (L2, Malay):** Ah, I understand now. So, the GPS need to fix the time difference to work properly?
+
+**Speaker A (NS):** Yes, that’s right! It’s a small but crucial adjustment. Want to go over any more concepts or do you feel comfortable with this?
+
+**Speaker B (L2, Malay):** I think I need more practice, but I understand the basic idea now. Thank you, Aiman!
+
+**Speaker A (NS):** You’re welcome! We can go over more examples next time. It’s important to keep practicing.
+
+**Speaker B (L2, Malay):** Boleh! See you next time, Aiman. Thank you again.
+
+**Speaker A (NS):** No problem, Farah. Have a great day! Bye!
+
+**Speaker B (L2, Malay):** You too! Bye!

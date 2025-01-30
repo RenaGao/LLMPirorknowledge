@@ -1,0 +1,33 @@
+**Speaker A (NS):** Hello! Thank you for calling our customer service. How can I assist you today?
+
+**Speaker B (L2, Korean):** Ah, hello. I, um, have problem with my recent purchase. Can you help, please?
+
+**Speaker A (NS):** Of course! Could you tell me more about the issue?
+
+**Speaker B (L2, Korean):** Yes. I buy this... um, how to say... device for charging phone. It not work.
+
+**Speaker A (NS):** I see. When did you purchase this charging device?
+
+**Speaker B (L2, Korean):** Um, it was about three days ago. I try to use it, but it not charge my phone.
+
+**Speaker A (NS):** I’m sorry to hear that. Can you tell me the model number or the item number of the device?
+
+**Speaker B (L2, Korean):** Ah, let me check. It is... model number 12345.
+
+**Speaker A (NS):** Thank you. I’ll look that up for you. Have you tried resetting the device or using a different USB port?
+
+**Speaker B (L2, Korean):** Yes, I try that. It still not work. I very sad.
+
+**Speaker A (NS):** I understand. I’m really sorry for the inconvenience. We can either send you a replacement or issue a refund. Which would you prefer?
+
+**Speaker B (L2, Korean):** Um, I think replacement is better. How long it take to get new one?
+
+**Speaker A (NS):** We’ll send it out today, and it should arrive within 3 to 5 business days. Is there anything else I can assist you with?
+
+**Speaker B (L2, Korean):** No, I think that is all. Thank you for help. You are very kind.
+
+**Speaker A (NS):** You’re welcome! If you have any more issues, please don’t hesitate to contact us. Have a great day!
+
+**Speaker B (L2, Korean):** Yes, thank you. Goodbye!
+
+**Speaker A (NS):** Goodbye! Take care!

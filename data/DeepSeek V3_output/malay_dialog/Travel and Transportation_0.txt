@@ -1,0 +1,39 @@
+**Speaker A (NS, Store Employee):** Hi there! How can I help you today?  
+
+**Speaker B (L2, Malay):** Ah, hello. I want to return this thing, um, product.  
+
+**Speaker A (NS):** Sure, no problem. Do you have the receipt with you?  
+
+**Speaker B (L2, Malay):** Yes, I have. Here it is. The product is... uh, it is not work properly.  
+
+**Speaker A (NS):** I’m sorry to hear that. What seems to be the issue?  
+
+**Speaker B (L2, Malay):** It is... uh, how to say... the screen is not showing anything. Black all the time.  
+
+**Speaker A (NS):** Oh, I see. Was it like this when you bought it?  
+
+**Speaker B (L2, Malay):** No, no. It work first, but after two days, it stop. I try many times, but no luck.  
+
+**Speaker A (NS):** Got it. Since it’s within 30 days of purchase, we can process a full refund for you.  
+
+**Speaker B (L2, Malay):** That is good. So, I can get money back now?  
+
+**Speaker A (NS):** Yes, if you paid by card, we can refund it to the same card.  
+
+**Speaker B (L2, Malay):** Okay, I pay by card. So, how long it take for money to go back?  
+
+**Speaker A (NS):** It usually takes 3–5 business days to appear in your account.  
+
+**Speaker B (L2, Malay):** Ah, I understand. That’s fine. Thank you very much.  
+
+**Speaker A (NS):** No problem at all. Is there anything else I can assist you with today?  
+
+**Speaker B (L2, Malay):** No, that’s all. I am happy with this help. Thank you again.  
+
+**Speaker A (NS):** You’re welcome! Have a great day.  
+
+**Speaker B (L2, Malay):** You too. Goodbye!  
+
+**Speaker A (NS):** Goodbye!  
+
+*The conversation ends with a polite and complete sentence, within the 20-turn limit.*

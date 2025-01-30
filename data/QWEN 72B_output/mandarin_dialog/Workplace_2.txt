@@ -1,0 +1,47 @@
+**Scene: A native English speaker, Jamie, is explaining a new task to a new coworker, Xiao Ming, who is a Mandarin speaker.**
+
+**Jamie (NS):** Hi Xiao Ming, welcome to the team! I heard you just started this week.
+
+**Xiao Ming (L2):** Hello, thanks! Yes, I started on Monday. Nice to meet you, Jamie.
+
+**Jamie (NS):** Nice to meet you too! I wanted to go over a project we’re working on. It involves creating a report on market trends. Have you worked on something like this before?
+
+**Xiao Ming (L2):** Um, not really. But I... I learn fast. What... what is the main goal of this report?
+
+**Jamie (NS):** Great attitude! The main goal is to analyze current market trends and identify opportunities for our company. We’ll be looking at data from the past year and making projections for the next six months.
+
+**Xiao Ming (L2):** Oh, I see. So, we need to... um, collect data and then... how to say... analyze it?
+
+**Jamie (NS):** Exactly! We’ll start by gathering data from various sources like industry reports, customer feedback, and sales data. Then, we’ll analyze this data to spot trends and patterns.
+
+**Xiao Ming (L2):** Sounds good. Where do we get the data from?
+
+**Jamie (NS):** We have a few reliable sources. We can use our company’s internal databases, as well as external databases and reports from market research firms. I can show you where to find them.
+
+**Xiao Ming (L2):** That’s helpful. And after we get the data, what do we do next?
+
+**Jamie (NS):** After we collect the data, we’ll input it into a spreadsheet. Then, we’ll use tools like Excel to create charts and graphs that help us visualize the trends. Finally, we’ll write up our findings in a report.
+
+**Xiao Ming (L2):** I understand. So, we use Excel to make the charts?
+
+**Jamie (NS):** Yes, exactly. Excel is a great tool for this. If you’re not familiar with it, I can show you some basic functions.
+
+**Xiao Ming (L2):** No, I know a little. But it’s good to have a refresher. Thanks!
+
+**Jamie (NS):** No problem! We’ll work together, and I’m sure you’ll get the hang of it. When do you think you can start on this task?
+
+**Xiao Ming (L2):** I think... I can start tomorrow. Is that okay?
+
+**Jamie (NS):** That sounds perfect. We have a meeting with the team on Friday to discuss our progress. Can you have a draft of the report ready by then?
+
+**Xiao Ming (L2):** Yes, I will try my best. Should I send you the draft before the meeting?
+
+**Jamie (NS):** That would be great. Just send it to me by Thursday afternoon. We can review it together.
+
+**Xiao Ming (L2):** Okay, no problem. Thanks for your help, Jamie.
+
+**Jamie (NS):** You’re welcome, Xiao Ming! If you have any questions, just let me know. Have a good day!
+
+**Xiao Ming (L2):** You too! See you tomorrow.
+
+**Jamie (NS):** See you then!

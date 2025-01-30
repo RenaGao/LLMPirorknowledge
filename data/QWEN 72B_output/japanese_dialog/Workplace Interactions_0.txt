@@ -1,0 +1,45 @@
+**Speaker A (NS):** Hi, Sora! How are you today?
+
+**Speaker B (L2, Japanese):** Hi, I am good, thank you. And you?
+
+**Speaker A (NS):** I’m doing well, thanks for asking! We need to discuss the project deadlines and tasks. Do you have a moment?
+
+**Speaker B (L2, Japanese):** Yes, I have time now. What we need to talk about?
+
+**Speaker A (NS):** Great. First, let’s go over the tasks for this week. We need to finish the report by Friday.
+
+**Speaker B (L2, Japanese):** Ah, yes, the report. I working on it. But, um, it is... how to say... big task. I think need more time.
+
+**Speaker A (NS):** I understand. Is there anything specific that’s causing a delay?
+
+**Speaker B (L2, Japanese):** Yes, the data collection is... um, taking long. Also, I need to check with client for some information.
+
+**Speaker A (NS):** Okay, let’s break it down. Can you focus on the data you already have and finish the first draft by Wednesday?
+
+**Speaker B (L2, Japanese):** Yes, I can do that. On Wednesday, I give you the draft.
+
+**Speaker A (NS):** Perfect. And for the missing information, send an email to the client today and follow up tomorrow. Can you do that?
+
+**Speaker B (L2, Japanese):** Yes, I send email today. And, um, check again tomorrow.
+
+**Speaker A (NS):** Great. What about the presentation? We need to finalize that by Thursday.
+
+**Speaker B (L2, Japanese):** Ah, the presentation. I start working on it. It is not problem, I think.
+
+**Speaker A (NS):** Good. Let’s plan a quick review session on Thursday morning to go over the final touches.
+
+**Speaker B (L2, Japanese):** Yes, that is good idea. Thursday morning, I can come.
+
+**Speaker A (NS):** Perfect. And one more thing, can you also update the project tracker with the latest status?
+
+**Speaker B (L2, Japanese):** Yes, I update it today. Everything is clear now.
+
+**Speaker A (NS):** Excellent. Thanks, Sora. It’s all clear to me now too. Let’s stay in touch and make sure we’re on track.
+
+**Speaker B (L2, Japanese):** Yes, we will do that. Thank you for your help.
+
+**Speaker A (NS):** No problem at all. Have a great day, Sora!
+
+**Speaker B (L2, Japanese):** You too. Goodbye!
+
+**Speaker A (NS):** Goodbye!

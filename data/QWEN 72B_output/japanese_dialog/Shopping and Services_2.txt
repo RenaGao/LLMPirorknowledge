@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hello, thank you for calling ABC Electronics Customer Service. My name is Emily. How can I assist you today?
+
+**Speaker B (L2, Japanese):** Hello, Emily. My name is Sora. I have problem with new camera I buy last week.
+
+**Speaker A (NS):** I’m sorry to hear that, Sora. Can you tell me more about the problem?
+
+**Speaker B (L2, Japanese):** Um, when I take picture, sometimes it is... um, not clear. It is blurry.
+
+**Speaker A (NS):** I see. Is the camera focusing properly before you take the picture?
+
+**Speaker B (L2, Japanese):** Yes, I wait for focus, but still, some pictures are blurry.
+
+**Speaker A (NS):** Have you tried cleaning the lens to see if that helps?
+
+**Speaker B (L2, Japanese):** Yes, I clean lens. Not help.
+
+**Speaker A (NS):** Okay, thank you for letting me know. Can you tell me the model number of the camera and when you purchased it?
+
+**Speaker B (L2, Japanese):** Model is C-5000. I buy it last Tuesday.
+
+**Speaker A (NS):** Got it. Is the camera still under warranty?
+
+**Speaker B (L2, Japanese):** I think so. It say in manual warranty is one year.
+
+**Speaker A (NS):** Great. We can definitely help with that. We’ll need to send it back for a check-up. Can you bring it to our nearest store, or would you prefer us to mail you a return label?
+
+**Speaker B (L2, Japanese):** Um, how to say... return label is good. I live far from store.
+
+**Speaker A (NS):** Sure, I can send you a return label. Do you have a preferred shipping method?
+
+**Speaker B (L2, Japanese):** Regular mail is fine.
+
+**Speaker A (NS):** Perfect. I’ll send the return label to the email you provided. Is there anything else you need help with?
+
+**Speaker B (L2, Japanese):** No, that is all. Thank you, Emily.
+
+**Speaker A (NS):** You’re welcome, Sora. I’ll send the label right away. If you have any other questions, feel free to call us. Have a great day!
+
+**Speaker B (L2, Japanese):** Thank you. You too. Goodbye.
+
+**Speaker A (NS):** Goodbye, Sora. Take care!

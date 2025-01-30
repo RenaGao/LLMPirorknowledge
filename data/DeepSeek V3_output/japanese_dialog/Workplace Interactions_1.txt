@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hi there! Welcome to the team. Today, I’ll explain how we handle client requests. Sound good?
+
+**Speaker B (L2, Japanese):** Yes, thank you. I am happy to learn.
+
+**Speaker A (NS):** Great! It’s pretty straightforward. First, a client sends us a request by email. We check it to make sure we understand what they need. Do you follow so far?
+
+**Speaker B (L2, Japanese):** Yes, I think so. We get email and then... um, check it.
+
+**Speaker A (NS):** Exactly. Next, we assign the request to the right team member. For example, if it’s about design, it goes to the design team. If it’s technical, it goes to the engineers. Does that make sense?
+
+**Speaker B (L2, Japanese):** Ah, I see. We need to... uh, decide who will do it.
+
+**Speaker A (NS):** Yes, that’s right. After that, the team member works on the request and sends it back to the client. We also follow up to make sure they’re happy with the result. Any questions so far?
+
+**Speaker B (L2, Japanese):** Uh, how to... how to follow up?
+
+**Speaker A (NS):** Good question! We send an email or call the client to ask if everything is okay. If they need changes, we help them.
+
+**Speaker B (L2, Japanese):** I understand. It is... um, important to make client happy.
+
+**Speaker A (NS):** Exactly! Client satisfaction is our top priority. Once everything is resolved, we mark the request as completed in our system. Do you know how to use the system?
+
+**Speaker B (L2, Japanese):** Uh, no. I need to learn it.
+
+**Speaker A (NS):** No problem! I’ll show you how to use it later. For now, just focus on understanding the process. Does it all seem clear?
+
+**Speaker B (L2, Japanese):** Yes, I understand. First, we get email, then assign, work, and follow up. And mark complete.
+
+**Speaker A (NS):** Perfect! You summarized it really well. Do you feel ready to start working on client requests?
+
+**Speaker B (L2, Japanese):** Yes, I will try my best. Thank you for explaining.
+
+**Speaker A (NS):** You’re welcome! Let me know if you have any questions. Welcome to the team again!
+
+**Speaker B (L2, Japanese):** Thank you! I am happy to be here. Goodbye!
+
+**Speaker A (NS):** Goodbye! See you around!

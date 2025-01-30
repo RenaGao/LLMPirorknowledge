@@ -1,0 +1,39 @@
+**Speaker A (NS):** Hello! Thank you for reaching out to our customer service. My name is Sarah. How can I assist you today?
+
+**Speaker B (L2, Urdu):** Hello, Sarah. My name is Ayesha. Um... I have a problem with my recent purchase.
+
+**Speaker A (NS):** Of course, Ayesha. Could you tell me more about the issue you're facing?
+
+**Speaker B (L2, Urdu):** Yes, I bought a... how to say... a bookshelf from your online store. But when I received it, it was... broken.
+
+**Speaker A (NS):** I'm sorry to hear that, Ayesha. Can you describe the damage to me, please?
+
+**Speaker B (L2, Urdu):** Yes, the shelves... they are cracked. And the legs... um, they are not stable. They are loose.
+
+**Speaker A (NS):** I see. That's really unfortunate. When did you receive the bookshelf?
+
+**Speaker B (L2, Urdu):** I received it... um, two days ago.
+
+**Speaker A (NS):** Thank you for that information. Have you tried contacting us before today?
+
+**Speaker B (L2, Urdu):** No, this is my first time. I thought maybe it was just a small problem, but it is not.
+
+**Speaker A (NS):** I understand. We can certainly help you with this. Do you have the receipt and the order number?
+
+**Speaker B (L2, Urdu):** Yes, I have them. The order number is... let me check... it is 123456.
+
+**Speaker A (NS):** Perfect, thank you. We can process a return or exchange for you. Which would you prefer?
+
+**Speaker B (L2, Urdu):** I would like to exchange it, if possible. I still need the bookshelf.
+
+**Speaker A (NS):** Of course, we can arrange that for you. I will send you an email with the instructions on how to return the damaged item and receive a new one.
+
+**Speaker B (L2, Urdu):** Thank you, Sarah. That is very kind.
+
+**Speaker A (NS):** You're welcome, Ayesha. Is there anything else you need help with?
+
+**Speaker B (L2, Urdu):** No, I think that is all. Thank you very much for your help.
+
+**Speaker A (NS):** It's my pleasure. Have a great day, Ayesha. Goodbye!
+
+**Speaker B (L2, Urdu):** You too. Goodbye, Sarah.

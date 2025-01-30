@@ -1,37 +1,43 @@
-**Speaker A (NS):** Hi, Wing! How are you feeling today?
+**Speaker A (NS):** Hi there, how are you feeling today?
 
-**Speaker B (L2, Cantonese):** Oh, hello! I, um, not feel very good. I have... um, headache and... cough.
+**Speaker B (L2, Cantonese):** Oh, hello. I no so good. I have... um, cold, I think.
 
-**Speaker A (NS):** I see. How long have you had these symptoms?
+**Speaker A (NS):** I see. Can you tell me more about your symptoms?
 
-**Speaker B (L2, Cantonese):** Hmm, about three day, I think. Maybe... four?
+**Speaker B (L2, Cantonese):** Yes. I have... uh, how to say... runny nose, and I feel very tired.
 
-**Speaker A (NS):** Okay. Do you have any other symptoms, like a fever or a runny nose?
+**Speaker A (NS):** Okay, and do you have a fever?
 
-**Speaker B (L2, Cantonese):** Um, yes, I have fever. And my nose... um, runny nose. Also, I feel very tired.
+**Speaker B (L2, Cantonese):** I think, maybe. I not measure, but I feel hot.
 
-**Speaker A (NS):** That sounds tough. Have you taken any medicine?
+**Speaker A (NS):** I understand. How about your throat? Is it sore?
 
-**Speaker B (L2, Cantonese):** Yes, I take... um, paracetamol. But I not feel better yet.
+**Speaker B (L2, Cantonese):** Yes, my throat is sore. And I cough sometimes.
 
-**Speaker A (NS):** I understand. Have you been experiencing any other discomfort, like body aches or a sore throat?
+**Speaker A (NS):** Have you been experiencing any headaches or body aches?
 
-**Speaker B (L2, Cantonese):** Yes, I have sore throat. And my body... um, ache all over.
+**Speaker B (L2, Cantonese):** Um, yes, I have headache. Not so much, but little bit. And my body... uh, feel achy.
 
-**Speaker A (NS):** Got it. Have you been around anyone who has been sick recently?
+**Speaker A (NS):** Got it. How long have you had these symptoms?
 
-**Speaker B (L2, Cantonese):** Um, no. I not go out much. Just stay home.
+**Speaker B (L2, Cantonese):** Since yesterday. I think it start yesterday morning.
 
-**Speaker A (NS):** Okay. It’s important to rest and stay hydrated. I’ll prescribe some medication to help with your symptoms. Do you have any allergies?
+**Speaker A (NS):** Okay. Have you taken any medication for these symptoms?
 
-**Speaker B (L2, Cantonese):** No, I no have allergy.
+**Speaker B (L2, Cantonese):** Yes, I take some cold medicine, but it not help so much.
 
-**Speaker A (NS):** Great. I’ll also recommend you get plenty of rest and drink lots of fluids. If you don’t see improvement in a few days, please come back and see me.
+**Speaker A (NS):** I see. Have you been drinking plenty of water and getting enough rest?
 
-**Speaker B (L2, Cantonese):** Thank you, doctor. I, um, follow your advice. Hope I feel better soon.
+**Speaker B (L2, Cantonese):** Yes, I try to drink more water. And I sleep early last night.
 
-**Speaker A (NS):** I hope so too. Take care of yourself, Wing. Feel better soon!
+**Speaker A (NS):** That’s good. It sounds like you have a viral cold. I’ll prescribe you some medication to help with the symptoms. 
+
+**Speaker B (L2, Cantonese):** Thank you. I hope it help.
+
+**Speaker A (NS):** It should. Make sure to get plenty of rest and stay hydrated. Is there anything else I should know?
+
+**Speaker B (L2, Cantonese):** No, I think that’s all. Thank you, doctor.
+
+**Speaker A (NS):** You’re welcome. Take care of yourself, and feel better soon. Goodbye!
 
 **Speaker B (L2, Cantonese):** Thank you, doctor. Goodbye!
-
-**Speaker A (NS):** Goodbye, Wing. Take care!

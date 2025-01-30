@@ -1,0 +1,35 @@
+**Speaker A (Native Speaker, NS)**: Hey Xiao Li, how’s it going? Are you free to talk about the project deadlines and tasks for a bit?
+
+**Speaker B (Second-Language Speaker, Mandarin)**: Hi, yes, I am free. How about you?
+
+**Speaker A**: Good, thanks! So, we have a few upcoming deadlines. The first one is for the initial design review, which is due next Friday. Have you started on your part?
+
+**Speaker B**: Um, I start, but I not finish yet. I have some trouble with the layout. How to say... the design is not... not easy.
+
+**Speaker A**: I understand. It can be challenging. Do you need any help or resources to get unstuck?
+
+**Speaker B**: Yes, I think so. Maybe you can show me some examples of good layout?
+
+**Speaker A**: Sure, I can send you some templates and examples later today. That should help. What about the data collection? Have you started on that?
+
+**Speaker B**: Ah, yes, I start data collection. I have some data, but I need more. I plan to finish it by Wednesday.
+
+**Speaker A**: Great, that sounds good. Let’s make sure to double-check the data for accuracy. We don’t want any errors slipping through.
+
+**Speaker B**: Yes, I will check it carefully. I also think we need to talk about the report. When we start writing it?
+
+**Speaker A**: Good point. Let’s start drafting the report next Monday. We can divide the sections between us to make it manageable. What do you think?
+
+**Speaker B**: That work for me. I can write the introduction and the methods section.
+
+**Speaker A**: Perfect! I’ll handle the results and conclusion. We can meet mid-week to review each other’s sections and make sure everything flows well.
+
+**Speaker B**: Yes, that is good plan. I will send you my part by Thursday.
+
+**Speaker A**: Sounds great! Thanks for the update, Xiao Li. Everything is on track so far. 
+
+**Speaker B**: Thank you. I will work hard to finish my part. See you next week.
+
+**Speaker A**: See you then! Have a good weekend! Bye!
+
+**Speaker B**: Bye! Have a good weekend too!

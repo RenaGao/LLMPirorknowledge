@@ -1,0 +1,41 @@
+**Speaker A (Native Speaker, NS)**: Hi, Xiao Li! How are you today?
+
+**Speaker B (Second-Language Speaker, Mandarin)**: Hi, I am good, thank you. How are you?
+
+**Speaker A**: I’m doing well, thanks. I heard you have a question about the assignment?
+
+**Speaker B**: Yes, I have question. Um, can you explain more about the project?
+
+**Speaker A**: Of course! What part of the project are you unsure about?
+
+**Speaker B**: The part where we need to... um, how to say... the thing for fixing paper. I not understand.
+
+**Speaker A**: Oh, you mean the stapler?
+
+**Speaker B**: Yes, stapler! I not sure if I need to use stapler or... um, paper clip.
+
+**Speaker A**: For this assignment, you can use either a stapler or paper clips. It’s just to keep your pages together neatly.
+
+**Speaker B**: Okay, I see. And, the word count, it is... 1000 words?
+
+**Speaker A**: That’s right. The assignment should be between 1000 and 1200 words.
+
+**Speaker B**: Oh, I understand. And, for the research part, we need to use how many sources?
+
+**Speaker A**: You should use at least three reliable sources. This could be books, academic articles, or reputable websites.
+
+**Speaker B**: Three, okay. Can we use... um, Wikipedia?
+
+**Speaker A**: It’s best to use sources other than Wikipedia, but you can use it to get an overview of the topic. Just make sure to check the references and use those for your citations.
+
+**Speaker B**: Okay, I understand. And, the due date, it is next Friday?
+
+**Speaker A**: Yes, the due date is next Friday. Don’t forget to submit it by 11:59 PM.
+
+**Speaker B**: Okay, I will remember. Thank you so much for your help, Teacher.
+
+**Speaker A**: You’re welcome, Xiao Li! If you have any more questions, feel free to ask. Good luck with your assignment!
+
+**Speaker B**: Thank you! I will. Goodbye, Teacher.
+
+**Speaker A**: Goodbye, Xiao Li! See you in class!

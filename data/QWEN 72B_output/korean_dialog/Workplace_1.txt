@@ -1,0 +1,47 @@
+**Scene: A job interview for a software developer position.**
+
+**Speaker A (NS, Interviewer):** Good afternoon! Thank you for coming in today. Can you tell me a little bit about yourself?
+
+**Speaker B (L2, Korean, Interviewee):** Good afternoon. Um, thank you for having me. My name is Jisoo. I am from Seoul, Korea. I studied computer science in university for four years. I like coding and um, creating new things.
+
+**Speaker A (NS, Interviewer):** That’s great, Jisoo. What made you decide to pursue a career in software development?
+
+**Speaker B (L2, Korean, Interviewee):** Um, I always interested in technology. When I was in high school, I start to learn programming. I found it very interesting and challenging. I want to make something that can help people in their daily life.
+
+**Speaker A (NS, Interviewer):** That’s wonderful. Can you tell me about a specific project you’ve worked on that you’re particularly proud of?
+
+**Speaker B (L2, Korean, Interviewee):** Yes, in my last internship, I worked on a project to develop a mobile app for booking restaurant reservations. Um, how to say... it was a team project, and I was responsible for the back-end development.
+
+**Speaker A (NS, Interviewer):** What technologies did you use for the back-end?
+
+**Speaker B (L2, Korean, Interviewee):** I used Python for the main programming and SQLite for the database. We also used some API to get information about restaurants.
+
+**Speaker A (NS, Interviewer):** That sounds impressive. How did you handle any challenges that came up during the project?
+
+**Speaker B (L2, Korean, Interviewee):** Well, um, the biggest challenge was to make sure the app runs smoothly and quickly. We had to optimize the code and the database queries. I also worked with the front-end team to ensure all the data was displayed correctly.
+
+**Speaker A (NS, Interviewer):** Great problem-solving skills! Can you tell me about a time when you had to work collaboratively with a team to achieve a goal?
+
+**Speaker B (L2, Korean, Interviewee):** Um, in my university, I was part of a group project to develop a website for a local charity. We had to communicate and coordinate with each other to complete different parts of the project. It was, um, challenging but very rewarding.
+
+**Speaker A (NS, Interviewer):** That’s fantastic. How do you stay updated with the latest developments in technology?
+
+**Speaker B (L2, Korean, Interviewee):** I read a lot of tech blogs and articles. I also attend online webinars and sometimes take online courses to learn new programming languages and tools.
+
+**Speaker A (NS, Interviewer):** Excellent. Lastly, can you tell me about a time when you had to solve a difficult technical problem?
+
+**Speaker B (L2, Korean, Interviewee):** Um, when I was working on a project to develop a web application, we encountered an issue with the server. It was slow and sometimes crashed. I had to debug the code and optimize the server configuration. It took some time, but we finally fixed it.
+
+**Speaker A (NS, Interviewer):** That’s great to hear. Thank you, Jisoo, for sharing that. Is there anything else you’d like to add or any questions you have for us?
+
+**Speaker B (L2, Korean, Interviewee):** No, I think I covered everything. Um, can you tell me more about the team and the work environment?
+
+**Speaker A (NS, Interviewer):** Of course! Our team is very collaborative and supportive. We encourage continuous learning and professional growth. We also have regular team-building activities to foster a positive and inclusive environment.
+
+**Speaker B (L2, Korean, Interviewee):** That sounds great. Thank you for the information.
+
+**Speaker A (NS, Interviewer):** You’re welcome. Thank you for coming in today, Jisoo. We appreciate your time and will be in touch soon.
+
+**Speaker B (L2, Korean, Interviewee):** Thank you very much. I look forward to hearing from you. Goodbye!
+
+**Speaker A (NS, Interviewer):** Goodbye, Jisoo. Have a great day!

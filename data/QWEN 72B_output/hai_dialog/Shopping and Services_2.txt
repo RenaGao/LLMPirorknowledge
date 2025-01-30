@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hello, thank you for contacting customer service. My name is Alex. How can I assist you today?
+
+**Speaker B (L2, Thai):** Hello, thank you. My name is Nuch. Um, I have problem with my recent purchase.
+
+**Speaker A (NS):** I see. Could you please tell me more about the issue you're experiencing?
+
+**Speaker B (L2, Thai):** Sure. I buy new... uh, blender from your store last week. But when I use it, um, it not work properly.
+
+**Speaker A (NS):** I'm sorry to hear that, Nuch. Can you describe the problem in more detail?
+
+**Speaker B (L2, Thai):** Yes. When I turn it on, it make strange noise. And, um, sometimes it stop working.
+
+**Speaker A (NS):** I understand. That sounds frustrating. When did you first notice this issue?
+
+**Speaker B (L2, Thai):** I notice it, um, two days after I buy it. It work fine at first, but then, uh, problem start.
+
+**Speaker A (NS):** Thank you for letting me know. We can certainly help with this. Do you have the receipt or order number handy?
+
+**Speaker B (L2, Thai):** Yes, I have it. It is... um, 12345678.
+
+**Speaker A (NS):** Great, thank you. I'll look up your order. Could you also tell me the model number of the blender?
+
+**Speaker B (L2, Thai):** It is... uh, how to say... it is Model B1200.
+
+**Speaker A (NS):** Thank you. I've found your order. We can either send you a replacement or arrange for a repair. Which would you prefer?
+
+**Speaker B (L2, Thai):** Um, I think replacement is better. Because I need it soon.
+
+**Speaker A (NS):** Understood. I'll send a replacement to you as soon as possible. We’ll also send you a return label for the faulty blender. Is there anything else I can assist you with?
+
+**Speaker B (L2, Thai):** No, that is all. Thank you so much for your help.
+
+**Speaker A (NS):** You're welcome, Nuch. If you have any other questions, feel free to contact us. Have a great day.
+
+**Speaker B (L2, Thai):** Yes, thank you. Have a good day, too.
+
+**Speaker A (NS):** Thank you, Nuch. Goodbye!

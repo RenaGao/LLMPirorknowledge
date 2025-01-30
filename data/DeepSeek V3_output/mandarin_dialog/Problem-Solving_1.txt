@@ -1,0 +1,31 @@
+**Speaker A (Customer Service Representative):** Hello, thank you for calling Tech Support. How can I assist you today?  
+**Speaker B (Second-Language Speaker):** Hello, yes, thank you. I have problem with my computer. It... um, not start.  
+
+**Speaker A:** I’m sorry to hear that. Can you tell me what happens when you try to turn it on?  
+**Speaker B:** Ah, yes. When I press power button, it make noise but screen... screen is black.  
+
+**Speaker A:** I see. Has this happened before, or is this the first time?  
+**Speaker B:** First time. Before, it work... um, it worked fine.  
+
+**Speaker A:** Okay, let’s try a few things. First, can you check if the power cable is securely connected?  
+**Speaker B:** Yes, I check now. Wait... um, it is connected. I think so.  
+
+**Speaker A:** Great. Next, does your computer have a removable battery?  
+**Speaker B:** Uh, yes, battery can take out.  
+
+**Speaker A:** Could you remove the battery, wait for 30 seconds, and then put it back in?  
+**Speaker B:** Okay, I do now. One moment... Okay, I put it back.  
+
+**Speaker A:** Good. Now, try turning it on again. Does it work?  
+**Speaker B:** No, still same problem. Screen black, noise... um, same like before.  
+
+**Speaker A:** Alright. It sounds like there might be a hardware issue. Do you have any important data on the computer?  
+**Speaker B:** Yes, many important files. Documents and... um, photos.  
+
+**Speaker A:** I understand. Let’s make sure we protect your data first. Can you bring it to our service center?  
+**Speaker B:** Yes, I can. Where is... um, where is the place?  
+
+**Speaker A:** Our service center is at 123 Tech Road. You’ll need to bring your computer and proof of purchase.  
+**Speaker B:** Okay, I bring computer and... um, receipt.  
+
+**Speaker A:** Perfect.

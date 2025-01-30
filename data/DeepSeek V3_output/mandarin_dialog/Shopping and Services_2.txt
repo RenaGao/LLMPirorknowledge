@@ -1,0 +1,35 @@
+**Speaker A (Customer Service Representative, NS):** Hello! Thank you for calling customer support. How can I help you today?  
+
+**Speaker B (Mandarin Speaker, L2):** Hello, yes, thank you. I... um, have a problem with my recent buy, I mean purchase.  
+
+**Speaker A:** I see. Could you tell me more about the issue?  
+
+**Speaker B:** Yes. I buy a... a blender. But it not working. Um, when I press the button, nothing happen.  
+
+**Speaker A:** I’m sorry to hear that. Did you check if it’s plugged in properly?  
+
+**Speaker B:** Yes, I check. It is plug in, but still not work. I think maybe it is... um, broken.  
+
+**Speaker A:** Okay, thank you for letting me know. Do you have the receipt or order number?  
+
+**Speaker B:** Yes, I have. Wait, I find it... um, here. The order number is... 123456.  
+
+**Speaker A:** Great, I see the order in our system. We can arrange a replacement or a refund for you. Which would you prefer?  
+
+**Speaker B:** I think... replacement is better.  
+
+**Speaker A:** No problem. I’ll process the replacement for you. It should arrive within 3-5 business days. Do you need us to send a return label for the broken blender?  
+
+**Speaker B:** Yes, please. How to return it?  
+
+**Speaker A:** We’ll email you the return label. You just need to pack the blender securely and drop it off at your nearest post office.  
+
+**Speaker B:** Understand. Thank you for your help.  
+
+**Speaker A:** You’re welcome! Is there anything else I can assist you with today?  
+
+**Speaker B:** No, that is all. Thank you again.  
+
+**Speaker A:** No problem at all. Have a great day, and we’ll send you a confirmation email shortly. Goodbye!  
+
+**Speaker B:** Goodbye! Have a nice day too.

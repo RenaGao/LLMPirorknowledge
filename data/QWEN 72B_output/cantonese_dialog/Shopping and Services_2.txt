@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hello, thank you for calling customer service. My name is Alex. How can I assist you today?
+
+**Speaker B (L2, Cantonese):** Hello, Alex. I have... have a problem with a thing I buy. Um, how to say... a electronic device.
+
+**Speaker A (NS):** Sure, can you tell me more about the issue with the electronic device?
+
+**Speaker B (L2, Cantonese):** Um, it is... a, a Bluetooth speaker. I buy it last week. But... it, it not work properly.
+
+**Speaker A (NS):** I see. Can you describe what happens when you try to use it?
+
+**Speaker B (L2, Cantonese):** Yes. When I connect my phone, it... um, it not play music. I try many time, but no sound.
+
+**Speaker A (NS):** I understand. Have you checked the battery to make sure it’s fully charged?
+
+**Speaker B (L2, Cantonese):** Yes, I check. Battery is full. I even try with new... um, new batteries, but still no sound.
+
+**Speaker A (NS):** Okay, thank you for letting me know. Have you looked at the user manual to see if there are any troubleshooting tips?
+
+**Speaker B (L2, Cantonese):** Um, I look, but I not find anything helpful. It just say to connect and play, but it not work.
+
+**Speaker A (NS):** I see. Let’s try a few things to diagnose the issue. First, can you reset the Bluetooth speaker by holding the power button for 10 seconds?
+
+**Speaker B (L2, Cantonese):** Hold the power button? Okay, I try. (Pause) I try, but it still not work.
+
+**Speaker A (NS):** I’m sorry to hear that. Let’s try one more thing. Can you try connecting it to a different device, like a tablet or a laptop?
+
+**Speaker B (L2, Cantonese):** Ah, I see. I try with my tablet... (Pause) No, it still not work.
+
+**Speaker A (NS):** I understand. It seems like the issue might be with the speaker itself. We can arrange for a replacement. Can you provide me with the order number and the model of the speaker?
+
+**Speaker B (L2, Cantonese):** Yes, my order number is... um, 123456789. And the model... it is... BASS-BLAST 2000.
+
+**Speaker A (NS):** Thank you. I will process the replacement for you. You should receive a new speaker within the next 5 to 7 business days. Is there anything else you need help with?
+
+**Speaker B (L2, Cantonese):** No, I think that is all. Thank you very much for your help, Alex.
+
+**Speaker A (NS):** You’re welcome! If you have any more issues, feel free to contact us. Have a great day, and take care!
+
+**Speaker B (L2, Cantonese):** Thank you. You too. Bye!
+
+**Speaker A (NS):** Goodbye!

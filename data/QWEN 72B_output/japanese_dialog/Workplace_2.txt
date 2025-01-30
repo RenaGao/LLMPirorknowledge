@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hi there, I’m Alex. Nice to meet you! I’m going to explain a new task to you today.
+
+**Speaker B (L2, Japanese):** Ah, hello! Nice to meet you. My name is Yuki. Um, please, go ahead.
+
+**Speaker A (NS):** Great! So, we’re working on a project to organize the company’s documents. We need to make sure everything is in the right place and easy to find. Can you help with that?
+
+**Speaker B (L2, Japanese):** Yes, sure. I can help. What I need to do, exactly?
+
+**Speaker A (NS):** First, you’ll need to sort the documents into different categories. We have folders for finances, HR, and marketing. Can you start by organizing the marketing documents?
+
+**Speaker B (L2, Japanese):** Ah, marketing... um, documents. So, I put them in marketing folder, right?
+
+**Speaker A (NS):** Exactly! And while you’re doing that, make sure to label each file with a clear title and date. This will help us find what we need quickly.
+
+**Speaker B (L2, Japanese):** Ah, I see. Label with title and date. Got it. How to label, um, in computer?
+
+**Speaker A (NS):** You can use the file properties feature. Just right-click on the file, select 'Properties,' and then add the necessary information in the 'Details' tab.
+
+**Speaker B (L2, Japanese):** Right-click, then properties, and details... Yes, I understand. What next?
+
+**Speaker A (NS):** After labeling, you’ll need to create a backup of the files. We use an external hard drive for this. Can you also take care of that?
+
+**Speaker B (L2, Japanese):** Backup... ah, copy files to external hard drive. Where is hard drive?
+
+**Speaker A (NS):** It’s in the IT closet. I’ll show you where it is. Just follow me.
+
+**Speaker B (L2, Japanese):** Ah, thank you. I will follow you.
+
+**Speaker A (NS):** Perfect! Once you’ve done all that, let me know so we can review the organized documents together.
+
+**Speaker B (L2, Japanese):** Yes, I will do that. I will organize, label, and backup. Is anything else I need to know?
+
+**Speaker A (NS):** No, that’s it for now. If you have any questions, just ask. I’m here to help.
+
+**Speaker B (L2, Japanese):** Thank you, Alex. I will do my best.
+
+**Speaker A (NS):** I’m sure you will. Good luck, Yuki! Let’s meet again at 4 p.m. to go over everything.
+
+**Speaker B (L2, Japanese):** Yes, 4 p.m. is good. See you then. Thank you!
+
+**Speaker A (NS):** You’re welcome! Have a great day, Yuki. See you at 4!

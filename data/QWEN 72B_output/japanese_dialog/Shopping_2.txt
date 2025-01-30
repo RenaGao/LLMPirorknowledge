@@ -1,0 +1,50 @@
+
+**Speaker A (NS):** Hello! Welcome to Green Leaf Store. How can I assist you today?
+
+**Speaker B (L2, Japanese):** Hello. Um... I want to, how to say... return this thing. (holds up a camera)
+
+**Speaker A (NS):** Sure, I can help with that. Is this a camera you purchased from us?
+
+**Speaker B (L2, Japanese):** Yes, it is. I buy it last week, but... um... it not work.
+
+**Speaker A (NS):** I'm sorry to hear that. Can you tell me what's not working with it?
+
+**Speaker B (L2, Japanese):** When I push button, um... screen is black. It no show picture.
+
+**Speaker A (NS):** I see. Let me check the return policy for you. Do you have the receipt?
+
+**Speaker B (L2, Japanese):** Yes, here. (hands over the receipt) Is it okay?
+
+**Speaker A (NS):** Yes, thank you. Our return policy allows you to return items within 30 days for a full refund. Since you bought this last week, we can process the return.
+
+**Speaker B (L2, Japanese):** Oh, good. Um, what I need to do?
+
+**Speaker A (NS):** You just need to fill out this return form. (hands over the form) It's pretty straightforward.
+
+**Speaker B (L2, Japanese):** Okay. (pauses) Is this right? (points to a section on the form)
+
+**Speaker A (NS):** Yes, that looks correct. Just make sure to include your contact information and the reason for the return.
+
+**Speaker B (L2, Japanese):** (writes on the form) How to say... the camera does not work?
+
+**Speaker A (NS):** You can write, "The camera is not working. The screen remains black when I turn it on."
+
+**Speaker B (L2, Japanese):** (writes) "The camera is not working. The screen remain black when I turn it on."
+
+**Speaker A (NS):** Perfect. Is there anything else you need help with?
+
+**Speaker B (L2, Japanese):** No, that is all. Thank you very much.
+
+**Speaker A (NS):** You're welcome! I'll process the return right away. Can I please ask why you decided to return it now?
+
+**Speaker B (L2, Japanese):** I try to fix it, but it no work. So, I come here.
+
+**Speaker A (NS):** I understand. We'll make sure to help you with the refund. Is there anything else you'd like to buy or ask about while you're here?
+
+**Speaker B (L2, Japanese):** No, um... I think that is all. Thank you for your help.
+
+**Speaker A (NS):** You're welcome! If you have any other questions in the future, don't hesitate to ask. Have a great day!
+
+**Speaker B (L2, Japanese):** Thank you. Goodbye.
+
+**Speaker A (NS):** Goodbye! Take care!

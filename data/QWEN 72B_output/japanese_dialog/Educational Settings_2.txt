@@ -1,0 +1,39 @@
+**Scene: Sora and Aki are discussing a challenging topic in their study group. Sora, a native English speaker, is helping Aki, a Japanese second-language learner, understand a complex concept.**
+
+**Speaker A (NS, Sora):** Hey Aki, how’s it going? Are you ready to go over the topic for our study group?
+
+**Speaker B (L2, Japanese, Aki):** Hi, Sora. Yes, I am ready. Um, I little nervous about explaining complex topic, but I try my best.
+
+**Speaker A (NS, Sora):** No problem, Aki. We’re here to help each other. What part are you having trouble with?
+
+**Speaker B (L2, Japanese, Aki):** I not sure about... um, how to explain... the concept of relativity in physics. It is very confusing for me.
+
+**Speaker A (NS, Sora):** Relativity can be tricky. Let’s break it down. Start with the basic idea. What do you know about it so far?
+
+**Speaker B (L2, Japanese, Aki):** Um... how to say... it is about space and time. They are not fixed, but they change depending on speed and gravity.
+
+**Speaker A (NS, Sora):** That’s a great start! So, one of the key points is that space and time are not separate. They’re part of a single fabric called spacetime.
+
+**Speaker B (L2, Japanese, Aki):** Spacetime... I see. So, if I move very fast, time will go slower for me compared to someone who is not moving?
+
+**Speaker A (NS, Sora):** Exactly! This is called time dilation. And it’s not just speed; gravity also affects time. For example, time runs slower closer to a massive object like Earth.
+
+**Speaker B (L2, Japanese, Aki):** Ah, I understand. So, if I on Earth, time for me is slower than someone in space?
+
+**Speaker A (NS, Sora):** Yes, that’s right! And this has actually been measured. Atomic clocks on satellites run slightly faster than clocks on Earth because they’re further from Earth’s gravitational pull.
+
+**Speaker B (L2, Japanese, Aki):** Wow, that is really interesting. Um... how to say... it is hard to imagine, but I think I begin to understand.
+
+**Speaker A (NS, Sora):** That’s great progress! When you explain it to the group, start with the idea that space and time are connected, and then mention time dilation and the effect of gravity.
+
+**Speaker B (L2, Japanese, Aki):** Yes, I will do that. Thank you, Sora. You explain very clearly.
+
+**Speaker A (NS, Sora):** You’re welcome, Aki! I’m glad I could help. Do you feel more confident now?
+
+**Speaker B (L2, Japanese, Aki):** Yes, I feel much better. I will practice more and try my best in the study group.
+
+**Speaker A (NS, Sora):** Perfect! Good luck, and let me know if you need any more help. See you at the study group tomorrow!
+
+**Speaker B (L2, Japanese, Aki):** Sure, thank you. Goodbye, Sora!
+
+**Speaker A (NS, Sora):** Goodbye, Aki! Take care!

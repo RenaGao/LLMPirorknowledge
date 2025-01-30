@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hi, Sora! How are you doing today?
+
+**Speaker B (L2, Japanese):** Hi, I am good. Thank you. How are you?
+
+**Speaker A (NS):** I'm doing well, thanks! We have a study group meeting today. Do you have any topics you want to discuss?
+
+**Speaker B (L2, Japanese):** Yes, I have... um, quantum mechanics. It is very difficult for me.
+
+**Speaker A (NS):** Quantum mechanics can be really challenging! What specific part are you having trouble with?
+
+**Speaker B (L2, Japanese):** The superposition principle. I do not understand... how to say... how particle can be in many places at same time.
+
+**Speaker A (NS):** That’s a great question. The superposition principle means that a particle can exist in multiple states simultaneously until it’s observed. It’s kind of like a coin that’s spinning in the air—both heads and tails are possible until it lands.
+
+**Speaker B (L2, Japanese):** Ah, I see. So, it is like coin. But, how we measure it? How we know it is heads or tails?
+
+**Speaker A (NS):** Exactly! When you measure the particle, it "collapses" into one of the possible states. This is called wave function collapse. It’s like when the coin lands and you see which side is up.
+
+**Speaker B (L2, Japanese):** I think I understand. But, why it is... how to say... why it is so strange?
+
+**Speaker A (NS):** It’s strange because it doesn’t match our everyday experience. In the quantum world, things can behave in very unexpected ways. It’s different from classical physics.
+
+**Speaker B (L2, Japanese):** Yes, it is very different. So, can we use this in real life?
+
+**Speaker A (NS):** Absolutely! Quantum mechanics is used in many technologies, like quantum computing and cryptography. It’s really exciting!
+
+**Speaker B (L2, Japanese):** Wow, that is interesting. I want to learn more about it.
+
+**Speaker A (NS):** Great! We can go over some examples and theories in the study group. Does that sound good?
+
+**Speaker B (L2, Japanese):** Yes, that sounds good. Thank you for explaining.
+
+**Speaker A (NS):** No problem! I’m here to help. See you at the study group!
+
+**Speaker B (L2, Japanese):** See you there! Bye!
+
+**Speaker A (NS):** Bye, Sora! Talk to you later!

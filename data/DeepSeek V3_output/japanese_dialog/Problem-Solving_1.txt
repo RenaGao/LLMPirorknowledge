@@ -1,0 +1,43 @@
+**Speaker A (NS):** Hi, how can I help you today?
+
+**Speaker B (L2, Japanese):** Hello, um... I have problem with my computer. It is... not start.
+
+**Speaker A (NS):** Oh, I see. Do you mean it won’t turn on?
+
+**Speaker B (L2, Japanese):** Yes, yes. It won’t... turn on. I press the button, but nothing... happens.
+
+**Speaker A (NS):** That’s frustrating. Have you tried plugging it in? Maybe the battery is low.
+
+**Speaker B (L2, Japanese):** Yes, I plug in. But still... nothing. Maybe... the... um, power thing is broken?
+
+**Speaker A (NS):** The power cord? It could be. Do you have another cord you can try?
+
+**Speaker B (L2, Japanese):** No, I don’t have another. Can you... help me check?
+
+**Speaker A (NS):** Of course. Let’s troubleshoot. First, try holding the power button for 10 seconds. Sometimes it resets the system.
+
+**Speaker B (L2, Japanese):** Okay, I try... *(pause)* Um, still nothing.
+
+**Speaker A (NS):** Hmm. Is your computer very old? Sometimes older models have hardware issues.
+
+**Speaker B (L2, Japanese):** It is... three year old. Maybe it is... have problem inside?
+
+**Speaker A (NS):** Possibly. It might need professional repair. Do you have a warranty?
+
+**Speaker B (L2, Japanese):** Warranty? Ah... yes, but I think it is finished last month.
+
+**Speaker A (NS):** I see. You can still take it to a repair shop, though. Would you like me to recommend one?
+
+**Speaker B (L2, Japanese):** Yes, please. That would be... very helpful.
+
+**Speaker A (NS):** Sure. There’s a good one near the city center called TechFix. Their number is 555-1234.
+
+**Speaker B (L2, Japanese):** 555-1234? Okay, I write it down. Thank you... very much.
+
+**Speaker A (NS):** You’re welcome! Let me know if you need anything else.
+
+**Speaker B (L2, Japanese):** Yes, thank you. I will call them tomorrow. Goodbye!
+
+**Speaker A (NS):** Goodbye! Take care!  
+
+The conversation ends with both speakers expressing gratitude and agreeing on the next steps.

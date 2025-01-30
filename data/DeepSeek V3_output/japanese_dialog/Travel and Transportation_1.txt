@@ -1,0 +1,20 @@
+**Speaker A (NS):** Hi there! Do you need some help? You look a bit lost.  
+**Speaker B (L2, Japanese):** Ah, yes, thank you. I am... um, looking for... hotel. How to say... Park Hotel. Do you know it?  
+**Speaker A (NS):** Park Hotel? Yes, I know it! It’s not too far from here. Are you walking or taking a taxi?  
+**Speaker B (L2, Japanese):** I walking. It is... close?  
+**Speaker A (NS):** Yes, it’s about 15 minutes on foot. Let me give you directions. First, go straight down this street. You’ll see a big red building on your left.  
+**Speaker B (L2, Japanese):** Big red building... left side. Okay. Then?  
+**Speaker A (NS):** Then, turn right at the first traffic light. After that, walk for about five minutes. You’ll see a park, and the hotel is just behind it.  
+**Speaker B (L2, Japanese):** Ah, I see. First, red building on left. Then, turn right at... um, light. Then park, hotel behind.  
+**Speaker A (NS):** Exactly! You’ve got it.  
+**Speaker B (L2, Japanese):** Thank you so much! You are very kind.  
+**Speaker A (NS):** You’re welcome! If you get lost, just ask someone else for Park Hotel. Everyone here knows it.  
+**Speaker B (L2, Japanese):** I understand. Maybe I... buy map too. Just in case.  
+**Speaker A (NS):** That’s a good idea. You’ll be fine, though.  
+**Speaker B (L2, Japanese):** Yes, I think so. Thank you again!  
+**Speaker A (NS):** No problem. I hope you enjoy your stay at the hotel!  
+**Speaker B (L2, Japanese):** I will! Have a nice day.  
+**Speaker A (NS):** You too! See you around.  
+**Speaker B (L2, Japanese):** Goodbye!  
+
+(End of conversation)

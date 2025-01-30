@@ -1,0 +1,59 @@
+**Speaker A (NS):** Hi Minji! Do you have some time to go over the math problem we got in class today?  
+
+**Speaker B (L2, Korean):** Ah, yes, I have time. The problem is... um, about geometry, right?  
+
+**Speaker A (NS):** Exactly. It’s about finding the area of a triangle. Do you remember how to do it?  
+
+**Speaker B (L2, Korean):** I think so. Formula is... um, base... times height, then divide by two?  
+
+**Speaker A (NS):** That’s right! But this problem is a bit tricky because the height isn’t given directly.  
+
+**Speaker B (L2, Korean):** Oh, I see. So, we need to find height first?  
+
+**Speaker A (NS):** Yes, exactly. We can use the Pythagorean theorem here. Do you know how it works?  
+
+**Speaker B (L2, Korean):** Um... I think I know. It is for triangle, right? A squared plus B squared equal to C squared?  
+
+**Speaker A (NS):** Perfect! That’s it. So, here’s how we can apply it... Let’s draw the triangle again to visualize it.  
+
+**Speaker B (L2, Korean):** Oh, yes. Drawing is helpful. So, we need to find this side... um, like this?  
+
+**Speaker A (NS):** Almost! Here, this side is the base, and we need to find the height perpendicular to it. Let’s call this length “h.”  
+
+**Speaker B (L2, Korean):** Ah, okay. So, we can use Pythagorean theorem to find “h”?  
+
+**Speaker A (NS):** Exactly! Once we have “h,” we can plug it into the area formula. Does that make sense?  
+
+**Speaker B (L2, Korean):** Yes, I think so. But, um, I am little confused about how to start.  
+
+**Speaker A (NS):** No worries, let’s do it step by step. First, write down the values we have.  
+
+**Speaker B (L2, Korean):** Okay, I try. Base is 10, and this side is 6... and this side is 8?  
+
+**Speaker A (NS):** Correct! Now, we can use these numbers to find “h.” Let’s set up the equation.  
+
+**Speaker B (L2, Korean):** Oh, I see now! So, it is 6 squared plus h squared equal to 8 squared?  
+
+**Speaker A (NS):** Exactly! Now solve for “h.”  
+
+**Speaker B (L2, Korean):** Um... 36 plus h squared equal to 64. So, h squared is 28?  
+
+**Speaker A (NS):** Perfect! So, “h” is the square root of 28.  
+
+**Speaker B (L2, Korean):** Yes! Now we can find area. Base is 10, height is square root of 28, then divide by two.  
+
+**Speaker A (NS):** You’ve got it! Great job breaking it down.  
+
+**Speaker B (L2, Korean):** Thank you so much for explaining. Now I understand better.  
+
+**Speaker A (NS):** No problem at all! Let me know if you have more questions.  
+
+**Speaker B (L2, Korean):** I will. Thank you again. See you in class tomorrow!  
+
+**Speaker A (NS):** See you then! Good luck with your studies.  
+
+**Speaker B (L2, Korean):** Yes, you too. Bye!  
+
+**Speaker A (NS):** Bye! Take care.  
+
+*The conversation ends with both speakers bidding farewell in a polite and friendly manner.*

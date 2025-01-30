@@ -1,0 +1,45 @@
+**Speaker A (NS):** Hi, thank you for contacting customer service. My name is Alex. How can I assist you today?
+
+**Speaker B (L2, Japanese):** Hello, um... my name is Sora. I have problem with my... uh, laptop. It no work properly.
+
+**Speaker A (NS):** I’m sorry to hear that, Sora. Can you tell me more about the issue? For example, does it turn on, or does it show any error messages?
+
+**Speaker B (L2, Japanese):** It turn on, but... um, very slow. And sometimes, it freeze and... um, how to say... show blue screen.
+
+**Speaker A (NS):** I see. A blue screen can be caused by different issues. Have you tried restarting your laptop to see if it helps?
+
+**Speaker B (L2, Japanese):** Yes, I try many time. But still not good.
+
+**Speaker A (NS):** Okay, let’s try a few more steps. Can you check if there are any updates available for your operating system?
+
+**Speaker B (L2, Japanese):** Um, how to check updates?
+
+**Speaker A (NS):** Sure, you can go to the ‘Settings’ app, then click on ‘Update & Security,’ and finally click on ‘Check for updates.’ Can you do that for me?
+
+**Speaker B (L2, Japanese):** Yes, I go to setting... setting. Ah, found it. Checking now.
+
+**Speaker A (NS):** Great! Let me know what it says.
+
+**Speaker B (L2, Japanese):** It say no updates available. What I do next?
+
+**Speaker A (NS):** Alright. Let’s try running a system diagnostic. This can help identify any hardware issues. You can access it by pressing the ‘F12’ key when the laptop is starting up.
+
+**Speaker B (L2, Japanese):** Um, F12... I try. (Pause) It show... menu. What I select?
+
+**Speaker A (NS):** Select the option that says ‘Diagnostics’ or ‘Troubleshoot.’ It might be under a different name, but look for something similar.
+
+**Speaker B (L2, Japanese):** Ah, found it. I select ‘Troubleshoot.’ It running now.
+
+**Speaker A (NS):** Perfect. This might take a few minutes. Can you let it run and see what it finds?
+
+**Speaker B (L2, Japanese):** Yes, it running. (Pause) It finish. It say... um, hardware issue with... how to say... disk?
+
+**Speaker A (NS):** I see. It looks like there might be an issue with your hard drive. The best next step would be to bring your laptop to a repair center. They can diagnose it more thoroughly and fix the problem.
+
+**Speaker B (L2, Japanese):** Okay, I see. Thank you for your help. I will go to repair center.
+
+**Speaker A (NS):** You’re welcome, Sora. If you have any other questions or need further assistance, feel free to contact us again. Have a great day!
+
+**Speaker B (L2, Japanese):** Yes, thank you. Goodbye.
+
+**Speaker A (NS):** Goodbye, Sora. Take care!

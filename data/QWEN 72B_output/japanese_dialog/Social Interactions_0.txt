@@ -1,0 +1,47 @@
+**Speaker A (NS):** Hi there! I'm Alex. It's nice to meet you. What’s your name?
+
+**Speaker B (L2, Japanese):** Hello! I am Kenta. Nice to meet you, Alex. Um, how to say... I from Tokyo.
+
+**Speaker A (NS):** Nice to meet you, Kenta! So, you’re from Tokyo? That’s a great city. What brings you to this party?
+
+**Speaker B (L2, Japanese):** Ah, yes. My friend invited me. He live here. I visit him often.
+
+**Speaker A (NS):** That’s cool! How long have you been here?
+
+**Speaker B (L2, Japanese):** I stay here for two week. I like it very much.
+
+**Speaker A (NS):** That’s great! What do you do for work or for fun?
+
+**Speaker B (L2, Japanese):** I work in IT. I develop software. Um, like... applications for mobile phone.
+
+**Speaker A (NS):** Oh, that sounds interesting! What kind of apps do you develop?
+
+**Speaker B (L2, Japanese):** Mostly, I make app for... um... learning language. It help people study English.
+
+**Speaker A (NS):** That’s really helpful! Have you tried any other languages besides English?
+
+**Speaker B (L2, Japanese):** Yes, I try Spanish. But English is main focus.
+
+**Speaker A (NS):** That’s pretty impressive. What do you like to do in your free time?
+
+**Speaker B (L2, Japanese):** I like to read book. And also, I enjoy cooking. I try new recipe every week.
+
+**Speaker A (NS):** That’s awesome! Do you have a favorite dish?
+
+**Speaker B (L2, Japanese):** Yes, I like to make sushi. It is very fun and taste good.
+
+**Speaker A (NS):** Sushi sounds delicious! Have you tried any local dishes here?
+
+**Speaker B (L2, Japanese):** Yes, I try pizza. It is very good. But I still like sushi more.
+
+**Speaker A (NS):** I can totally understand that. So, what do you think of the party so far?
+
+**Speaker B (L2, Japanese):** It is very nice. People are friendly. I enjoy it very much.
+
+**Speaker A (NS):** I’m glad to hear that! Hope you have a great time. Well, it was great talking to you, Kenta.
+
+**Speaker B (L2, Japanese):** Yes, it was nice talking to you too, Alex. Maybe we can talk again later.
+
+**Speaker A (NS):** Definitely! Take care, Kenta!
+
+**Speaker B (L2, Japanese):** You too, Alex! Goodbye!

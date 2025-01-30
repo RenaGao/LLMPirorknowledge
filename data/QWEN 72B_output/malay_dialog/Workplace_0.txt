@@ -1,0 +1,40 @@
+**Scene:**
+Two colleagues, Alex (Native Speaker, NS) and Aiman (Second-Language Speaker, Malay), are discussing a project deadline. Aiman is trying to express his thoughts and concerns, while Alex provides supportive and clear responses.
+
+**Alex (NS):** Hi Aiman, how's it going? How are you finding the project?
+
+**Aiman (L2, Malay):** Hi Alex, I okay. The project... uh, it is... I think it is... big challenge, but I try my best.
+
+**Alex (NS):** That's great to hear. I know it's a big project. How’s the progress so far?
+
+**Aiman (L2, Malay):** Um... we finish about 60 percent. But... the deadline... how to say... it is soon.
+
+**Alex (NS):** I understand. The deadline is in a week, right? Do you think we can meet it?
+
+**Aiman (L2, Malay):** I think... it is... possible, but... we need more time for testing and... fixing bug.
+
+**Alex (NS):** I see. What specific areas are you concerned about?
+
+**Aiman (L2, Malay):** The user interface... it is... not perfect yet. And also, the database... um, connection sometimes have problem.
+
+**Alex (NS):** Got it. Those are important areas to focus on. Have you discussed this with the team?
+
+**Aiman (L2, Malay):** Yes, we talk about it. They say... we need more man-hour, but... the budget is... limited.
+
+**Alex (NS):** I understand. Let’s see if we can reallocate some resources or maybe extend the deadline a little. What do you think would be a reasonable extension?
+
+**Aiman (L2, Malay):** I think... maybe two more days would be... good. This will give us time to fix the main issue.
+
+**Alex (NS):** That sounds reasonable. I’ll talk to the client and see if we can get that extension. In the meantime, let’s focus on the critical areas.
+
+**Aiman (L2, Malay):** Yes, I agree. We will work hard to finish it on time.
+
+**Alex (NS):** That’s the spirit! Thanks for bringing this up, Aiman. I appreciate your honesty and effort.
+
+**Aiman (L2, Malay):** No problem, Alex. I want the project to be successful.
+
+**Alex (NS):** Great! Let’s keep each other updated, and we’ll get through this together. Thanks again.
+
+**Aiman (L2, Malay):** Thank you, Alex. See you tomorrow.
+
+**Alex (NS):** See you tomorrow. Take care!

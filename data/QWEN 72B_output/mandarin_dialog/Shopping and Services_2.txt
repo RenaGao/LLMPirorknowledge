@@ -1,0 +1,41 @@
+**Speaker A (Native Speaker, NS)**: Hello, thank you for calling customer service. My name is Alex. How can I assist you today?
+
+**Speaker B (Second-Language Speaker, Mandarin)**: Hello, uh, my name is Xiao Li. I, um, I have problem with my recent purchase.
+
+**Speaker A**: Sure, I’d be happy to help. Could you tell me more about the issue?
+
+**Speaker B**: Yes. I buy this, um, this gadget, for my, uh, phone. But it not work.
+
+**Speaker A**: I see. Could you provide me with the order number so I can look up your purchase?
+
+**Speaker B**: Um, my order number is 123456789. Is that, uh, enough?
+
+**Speaker A**: Yes, that’s perfect. Let me check that for you. [Pause] I see the issue. The gadget you purchased is a phone charger, correct?
+
+**Speaker B**: Yes, it is charger. But it not charge my phone. I try many times, and nothing happen.
+
+**Speaker A**: I’m sorry to hear that. Could it be possible that the USB port on your phone is damaged?
+
+**Speaker B**: I check my phone. It work with other charger, so, uh, I think it is not problem with phone.
+
+**Speaker A**: Got it. Let’s try a few things. First, have you tried using a different USB cable or port?
+
+**Speaker B**: Yes, I try different cable. It still not work.
+
+**Speaker A**: Okay, let’s try resetting your charger. Sometimes that can fix the issue. Can you unplug it from the power source, wait for a minute, and then plug it back in?
+
+**Speaker B**: Um, I do that. It still not work.
+
+**Speaker A**: I understand. It sounds like there might be a defect with the charger. I can arrange a replacement for you. Would you like me to do that?
+
+**Speaker B**: Yes, that will be great. Thank you.
+
+**Speaker A**: No problem. I’ll process the replacement right away. You should receive the new charger within the next few days. Is there anything else I can assist you with?
+
+**Speaker B**: No, that is all. Thank you very much for your help.
+
+**Speaker A**: You’re welcome, Xiao Li. If you have any more issues, feel free to contact us. Have a great day!
+
+**Speaker B**: Thank you! Goodbye!
+
+**Speaker A**: Goodbye! Take care!

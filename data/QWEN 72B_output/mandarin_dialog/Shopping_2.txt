@@ -1,0 +1,37 @@
+**Speaker A (Native Speaker, NS):** Hi there! Welcome to our store. How can I assist you today?
+
+**Speaker B (Second-Language Speaker, Mandarin):** Hi, um, I want to return this... this thing. (Holding a camera) It not work.
+
+**Speaker A:** I see. Let me take a look at that. Can I have your receipt, please?
+
+**Speaker B:** Oh, receipt... um, I think I lose it. But I buy it here, last week.
+
+**Speaker A:** No problem. We can still help you. Our return policy is pretty straightforward. We allow returns within 30 days without a receipt, as long as the item is in its original condition and packaging.
+
+**Speaker B:** Oh, good! It is still okay. The camera... it have problem. When I press button, nothing happen.
+
+**Speaker A:** I understand. Let me check it out. (Examines the camera) It looks like the battery might be the issue. Have you tried replacing the batteries?
+
+**Speaker B:** Yes, I try. It still not work.
+
+**Speaker A:** Got it. We can definitely process a return for you. Would you like a refund or an exchange?
+
+**Speaker B:** I want refund, please.
+
+**Speaker A:** Sure thing. I’ll need to fill out a return form. Can you tell me your name and the date you purchased this?
+
+**Speaker B:** My name is Xiao Ming. I buy it last Saturday.
+
+**Speaker A:** Great, Xiao Ming. I’m going to process your refund now. It might take a moment.
+
+**Speaker B:** Okay, no problem. Thank you.
+
+**Speaker A:** All done! Your refund will be processed back to the original payment method. Is there anything else you need help with today?
+
+**Speaker B:** No, that’s all. Thank you very much.
+
+**Speaker A:** You’re welcome! If you have any other questions, feel free to ask. Have a great day!
+
+**Speaker B:** Thanks, you too! Goodbye!
+
+**Speaker A:** Goodbye! Take care!

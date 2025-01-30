@@ -1,0 +1,17 @@
+**Speaker A:** Hi there! I’m interested in this scarf. How much is it?  
+**Speaker B:** Oh, hello! The price is... um, fifty dollars. But for you, I can make it cheaper. How about... forty-five?  
+**Speaker A:** Hmm, that’s still a bit high for me. Could you do thirty-five? It’s really nice, but I have a tight budget.  
+**Speaker B:** Thirty-five? Maybe... but I also need to earn something. Um, let’s say forty, okay?  
+**Speaker A:** Alright, forty sounds fair. Do you take credit cards, or is it cash only?  
+**Speaker B:** Ah, sorry, only cash. There is bank machine near here, if you need.  
+**Speaker A:** Got it. I’ll go get some cash. Can you hold it for me?  
+**Speaker B:** Of course! I will keep it for you. No worry.  
+**Speaker A:** Perfect! I’ll be back in about ten minutes.  
+**Speaker B:** Okay, take your time. I will wait here.  
+**Speaker A:** Great, see you soon!  
+**Speaker B:** See you soon!  
+
+**Speaker A:** Hi, I’m back! Here’s the cash for the scarf.  
+**Speaker B:** Thank you! Here is your scarf. I hope it make you happy.  
+**Speaker A:** Definitely! Thank you so much. Have a great day!  
+**Speaker B:** You too! Enjoy your new scarf!

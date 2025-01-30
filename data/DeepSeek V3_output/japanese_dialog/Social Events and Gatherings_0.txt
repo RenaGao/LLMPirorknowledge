@@ -1,0 +1,21 @@
+**Speaker A (NS):** Hi there! I don’t think we’ve met before. I’m Sarah. What’s your name?  
+**Speaker B (L2, Japanese):** Ah, hello! My name is Hiroshi. Nice to, um, meet you.  
+**Speaker A (NS):** Nice to meet you too, Hiroshi! Are you here with friends?  
+**Speaker B (L2, Japanese):** Yes, I come with my friend, uh, Takeshi. He is... somewhere in the room.  
+**Speaker A (NS):** Oh, I see! How long have you known him?  
+**Speaker B (L2, Japanese):** We know each other... uh, for three years? We meet at university.  
+**Speaker A (NS):** That’s great! What do you study at university?  
+**Speaker B (L2, Japanese):** I study... how to say... engineering. Yes, mechanical engineering.  
+**Speaker A (NS):** That sounds interesting! What do you like most about it?  
+**Speaker B (L2, Japanese):** I like making things work. Uh, designing machine is very... um, satisfying.  
+**Speaker A (NS):** I bet it is! Do you have a favorite project you’ve worked on?  
+**Speaker B (L2, Japanese):** Yes, I make small robot last year. It can... um, move by itself.  
+**Speaker A (NS):** That’s so cool! Did it have a specific purpose?  
+**Speaker B (L2, Japanese):** It is for, uh, cleaning small space. Like table or floor.  
+**Speaker A (NS):** That’s really creative. Do you see yourself working on something like that in the future?  
+**Speaker B (L2, Japanese):** I hope so. I want to make more things that help people.  
+**Speaker A (NS):** That’s a wonderful goal. It was great talking to you, Hiroshi!  
+**Speaker B (L2, Japanese):** Yes, thank you very much, Sarah! I enjoy talking with you.  
+**Speaker A (NS):** Me too! Let’s catch up again later. Enjoy the party!  
+**Speaker B (L2, Japanese):** Yes, enjoy the party! See you later!  
+**Speaker A (NS):** See you!

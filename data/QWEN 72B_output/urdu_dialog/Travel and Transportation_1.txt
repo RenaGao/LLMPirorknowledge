@@ -1,0 +1,31 @@
+**Speaker A (NS):** Hi there! I’m a bit lost. Could you help me find the nearest hotel, please?
+
+**Speaker B (L2, Urdu):** Sure, no problem. Which hotel are looking for? There are a few in the area.
+
+**Speaker A (NS):** Oh, I don’t have a specific one in mind. Just the closest one would be great.
+
+**Speaker B (L2, Urdu):** Ah, I understand. The nearest hotel is called the Greenview Hotel. It is just down this street, on the left.
+
+**Speaker A (NS):** Great, thank you! How far is it from here?
+
+**Speaker B (L2, Urdu):** It is about a five-minute walk. You just need to follow this street, and you will see it on your left side.
+
+**Speaker A (NS):** Is it a big building? I might miss it if it’s small.
+
+**Speaker B (L2, Urdu):** No, it is quite big. It has a green sign with the name on it. You cannot miss it.
+
+**Speaker A (NS):** That sounds clear. Is there anything else I should know about the area?
+
+**Speaker B (L2, Urdu):** Yes, there is a nice café just next to the hotel. You can have a tea or coffee there if you want.
+
+**Speaker A (NS):** That’s a good tip. Thank you! Do you know if the hotel has a restaurant?
+
+**Speaker B (L2, Urdu):** Yes, they have a restaurant on the ground floor. It is open until 10 PM.
+
+**Speaker A (NS):** Perfect. I might check that out later. Thanks for all the information. You’ve been really helpful.
+
+**Speaker B (L2, Urdu):** You are welcome. I am glad I could help. If you need any more help, just ask.
+
+**Speaker A (NS):** I will. Thanks again. Have a great day!
+
+**Speaker B (L2, Urdu):** You too. Goodbye and take care!

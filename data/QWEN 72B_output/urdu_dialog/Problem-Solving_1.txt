@@ -1,0 +1,51 @@
+**Scene: A customer, Bilal, is calling the customer service of a tech support company to report a technical issue with his internet router.**
+
+**Speaker A (NS):** Good afternoon, Tech Support. How can I assist you today?
+
+**Speaker B (L2, Urdu):** Um, good afternoon. My name is Bilal. I have problem with my internet.
+
+**Speaker A (NS):** Hello, Bilal. I’m here to help. Can you describe the problem you’re experiencing?
+
+**Speaker B (L2, Urdu):** Yes, internet not working. I try to connect, but it show error.
+
+**Speaker A (NS):** I see. Can you tell me the error message you’re seeing?
+
+**Speaker B (L2, Urdu):** Um, it say... “Connection failed. Please check your router and try again.”
+
+**Speaker A (NS):** Thank you for that. Have you tried restarting your router?
+
+**Speaker B (L2, Urdu):** Yes, I do. I turn off, wait five minute, and turn on again. Still not working.
+
+**Speaker A (NS):** Okay. Let’s try a few more steps. Can you confirm if the power light on the router is on and steady?
+
+**Speaker B (L2, Urdu):** Um, yes, power light is on. It is steady.
+
+**Speaker A (NS):** Great. What about the other lights, like the Ethernet or Wi-Fi lights?
+
+**Speaker B (L2, Urdu):** Wi-Fi light is blinking. Ethernet light is on, but not blinking.
+
+**Speaker A (NS):** Good observation. Let’s check the connections. Can you make sure all the cables are securely plugged in?
+
+**Speaker B (L2, Urdu):** Yes, I check. All cable are in place.
+
+**Speaker A (NS):** Perfect. Let’s try a factory reset. You’ll need to press and hold the reset button for about 10 seconds. Do you see the reset button on your router?
+
+**Speaker B (L2, Urdu):** Yes, I see it. I hold for ten second. What next?
+
+**Speaker A (NS):** Good. After the reset, wait a few minutes for the router to reboot. Then, try connecting to the internet again.
+
+**Speaker B (L2, Urdu):** Okay, I wait... um, five minute. Now I try.
+
+**Speaker A (NS):** Alright. Please let me know if that resolves the issue.
+
+**Speaker B (L2, Urdu):** Um, yes, it work now. Internet is back.
+
+**Speaker A (NS):** That’s great to hear, Bilal! Is there anything else you need help with?
+
+**Speaker B (L2, Urdu):** No, that is all. Thank you very much for your help.
+
+**Speaker A (NS):** You’re welcome, Bilal. If you have any more issues, don’t hesitate to call us. Have a great day!
+
+**Speaker B (L2, Urdu):** Thank you, you too. Goodbye.
+
+**Speaker A (NS):** Goodbye, Bilal. Take care!

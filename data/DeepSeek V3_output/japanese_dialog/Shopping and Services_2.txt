@@ -1,0 +1,23 @@
+**Speaker A (NS):** Hi, thank you for calling customer service. How can I help you today?  
+**Speaker B (L2, Japanese):** Ah, hello. I have problem with my... um, recent buy.  
+**Speaker A (NS):** I’m sorry to hear that. Can you tell me what the issue is?  
+**Speaker B (L2, Japanese):** Yes, I bought... um, thing for kitchen. It is... uh... blender? But it not work.  
+**Speaker A (NS):** Okay, the blender isn’t working. Did you check if it’s plugged in properly?  
+**Speaker B (L2, Japanese):** Yes, I check. It is... um, connected, but no start.  
+**Speaker A (NS):** I see. Could you tell me the model number? It’s usually on the bottom of the blender.  
+**Speaker B (L2, Japanese):** Ah, wait a moment. Model number is... um, BLD-450.  
+**Speaker A (NS):** BLD-450. Got it. Let me check our system.  
+**Speaker B (L2, Japanese):** Thank you very much.  
+**Speaker A (NS):** You’re welcome. Hmm, it seems like there might be a defect. Would you like a replacement or a refund?  
+**Speaker B (L2, Japanese):** Replacement, please.  
+**Speaker A (NS):** Sure. I can arrange that for you. Do you have the receipt or order number?  
+**Speaker B (L2, Japanese):** Yes, order number is... um, 789123.  
+**Speaker A (NS):** Great. I’ll process the replacement now. It should arrive within 5 business days.  
+**Speaker B (L2, Japanese):** Five day? Okay, I understand.  
+**Speaker A (NS):** Yes. Is there anything else I can help you with today?  
+**Speaker B (L2, Japanese):** No, thank you. You are very helpful.  
+**Speaker A (NS):** You’re welcome. We’re sorry for the inconvenience. Have a great day!  
+**Speaker B (L2, Japanese):** Thank you. Goodbye.  
+**Speaker A (NS):** Goodbye!  
+
+**End of conversation.**
