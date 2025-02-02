@@ -1,0 +1,26 @@
+**Speaker A (Native Speaker, NS):** Hi there! You look a bit lost. Can I help you with something?  
+**Speaker B (L2, Urdu):** Ah, yes, thank you. I am... um... looking for hotel. Do you know where is it?  
+**Speaker A (NS):** Sure! Which hotel are you trying to find?  
+**Speaker B (L2, Urdu):** It is called... um... “Sunrise Hotel.” Is it near here?  
+**Speaker A (NS):** Oh, yes! Sunrise Hotel is just a short walk from here. Let me explain the way.  
+**Speaker B (L2, Urdu):** Okay, yes, please. I will try to... uh... follow.  
+**Speaker A (NS):** Alright. Go straight from here until you see a big red building.  
+**Speaker B (L2, Urdu):** Big red... um, what is meaning of “building”?  
+**Speaker A (NS):** Oh, a building is a structure, like a house or an office. It’s something people live or work in.  
+**Speaker B (L2, Urdu):** Ah, yes, I understand. Then straight to big red building.  
+**Speaker A (NS):** Exactly. After you see the red building, turn left. You’ll see a small park.  
+**Speaker B (L2, Urdu):** Turn left and... park. Okay.  
+**Speaker A (NS):** After the park, walk for about two minutes. The hotel will be on your right.  
+**Speaker B (L2, Urdu):** On my right... okay. Um, is it near to... uh... food place?  
+**Speaker A (NS):** Yes, there’s a restaurant just next to the hotel. You’ll find it easily.  
+**Speaker B (L2, Urdu):** That is very good. I need food also. Thank you so much!  
+**Speaker A (NS):** You’re welcome! Do you want me to write it down for you?  
+**Speaker B (L2, Urdu):** Oh, yes, that will be... um... helpful.  
+**Speaker A (NS):** Here you go. I’ve written the directions here.  
+**Speaker B (L2, Urdu):** Very kind of you. I think I can find it now. Thank you again!  
+**Speaker A (NS):** No problem! Enjoy your stay at Sunrise Hotel.  
+**Speaker B (L2, Urdu):** Yes, I will. Thank you, and have a nice day!  
+**Speaker A (NS):** You too! Goodbye!  
+**Speaker B (L2, Urdu):** Goodbye!  
+
+**End of Conversation.**

@@ -1,0 +1,12 @@
+Good morning. My name is Nuch. Um, I from Bangkok. I study computer engineering for four year at Kasetsart University.
+Sure. I very interested in software development. I enjoy coding and create new things. This job, I think, is good chance for me to grow and learn more.
+Yes, um... I work on a mobile app for students. It help them study English vocabulary. I use React Native and Firebase for backend.
+I was main developer. I design the user interface and write the code. Also, I manage the database.
+Hmm, sometimes the app have bug. I spend time to debug and fix it. Also, I have to optimize the performance to make it run smooth.
+I strong in problem-solving and coding. I also good at teamwork. I enjoy working with others to achieve goal.
+I read a lot of tech blogs and watch tutorials online. Also, I attend workshops and conferences when I can.
+Yes, in my final year project, we have to finish in two month. I and my team work very hard. We plan carefully and divide the task. We finish on time.
+I try to stay calm and focus. I make plan and follow it. Also, I take break when I need to, to relax my mind.
+Yes, I want to know more about the company culture. How is it here?
+That sound very good. Thank you for telling me.
+Thank you very much. I look forward to hearing from you. Goodbye.

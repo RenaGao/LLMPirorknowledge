@@ -1,0 +1,43 @@
+**Speaker A (NS):** Hi there, I see you’re having some trouble with your internet connection. Can you tell me what’s happening?  
+
+**Speaker B (L2, Urdu):** Yes, my internet is... not working. It is very slow. I try to... um, how to say, refresh, but nothing happen.  
+
+**Speaker A (NS):** I understand. How long has this been going on?  
+
+**Speaker B (L2, Urdu):** Since... yesterday night. I need internet for my work, so it is big problem.  
+
+**Speaker A (NS):** That’s frustrating. Have you tried restarting your router?  
+
+**Speaker B (L2, Urdu):** Ah, yes, I try. I turn off and on, but still same problem.  
+
+**Speaker A (NS):** Okay, let’s check the cables. Are they properly connected?  
+
+**Speaker B (L2, Urdu):** I think yes... um, I check now. *[pauses]* One cable is... loose. I fix it... but internet still slow.  
+
+**Speaker A (NS):** Good catch! Sometimes that helps. Maybe we should check your account. Is your billing up to date?  
+
+**Speaker B (L2, Urdu):** Yes, I pay last week. No problem with... bill.  
+
+**Speaker A (NS):** Alright. It could be an issue on our end. I’ll need to escalate this to our technical team.  
+
+**Speaker B (L2, Urdu):** Oh, okay. How long it will take?  
+
+**Speaker A (NS):** It usually takes 24 to 48 hours. I’ll make sure they prioritize it.  
+
+**Speaker B (L2, Urdu):** Thank you. I hope it will be solved soon.  
+
+**Speaker A (NS):** Of course. I’ll send you an update as soon as I hear back. Is there anything else I can help with?  
+
+**Speaker B (L2, Urdu):** No, I think that is all. Thank you for your... help.  
+
+**Speaker A (NS):** You’re welcome! We’ll get this sorted out as quickly as possible.  
+
+**Speaker B (L2, Urdu):** Yes, I... appreciate it. Have a good day.  
+
+**Speaker A (NS):** You too! Take care.  
+
+**Speaker B (L2, Urdu):** Okay, goodbye!  
+
+**Speaker A (NS):** Goodbye!  
+
+**[End of conversation.]**

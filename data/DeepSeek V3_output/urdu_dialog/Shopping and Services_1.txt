@@ -1,0 +1,21 @@
+**Speaker A (NS):** Hi there! I see you’re looking at that watch. What do you think of it?  
+**Speaker B (L2, Urdu):** Yes, I like watch. But I am confused. It is... um, how to say... too expensive for me.  
+**Speaker A (NS):** Ah, I understand. Budget is important. What do you like about it?  
+**Speaker B (L2, Urdu):** Uh, the design is very nice. And it has... um, thing for counting steps.  
+**Speaker A (NS):** Oh, a step tracker? That’s a useful feature.  
+**Speaker B (L2, Urdu):** Yes, step tracker. And it has small screen for... um, messages.  
+**Speaker A (NS):** A notification display? That’s handy. Does it show calls and texts?  
+**Speaker B (L2, Urdu):** Yes, it show calls and messages. But the battery... uh, battery life not good.  
+**Speaker A (NS):** Hmm, that’s a concern. How long does it last?  
+**Speaker B (L2, Urdu):** One day only. If I use many features, it become... empty.  
+**Speaker A (NS):** That’s a short battery life. Maybe there are other watches with similar features and better battery.  
+**Speaker B (L2, Urdu):** Yes, I think so. I look for other watches. But I like this one’s... um, color.  
+**Speaker A (NS):** The color is nice. Maybe check online reviews to see if people have tips for improving the battery life.  
+**Speaker B (L2, Urdu):** Good idea. I will... um, search online.  
+**Speaker A (NS):** Sounds like a plan. Let me know if you need help finding reviews.  
+**Speaker B (L2, Urdu):** Thank you for your help. You are very kind.  
+**Speaker A (NS):** You’re welcome! Good luck with your decision.  
+**Speaker B (L2, Urdu):** Thank you. I will think more before buying. Goodbye!  
+**Speaker A (NS):** Goodbye! Let me know what you decide.  
+
+**Note:** The conversation ends with a complete sentence within the 20-turn limitation.

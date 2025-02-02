@@ -1,0 +1,11 @@
+Hello, um, I have problem with my internet. It no work.
+Yes, when I try to connect, it show error message. And, um, no web page can load.
+Yes, I check already. Everything look fine.
+Okay, I try. (Pause) It still not work after restart.
+Um, how to open command prompt?
+Okay, I do that. (Pause) It show some number, is this IP address?
+Okay, I type that. (Pause) It say, um, ‘request timed out.’
+Okay, I try. (Pause) It say ‘successfully flushed DNS cache.’
+I try. (Pause) It work! Web page load now.
+Yes, all good now. Thank you so much for help!
+Thank you, you too. Goodbye!

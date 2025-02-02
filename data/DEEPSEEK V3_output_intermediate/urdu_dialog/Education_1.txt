@@ -1,0 +1,9 @@
+Oh, yes, I try my best. Which problem is giving you trouble?
+Ah, integration. It is... um, like finding area under curve, right?
+Okay, first, you need to find function. Then, you apply rules. Um, like... product rule or chain rule.
+Oh, yes, my mistake. I mean... substitution rule. For integration.
+Yes, you take one part, make it... um, simpler. Then integrate it step by step.
+Sure. Let’s take ∫x2 dx. First, you increase power by one, then divide by new power. So, it becomes (x3)/3.
+Constant... uh, it stays same. You just multiply it with result.
+You’re welcome. If you have more questions, I am here to help.
+No problem. Good luck with your study, and see you in class tomorrow!

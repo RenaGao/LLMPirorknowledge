@@ -1,0 +1,64 @@
+**Speaker A (Native Speaker, Customer Service):**  
+Hello, thank you for calling customer service. How can I help you today?  
+
+**Speaker B (Second-Language Learner, Customer):**  
+Hello, um... I have problem with my... purchase.  
+
+**Speaker A (NS):**  
+I see. Could you tell me what the issue is?  
+
+**Speaker B (L2):**  
+Yes, I buy phone online, but it is not working properly.  
+
+**Speaker A (NS):**  
+I’m sorry to hear that. Can you explain what’s wrong with the phone?  
+
+**Speaker B (L2):**  
+The screen is... um, not turning on. I try to charge, but nothing happen.  
+
+**Speaker A (NS):**  
+That sounds frustrating. Did you check the charger or the cable to make sure they’re working?  
+
+**Speaker B (L2):**  
+Yes, I try other charger also, but still problem is same.  
+
+**Speaker A (NS):**  
+Got it. Can you provide me with your order number so I can look into this?  
+
+**Speaker B (L2):**  
+Ah, yes. Order number is... um, 123456.  
+
+**Speaker A (NS):**  
+Thank you. Let me check... Ah, I see your order here. Since the phone isn’t working, we can either replace it or process a refund. Which would you prefer?  
+
+**Speaker B (L2):**  
+I think... replacement is better.  
+
+**Speaker A (NS):**  
+Alright. I’ll set up a replacement for you. You’ll receive an email with all the details. Do you have any questions?  
+
+**Speaker B (L2):**  
+How long it will take?  
+
+**Speaker A (NS):**  
+It usually takes about 3 to 5 business days.  
+
+**Speaker B (L2):**  
+Okay, that is fine. Thank you for help.  
+
+**Speaker A (NS):**  
+You’re welcome! Is there anything else I can assist you with today?  
+
+**Speaker B (L2):**  
+No, that’s all. Thank you again.  
+
+**Speaker A (NS):**  
+Thank you for calling. Have a great day!  
+
+**Speaker B (L2):**  
+You also have a nice day. Goodbye!  
+
+**Speaker A (NS):**  
+Goodbye!  
+
+**End of Conversation.**

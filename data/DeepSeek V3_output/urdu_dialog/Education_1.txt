@@ -1,0 +1,21 @@
+**Speaker A (NS):** Hi, Ayesha! Thanks for meeting. I heard you’re really good at math. Can you help me understand this problem?  
+**Speaker B (L2, Urdu):** Oh, yes, I try my best. Which problem is giving you trouble?  
+**Speaker A (NS):** It’s about calculus—this integration problem. I’m not sure how to start.  
+**Speaker B (L2, Urdu):** Ah, integration. It is... um, like finding area under curve, right?  
+**Speaker A (NS):** Exactly! But these steps are confusing me.  
+**Speaker B (L2, Urdu):** Okay, first, you need to find function. Then, you apply rules. Um, like... product rule or chain rule.  
+**Speaker A (NS):** Product rule? I thought that was for differentiation.  
+**Speaker B (L2, Urdu):** Oh, yes, my mistake. I mean... substitution rule. For integration.  
+**Speaker A (NS):** Got it. So, I substitute a part of the equation?  
+**Speaker B (L2, Urdu):** Yes, you take one part, make it... um, simpler. Then integrate it step by step.  
+**Speaker A (NS):** That makes sense. Could you show me an example?  
+**Speaker B (L2, Urdu):** Sure. Let’s take ∫x2 dx. First, you increase power by one, then divide by new power. So, it becomes (x3)/3.  
+**Speaker A (NS):** Oh, that’s clear! What if there’s a constant in the equation?  
+**Speaker B (L2, Urdu):** Constant... uh, it stays same. You just multiply it with result.  
+**Speaker A (NS):** That’s helpful. Thanks for explaining!  
+**Speaker B (L2, Urdu):** You’re welcome. If you have more questions, I am here to help.  
+**Speaker A (NS):** I’ll definitely ask you if I get stuck again. Thanks, Ayesha!  
+**Speaker B (L2, Urdu):** No problem. Good luck with your study, and see you in class tomorrow!  
+**Speaker A (NS):** See you tomorrow! Thanks again for your help.  
+
+**End of conversation.**

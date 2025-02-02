@@ -1,0 +1,33 @@
+**Scene:** A second-language Urdu speaker is at a store and needs help finding a product. The native speaker is a shop assistant.
+
+---
+
+**Shop Assistant (SA):** Hi there! How can I help you today?  
+**Customer (C):** Hello, um... I need to find something, but I don’t know where it is.  
+**SA:** No problem! What are you looking for?  
+**C:** I need... um, how to say... a thing for fixing paper together? Like, you put paper and... click?  
+**SA:** Oh, a stapler?  
+**C:** Yes, stapler! Stapler for fixing paper together.  
+**SA:** Got it. There’s a stapler in the stationery aisle. I can show you.  
+**C:** Thank you. Stationery aisle... is it near?  
+**SA:** It’s just over there. Follow me!  
+**C:** Okay, I follow you.  
+
+*(They walk to the aisle.)*  
+
+**SA:** Here we are. The staplers are on this shelf.  
+**C:** Ah, I see. Thank you. This one is... um, normal size?  
+**SA:** Yes, that’s the standard size. Is this what you need?  
+**C:** Yes, this is good. I need it for my office work.  
+**SA:** Great! Do you need staples too?  
+**C:** Staples? Ah, yes! Small metal things for inside stapler?  
+**SA:** Exactly. They’re right here.  
+**C:** Thank you. You are very helpful.  
+**SA:** You’re welcome! Is there anything else you need?  
+**C:** No, I think this is all. Thank you so much.  
+**SA:** No problem. Have a great day!  
+**C:** You also have a nice day. Goodbye!  
+
+---
+
+**End of Conversation**

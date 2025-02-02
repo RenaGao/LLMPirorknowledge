@@ -1,0 +1,10 @@
+Uh, yes. I have time. What is the problem about?
+Oh, I see. Let me think... um, you need find two numbers. They add to 5 and, um, multiply to 6.
+I think... 2 and 3. Because 2 + 3 is 5, and 2 times 3 is 6.
+You write... (x + 2) and (x + 3). Because, um, when you multiply them, it becomes x² + 5x + 6.
+Yes, that’s correct. If you want, I can explain another example. To make sure you understand.
+Okay. So, we need two numbers. They add to 7 and multiply to 12.
+Um... 3 and 4. Because 3 + 4 is 7, and 3 times 4 is 12.
+Exactly! You’re doing very good.
+No problem. If you have any more questions, just ask.
+You too. Bye!

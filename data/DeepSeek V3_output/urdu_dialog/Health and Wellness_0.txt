@@ -1,0 +1,34 @@
+**Speaker A (Native Speaker, NS):** Hi there! How can I help you today?  
+**Speaker B (Second-Language Speaker, Urdu):** Hello, doctor. I am not feeling well from... uh, two days.  
+
+**NS:** I’m sorry to hear that. Could you tell me what’s bothering you?  
+**L2:** Yes, I have... um, pain in throat. And also, I feel very... how to say... tired.  
+
+**NS:** A sore throat and fatigue. Do you have a fever?  
+**L2:** Fever? Yes, I think so. I feel hot and cold... again and again.  
+
+**NS:** That sounds like chills. Are you coughing or sneezing?  
+**L2:** Yes, I cough much. But sneezing... no, not sneezing.  
+
+**NS:** Got it. And how about your appetite? Are you eating normally?  
+**L2:** No, I don’t feel hungry. Food taste... uh, no taste.  
+
+**NS:** That’s common when you’re sick. Do you have any body aches?  
+**L2:** Body aches? Yes, my head and back is... um, hurting.  
+
+**NS:** I see. It sounds like you might have the flu. Let me check your temperature and throat.  
+**L2:** Okay, doctor.  
+
+**NS:** (After examination) Your temperature is slightly high, and your throat is inflamed. I’ll prescribe some medicine to help with the symptoms.  
+**L2:** Thank you, doctor. How long... um, how long I will be sick?  
+
+**NS:** It usually takes about a week to feel better. Make sure to rest and drink plenty of fluids.  
+**L2:** Okay, I will do. Can I take... uh, hot tea?  
+
+**NS:** Yes, hot tea is great for soothing your throat. Avoid cold drinks, though.  
+**L2:** Okay, I understand. Thank you for help.  
+
+**NS:** You’re welcome. Take care, and come back if you don’t feel better in a few days.  
+**L2:** Yes, I will. Thank you, doctor. Goodbye.  
+
+**NS:** Goodbye! Take care of yourself.

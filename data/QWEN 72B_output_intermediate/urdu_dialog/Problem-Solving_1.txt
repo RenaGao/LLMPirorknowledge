@@ -1,0 +1,12 @@
+Um, good afternoon. My name is Bilal. I have problem with my internet.
+Yes, internet not working. I try to connect, but it show error.
+Um, it say... “Connection failed. Please check your router and try again.”
+Yes, I do. I turn off, wait five minute, and turn on again. Still not working.
+Um, yes, power light is on. It is steady.
+Wi-Fi light is blinking. Ethernet light is on, but not blinking.
+Yes, I check. All cable are in place.
+Yes, I see it. I hold for ten second. What next?
+Okay, I wait... um, five minute. Now I try.
+Um, yes, it work now. Internet is back.
+No, that is all. Thank you very much for your help.
+Thank you, you too. Goodbye.

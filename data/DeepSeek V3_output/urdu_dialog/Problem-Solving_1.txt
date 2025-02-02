@@ -1,0 +1,22 @@
+**Speaker A (NS):** Hi, thank you for calling Tech Support. How can I help you today?  
+**Speaker B (L2, Urdu):** Hello, um, I have problem with my laptop. It is not working, I think.  
+**Speaker A (NS):** I’m sorry to hear that. Can you tell me what’s happening with your laptop?  
+**Speaker B (L2, Urdu):** Yes, it... uh, the screen is black. Even when I press power button, nothing happen.  
+**Speaker A (NS):** Okay, is the laptop plugged in or running on battery?  
+**Speaker B (L2, Urdu):** Ah, yes, it is charging. I check the charger, it is fine. But still, no screen.  
+**Speaker A (NS):** I see. Let’s try something. Can you hold the power button for 10 seconds to restart it?  
+**Speaker B (L2, Urdu):** Uh, okay, I try. *[pause]* No, it is not working. Still black.  
+**Speaker A (NS):** Hmm, let’s try connecting it to an external monitor, if you have one. Do you?  
+**Speaker B (L2, Urdu):** External monitor? Um, no, I don’t have... how to say... extra screen.  
+**Speaker A (NS):** Got it. Well, it sounds like it might be a hardware issue, possibly with the screen or motherboard.  
+**Speaker B (L2, Urdu):** Hardware issue? So, it is... broken?  
+**Speaker A (NS):** It’s possible. You might need to bring it in for repair. Did you buy it recently?  
+**Speaker B (L2, Urdu):** No, it is two years old. But I need it for my work. What I can do?  
+**Speaker A (NS):** I understand. We have a repair center downtown. I can give you the address if you’d like.  
+**Speaker B (L2, Urdu):** Yes, please. And, um, how much it will cost?  
+**Speaker A (NS):** It depends on the issue, but they’ll give you an estimate when you bring it in.  
+**Speaker B (L2, Urdu):** Okay, thank you. I will go there tomorrow. Thank you for your help.  
+**Speaker A (NS):** You’re welcome. If you have questions, just call us back. Have a nice day!  
+**Speaker B (L2, Urdu):** You too. Goodbye!  
+
+**End of conversation | Turns: 16**

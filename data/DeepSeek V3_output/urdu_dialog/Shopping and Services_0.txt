@@ -1,0 +1,21 @@
+**Speaker A (NS):** Hi there! How can I help you today?  
+**Speaker B (L2, Urdu):** Hello! I am looking for, um... thing for cooking. For making tea.  
+**Speaker A (NS):** Oh, a teapot? Or maybe a kettle?  
+**Speaker B (L2, Urdu):** Yes, kettle! I need... um, small kettle. For one person.  
+**Speaker A (NS):** Got it. We have a few options. Do you want an electric one or a stove-top one?  
+**Speaker B (L2, Urdu):** Electric is good. But, um... how to say... not too much money.  
+**Speaker A (NS):** Understood. Let’s check the budget-friendly ones. This one here is compact and easy to use.  
+**Speaker B (L2, Urdu):** How much is it, please?  
+**Speaker A (NS):** It’s $25. It also has a safety feature to turn off automatically.  
+**Speaker B (L2, Urdu):** Hmm... safe is good. Can I see, um, other one also?  
+**Speaker A (NS):** Sure! This one is $30, but it heats up faster and has a longer cord.  
+**Speaker B (L2, Urdu):** I think first one is okay for me. I like it.  
+**Speaker A (NS):** Great choice! Would you like to pay at the counter?  
+**Speaker B (L2, Urdu):** Yes, please. Also, do you have... um, box for it?  
+**Speaker A (NS):** Of course! I’ll pack it neatly for you.  
+**Speaker B (L2, Urdu):** Thank you very much. You are very helpful.  
+**Speaker A (NS):** You’re welcome! Let me know if you need anything else.  
+**Speaker B (L2, Urdu):** Okay, I will. Goodbye!  
+**Speaker A (NS):** Goodbye! Have a great day!  
+
+(End of conversation)

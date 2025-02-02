@@ -1,0 +1,24 @@
+**Speaker A (NS):** Hi there! I don’t think we’ve met before. My name’s Sarah. What’s yours?  
+**Speaker B (L2, Urdu):** Oh hello! My name is Ali. I am... um, new here. Nice to meet you.  
+**Speaker A (NS):** Nice to meet you too, Ali! Where are you from?  
+**Speaker B (L2, Urdu):** I am from Pakistan. Actually, Karachi city. You know it?  
+**Speaker A (NS):** Yes, I’ve heard of Karachi! It’s a big city, right?  
+**Speaker B (L2, Urdu):** Yes, very big. And very busy. Many people, many car... um, traffic.  
+**Speaker A (NS):** That sounds exciting but also a bit overwhelming. How long have you been here?  
+**Speaker B (L2, Urdu):** I come here two months ago. I am studying... um, computer science.  
+**Speaker A (NS):** That’s awesome! Why did you choose computer science?  
+**Speaker B (L2, Urdu):** I like... how to say? Making... programs? Yes, programs to solve problem. It is very interesting for me.  
+**Speaker A (NS):** That’s great. What kind of problems do you like solving?  
+**Speaker B (L2, Urdu):** Um, like... making apps for education. For example, I making app for learning English word.  
+**Speaker A (NS):** Oh, a vocabulary app? That’s very useful!  
+**Speaker B (L2, Urdu):** Yes, vocabulary app. It is small, but many student like it.  
+**Speaker A (NS):** That’s impressive, Ali. Do you enjoy living here so far?  
+**Speaker B (L2, Urdu):** Yes, it is nice. But sometimes I feel... how to say? Missing home.  
+**Speaker A (NS):** I understand. It’s a big change, but I’m sure you’ll settle in soon.  
+**Speaker B (L2, Urdu):** I hope so. Thank you for talking with me.  
+**Speaker A (NS):** Of course! It was great meeting you. If you ever want to chat or need help, let me know.  
+**Speaker B (L2, Urdu):** Thank you, Sarah. I will... um, remember that. Nice to meet you too.  
+**Speaker A (NS):** Take care, Ali. Have a great evening!  
+**Speaker B (L2, Urdu):** You also. Goodbye!  
+
+**End of conversation.**

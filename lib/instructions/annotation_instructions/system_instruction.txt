@@ -23,7 +23,6 @@ If the utterance has multiple tokens/phrases that need to be annotated, you shou
 }
 
 If exactly same utterance or token/phrase is repeated in the passage, you should repeatedly annotate them separately (we care about the frequency of grammatical features).
-Please return json objects and do not include any other information in the output. 
-The output will be multiple json objects if you find multiple utterances that need to be annotated.
+Please return json objects and do not include any other information in the output. The output will be single combined json objects if you find multiple utterances that need to be annotated (e.g., in a list).
 
 '''
