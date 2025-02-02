@@ -3,6 +3,8 @@
 *.png
 *.pdf
 *.csv
+*.txt
+*.ini
 notebooks/.env
 notebooks/Native-incontextlearning.ipynb
 notebooks/test_*.ipynb

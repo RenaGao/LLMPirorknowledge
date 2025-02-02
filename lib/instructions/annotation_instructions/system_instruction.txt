@@ -19,10 +19,10 @@ If the utterance has multiple tokens/phrases that need to be annotated, you shou
         "grammar correctness": the annotated grammar feature is aligned with the native English speaker's grammar usage. This can also be False if the annotated token is involved with additional errors that are not aligned with native speakers even when it's beyond the targeted linguistic phenomena.
         "rationale": "the reason why you give the annotation and judge it as correct or incorrect",
         }
-    ],
+    ]
 }
 
 If exactly same utterance or token/phrase is repeated in the passage, you should repeatedly annotate them separately (we care about the frequency of grammatical features).
-Please return json objects and do not include any other information in the output. The output will be single combined json objects if you find multiple utterances that need to be annotated (e.g., in a list).
+Please return json objects and do not include any other information in the output. The output will be single combined json objects if you find multiple utterances that need to be annotated (e.g., in a list) and also make sure it's satisfying json format (e.g.: [{obj1}, {obj2}, {obj3}]).
 
 '''
