@@ -1,8 +1,0 @@
-Hi, I am good, thank you. How are you?
-Yes, I have question about homework. Um... how to say... the problem number three. I don't understand.
-Um... the part where it say... it say "calculate the area of the triangle using the given formula." I not sure how to use the formula.
-Yes, I see. It say base is 10 and height is 8. But I not sure... how to put it in formula.
-Um, let me see... one-half times 10 is 5, and 5 times 8 is... 40. So, the area is 40?
-Yes, it make sense now. Thank you for helping me.
-No, I think I understand now. Thank you very much.
-You too. Goodbye!

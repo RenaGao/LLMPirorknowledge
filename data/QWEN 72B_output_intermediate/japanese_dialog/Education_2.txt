@@ -1,9 +1,0 @@
-Hello, Aki! My day is good, thank you. Um, how to say... I have question about homework.
-The problem... um, it is about... how to calculate, um, tax rate.
-Yes, it is, um... here. (Shows the problem) I not sure how to start.
-The base amount is... um, 200 dollars. And, um, tax rate is, um, 8 percent.
-Ah, so... 200 times 0.08 is... um, 16 dollars. Then, 200 plus 16 is 216 dollars. Is that correct?
-Yes, I understand. But, um, should I, um, write, um, explanation too?
-Ah, I see. So, I write... base amount is 200 dollars, tax rate is 8 percent, tax amount is 16 dollars, and total amount is 216 dollars.
-No, I think I got it. Thank you so much for help.
-Thank you, Aki! Goodbye!
