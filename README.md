@@ -39,7 +39,7 @@ We use benchmark [ICNALE](https://language.sakura.ne.jp/icnale/).
 mkdir dataset # you can put datasets and intermedia results here.
 ```
 
-### In-Context Learning for Target Native Conversations
+### Knowledge Injection Prompting for Target Native Conversations
 ```bash
 cd lib
 python gpt_incontext.py  --openai_api_key <your openai api key> --output_dir <Path to the output directory>
@@ -51,7 +51,7 @@ cd lib
 python annotation.py --openai_api_key <your openai api key> --input_dir <Path to the input directory> --output_dir <Path to the output directory> --samples_dir <Path to the intermedia samples directory>
 ```
 
-### Distrubutions and Results
+### Distributions and Results
 You can find some scripts and results in **notebooks/** for distribution calculation. We also provide example results of generated dialogue data along with their annotations, available in the **data/** and **annotations/** directories for reference.
 
 
