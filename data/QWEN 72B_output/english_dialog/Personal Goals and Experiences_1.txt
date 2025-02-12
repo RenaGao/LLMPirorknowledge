@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hey, Jamie! What’s up? How’s your week been?
+
+**Speaker B (NS):** Hey, Alex! Not bad, thanks. Just keeping busy. How about you?
+
+**Speaker A (NS):** Pretty good, thanks. I’ve been thinking a lot about learning a new skill. What about you? Is there anything you’ve been wanting to pick up?
+
+**Speaker B (NS):** Oh, definitely. I’ve been really interested in learning how to play the guitar. I’ve always admired people who can just sit down and play a tune.
+
+**Speaker A (NS):** That’s a great choice! What’s driving your interest in the guitar?
+
+**Speaker B (NS):** You know, I’ve always loved music, and I think being able to create something with my own hands would be really fulfilling. Plus, it could be a great way to unwind after a long day.
+
+**Speaker A (NS):** Absolutely, music has a way of doing that. I used to play the piano, and it was always a great stress reliever. Do you have a specific genre you’re interested in?
+
+**Speaker B (NS):** Yeah, I’m really into folk and acoustic stuff. I love the simplicity and the way it can tell a story. It’s not just about the technical skill, but also the emotion behind the music.
+
+**Speaker A (NS):** That’s so true. It’s amazing how music can convey so much without words. For me, I’ve been thinking about learning a bit of coding. I’ve heard it’s a valuable skill these days.
+
+**Speaker B (NS):** Oh, that’s really cool. What’s motivating you to learn coding?
+
+**Speaker A (NS):** Well, I’ve noticed a lot of opportunities in tech, and I think it could open up some interesting career paths. Plus, it seems like a fun challenge to solve problems and create something from scratch.
+
+**Speaker B (NS):** That makes a lot of sense. Coding is definitely a skill with a lot of potential. Have you started any courses or tutorials yet?
+
+**Speaker A (NS):** Not yet, but I’ve been looking into some online platforms. I think I’ll start with a basic Python course to get the hang of it.
+
+**Speaker B (NS):** Python’s a great choice. It’s pretty user-friendly and has a lot of applications. Maybe we can share our progress and help each other out as we learn.
+
+**Speaker A (NS):** That would be awesome! It’s always more fun to learn with someone. I’m really excited to get started.
+
+**Speaker B (NS):** Me too! It’s great to have a goal to work towards. Thanks for chatting about this, Alex.
+
+**Speaker A (NS):** Of course, always happy to chat! We should definitely catch up in a few weeks and see how we’re both doing.
+
+**Speaker B (NS):** Definitely, that sounds like a plan. Have a great week, Alex!
+
+**Speaker A (NS):** You too, Jamie. Take care and see you soon!

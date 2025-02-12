@@ -1,0 +1,25 @@
+**Speaker A (NS):** Good morning, thank you for coming in today! Can you start by introducing yourself briefly?
+**Speaker B (L2, Japanese):** Ah, thank you. My name is Rina Yamada. I from... um, big city in Tokyo, yes. I study... how to say... business... business thing. (chuckles)
+**Speaker A (NS):** Business administration?
+**Speaker B (L2, Japanese):** Yes! Business administration. I graduate university last year, and now I look for job... um, for working in foreign country.
+**Speaker A (NS):** That’s great. What motivated you to pursue a career in international business?
+**Speaker B (L2, Japanese):** I like... um, working with people from different... how to say... culture. And I enjoy traveling too. I visit many country, including England.
+**Speaker A (NS):** That’s wonderful. Can you tell me about a project you worked on in university that demonstrated your skills?
+**Speaker B (L2, Japanese):** Yes, I worked on... um, marketing plan project for... how to say... fashion company. We make... um, campaign to increase sales online.
+**Speaker A (NS):** How did you create and execute that plan?
+**Speaker B (L2, Japanese):** I use... um, data analysis to find... um, what customer like. And then we make... um, advertisement on social media, including Facebook and... um, Instagram, yes.
+**Speaker A (NS):** Excellent. Can you describe a situation where you overcame a difficult challenge at work or in a team setting?
+**Speaker B (L2, Japanese):** Yes, we have... um, big project deadline, but some team member not finish on time. I have to... um, talk to my friends and ask them to hurry up.
+**Speaker A (NS):** I see. What qualities do you think make you a strong candidate for this position?
+**Speaker B (L2, Japanese):** I have... um, good communication skill, I think. I like to... um, talk with people and listen also. (smiling)
+**Speaker A (NS):** That’s great to hear. How do you think this role aligns with your career goals and aspirations?
+**Speaker B (L2, Japanese):** I think it is... um, very good opportunity for me. I want to learn... um, new skill and get experience in international company.
+**Speaker A (NS):** Thank you, Rina, for sharing your thoughts with me today. Do you have any questions for me?
+**Speaker B (L2, Japanese):** Yes, what is... um, work-life balance like in this company? Is it... um, good?
+**Speaker A (NS):** Absolutely, we prioritize maintaining a healthy work-life balance. And thank you for your questions.
+**Speaker B (L2, Japanese):** Thank you for today’s interview, it was nice to talk with you.
+**Speaker A (NS):** The pleasure was mine, Rina. I think we’ll be in touch soon. Thank you again!
+**Speaker B (L2, Japanese):** Thank you, good morning!
+**Speaker A (NS):** To you as well, Rina!
+
+Here are some aspects that I followed in generating this conversation:

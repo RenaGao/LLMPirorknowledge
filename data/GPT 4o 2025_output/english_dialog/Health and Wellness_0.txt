@@ -1,0 +1,37 @@
+**Speaker A (Doctor):** Hi there! Thanks for coming in today. How can I help you?
+
+**Speaker B (Patient):** Hi, Doctor. Thanks for seeing me. I've been feeling a bit under the weather lately, and I thought it was time to get it checked out.
+
+**Speaker A (Doctor):** Of course. Can you tell me a bit more about what you've been experiencing?
+
+**Speaker B (Patient):** Sure, um, I've had this persistent headache for the past week, and it's been really draining. It's like a dull throb that just won't quit.
+
+**Speaker A (Doctor):** That sounds uncomfortable. Have you noticed any other symptoms, like nausea or sensitivity to light?
+
+**Speaker B (Patient):** Yeah, actually, I've been feeling a bit nauseous, and bright lights seem to make it worse. It's been tough to focus on work.
+
+**Speaker A (Doctor):** I see. Have you had any changes in your routine or stress levels recently that might be contributing?
+
+**Speaker B (Patient):** Well, I did start a new job a couple of weeks ago, and it's been a bit of a whirlwind. Maybe that's playing a part.
+
+**Speaker A (Doctor):** It's possible. Stress can definitely manifest in physical ways. Have you been getting enough rest and staying hydrated?
+
+**Speaker B (Patient):** Honestly, probably not as much as I should. I've been burning the candle at both ends, you know?
+
+**Speaker A (Doctor):** I understand. It might be helpful to try and carve out some time for relaxation and ensure you're drinking plenty of water.
+
+**Speaker B (Patient):** That makes sense. I'll definitely try to make some changes. Do you think I should be worried about anything more serious?
+
+**Speaker A (Doctor):** Based on what you've described, it sounds like tension headaches, but we'll keep an eye on it. If things don't improve or get worse, we can explore further options.
+
+**Speaker B (Patient):** Okay, that sounds reassuring. I'll monitor it and see how things go with some lifestyle adjustments.
+
+**Speaker A (Doctor):** Great. If you have any concerns or if the symptoms persist, don't hesitate to reach out. We're here to help.
+
+**Speaker B (Patient):** Thanks, Doctor. I really appreciate your advice and support.
+
+**Speaker A (Doctor):** You're welcome. Take care of yourself, and let's touch base in a couple of weeks to see how you're doing.
+
+**Speaker B (Patient):** Will do. Thanks again for your time. Goodbye!
+
+**Speaker A (Doctor):** Goodbye! Take care and feel better soon.

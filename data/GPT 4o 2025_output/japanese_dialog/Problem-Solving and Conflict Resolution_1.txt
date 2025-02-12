@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hi there! I heard you're having some trouble with your internet connection. Can I help?
+
+**Speaker B (L2, Japanese):** Ah, yes, thank you. My internet is, um, not working good. It is very slow.
+
+**Speaker A (NS):** I see. Have you tried restarting your router?
+
+**Speaker B (L2, Japanese):** Yes, I try that. But, um, it still slow. Maybe... how to say... problem with cable?
+
+**Speaker A (NS):** It could be. Have you checked if the cables are securely connected?
+
+**Speaker B (L2, Japanese):** Ah, I check. They are, um, tight. No loose.
+
+**Speaker A (NS):** Okay, that's good. Sometimes, the issue might be with the service provider. Have you contacted them?
+
+**Speaker B (L2, Japanese):** Not yet. I am, um, not sure what to say. My English is not so good.
+
+**Speaker A (NS):** No worries! You can say, "Hello, my internet is slow. Can you help me check the connection?"
+
+**Speaker B (L2, Japanese):** Ah, okay. I will try that. Thank you for, um, the sentence.
+
+**Speaker A (NS):** You're welcome! If they ask for details, you can mention when the problem started.
+
+**Speaker B (L2, Japanese):** Yes, I will say it start yesterday. Um, in evening.
+
+**Speaker A (NS):** Perfect. They might ask you to run a speed test. Do you know how to do that?
+
+**Speaker B (L2, Japanese):** Um, speed test? I am not sure. How to do?
+
+**Speaker A (NS):** You can use a website like Speedtest.net. Just click "Go," and it will show your internet speed.
+
+**Speaker B (L2, Japanese):** Ah, I see. I will try this. Thank you for explain.
+
+**Speaker A (NS):** No problem! If the speed is low, tell them the result. They should help you further.
+
+**Speaker B (L2, Japanese):** Yes, I will do that. Thank you very much for your help.
+
+**Speaker A (NS):** Anytime! Let me know if you need more assistance.
+
+**Speaker B (L2, Japanese):** Yes, I will. Thank you again. Goodbye!
+
+**Speaker A (NS):** Goodbye! I hope your internet gets fixed soon.

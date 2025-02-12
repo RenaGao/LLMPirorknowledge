@@ -1,0 +1,41 @@
+**Speaker A (Native Speaker, NS):** Hi there! Thanks for meeting with me today. Can you tell me about your goals for the next year?
+
+**Speaker B (Mandarin Speaker, L2):** Ah, yes, thank you. Next year, I want to improve my English more. Um, also, I want to get better job in my field.
+
+**Speaker A:** That sounds like a solid plan. How do you plan to improve your English?
+
+**Speaker B:** I think, um, I will take English class. And, uh, practice speaking with friends. Maybe watch more English movie.
+
+**Speaker A:** Watching movies is a great idea! What about your career goals? How do you plan to get a better job?
+
+**Speaker B:** I want to, um, learn new skills. Like, uh, how to say... coding language? Yes, new coding language.
+
+**Speaker A:** Which coding language are you thinking of learning?
+
+**Speaker B:** I think, maybe Python. It is very popular, yes?
+
+**Speaker A:** Yes, Python is very popular and useful. Do you have any specific projects in mind to practice it?
+
+**Speaker B:** Um, I want to make, uh, small app. Maybe for, uh, helping people learn language.
+
+**Speaker A:** That’s a fantastic idea! Have you thought about how you’ll start this project?
+
+**Speaker B:** Yes, I will, um, find online course. And, uh, try to make simple app first.
+
+**Speaker A:** That’s a smart approach. Do you have any other goals for next year?
+
+**Speaker B:** Yes, I also want to, um, travel more. See new places and, uh, learn about different culture.
+
+**Speaker A:** Traveling is a wonderful way to learn. Do you have any destinations in mind?
+
+**Speaker B:** I think, maybe Europe. I want to see, um, how to say... historical places.
+
+**Speaker A:** Europe has many historical sites. It sounds like you have an exciting year ahead!
+
+**Speaker B:** Yes, I hope so! Thank you for listening to my plan.
+
+**Speaker A:** You’re welcome! It was great hearing about your goals. Let’s catch up again soon to see how you’re progressing.
+
+**Speaker B:** Yes, that would be good. Thank you again. Goodbye!
+
+**Speaker A:** Goodbye! Take care and good luck with your plans!

@@ -1,0 +1,39 @@
+**Speaker A (NS):** Hey, Joon. I'm trying to find the city library. Can you help me?
+
+**Speaker B (L2, Korean):** Oh, yes, city library. Um, I think I know where it is. My friend come from there just yesterday. What... um, how to ask... yellow building with many books.
+
+**Speaker A (NS):** That sounds like a good description. I see a big yellow building over there. But I'm not sure if it's the library.
+
+**Speaker B (L2, Korean):** Ah, I see. You go straight down this street, yes? Turn left, then... um, right, and it's there.
+
+**Speaker A (NS):** Okay, that makes sense. Thank you for explaining.
+
+**Speaker B (L2, Korean):** You're welcome! Just one more thing. Library have... um, exhibition now. About Korea culture.
+
+**Speaker A (NS):** That sounds interesting. I might check it out.
+
+**Speaker B (L2, Korean):** Yes, yes! You must go see. Very nice. Then, if you go out, find... um, coffee shop. My friend go there, drink coffee.
+
+**Speaker A (NS):** Sounds good. Thank you again, Joon. I'll check it out!
+
+**Speaker B (L2, Korean):** You're welcome! Good luck. I hope you find... um, happy library!
+
+**Speaker A (NS):** I appreciate your help, Joon. We'll catch up next time.
+
+**Speaker B (L2, Korean):** Yes! If you find city library, you tell me! Bye for now!
+
+**Speaker A (NS):** Bye, Joon! Have a great day!
+
+In this example conversation, I reflected the following requirements and characteristics:
+
+1.  **Cultural Nuances**: Joon uses polite phrases, such as "You're welcome!" and "Bye for now!" which reflect Korean cultural communication styles.
+2.  **Balanced Exchange**: Both speakers share ideas, ask questions, and work together to solve the problem of finding the library.
+3.  **Error Patterns**: Joon demonstrates common mistakes encountered by L2 speakers, such as:
+    *   "Um" filler phrases and a slight pause while searching for words
+    *   "How to ask" instead of a direct question (e.g., "What is it about?")
+    *   "Yellow building with many books" to describe the library
+    *   "Straight down this street" with a slight hesitation
+    *   "Turn left, then... um, right" for giving directions
+    *   Self-correction while explaining: "Yellow building" with emphasis on the color
+4.  **Clarity and Empathy**: The native speaker, **Speaker A (NS)**, provides clear, friendly responses while avoiding judgment of Joon's language mistakes.
+5.  **Length and Focus**: The conversation remains concise, focusing on the main topic of asking directions to the city library while dealing with language barriers and culture nuances.

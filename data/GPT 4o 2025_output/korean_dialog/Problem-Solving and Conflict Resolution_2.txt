@@ -1,0 +1,35 @@
+**Speaker A (NS):** Hi Minji, thanks for meeting with me. We need to figure out how to handle the project deadline. Do you have any ideas?
+
+**Speaker B (L2, Korean):** Ah, yes, hello. Um, I think we need more time. The project is, uh, very big.
+
+**Speaker A (NS):** I agree, it’s quite a large project. Do you think we should ask for an extension?
+
+**Speaker B (L2, Korean):** Yes, extension is good. But, um, how to say... we need reason?
+
+**Speaker A (NS):** Yes, we should have a solid reason. Maybe we can explain the complexity of the tasks involved?
+
+**Speaker B (L2, Korean):** Ah, yes, complexity. Many parts, and, um, testing is slow.
+
+**Speaker A (NS):** Exactly. We can mention the testing phase taking longer than expected. Should we draft an email together?
+
+**Speaker B (L2, Korean):** Yes, email together is good. I can help with, um, writing.
+
+**Speaker A (NS):** Great! Let’s outline the main points first. We’ll mention the complexity and testing delays. Anything else?
+
+**Speaker B (L2, Korean):** Maybe, um, team is small? We need more people?
+
+**Speaker A (NS):** That’s a good point. We can suggest that additional resources might help speed things up.
+
+**Speaker B (L2, Korean):** Yes, more people help. Um, when we send email?
+
+**Speaker A (NS):** How about we finish it by tomorrow and send it in the afternoon?
+
+**Speaker B (L2, Korean):** Tomorrow afternoon, okay. I will, um, check my part tonight.
+
+**Speaker A (NS):** Perfect. I’ll do the same. Let’s meet again tomorrow morning to finalize it.
+
+**Speaker B (L2, Korean):** Yes, meet tomorrow morning. Thank you for help.
+
+**Speaker A (NS):** No problem, Minji. We’ll get through this together. See you tomorrow!
+
+**Speaker B (L2, Korean):** See you tomorrow! Bye!

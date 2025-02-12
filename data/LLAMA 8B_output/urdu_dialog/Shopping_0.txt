@@ -1,0 +1,59 @@
+**Turn 1: NS**
+Hi, I need some help finding a thing for fixing paper at the back of this document. Can you show me where that is?
+
+**Turn 2: L2, Urdu**
+Optional, um, excuse me... I mean, stapler. Where stapler, sir?
+
+**Turn 3: NS**
+A stapler! Yes, we do have those. What kind of stapler are you looking for?
+
+**Turn 4: L2, Urdu**
+Ah, thank you. I want... uh, paper... stapler. You have many types, yes?
+
+**Turn 5: NS**
+So you want a basic stapler? Let me show you a few we have available.
+
+**Turn 6: L2, Urdu**
+Thank you. Oh, this one look... easy to use.
+
+**Turn 7: NS**
+Great choice! This one is indeed easy to use. And it's cost-effective too.
+
+**Turn 8: L2, Urdu**
+Cost-effective... low price, yes?
+
+**Turn 9: NS**
+Yes, it is quite affordable. Do you have any questions about using it?
+
+**Turn 10: L2, Urdu**
+No, no questions. I think I have idea.
+
+**Turn 11: NS**
+Okay! I'll ring this one up for you. Would you like a bag for your purchase?
+
+**Turn 12: L2, Urdu**
+Uh, no need, sir. Thank you very much.
+
+**Turn 13: NS**
+Alright, that'll be $2.50 please.
+
+**Turn 14: L2, Urdu**
+Here, cash. Thank you again.
+
+**Turn 15: NS**
+Thank you, have a nice day!
+
+**Turn 16: L2, Urdu**
+You too, have nice day. Tq, sir.
+
+**Turn 17: NS**
+Wait, let me help you carry it out.
+
+**Turn 18: L2, Urdu**
+No, no, thank you, sir. Easy for me, thank you.
+
+**Turn 19: NS**
+Alright, if you need anything else, feel free to ask.
+
+**Turn 20: L2, Urdu**
+Thansk, I wasn't help you too.

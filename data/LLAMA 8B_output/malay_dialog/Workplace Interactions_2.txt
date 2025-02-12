@@ -1,0 +1,46 @@
+**Speaker A (NS):** Hi, so we're planning a team meeting for this week. Have you thought about the agenda?
+
+**Speaker B (L2, Malay):** Oh, yes! My friend, Nadi, she have idea. We can, uh, discuss about sales target for quarter.
+
+**Speaker A (NS):** That sounds like a great topic. Can you explain why you chose that?
+
+**Speaker B (L2, Malay):** Yes, because our sales are... um, not good now. We need to, uh, make plan to increase.
+
+**Speaker A (NS):** Okay, I see. And do you think we should invite any guests to the meeting?
+
+**Speaker B (L2, Malay):** Ah, probably not. Only our team need to come. Maybe our manager, Pak Amir.
+
+**Speaker A (NS):** Alright, that's a good point. How about we also discuss progress on our newest project?
+
+**Speaker B (L2, Malay):** Oh, yes! That thing for creative team. How to say... graphic design software.
+
+**Speaker A (NS):** You mean the graphic design team? Have they made any progress?
+
+**Speaker B (L2, Malay):** Ah, yes! They just finish new... um, brochures. Look very nice!
+
+**Speaker A (NS):** That's great! What about sharing some ideas for team-building activities?
+
+**Speaker B (L2, Malay):** Oh, hmmm... how to say... friendly games. Yeah, we can play game together.
+
+**Speaker A (NS):** Sounds like fun! Would you suggest a specific time for the meeting this week?
+
+**Speaker B (L2, Malay):** Um, I think, uh, Wednesday at 2 PM. Is good time?
+
+**Speaker A (NS):** Wednesday at 2 PM sounds fine. Let's make sure to send out invitations.
+
+**Speaker B (L2, Malay):** Okay! I can help. My friend, Nadi, have, uh, plan for invitation design.
+
+**Speaker A (NS):** Great! I look forward to seeing the design.
+
+**Speaker B (L2, Malay):** Thank you very much! See you at the meeting!
+
+**Speaker A (NS):** See you then! Have a great day!
+
+**Speaker B (L2, Malay):** You too! Bye-bye!
+
+The complete conversation within 20 turns with each speaker making expressions of goodbye or agree to summary, and ending with a complete sentence.
+
+Note:
+- The Malay speaker uses native expressions and sometimes may translate from their native language, as shown with "how to say".
+- Cultural nuances from Malay communication style are included in the conversation, making it sound natural and authentic.
+- Speaker A guides Speaker B to ensure understanding, without judging their mistakes.

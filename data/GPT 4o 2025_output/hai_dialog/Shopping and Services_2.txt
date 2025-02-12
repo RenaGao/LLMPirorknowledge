@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hello, thank you for calling customer service. How can I assist you today?
+
+**Speaker B (L2, Thai):** Um, hello. I have problem with, uh, recent buy. I buy, um, a phone, but it not work.
+
+**Speaker A (NS):** I’m sorry to hear that. Can you tell me what exactly is wrong with the phone?
+
+**Speaker B (L2, Thai):** Yes, the phone... it not turn on. I try charge, but nothing happen.
+
+**Speaker A (NS):** I see. Have you tried using a different charger or outlet to see if that helps?
+
+**Speaker B (L2, Thai):** Ah, yes, I try other charger. Still not work. Um, maybe phone is broken?
+
+**Speaker A (NS):** It’s possible. Let’s see if we can troubleshoot further. Did you notice any damage when you received the phone?
+
+**Speaker B (L2, Thai):** No, no damage. It look new, but just not work.
+
+**Speaker A (NS):** Alright. We might need to arrange a replacement. Do you have the receipt or order number with you?
+
+**Speaker B (L2, Thai):** Yes, I have. Um, one moment... okay, order number is 123456.
+
+**Speaker A (NS):** Thank you. I’ll check that for you. While I do, can you confirm when you purchased the phone?
+
+**Speaker B (L2, Thai):** I buy it, um, last week. On, uh, Monday.
+
+**Speaker A (NS):** Got it. I see your order here. Since it’s within the return period, we can replace it for you. Would you like that?
+
+**Speaker B (L2, Thai):** Yes, please. I want new phone that work.
+
+**Speaker A (NS):** Of course. I’ll arrange for a replacement to be sent to you. It should arrive in a few days. Is there anything else I can help you with?
+
+**Speaker B (L2, Thai):** No, that is all. Thank you very much for help.
+
+**Speaker A (NS):** You’re welcome! If you have any more questions, feel free to call us. Have a great day!
+
+**Speaker B (L2, Thai):** Thank you. Goodbye!
+
+**Speaker A (NS):** Goodbye!

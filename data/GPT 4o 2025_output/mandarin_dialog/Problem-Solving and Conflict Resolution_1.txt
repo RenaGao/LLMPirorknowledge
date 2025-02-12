@@ -1,0 +1,33 @@
+**Speaker A (Native Speaker, NS):** Hi there! I heard you're having some trouble with your internet connection. Can I help you with that?
+
+**Speaker B (Mandarin Speaker, L2):** Yes, um, thank you. My internet is, uh, not working good. It is very slow.
+
+**Speaker A:** I see. Have you tried restarting your router?
+
+**Speaker B:** Ah, yes, I try that. But, um, it still slow. Maybe, uh, problem with the cable?
+
+**Speaker A:** It could be. Have you checked if the cables are securely connected?
+
+**Speaker B:** Yes, I check. All is, uh, connected. Maybe, um, the service provider problem?
+
+**Speaker A:** That's possible. Have you contacted your service provider to see if there's an outage in your area?
+
+**Speaker B:** Um, not yet. I not sure how to, uh, explain problem to them.
+
+**Speaker A:** No worries. You can tell them your internet is slow and you've already restarted the router and checked the cables.
+
+**Speaker B:** Okay, I will try. And, um, if they ask more, what I say?
+
+**Speaker A:** You can mention any error messages you see or if the issue happens at specific times.
+
+**Speaker B:** Ah, okay. I understand. I will, um, call them now.
+
+**Speaker A:** Great! If they can't help, you might need a technician to check your setup.
+
+**Speaker B:** Yes, maybe technician is good idea. Thank you for help.
+
+**Speaker A:** You're welcome! Let me know if you need more assistance.
+
+**Speaker B:** Yes, I will. Thank you very much. Goodbye!
+
+**Speaker A:** Goodbye! I hope it gets fixed soon.

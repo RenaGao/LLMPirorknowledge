@@ -1,0 +1,39 @@
+**Native Speaker (NS)**: Welcome Kenta! Thank you for coming today. Can you start by telling me a little about yourself?
+
+**Second-Language Speaker (B)**: Ah, thank you... (pauses) My name is... Kenta. I am from... Shanghai. (pronounced "Shanghe") I study... um, computer? (pauses) You know, for machine... thing?
+
+**NS**: (polite smile) Computer science, perhaps? You're here for a job interview. Can you tell me why you're interested in this position?
+
+**B**: Yes... I like... coding. (pauses for a moment) How to say... making program for solve problem. (inaccurate grammar) I use computer very much in my study.
+
+**NS**: I see. That’s a great passion! Can you walk me through a project you worked on that demonstrates your skills?
+
+**B**: (pauses, thoughtfully) Yes... I make... um, website. (pauses again) It is for students. I teach... (stammers) how to... use online library. Yes, it have a lot of information.
+
+**NS**: That sounds useful! How did you design the website?
+
+**B**: (excitedly) I use HTML, and... JavaScript. And also, um... database? (limited vocabulary) For store... thing.
+
+**NS**: I see. So you used programming languages and database management? That’s impressive. Can you tell me about a specific challenge you overcame in your previous role?
+
+**B**: (hesitates) Yes... I work on... um, team project. We have to finish... (pauses, collecting thoughts) a big task. I write... codes, and my teammate, she help me find... solution.
+
+**NS**: That’s a great teamwork effort! Can you describe a typical day in the life of a software developer?
+
+**B**: (confidently) Yes, I work on computer for... (time consideration) many hours. I write codes, test, and... maybe have coffee.
+
+**NS**: (laughs) A basic requirement, isn’t it? Now, do you have any questions for me?
+
+**B**: (clears throat) Yes... How to say... for benefits? What is the benefits? (polite)
+
+**NS**: Of course! We offer a comprehensive benefits package, including health insurance, paid time off, and professional development opportunities.
+
+**B**: (smiling) That's great! Very good.
+
+**NS**: Well, thank you, Kenta, for coming in today. I think we’ll have some feedback for you in a few days.
+
+**B**: (smiling back) Thank you, thank you very much. If I can have maybe another... um, info chance, I will be... happy.
+
+**NS**: (encouragingly) Don’t worry, we'll get back to you soon. Thank you, Kenta!
+
+**B**: (stands up) Ta, goodbye. It was pleasant chat.

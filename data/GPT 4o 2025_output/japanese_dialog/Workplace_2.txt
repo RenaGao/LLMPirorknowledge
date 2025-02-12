@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hi there! Welcome to the team. Are you ready to learn about your first task?
+
+**Speaker B (L2, Japanese):** Ah, yes, thank you. I am ready. Please tell me about the task.
+
+**Speaker A (NS):** Great! So, your first task is to organize the files in our shared drive. Do you know how to access it?
+
+**Speaker B (L2, Japanese):** Um, I think so. I need to use... ah, the link you send, right?
+
+**Speaker A (NS):** Exactly. You’ll find the link in your email. Once you’re in, you’ll see different folders. We need them sorted by project name.
+
+**Speaker B (L2, Japanese):** Okay, I understand. Sort by project name. And, um, how to say... do I make new folder if needed?
+
+**Speaker A (NS):** Yes, if you see files without a folder, please create a new one with the correct project name.
+
+**Speaker B (L2, Japanese):** Ah, I see. And, um, what about old files? Do I keep them?
+
+**Speaker A (NS):** Good question. Keep all files for now. We’ll review them later to decide what to archive.
+
+**Speaker B (L2, Japanese):** Okay, keep all files. I will do that. Um, how long do I have for this task?
+
+**Speaker A (NS):** Try to finish by the end of the week. If you need more time, just let me know.
+
+**Speaker B (L2, Japanese):** End of the week, yes. I will try my best. If I have question, I can ask you?
+
+**Speaker A (NS):** Absolutely, feel free to ask anytime. I’m here to help.
+
+**Speaker B (L2, Japanese):** Thank you very much. I will start today. Um, I hope I do good job.
+
+**Speaker A (NS):** I’m sure you’ll do great! Just take your time and let me know if you need anything.
+
+**Speaker B (L2, Japanese):** Yes, I will. Thank you for your help.
+
+**Speaker A (NS):** You’re welcome! Let’s catch up later in the week to see how it’s going.
+
+**Speaker B (L2, Japanese):** Yes, let’s do that. Thank you again. Goodbye!
+
+**Speaker A (NS):** Goodbye! Have a great day!

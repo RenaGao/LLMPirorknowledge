@@ -1,0 +1,15 @@
+**Speaker A (NS):** Hi, Kamarul. Can I help you with something?
+**Speaker B (L2, Malay):** Ah, yes, thank you. Um, about... about homework, yes.
+**Speaker A (NS):** Homework? Which one are you having trouble with?
+**Speaker B (L2, Malay):** Teacher send us... um, assignment, I think. Math and science, yes.
+**Speaker A (NS):** Which specific assignment? Was it the probability calculations or the science experiment?
+**Speaker B (L2, Malay):** Um... let me see. Probability, I think. Yes, probability. I not understand... um, "expected value."
+**Speaker A (NS):** Don't worry. We can go over that. What specifically is confusing about "expected value"?
+**Speaker B (L2, Malay):** Um, how to... how to calculate it? Is it, um, mean value?
+**Speaker A (NS):** It's closely related to the mean, but not exactly. Let me explain. (explains the concept)
+**Speaker B (L2, Malay):** Ah, I see. Like, if you roll dice... um, multiply by ten. Yeah, like that!
+**Speaker A (NS):** That's correct. Now, can you try to apply that concept to the example problem your teacher provided?
+**Speaker B (L2, Malay):** Um, okay. I try. (pauses) Ah, yes. I think I understand. Teacher must be, um, proud of me now.
+**Speaker A (NS):** (laughs) That's the right attitude. If you have any other questions or need more help, don't hesitate to ask.
+**Speaker B (L2, Malay):** Thank you, teacher. I appreciate it. Bye.
+**Speaker A (NS):** Good luck with the rest of your homework and see you next class!

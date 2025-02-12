@@ -1,0 +1,33 @@
+**Native Speaker (NS):** Hello! I see you're stuck on the Johnson project. Can you tell me how you're handling it with Sarah?
+
+**L2 Speaker (Cantonese):** Ah, yes, the project. *pauses* Okay, so the problem is with the data... *thinks* numerical data. Sarah and I have same problem. *pauses*
+
+**NS:** Yeah, I remember now. Your machine learning model keeps failing is prediction, correct?
+
+**L2 Speaker (Cantonese):** Yes, exactly! *thinks* correct! We have lot trouble with model. Data very small for train... uh, for learn.
+
+**NS:** That's a good point. We might need more data to train the model effectively. Have you spoken with Sarah about adding more data or potential sidesteps?
+
+**L2 Speaker (Cantonese):** Yes, talk with her yes. *pauses* Concept size... um, how to say it? Training set?
+
+**NS:** Selection bias. That's a good word. Did you come up with any potential solutions or approaches in your conversation?
+
+**L2 Speaker (Cantonese):** Well... we can add more example *hesitates* example items, no? From other places like product feedback online?
+
+**NS:** I like that idea. Using external data could improve model effectiveness. Has Sarah had any input on adjusting the model at all?
+
+**L2 Speaker (Cantonese):** Not yet, no. Mainly problem with collected data. I think... small comment input so system fail.
+
+**NS:** Sounds like refining the model architecture could be the best route. Have you talked with someone about visualizing the ranges where the model fails?
+
+**L2 Speaker (Cantonese):** Not actually. I wanted to start coding check inputs myself. But if exercise incorrect, algorithm.
+
+**NS:** I'll review some testing strategies with you. Let's plan to discuss this more at our next team meeting for further solutions.
+
+**L2 Speaker (Cantonese):** This make lot sense! Working together us we both talk!
+
+**NS:** Sounds like a plan! Until the meeting. Best!
+
+**L2 Speaker (Cantonese):** Too! Got confuse but once more time think happy of talking more  I'll.
+
+Clubbest ending this finesvice improved Apple keyboard.

@@ -1,0 +1,39 @@
+**Speaker A (NS):** Hello! How can I help you today?
+
+**Speaker B (L2, Urdu):** Um, hello. I am looking for, uh, a thing for... um, making tea. 
+
+**Speaker A (NS):** Oh, you mean a teapot or a kettle?
+
+**Speaker B (L2, Urdu):** Yes, yes, kettle. I want to buy good one.
+
+**Speaker A (NS):** Sure! Do you have any specific features in mind, like electric or stovetop?
+
+**Speaker B (L2, Urdu):** Uh, electric is good. Easy to use, yes?
+
+**Speaker A (NS):** Yes, electric kettles are very convenient. We have a few options here. Do you have a budget?
+
+**Speaker B (L2, Urdu):** Budget... um, not too much. Maybe, uh, fifty dollars?
+
+**Speaker A (NS):** Alright, we have this model here. It's reliable and within your budget. Would you like to know more about it?
+
+**Speaker B (L2, Urdu):** Yes, please. It is, um, fast for boiling?
+
+**Speaker A (NS):** Yes, it boils water quickly, usually in about three to five minutes. It also has an automatic shut-off feature.
+
+**Speaker B (L2, Urdu):** Automatic shut-off... it means stop by itself, yes?
+
+**Speaker A (NS):** Exactly! It turns off when the water is boiled, so it's safe.
+
+**Speaker B (L2, Urdu):** Ah, very good. I think I like this one. 
+
+**Speaker A (NS):** Great choice! Would you like to purchase it now?
+
+**Speaker B (L2, Urdu):** Yes, I will buy. Thank you for help.
+
+**Speaker A (NS):** You're welcome! Is there anything else you need today?
+
+**Speaker B (L2, Urdu):** No, this is all. Thank you very much.
+
+**Speaker A (NS):** My pleasure. Have a great day!
+
+**Speaker B (L2, Urdu):** Thank you. Goodbye!

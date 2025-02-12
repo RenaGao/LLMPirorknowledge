@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hi, Lek! How can I help you today?
+
+**Speaker B (L2, Thai):** Hello! Um, I have problem with internet. It not work good.
+
+**Speaker A (NS):** Oh, I see. Is it slow or not connecting at all?
+
+**Speaker B (L2, Thai):** It is... um, slow. Very slow. I cannot watch video.
+
+**Speaker A (NS):** That sounds frustrating. Have you tried restarting your router?
+
+**Speaker B (L2, Thai):** Yes, I try. But still same. Maybe... um, problem with cable?
+
+**Speaker A (NS):** It could be. Have you checked if the cables are securely connected?
+
+**Speaker B (L2, Thai):** Ah, I not check yet. I will do now. One moment, please.
+
+**Speaker A (NS):** Sure, take your time.
+
+**Speaker B (L2, Thai):** Okay, I check. Cable is good. Not loose.
+
+**Speaker A (NS):** Alright. Sometimes, the issue might be with the service provider. Have you contacted them?
+
+**Speaker B (L2, Thai):** No, not yet. I not sure what to say.
+
+**Speaker A (NS):** You can tell them your internet is slow and ask if there are any outages in your area.
+
+**Speaker B (L2, Thai):** Okay, I will try. Um, how to say... "outage"?
+
+**Speaker A (NS):** You can say, "Is there an outage in my area?"
+
+**Speaker B (L2, Thai):** Ah, thank you. I will call them now.
+
+**Speaker A (NS):** Great! Let me know if you need more help.
+
+**Speaker B (L2, Thai):** Yes, I will. Thank you very much for help.
+
+**Speaker A (NS):** You're welcome, Lek. I hope it gets fixed soon.
+
+**Speaker B (L2, Thai):** I hope too. Thank you again. Goodbye!
+
+**Speaker A (NS):** Goodbye, Lek! Take care.

@@ -1,0 +1,35 @@
+**Speaker A (NS):** Hi Mei, welcome to the team! Today, I'll explain how we handle our weekly reports. Do you have any questions before we start?
+
+**Speaker B (L2, Cantonese):** Um, thank you. I think I understand, but maybe... you can explain again, please?
+
+**Speaker A (NS):** Of course! Every Friday, we gather data from our sales team and compile it into a report. Do you know how to use Excel?
+
+**Speaker B (L2, Cantonese):** Yes, I use Excel before. But, um, sometimes I forget... the formula. 
+
+**Speaker A (NS):** No worries, I can help with that. We mainly use formulas like SUM and AVERAGE. I can show you examples if you need.
+
+**Speaker B (L2, Cantonese):** Ah, yes, that would be good. I remember SUM, but AVERAGE... um, not so clear.
+
+**Speaker A (NS):** Okay, I'll send you a template with the formulas. You can practice with it. How does that sound?
+
+**Speaker B (L2, Cantonese):** Sounds good! I will try it. If I have problem, I can ask you?
+
+**Speaker A (NS):** Absolutely, feel free to ask anytime. Once the report is done, we email it to the manager. Do you know how to attach files in an email?
+
+**Speaker B (L2, Cantonese):** Yes, I know. I just click... um, the paperclip icon, right?
+
+**Speaker A (NS):** Exactly! And make sure to double-check the attachment before sending. It's a good habit.
+
+**Speaker B (L2, Cantonese):** Okay, I will check. Thank you for telling me.
+
+**Speaker A (NS):** You're welcome! Do you have any other questions about the process?
+
+**Speaker B (L2, Cantonese):** Um, no more question now. I will try first, then see if I need help.
+
+**Speaker A (NS):** Great! I'm sure you'll do well. Let's catch up next week to see how it went.
+
+**Speaker B (L2, Cantonese):** Yes, thank you. I will do my best.
+
+**Speaker A (NS):** Perfect. If you need anything, just let me know. Have a great day, Mei!
+
+**Speaker B (L2, Cantonese):** Thank you, you too! Goodbye!

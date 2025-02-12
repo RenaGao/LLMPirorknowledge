@@ -1,0 +1,79 @@
+**Turn 1**
+**Speaker A (NS):** Hi Kenta, thanks for calling about the issue with your service. Can you briefly describe the problem you're experiencing?
+**Speaker B (L2, Cantonese):** Ah, yes, thank you. My service, um, not work. I have problem with internet, yes?
+
+**Turn 2**
+**Speaker A (NS):** Sorry to hear that. Can you tell me more about what's not working correctly? For example, is your internet connection dropping, or is it showing an error message?
+**Speaker B (L2, Cantonese):** Yes, um, error message. It say, uh, "connection fail."
+
+**Turn 3**
+**Speaker A (NS):** Connection fail, that means there's an issue with our servers. Have you tried restarting your router or modem to see if it resolves the issue?
+**Speaker B (L2, Cantonese):** Ah, yes, um, restart. I try last time, no work. Maybe my router... stupid?
+
+**Turn 4**
+**Speaker A (NS):** Don't worry, it's not your fault. Sometimes routers can be faulty. Have you checked to see if there are any physical obstructions or hardware issues that might be affecting the connection?
+**Speaker B (L2, Cantonese):** Um, no... I think no. My router, uh, how to say... near the wall?
+
+**Turn 5**
+**Speaker A (NS):** I see. Is there a possibility that the issue is on our end? We can try to run some diagnostics on our end to see if there's a problem with the connection.
+**Speaker B (L2, Cantonese):** Yes, maybe you... um, check? My friend have same problem, we think maybe provider side.
+
+**Turn 6**
+**Speaker A (NS):** Alright, I'll go ahead and check on our side. Can you please hold for just a minute while I run some tests?
+**Speaker B (L2, Cantonese):** Yes, okay. Thank you, I wait.
+
+**Turn 7**
+**Speaker A (NS):** Hi Kenta, I'm back. I was able to run some diagnostics and it looks like there might be a problem with our equipment in your area. We're going to send a maintenance crew to fix the issue.
+**Speaker B (L2, Cantonese):** Ah, okay. I think that... um, my service soon work?
+
+**Turn 8**
+**Speaker A (NS):** Yes, we're going to get that fixed for you. Do you want me to provide you with an estimated time for when the maintenance crew will arrive?
+**Speaker B (L2, Cantonese):** Yes, please. How long... um, maybe one hour?
+
+**Turn 9**
+**Speaker A (NS):** The estimated time for the maintenance crew to arrive is around 30 minutes to an hour. They will fix the equipment on their end to resolve the issue.
+**Speaker B (L2, Cantonese):** Ah, okay. So, um, I just wait, yes?
+
+**Turn 10**
+**Speaker A (NS):** That's right! You can just wait for the maintenance crew to arrive and we'll get your service up and running again.
+**Speaker B (L2, Cantonese):** Okay. Thank you, um, very much.
+
+**Turn 11**
+**Speaker A (NS):** My pleasure, Kenta! If you have any more questions or concerns, feel free to call us back. We'll be happy to help.
+**Speaker B (L2, Cantonese):** Ah, thank you. Maybe next time... ah, no...
+
+**Turn 12**
+**Speaker A (NS):** Hehe, I hope not, Kenta! I'm glad we could resolve the issue for you today.
+**Speaker B (L2, Cantonese):** Ah, yes... good.
+
+**Turn 13**
+**Speaker A (NS):** Have a great day, and thank you for holding!
+**Speaker B (L2, Cantonese):** You... thank you, bye-bye!
+
+**Turn 14**
+**Speaker A (NS):** Bye-bye! See you next time, Kenta!
+**Speaker B (L2, Cantonese):** Yes... bye!
+
+**Turn 15**
+**Speaker A (NS):** Talk to you later!
+**Speaker B (L2, Cantonese):** Yi... talk...
+
+**Turn 16**
+**Speaker A (NS):** Agreement reached about when to meet, maybe see you this weekend?
+**Speaker B (L2, Cantonese):** Um, yes... this weekend. Time... um, 10 am?
+
+**Turn 17**
+**Speaker A (NS):** 10 am sounds good! See you then.
+**Speaker B (L2, Cantonese):** Okay, bye... careful!
+
+**Turn 18**
+**Speaker A (NS):** You take care, Kenta!
+**Speaker B (L2, Cantonese):** Ah, thankyou, good luck...
+
+**Turn 19**
+**Speaker A (NS):** Feel free to call us anytime if you have any more questions or need assistance.
+**Speaker B (L2, Cantonese):** Okay... thank you.
+
+**Turn 20**
+**Speaker A (NS):** Enjoy your day, Kenta, and we'll talk soon! Your issue with service should be fixed now.
+**Speaker B (L2, Cantonese):** Ah... okay, thank you very much now...

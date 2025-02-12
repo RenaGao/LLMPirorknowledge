@@ -1,0 +1,35 @@
+**Speaker A (Shopkeeper):** Hi there! How can I help you today?
+
+**Speaker B (Customer):** Hey! I’m looking for a new coffee maker. Mine just bit the dust, and I need something reliable. Any recommendations?
+
+**Speaker A (Shopkeeper):** Absolutely, I can help with that. Are you looking for something basic, or do you want all the bells and whistles?
+
+**Speaker B (Customer):** Hmm, I’d say somewhere in the middle. I don’t need anything too fancy, but I’d love something that makes a good cup of joe.
+
+**Speaker A (Shopkeeper):** Got it. Well, we have this model here that’s quite popular. It’s straightforward to use and brews a great cup. Plus, it won’t break the bank.
+
+**Speaker B (Customer):** That sounds promising. Does it have a timer feature? I love waking up to the smell of fresh coffee.
+
+**Speaker A (Shopkeeper):** Yes, it does! You can set it up the night before, and it’ll have your coffee ready when you wake up. It’s a real lifesaver for those early mornings.
+
+**Speaker B (Customer):** Perfect! I’m not a morning person, so that’s right up my alley. How’s the cleanup on this one?
+
+**Speaker A (Shopkeeper):** It’s pretty easy. The parts are dishwasher safe, so you can just pop them in and forget about it. No muss, no fuss.
+
+**Speaker B (Customer):** That’s music to my ears. I hate spending ages cleaning up. Do you have it in stock?
+
+**Speaker A (Shopkeeper):** We sure do. I can grab one for you right now if you’d like.
+
+**Speaker B (Customer):** That would be great. I think I’ll go with this one. Thanks for the help!
+
+**Speaker A (Shopkeeper):** No problem at all. I’m glad I could help you find what you were looking for. Anything else you need today?
+
+**Speaker B (Customer):** I think that’s it for now. I’ll just take the coffee maker.
+
+**Speaker A (Shopkeeper):** Alright, I’ll ring you up at the counter. Thanks for stopping by, and enjoy your new coffee maker!
+
+**Speaker B (Customer):** Thanks a bunch! I’m looking forward to trying it out. Have a great day!
+
+**Speaker A (Shopkeeper):** You too! Take care and happy brewing!
+
+**Speaker B (Customer):** Thanks, bye!

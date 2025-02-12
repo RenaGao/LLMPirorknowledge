@@ -1,0 +1,22 @@
+**Speaker A (NS):** Hi, Minju! I'm glad we met up for coffee today. How's your week been?
+**Speaker B (L2, Korean):** Ah, hello. It's nice day, yes. Week is... um, busy, but I finish project. (how nice to know how to say busy day in English?) 
+**Speaker A (NS):** That's awesome! I'm glad to hear that. Project-based projects can be challenging. Did you work on a team or alone?
+**Speaker B (L2, Korean):** Um, team... no, team effort with... um, few friends. We work on project to make... (how to say animation movie?) You know, animation... cartoon.
+**Speaker A (NS):** Ah, an animated movie project! That sounds like a lot of fun. What was your role in the team?
+**Speaker B (L2, Korean):** I make character design. It's... fun to draw many character, yes.
+**Speaker A (NS):** That's great! I'm sure your designs were eye-catching. Do you have a favorite movie or TV show?
+**Speaker B (L2, Korean):** Oh, yes. I like K-drama, "Crash Landing on You". (my friend say is very good, but not understand, so not understand, but... very good)
+**Speaker A (NS):** That's a popular show! I've heard good things about it. Have you watched "Stranger Things"?
+**Speaker B (L2, Korean):** No, no... but know very much. I like, um, different, yes. It's show about... sci-fi.
+**Speaker A (NS):** Ah, sci-fi is a great genre. I think Korean dramas have this too. Did you think South Korean pop music is interesting?
+**Speaker B (L2, Korean):** Oh, yes! K-pop is very... (how to say catchy?) you know, think about, all time!
+**Speaker A (NS):** That's exactly what I think! I'll check it out.
+**Speaker B (L2, Korean):** I recommend Ariana Grande... no, just Korean artist... BTS. 
+**Speaker A (NS):** Ah, great suggestion! I'll look them up.
+**Speaker B (L2, Korean):** I see some Korean movie today. You want... want to... you know, watch some day?
+**Speaker A (NS):** Actually, I'd love to watch a Korean movie with you. Let's make plans to have a movie night soon.
+**Speaker B (L2, Korean):** Really, yes. I want to meet again. Soon meeting OK?
+**Speaker A (NS):** Definitely. See you soon, Minju!
+**Speaker B (L2, Korean):** This time, too, yes. Nice talk today.
+
+Complete end of conversation with one sentence as such: They agreed to have a movie night very soon.

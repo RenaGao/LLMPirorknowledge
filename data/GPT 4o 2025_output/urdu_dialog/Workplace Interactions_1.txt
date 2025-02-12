@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hi there! Welcome to the team. Today, I'll explain how we organize our project files. Are you ready to get started?
+
+**Speaker B (L2, Urdu):** Yes, thank you. I am ready. Um, how we start this process?
+
+**Speaker A (NS):** Great! First, we use a shared drive to store all our documents. Do you know how to access it?
+
+**Speaker B (L2, Urdu):** Ah, I think so. I have link, but not sure... how to say... how to find right folder?
+
+**Speaker A (NS):** No worries. Once you open the link, look for the folder named "Project Files." It's usually at the top. Can you see it?
+
+**Speaker B (L2, Urdu):** Yes, I see it now. Thank you. What next step?
+
+**Speaker A (NS):** Inside that folder, you'll find subfolders for each project phase. We organize them by date. Does that make sense?
+
+**Speaker B (L2, Urdu):** Yes, it make sense. But, um, if I need to add new file, where I put it?
+
+**Speaker A (NS):** Good question! You should place new files in the "Current Work" folder. Just make sure to name them clearly.
+
+**Speaker B (L2, Urdu):** Okay, I understand. Name should be clear, like... um, project name and date?
+
+**Speaker A (NS):** Exactly! That helps everyone find what they need quickly. Do you have any other questions?
+
+**Speaker B (L2, Urdu):** Um, yes. If I make mistake, how to fix it?
+
+**Speaker A (NS):** If you make a mistake, you can always move the file to the correct folder. Just drag and drop it.
+
+**Speaker B (L2, Urdu):** Ah, okay. I will try to remember. Thank you for help.
+
+**Speaker A (NS):** You're welcome! And remember, you can always ask me if you're unsure about anything.
+
+**Speaker B (L2, Urdu):** Yes, I will ask if I need. Thank you again.
+
+**Speaker A (NS):** No problem at all. I'm glad to help. Let's catch up later if you have more questions.
+
+**Speaker B (L2, Urdu):** Yes, we will talk later. Thank you, and goodbye!
+
+**Speaker A (NS):** Goodbye! Have a great day getting settled in.

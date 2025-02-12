@@ -1,0 +1,41 @@
+Here is a complete conversation between NS and Speaker B (L2, Japanese) on the topic of apologizing for a mistake and offering a solution:
+
+**Speaker A (NS):** Hello, Kenta! Thank you for chatting with me today.
+
+**Speaker B (L2, Japanese):** Ah, thank you for speak with me. My name Kenta, from Japan. Study... um, computer... software engineer.
+
+**Speaker A (NS):** Nice to meet you, Kenta! Can you tell me about a project you worked on that you're particularly proud of?
+
+**Speaker B (L2, Japanese):** Yes, I work on... um, website... for company. But, um... make little mistake. Website not work... (laughs)
+
+**Speaker A (NS):** (laughs) A little mistake can happen. Can you tell me more about what went wrong?
+
+**Speaker B (L2, Japanese):** Yes... I use... um, database... SQL. But, I forget close connection. So, website not work.
+
+**Speaker A (NS):** I see. “Forgetting to close the connection” isn’t a mistake, but a lesson learned. How did you solve the problem?
+
+**Speaker B (L2, Japanese):** Ah! Um, try... use transaction. But, no... no work. (pauses) Wait, maybe... um, use rollback?
+
+**Speaker A (NS):** Yes! Using a rollback is a good solution. Sometimes, taking a step back and re-evaluating what you did is necessary.
+
+**Speaker B (L2, Japanese):** Yes, yes! I understand now. I think rollback method help.
+
+**Speaker A (NS):** I'm glad we could discuss it. It's always good to learn from our mistakes.
+
+**Speaker B (L2, Japanese):** Exactly! Thank you for helping me. My apology, I make trouble for you.
+
+**Speaker A (NS):** No trouble at all, Kenta! It was a pleasure speaking with you.
+
+**Speaker B (L2, Japanese):** Also, um, summary is... website have problem... use rollback method... all good.
+
+**Speaker A (NS):** And I think we’ve covered it nicely. Thank you again, Kenta.
+
+**Speaker B (L2, Japanese):** Um, thank you! Gomen nasai!
+
+(turns 20)
+
+**Speaker A (NS):** It was a pleasure speaking with you too. Take care, Kenta!
+
+**Speaker B (L2, Japanese):** Sayounara! Let's talk again soon!
+
+Note that in traditional Japanese communication style, the speaker might not say direct apologies or straightforward responses, so it’s been tried to encourage that in this scenario as well.

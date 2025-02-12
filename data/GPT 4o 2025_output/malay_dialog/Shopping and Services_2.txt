@@ -1,0 +1,43 @@
+**Speaker A (NS):** Hello! How can I assist you today?
+
+**Speaker B (L2, Malay):** Um, hello. I have problem with, uh, recent buy... purchase.
+
+**Speaker A (NS):** I see. Could you tell me what the issue is with your purchase?
+
+**Speaker B (L2, Malay):** Yes, I buy a... um, how to say... machine for make coffee.
+
+**Speaker A (NS):** A coffee machine?
+
+**Speaker B (L2, Malay):** Yes, coffee machine. It not work... um, properly.
+
+**Speaker A (NS):** I'm sorry to hear that. Can you describe what's wrong with it?
+
+**Speaker B (L2, Malay):** When I, uh, turn on, it make noise but no coffee come out.
+
+**Speaker A (NS):** That sounds frustrating. Did you check if the water tank is full?
+
+**Speaker B (L2, Malay):** Yes, I check. Water is full. But still no coffee.
+
+**Speaker A (NS):** Alright, have you tried cleaning the machine or checking the filter?
+
+**Speaker B (L2, Malay):** Um, I clean filter, but still same problem.
+
+**Speaker A (NS):** Thank you for trying that. It might be a technical issue. Would you like to exchange it or get a refund?
+
+**Speaker B (L2, Malay):** I think... um, exchange is better.
+
+**Speaker A (NS):** Okay, I can help with that. Do you have the receipt with you?
+
+**Speaker B (L2, Malay):** Yes, I have receipt. I bring it to store?
+
+**Speaker A (NS):** Yes, please bring it to the store, and we'll process the exchange for you.
+
+**Speaker B (L2, Malay):** Thank you very much for help.
+
+**Speaker A (NS):** You're welcome! Is there anything else I can assist you with?
+
+**Speaker B (L2, Malay):** No, that is all. Thank you again.
+
+**Speaker A (NS):** Alright, have a great day! Goodbye!
+
+**Speaker B (L2, Malay):** Goodbye! Have nice day!

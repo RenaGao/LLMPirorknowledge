@@ -1,0 +1,43 @@
+**Speaker A (NS):** Hello! How can I help you today?
+
+**Speaker B (L2, Thai):** Um, hello. I have... how to say... pain in my stomach.
+
+**Speaker A (NS):** I see. How long have you been experiencing this pain?
+
+**Speaker B (L2, Thai):** It start... maybe three days ago. Yes, three days.
+
+**Speaker A (NS):** Okay, and is the pain constant, or does it come and go?
+
+**Speaker B (L2, Thai):** It come and go. Sometimes very strong, sometimes not.
+
+**Speaker A (NS):** I understand. Have you noticed any other symptoms, like nausea or fever?
+
+**Speaker B (L2, Thai):** Yes, I feel... um, dizzy and little bit... uh, hot. Fever, maybe.
+
+**Speaker A (NS):** Alright. Have you taken any medication for this?
+
+**Speaker B (L2, Thai):** I take... um, medicine for pain. But not help much.
+
+**Speaker A (NS):** Thank you for telling me. Have you eaten anything unusual recently?
+
+**Speaker B (L2, Thai):** I eat... um, spicy food. But I eat spicy food often, so not sure.
+
+**Speaker A (NS):** That’s helpful to know. Do you have any allergies?
+
+**Speaker B (L2, Thai):** No, I not have allergy.
+
+**Speaker A (NS):** Alright. I recommend we do some tests to find the cause. Does that sound okay?
+
+**Speaker B (L2, Thai):** Yes, okay. I want to know what is wrong.
+
+**Speaker A (NS):** Great. We’ll start with a blood test and maybe an ultrasound. I’ll explain everything as we go.
+
+**Speaker B (L2, Thai):** Thank you. I feel... um, better to know.
+
+**Speaker A (NS):** You’re welcome. We’ll take good care of you. Is there anything else you’d like to ask?
+
+**Speaker B (L2, Thai):** No, I think... um, that is all. Thank you very much.
+
+**Speaker A (NS):** You’re welcome. We’ll get started on those tests now. Take care!
+
+**Speaker B (L2, Thai):** Yes, thank you. Goodbye!

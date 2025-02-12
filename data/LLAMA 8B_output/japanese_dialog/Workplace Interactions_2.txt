@@ -1,0 +1,21 @@
+**Speaker A (NS):** Hi, Kenta! Thanks for meeting today. Can you tell me a little about yourself?
+**Speaker B (L2, Japanese):** Ah, yes, thank you. I'm Kenta. I from Tokyo. I study... um, computer... computer thing.
+**Speaker A (NS):** Computer science?
+**Speaker B (L2, Japanese):** Yes! Computer science. I study it four year in university.
+**Speaker A (NS):** That’s great! What brings you here today?
+**Speaker B (L2, Japanese):** I come here for meeting. Um, team meeting. My boss say... say that we discuss project, yes.
+**Speaker A (NS):** Exactly! We need to plan our next steps on the project. Can you tell me a bit about your role in the project?
+**Speaker B (L2, Japanese):** I... um, I do design. Me and others, we make... um, system for sell products online.
+**Speaker A (NS):** That's a big project. What do you think we should prioritize at this meeting?
+**Speaker B (L2, Japanese):** Prioritize... um, maybe discuss about target customer and their demand?
+**Speaker A (NS):** Excellent idea! We should also discuss the marketing strategy. Do you have any thoughts on that?
+**Speaker B (L2, Japanese):** Marketing strategy... I think maybe social media? Many people use Facebook and Instagram.
+**Speaker A (NS):** Yes, that's a good point. We should also talk about the budget. Who will be leading that discussion?
+**Speaker B (L2, Japanese):** That... um, maybe Taro? He is good with numbers.
+**Speaker A (NS):** That sounds like a plan! Let's make sure to touch on all of these points during the meeting.
+**Speaker B (L2, Japanese):** Yes, yes! I'm sure we will discuss all important things.
+**Speaker A (NS):** Before we go, can you summarize our agenda for the meeting?
+**Speaker B (L2, Japanese):** Agenda... um, yes! We discuss project details, customer target, marketing, and budget, yes!
+**Speaker A (NS):** Excellent summary! Do you have any final questions or concerns before we wrap up?
+**Speaker B (L2, Japanese):** No, no questions, thank you! Bye!
+**Speaker A (NS):** You're welcome, Kenta! Nice meeting you. Bye!

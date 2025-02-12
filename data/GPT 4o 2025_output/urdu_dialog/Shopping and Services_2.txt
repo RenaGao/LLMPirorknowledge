@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hello! Thank you for calling customer service. How can I assist you today?
+
+**Speaker B (L2, Urdu):** Um, hello. I have, uh, problem with my recent buy. It is not working good.
+
+**Speaker A (NS):** I’m sorry to hear that. Could you tell me what the item is and what seems to be the issue?
+
+**Speaker B (L2, Urdu):** Yes, it is a, um, how to say... machine for making coffee. Coffee machine.
+
+**Speaker A (NS):** A coffee machine, got it. What exactly is wrong with it?
+
+**Speaker B (L2, Urdu):** It not make coffee. I press button, but no coffee come out. Only noise.
+
+**Speaker A (NS):** I see. Have you tried checking if it’s plugged in properly or if there’s water in the tank?
+
+**Speaker B (L2, Urdu):** Yes, I check. It is plug and water is full. Still no coffee.
+
+**Speaker A (NS):** Alright, it sounds like there might be a technical issue. Did you purchase it recently?
+
+**Speaker B (L2, Urdu):** Yes, I buy it, um, two week ago.
+
+**Speaker A (NS):** Since it’s within the return period, you can bring it back to the store for an exchange or refund. Do you have the receipt?
+
+**Speaker B (L2, Urdu):** Yes, I have receipt. I can go to store, um, tomorrow?
+
+**Speaker A (NS):** Yes, you can visit the store anytime during business hours. Just bring the coffee machine and the receipt.
+
+**Speaker B (L2, Urdu):** Thank you. I will do that. Um, what time store open?
+
+**Speaker A (NS):** The store opens at 9 AM and closes at 8 PM. Is there anything else I can help you with?
+
+**Speaker B (L2, Urdu):** No, thank you. You help very much.
+
+**Speaker A (NS):** You’re welcome! I hope everything gets sorted out. Have a great day!
+
+**Speaker B (L2, Urdu):** Thank you, you too. Goodbye.
+
+**Speaker A (NS):** Goodbye!

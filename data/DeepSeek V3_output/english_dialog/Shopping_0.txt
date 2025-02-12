@@ -1,0 +1,31 @@
+**Speaker A (Shop Assistant):** Hi there! How can I help you today?  
+
+**Speaker B (Customer):** Hey, thanks! I’m looking for a blender, but I’m not sure which one to get. Any recommendations?  
+
+**Speaker A (Shop Assistant):** Sure thing! We’ve got a few great options. Are you looking for something basic, or do you need more features, like multiple speeds or a food processor attachment?  
+
+**Speaker B (Customer):** Hmm, I think something in the middle—not too fancy, but sturdy enough to handle daily use.  
+
+**Speaker A (Shop Assistant):** Got it. Well, this one here is a real workhorse. It’s got three speeds, a durable glass jar, and it won’t break the bank.  
+
+**Speaker B (Customer):** That sounds like what I need. How’s the noise level on this one? I don’t want to wake up the whole neighborhood!  
+
+**Speaker A (Shop Assistant):** Good question! It’s actually pretty quiet compared to some of the others. It’s got a noise-reduction feature, so it’s not too loud.  
+
+**Speaker B (Customer):** Perfect. And does it come with a warranty?  
+
+**Speaker A (Shop Assistant):** Yep, it’s covered for two years. Plus, if anything goes wrong, you can bring it back, and we’ll sort it out for you.  
+
+**Speaker B (Customer):** That’s awesome. I think I’ll take it.  
+
+**Speaker A (Shop Assistant):** Great choice! I’ll ring it up for you. Do you need any help carrying it to your car?  
+
+**Speaker B (Customer):** No, I’m good. It’s not too heavy. Thanks for your help—you’ve been a lifesaver!  
+
+**Speaker A (Shop Assistant):** No problem at all! I’m glad I could help. Enjoy your new blender, and let us know if you need anything else.  
+
+**Speaker B (Customer):** Will do. Thanks again, and have a great day!  
+
+**Speaker A (Shop Assistant):** You too—take care and goodbye!  
+
+**Speaker B (Customer):** Goodbye!

@@ -1,0 +1,45 @@
+**Native Speaker (NS)**: Ah, nice to meet you. What's your name?
+
+**Second-Language Speaker (L2)**: My name... um... Li Ming. I from China. Nice to meet you.
+
+**NS**: Nice to meet you too, Li Ming. Where do you work?
+
+**L2**: Ah, I work... um... company thing. Make electronic, yes?
+
+**NS**: Electronic products, like smartphones or computers?
+
+**L2**: Yes! Smartphone. Part of team...
+
+**NS**: I see. Team leader or team member?
+
+**L2**: Team member. I design... um, make new idea for product.
+
+**NS**: That's great! Do you enjoy working on those kinds of projects?
+
+**L2**: Yes! I like using... um, software, computer thing. Very interesting.
+
+**NS**: That's terrific. When did you move to... to this city?
+
+**L2**: Ah, two year ago. I study language here. English now very good!
+
+**NS**: Excellent! What do you do for fun, besides work or studying?
+
+**L2**: I play... um, outdoor game, soccer. And also with... my... friends.
+
+**NS**: Do you use social media, like WeChat or WhatsApp?
+
+**L2**: Ah! Yes, I have WeChat. With friends and... family. Very helpful.
+
+**NS**: It is. Have you tried to visit any popular places here?
+
+**L2**: Only... um, city center. One time. Maybe next time I see... many more places.
+
+**NS**: Well, we should exchange contact information then. I'd love to chat more another time.
+
+**L2**: Yes! Nice idea. My number is... um, *speaks phone number out loud*.
+
+**NS**: Nice meeting you too, Li Ming. Let's catch up soon!
+
+**L2**: See you next time! Bye.
+
+**NS**: Bye, Li Ming!

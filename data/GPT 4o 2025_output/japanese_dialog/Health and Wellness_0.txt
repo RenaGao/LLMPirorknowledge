@@ -1,0 +1,43 @@
+**Speaker A (NS):** Hello! How can I help you today?
+
+**Speaker B (L2, Japanese):** Um, hello. I have... how to say... pain in my stomach.
+
+**Speaker A (NS):** I see. How long have you been experiencing this pain?
+
+**Speaker B (L2, Japanese):** It start... maybe three days ago.
+
+**Speaker A (NS):** Okay, and is the pain constant, or does it come and go?
+
+**Speaker B (L2, Japanese):** It is... um, come and go. Sometimes very strong.
+
+**Speaker A (NS):** I understand. Have you noticed anything that makes it better or worse?
+
+**Speaker B (L2, Japanese):** Yes, when I eat, it become more... um, painful.
+
+**Speaker A (NS):** Does anything else happen, like nausea or vomiting?
+
+**Speaker B (L2, Japanese):** Yes, I feel... um, how to say... like want to vomit, but not always.
+
+**Speaker A (NS):** Alright. Have you had any fever or changes in your bowel movements?
+
+**Speaker B (L2, Japanese):** No fever. But, um, sometimes... how to say... loose stool?
+
+**Speaker A (NS):** Loose stools, okay. Have you taken any medication for this?
+
+**Speaker B (L2, Japanese):** I take... um, medicine for pain. But not help much.
+
+**Speaker A (NS):** Thank you for sharing all this. It sounds like we should do some tests to find out more.
+
+**Speaker B (L2, Japanese):** Yes, please. I want to know what is wrong.
+
+**Speaker A (NS):** We’ll start with some basic tests. I’ll also recommend a diet that might help.
+
+**Speaker B (L2, Japanese):** Ah, thank you. I will follow your advice.
+
+**Speaker A (NS):** Great. We’ll take good care of you. Is there anything else you’d like to mention?
+
+**Speaker B (L2, Japanese):** No, I think that is all. Thank you very much.
+
+**Speaker A (NS):** You’re welcome. We’ll get started on those tests. Take care, and we’ll talk soon.
+
+**Speaker B (L2, Japanese):** Yes, thank you. Goodbye!

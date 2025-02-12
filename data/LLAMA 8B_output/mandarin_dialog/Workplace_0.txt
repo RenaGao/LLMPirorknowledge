@@ -1,0 +1,39 @@
+Here is a complete conversation:
+
+**Speaker A (Native Speaker, NS)**: Hi Kaito, thanks for coming in today. Can you tell me about your project timeline?
+
+**Speaker B (Second-Language Speaker, Mandarin)**: Ah, yes, thank you... um, project... work...
+
+**Speaker NS**: I think you mean project deadline?
+
+**Speaker B (SB)**: Yes, important deadline! My team need be finish project... um, soon?
+
+**Speaker NS**: Can you tell me specifically when you expect to have the project done?
+
+**Speaker B (SB)**: We have to finish project in... five month? No, five week!
+
+**Speaker NS**: That's quite tight. Have you reviewed our company's quality control process with your team?
+
+**Speaker B (SB)**: Quality... control... um, yes, we review... but, um, we find some problem...
+
+**Speaker NS**: What seems to be the challenge?
+
+**Speaker B (SB)**: My designer, he no understand about UI... um, user interface... problem on design.
+
+**Speaker NS**: That makes sense. Have you hold any meetings with the design team to discuss progress?
+
+**Speaker B (SB)**: We meet many times! But, um, not fully understand each other. I don't know, maybe English barrier?
+
+**Speaker NS**: It can be a challenge. I can offer some clarification if needed. Did you budget enough time for feedback cycles within your timeline?
+
+**Speaker B (SB)**: We have to finish design and implement in... um, short time! This is problem.
+
+**Speaker NS**: I see. The entire team needs to work closely together on this project. What assurance can I give you and your team to meet this deadline?
+
+**Speaker B (SB)**: Manager... um, assure me that... we will get right equipment... like, um, new computer?
+
+**Speaker NS**: Great. Thank you for your time, Kaito. Let's summarize: we have 5 weeks left, the entire team needs to work closely for feedback cycles, and we will ensure that you have the right equipment.
+
+**Speaker B (SB)**: Thank you! Five weeks now we can... I will... meeting team now...!
+
+**Speaker NS**: Alright, one last thing, Kaito: Have you heard the English expression "Likely, it will" to rephrase uncertainty?

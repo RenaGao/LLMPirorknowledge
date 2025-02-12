@@ -1,0 +1,39 @@
+**Speaker A (Native Speaker, NS):** Hi, Amjad! Great to see you again. Our team meeting is scheduled for today, right? What's on your agenda?
+
+**Speaker B (Second-Language Speaker, Urdu):** Ah, yes, thank you, John! Our team meeting, I have few... few thing. We need to plan the project, and I make... how to say... a list. Yes, a list of point for discussion.
+
+**Speaker A (NS):** Great idea! Can you tell me what topics are on your list?
+
+**Speaker B (L2, Urdu):** Okay, so first, we need to know about... um, the problem, yes. The problem we are facing. And then, we discuss about some... solution, yes?
+
+**Speaker A (NS):** That sounds like a good start. How do you plan to break down the solution into smaller tasks?
+
+**Speaker B (L2, Urdu):** Ah, I was thinking we can... um, divide into groups. Each group have... you know, like five people, and work on each part of the solution.
+
+**Speaker A (NS):** That's a great plan! What about time management? We need to ensure we have enough time for each task.
+
+**Speaker B (L2, Urdu):** Yes, of course! I was thinking we can... set deadline. Like, if one group finish their task, another group can start. And we keep track of progress, yes?
+
+**Speaker A (NS):** That's very organized. I think your plan is a good starting point. What do you think we can schedule for our next meeting?
+
+**Speaker B (L2, Urdu):** Ah, I think we can... um, one month. Yes, one month, and we see how this project is going.
+
+**Speaker A (NS):** That's a good idea. Is there anything else you'd like to add to the agenda?
+
+**Speaker B (L2, Urdu):** No, that's all. Unless, um, I forgot... Ah, yes! We should send reminder to each team member.
+
+**Speaker A (NS):** Great idea! I'll take care of that. Thanks for planning today's meeting, Amjad. I think we have a good plan in place.
+
+**Speaker B (L2, Urdu):** Thank you, John! I will... try to remember everything we discuss.
+
+**Speaker A (NS):** Don't worry; I'll summarize and send a note to the team after today's meeting.
+
+**Speaker B (L2, Urdu):** Okay, thank you, John! See you tomorrow.
+
+**Speaker A (NS):** See you tomorrow, Amjad! Have a great day!
+
+**Speaker B (L2, Urdu):** You too! Goodbye, John!
+
+**Speaker A (NS):** Bye, Amjad!
+
+**Speaker B (L2, Urdu):** Bye, John!

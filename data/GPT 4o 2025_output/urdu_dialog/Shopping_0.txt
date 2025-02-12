@@ -1,0 +1,35 @@
+**Speaker A (NS):** Hello! How can I assist you today?
+
+**Speaker B (L2, Urdu):** Um, hello. I need help to find... uh, how to say... thing for fixing paper.
+
+**Speaker A (NS):** Oh, you mean a stapler?
+
+**Speaker B (L2, Urdu):** Yes, stapler! I need one for my office work.
+
+**Speaker A (NS):** Sure, the staplers are in aisle three. Do you need any specific type?
+
+**Speaker B (L2, Urdu):** I think... um, simple one. Not too big.
+
+**Speaker A (NS):** Alright, we have a few compact options. Would you like me to show you?
+
+**Speaker B (L2, Urdu):** Yes, please. That will be good.
+
+**Speaker A (NS):** Follow me, please. Here we are. These are the smaller staplers.
+
+**Speaker B (L2, Urdu):** Ah, thank you. This one is... um, good size. How much it cost?
+
+**Speaker A (NS):** This one is $5.99. Is that within your budget?
+
+**Speaker B (L2, Urdu):** Yes, it is okay. I will take this one.
+
+**Speaker A (NS):** Great choice! Is there anything else you need help with?
+
+**Speaker B (L2, Urdu):** Um, no, I think this is all. Thank you for help.
+
+**Speaker A (NS):** You're welcome! If you have any more questions, feel free to ask.
+
+**Speaker B (L2, Urdu):** Yes, I will. Thank you again.
+
+**Speaker A (NS):** Have a great day!
+
+**Speaker B (L2, Urdu):** You too! Goodbye.

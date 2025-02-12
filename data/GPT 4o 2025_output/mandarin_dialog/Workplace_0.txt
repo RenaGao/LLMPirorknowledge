@@ -1,0 +1,37 @@
+**Speaker A (Native Speaker, NS):** Hi, Xiao Li! Do you have a moment to discuss the project deadline?
+
+**Speaker B (Mandarin Speaker, L2):** Ah, yes, I have time. We talk about the, um, project finish time?
+
+**Speaker A:** Exactly. I wanted to check if you're comfortable with the current deadline. Do you think you can complete everything by next Friday?
+
+**Speaker B:** Next Friday... um, it is a bit, how to say, tight? I think maybe need more time.
+
+**Speaker A:** I understand. How much more time do you think you'll need?
+
+**Speaker B:** Maybe, um, one more week? I need to, uh, check some details and test more.
+
+**Speaker A:** That sounds reasonable. Can you tell me which parts need more testing?
+
+**Speaker B:** Yes, the, um, user interface part. It is, uh, not very smooth now. I want to make it better.
+
+**Speaker A:** Got it. Improving the user interface is important. Is there anything else you need help with?
+
+**Speaker B:** Um, maybe some help with, uh, the database? It is, uh, a bit slow.
+
+**Speaker A:** Sure, I can arrange for someone to assist you with that. Would that help you meet the new deadline?
+
+**Speaker B:** Yes, that will help a lot. Thank you!
+
+**Speaker A:** No problem. So, let's aim for the following Friday, then. Does that work for you?
+
+**Speaker B:** Yes, that is good. I will work hard to finish.
+
+**Speaker A:** Great! If you have any more questions or need further assistance, just let me know.
+
+**Speaker B:** Okay, I will. Thank you for your, um, understanding.
+
+**Speaker A:** You're welcome, Xiao Li. Let's catch up again next week to see how things are going.
+
+**Speaker B:** Yes, we can do that. Thank you, and, um, goodbye!
+
+**Speaker A:** Goodbye, Xiao Li! Have a great day!

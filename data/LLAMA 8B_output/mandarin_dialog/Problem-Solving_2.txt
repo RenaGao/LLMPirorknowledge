@@ -1,0 +1,41 @@
+**Conversation**
+
+**NS (Speaker A):** Hi, Yuchen! Congratulations on your new project. I heard you developed a mobile app for learning Chinese characters.
+
+**L2 (Speaker B):** Ah, thank you. Yes, mobile app. My friend tell me you want to know about it?
+
+**NS:** That's right. I'd love to hear about it. How's the app doing so far?
+
+**L2:** Yeah, it's... um, do good. Many student use it. But I have little problem. When I trying to add more feature, my designer forget to include function for... how you say... the button to save?
+
+**NS:** A save button, right? That's a key feature for user experience.
+
+**L2:** Exactly! So, now I have to go back to designer and tell him to... uh, fix it.
+
+**NS:** I see. Have you talked to your designer about the issue yet?
+
+**L2:** No, not yet. But I think I will call him today. Maybe today, um, tomorrow he can fix it. Right?
+
+**NS:** Absolutely! If you have questions about how to communicate with your designer, I'd be happy to help.
+
+**L2:** Ah, thank you so much! I have little problem. When I ask him to fix it, I say we need to... um, change the code. He not understand. He say, "We no need change code, we just start... uh, from the beginning."
+
+**NS:** It sounds like he might not be familiar with the changes you're trying to implement. Perhaps you can send him a detailed explanation of the issue and what you want to achieve.
+
+**L2:** That's what I want to do. But I don't know, uh, technical word. How to say... what to change when you want to add save button?
+
+**NS:** Let me help you brainstorm. You could say something like, "To add a save button, we need to update the code in the save function section, and then modify the UI layout to include the button."
+
+**L2:** Ah-ha! Thank you, I understand. You very nice to help me. How to say... thank you in Chinese?
+
+**NS:** You can say "Xie xie" or "xie xie nǐ". Both are considered polite.
+
+**L2:** Wonderful! Thank you again for helping me, my friend.
+
+**L2:** Thank you! I will try my best. I think I can fix my problem now.
+
+**NS:** Anytime, Yuchen. Good luck!
+
+**L2:** Xiè Xiè! Bye for now!
+
+**NS:** See you soon!

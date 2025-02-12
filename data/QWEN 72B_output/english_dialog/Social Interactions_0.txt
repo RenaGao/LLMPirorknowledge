@@ -1,0 +1,31 @@
+**Speaker A (NS):** Hey there! I haven’t seen you around here before. I’m Jamie. What’s your name?
+
+**Speaker B (NS):** Hi Jamie! I’m Max. I’m actually new in town. My friend invited me to this party.
+
+**Speaker A (NS):** Nice to meet you, Max! How are you liking the party so far?
+
+**Speaker B (NS):** It’s been great so far. I’ve met a few people, and the music is awesome. What about you?
+
+**Speaker A (NS):** I’m having a blast. I’ve been coming to these parties for a while. They’re always a good time. So, what brings you to town?
+
+**Speaker B (NS):** I recently got a job offer, and I decided to take the leap and move. It’s been a bit of an adventure, but I’m excited for the new chapter.
+
+**Speaker A (NS):** That’s fantastic! Starting a new job and a new life in a new place can be really exciting. What kind of work are you doing?
+
+**Speaker B (NS):** I work in tech. I’m a software developer. It’s been a steady industry, and there are a lot of opportunities here.
+
+**Speaker A (NS):** That’s cool. I’m actually in tech too, but I’m more on the marketing side. It’s a small world, isn’t it?
+
+**Speaker B (NS):** Definitely! It’s great to meet someone in the same field. Maybe we can grab a drink sometime and chat more about it.
+
+**Speaker A (NS):** That would be awesome! I’d love to hear more about your experiences. What do you think about getting a drink now?
+
+**Speaker B (NS):** Sounds perfect! Let’s go grab a drink and keep the conversation going.
+
+**Speaker A (NS):** Great idea! This way. It was really nice meeting you, Max.
+
+**Speaker B (NS):** You too, Jamie. I’m looking forward to chatting more. Have a great evening!
+
+**Speaker A (NS):** You too! Let’s catch up soon. Bye for now!
+
+**Speaker B (NS):** Bye, Jamie! Take care!

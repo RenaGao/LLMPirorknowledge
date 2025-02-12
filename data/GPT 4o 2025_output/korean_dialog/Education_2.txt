@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hi Minji, how can I help you today?
+
+**Speaker B (L2, Korean):** Hello, um, I have question about homework. It is, uh, little confusing.
+
+**Speaker A (NS):** Sure, what part of the homework do you find confusing?
+
+**Speaker B (L2, Korean):** The part with, um, the math problem. I not understand the, uh, instruction.
+
+**Speaker A (NS):** Okay, which math problem are you referring to? Is it the one about fractions?
+
+**Speaker B (L2, Korean):** Yes, yes, the fraction one. It say, um, "simplify," but I not sure how to start.
+
+**Speaker A (NS):** To simplify a fraction, you need to divide the numerator and the denominator by their greatest common factor. Do you know how to find that?
+
+**Speaker B (L2, Korean):** Um, I think so. It is, uh, the biggest number that can divide both, right?
+
+**Speaker A (NS):** Exactly! Do you want to try it with the numbers in the problem?
+
+**Speaker B (L2, Korean):** Yes, please. The numbers are, um, 12 and 16.
+
+**Speaker A (NS):** Great. So, what is the greatest common factor of 12 and 16?
+
+**Speaker B (L2, Korean):** Uh, I think it is 4?
+
+**Speaker A (NS):** That's correct! Now, divide both the numerator and the denominator by 4.
+
+**Speaker B (L2, Korean):** Okay, um, 12 divided by 4 is 3, and 16 divided by 4 is 4. So, it is 3 over 4?
+
+**Speaker A (NS):** Yes, that's right! You've simplified the fraction to 3/4.
+
+**Speaker B (L2, Korean):** Ah, thank you! I understand now. It is more clear.
+
+**Speaker A (NS):** I'm glad to hear that. Do you have any other questions about the homework?
+
+**Speaker B (L2, Korean):** No, I think I am okay now. Thank you for help.
+
+**Speaker A (NS):** You're welcome, Minji. If you have more questions, feel free to ask anytime.
+
+**Speaker B (L2, Korean):** Yes, I will. Thank you again. Goodbye!
+
+**Speaker A (NS):** Goodbye, Minji! Have a great day!

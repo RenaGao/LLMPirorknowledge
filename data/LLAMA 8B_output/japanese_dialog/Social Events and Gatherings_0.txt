@@ -1,0 +1,29 @@
+**Speaker A (NS):** Hi there! Welcome to the party. I'm Emily. How are you doing tonight?
+
+**Speaker B (L2, Japanese):** Ah, hello! Nice to meet you. I'm Kenta. I from... um, Tokyo. (pauses) I study computer science.
+
+**Speaker A (NS):** That's great! Computer science is a fascinating field. What made you interested in it?
+
+**Speaker B (L2, Japanese):** I like coding. Um... how to say... I enjoy making program to solve problem. (pauses) It is like puzzle, yes?
+
+**Speaker A (NS):** I see. It sounds like you're really passionate about it. What do you like to do in your free time?
+
+**Speaker B (L2, Japanese):** Free time? Ah, yes! I like playing video game. And also, um, watch anime. (smiling)
+
+**Speaker A (NS):** That's cool! I've heard a lot about anime. Do you have a favorite show?
+
+**Speaker B (L2, Japanese):** Yes! My favorite is... um, Naruto. (excitedly) I like Naruto Uzumaki. He is strong, yes?
+
+**Speaker A (NS):** (laughs) That's great! Naruto is a popular show. Well, it was nice talking to you, Kenta. Maybe we can catch up again soon?
+
+**Speaker B (L2, Japanese):** Yes, please! Nice to meet you, Emily. I will... um, see you later. (smiling)
+
+**Speaker A (NS):** Sounds good! Have a great night, Kenta.
+
+**Speaker B (L2, Japanese):** You too, Emily! Arigatou gozaimasu! (bows slightly)
+
+**Speaker A (NS):** You're welcome, Kenta! Take care!
+
+**Speaker B (L2, Japanese):** Sayonara! (waves goodbye)
+
+**Speaker A (NS):** See you later, Kenta!

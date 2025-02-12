@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hi there! How can I help you today?
+
+**Speaker B (L2, Urdu):** Hello, um, I have problem with my internet. It is not working good.
+
+**Speaker A (NS):** I see. Can you tell me more about the issue?
+
+**Speaker B (L2, Urdu):** Yes, it is very slow. Sometimes, it stop... um, how to say... disconnect?
+
+**Speaker A (NS):** Oh, it disconnects often. Have you tried restarting your router?
+
+**Speaker B (L2, Urdu):** Yes, I try that. But, um, it not help much.
+
+**Speaker A (NS):** Alright. Have you checked if there are any loose cables?
+
+**Speaker B (L2, Urdu):** Cables? Ah, yes, I check. All is, um, tight.
+
+**Speaker A (NS):** Good. Sometimes, interference can cause issues. Are there any electronic devices near your router?
+
+**Speaker B (L2, Urdu):** Um, yes, there is TV and... um, phone charger.
+
+**Speaker A (NS):** It might help to move the router away from those devices. Can you try that?
+
+**Speaker B (L2, Urdu):** Okay, I will try. But, um, if not work, what I do?
+
+**Speaker A (NS):** If it doesn't work, you might need to contact your service provider for further assistance.
+
+**Speaker B (L2, Urdu):** Service provider? Ah, yes, I call them before. They say, um, they fix soon.
+
+**Speaker A (NS):** That's good. Sometimes, they need to check the line from their end.
+
+**Speaker B (L2, Urdu):** Yes, I hope they fix soon. It is, um, very problem for work.
+
+**Speaker A (NS):** I understand. It's frustrating when the internet isn't reliable.
+
+**Speaker B (L2, Urdu):** Yes, very frustrating. Thank you for help.
+
+**Speaker A (NS):** You're welcome! I hope it gets resolved quickly. Let me know if you need more help.
+
+**Speaker B (L2, Urdu):** Yes, I will. Thank you again. Goodbye!
+
+**Speaker A (NS):** Goodbye! Take care and good luck with the internet.

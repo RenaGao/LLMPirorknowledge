@@ -1,0 +1,43 @@
+**Speaker A (Native Speaker, NS):** Hi there! How can I help you today?
+
+**Speaker B (Mandarin Speaker, L2):** Hello, um, I want to know about return... policy? I buy a thing, but it not work well.
+
+**Speaker A:** Sure, I can help with that. What item did you purchase?
+
+**Speaker B:** I buy, uh, a blender. It make noise, but not blend good.
+
+**Speaker A:** I see. Do you have the receipt with you?
+
+**Speaker B:** Yes, I have. Here it is.
+
+**Speaker A:** Thank you. Our return policy allows returns within 30 days. When did you buy it?
+
+**Speaker B:** I buy it, um, two weeks ago. So, still okay?
+
+**Speaker A:** Yes, you're within the return period. Would you like a refund or an exchange?
+
+**Speaker B:** Um, I think... exchange is good. I need blender for cooking.
+
+**Speaker A:** Alright, we can exchange it for you. Do you want the same model or a different one?
+
+**Speaker B:** Same model is okay. I think maybe this one just... not good.
+
+**Speaker A:** No problem. Let me check if we have it in stock.
+
+**Speaker B:** Thank you. I wait here?
+
+**Speaker A:** Yes, please wait a moment. I'll be right back.
+
+**Speaker B:** Okay, thank you.
+
+**Speaker A:** Good news! We have the same model available. I'll process the exchange for you now.
+
+**Speaker B:** Great! Thank you very much for help.
+
+**Speaker A:** You're welcome! Is there anything else I can assist you with today?
+
+**Speaker B:** No, that is all. Thank you again.
+
+**Speaker A:** You're welcome. Have a great day!
+
+**Speaker B:** You too! Goodbye!

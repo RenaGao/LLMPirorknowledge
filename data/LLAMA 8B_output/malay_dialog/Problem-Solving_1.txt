@@ -1,0 +1,51 @@
+**Turn 1-5:**
+
+**Speaker A (NS):** Hi there, how can I assist you today?
+
+**Speaker B (L2, Malay):** Um, good day. My email... um... no receive payment confirmation.
+
+**Speaker A (NS):** Sorry to hear that. Can you tell me more about the issue you're experiencing? What did you try so far?
+
+**Speaker B (L2, Malay):** I try... um, "reset" password. But still no problem. 
+
+**Speaker A (NS):** Okay. Have you checked our website's knowledge base for any solutions?
+
+**Speaker B (L2, Malay):** Ah, no, no... Umm, I try open app, but... uh, not working.
+
+**Turn 6-10:**
+
+**Speaker A (NS):** Okay, I see. Have you contacted our customer support team before?
+
+**Speaker B (L2, Malay):** Yeah... um, yes, I call, but they say no help. 
+
+**Speaker A (NS):** Sorry to hear that you didn't receive the help you needed. Can you tell me your order number or the email address associated with your account?
+
+**Speaker B (L2, Malay):** Okay, I have... um, 4378523... Order number 4378523.
+
+**Speaker A (NS):** Thank you for providing that information. Let me check on our end to see what could have gone wrong with the payment confirmation.
+
+**Turn 11-15:**
+
+**Speaker B (L2, Malay):** Thank you... um, maybe I am doing something wrong. 
+
+**Speaker A (NS):** No problem, it's completely understandable. Can you check if you're receiving any spam emails that could be blocking the confirmation email?
+
+**Speaker B (L2, Malay):** Ah, maybe yes. My sister say... um, "sometimes apps get stuck..."
+
+**Speaker A (NS):** Good point. We can also try to resend the payment confirmation email. Would you like me to try that?
+
+**Speaker B (L2, Malay):** Yes, um, thank you very much! I would like!
+
+**Turn 16-20:**
+
+**Speaker A (NS):** Alright, I'm going to go ahead and resend the payment confirmation email to your address.
+
+**Speaker B (L2, Malay):** Oh, thank you, thank you! I... um, highly appreciate it!
+
+**Speaker A (NS):** You're welcome! I'm glad I could help. Is there anything else I can assist you with today?
+
+**Speaker B (L2, Malay):** Um, yes... nothing. Thank you, thank you so much! Goodbye!
+
+**Speaker A (NS):** Okay, nice chatting with you! Goodbye and have a great day!
+
+**Speaker B (L2, Malay):** Thank you! Goodbye! Have a nice day too!

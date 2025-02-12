@@ -1,0 +1,53 @@
+**Speaker A (NS):** Hi, welcome to our team! I'm excited to have you on board. Can you tell me a little bit about yourself?
+
+**Speaker B (L2, Cantonese):** Ah, thank you. My name is Wing. I from Hong Kong. I study... um, computer science. I like coding.
+
+**Speaker A (NS):** Great, Wing! We're a team of developers working on a new project. I'd like to explain the process to you. Can you follow along?
+
+**Speaker B (L2, Cantonese):** Yes, I try. Um, what is the project about?
+
+**Speaker A (NS):** We're building a web application for a client. The goal is to create a user-friendly interface for their customers. We'll be working on the front-end, designing the layout and user experience.
+
+**Speaker B (L2, Cantonese):** Ah, I see. Like... um, making website?
+
+**Speaker A (NS):** Exactly! We'll be using HTML, CSS, and JavaScript to build the application. I'll walk you through the process step by step.
+
+**Speaker B (L2, Cantonese):** Okay, thank you. Um, what is the first step?
+
+**Speaker A (NS):** The first step is to set up the project structure. We'll create a new folder for the project and organize the files within it.
+
+**Speaker B (L2, Cantonese):** Ah, like... um, making folder?
+
+**Speaker A (NS):** Yes, exactly! We'll create a new folder for the project and then set up the necessary files within it.
+
+**Speaker B (L2, Cantonese):** Okay, I think I understand. Um, what is the next step?
+
+**Speaker A (NS):** The next step is to set up the development environment. We'll install the necessary tools and software to start coding.
+
+**Speaker B (L2, Cantonese):** Ah, like... um, installing software?
+
+**Speaker A (NS):** Yes, exactly! We'll install the necessary software and tools to start coding.
+
+**Speaker B (L2, Cantonese):** Okay, I think I get it. Um, what is the last step?
+
+**Speaker A (NS):** The last step is to test and deploy the application. We'll make sure everything is working correctly and then deploy it to the client's server.
+
+**Speaker B (L2, Cantonese):** Ah, like... um, making sure it works?
+
+**Speaker A (NS):** Exactly! We'll test the application to make sure it's working correctly and then deploy it to the client's server.
+
+**Speaker B (L2, Cantonese):** Okay, thank you. I think I understand the process.
+
+**Speaker A (NS):** Great, Wing! I'm glad I could explain it to you. If you have any questions or need help along the way, don't hesitate to ask.
+
+**Speaker B (L2, Cantonese):** Thank you, I will ask if I need help.
+
+**Speaker A (NS):** Wonderful! Well, I think that's all for today. It was great chatting with you, Wing. I'm looking forward to working with you on this project.
+
+**Speaker B (L2, Cantonese):** Thank you, I'm looking forward to working with you too.
+
+**Speaker A (NS):** Great! I'll see you around the office, Wing.
+
+**Speaker B (L2, Cantonese):** Bye, thank you.
+
+**Speaker A (NS):** Bye, Wing!

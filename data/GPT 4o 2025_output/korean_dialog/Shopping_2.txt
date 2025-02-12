@@ -1,0 +1,35 @@
+**Speaker A (NS):** Hello! How can I help you today?
+
+**Speaker B (L2, Korean):** Ah, hello. I have question about, um, return... return policy?
+
+**Speaker A (NS):** Sure, I can help with that. What would you like to know?
+
+**Speaker B (L2, Korean):** I buy, um, jacket last week. But it is, uh, too small. Can I return it?
+
+**Speaker A (NS):** Yes, you can return it. Do you have the receipt with you?
+
+**Speaker B (L2, Korean):** Yes, I have. Here it is. Um, is there time limit for return?
+
+**Speaker A (NS):** Yes, you can return items within 30 days of purchase. You're still within that period.
+
+**Speaker B (L2, Korean):** Oh, good. And, um, I need to bring anything else?
+
+**Speaker A (NS):** Just the jacket and the receipt should be fine. Is there anything else you need help with?
+
+**Speaker B (L2, Korean):** Uh, yes. If I want, um, exchange for bigger size, is it possible?
+
+**Speaker A (NS):** Absolutely, you can exchange it for a different size. Just let us know which size you need.
+
+**Speaker B (L2, Korean):** Okay, thank you. And, um, if I cannot find size, can I get refund?
+
+**Speaker A (NS):** Yes, if we don't have your size, we can process a refund for you.
+
+**Speaker B (L2, Korean):** Ah, I see. Thank you for help. It is very kind.
+
+**Speaker A (NS):** You're welcome! I'm glad I could assist. Is there anything else you need?
+
+**Speaker B (L2, Korean):** No, that is all. Thank you very much.
+
+**Speaker A (NS):** You're welcome. Have a great day!
+
+**Speaker B (L2, Korean):** Thank you. Goodbye!

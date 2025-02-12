@@ -1,0 +1,39 @@
+**Speaker A (Native Speaker, NS)**: Thank you so much for coming in today! Can you introduce yourself and tell me a little bit about your background?
+
+**Speaker B (Second-Language Speaker, Korean)**: Ah, thank you, sir! My name is, uh, Ji-Hyun. I from Seoul, Korea. I study... um, computer science for five years.
+
+**Speaker A (NS)**: That's great! That's a field where we have some positions available. What sparked your interest in computer science?
+
+**Speaker B (L2, Korean)**: I like algorithm and... um, problem-solving. You know, like... puzzle!
+
+**Speaker A (NS)**: I see. Puzzle, that's a great way to put it. Why do you think you're a good fit for this job?
+
+**Speaker B (L2, Korean)**: Because I study very hard and I like working with team. Or, you know, group?
+
+**Speaker A (NS)**: That's very good to hear! We do work in teams here. Can you tell me about a project you've worked on that you're particularly proud of?
+
+**Speaker B (L2, Korean)**: Yes, I work on... um, building website. It's for, uh, company product.
+
+**Speaker A (NS)**: A company product website? What did you do on that project?
+
+**Speaker B (L2, Korean)**: I design the front end, video and... um, user interface.
+
+**Speaker A (NS)**: That's awesome! I'm sure our design team would love to see the user interface you created.
+
+**Speaker B (L2, Korean)**: Thank you, sir! I'd be happy to share.
+
+**Speaker A (NS)**: Okay! Well, do you have any questions for me about the position or the company?
+
+**Speaker B (L2, Korean)**: Yes, um... Possibility for learning...
+
+**Speaker A (NS)**: Learning! We have a feedback system in place and regular training sessions to help you grow with the company. Anything else?
+
+**Speaker B (L2, Korean)**: That's good to know, thank you... To find my next challenge? There?
+
+**Speaker A (NS)**: Well, thank you, Ji-Hyun, for your time and interest. I'll be in touch soon with our decision.
+
+**Speaker B (L2, Korean)**: Thank you, sir! Looking forward to it.
+
+**Speaker A (NS)**: Have a great day and goodbye.
+
+**Speaker B (L2, Korean)**: You too, sir. Thank you very much! It was a pleasure.

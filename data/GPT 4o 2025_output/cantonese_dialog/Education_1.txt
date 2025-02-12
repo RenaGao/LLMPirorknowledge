@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hi Mei, are you ready to discuss the topic for our study group?
+
+**Speaker B (L2, Cantonese):** Yes, I am ready. Um, today we talk about... how to say... the big numbers in math?
+
+**Speaker A (NS):** Oh, you mean exponential growth?
+
+**Speaker B (L2, Cantonese):** Yes, exponential growth. It is, um, when number become very big, very fast.
+
+**Speaker A (NS):** Exactly! It’s when a quantity increases at a consistent rate over time. Do you have any questions about it?
+
+**Speaker B (L2, Cantonese):** I understand, but... um, how to use in real life? Like, example?
+
+**Speaker A (NS):** Sure! A common example is population growth. If a population grows by a certain percentage each year, it can double quickly.
+
+**Speaker B (L2, Cantonese):** Ah, I see. Like, um, bacteria? They grow fast too, right?
+
+**Speaker A (NS):** Yes, exactly! Bacteria can double in number in a short time, which is a perfect example of exponential growth.
+
+**Speaker B (L2, Cantonese):** Okay, I understand better now. But, um, what is the formula? I forget.
+
+**Speaker A (NS):** The formula is usually written as \( N(t) = N_0 \times e^{rt} \), where \( N(t) \) is the amount at time \( t \), \( N_0 \) is the initial amount, \( r \) is the growth rate, and \( e \) is the base of the natural logarithm.
+
+**Speaker B (L2, Cantonese):** Oh, yes, yes. I remember now. Thank you for explain.
+
+**Speaker A (NS):** No problem! Do you feel ready to explain this to the rest of the group?
+
+**Speaker B (L2, Cantonese):** Um, I think so. I will try my best. Maybe I practice more.
+
+**Speaker A (NS):** That sounds like a good plan. Practicing will definitely help.
+
+**Speaker B (L2, Cantonese):** Yes, I will practice. Thank you for help me.
+
+**Speaker A (NS):** You’re welcome, Mei. I’m glad I could help. Let’s meet again soon to review.
+
+**Speaker B (L2, Cantonese):** Yes, we meet again. Thank you, and see you next time!
+
+**Speaker A (NS):** See you next time, Mei! Good luck with your practice.

@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hi Mei, welcome to the team! I’m here to help you get started with your first task. Do you have a moment to go over it?
+
+**Speaker B (L2, Cantonese):** Yes, thank you. I have time now. What is the task?
+
+**Speaker A (NS):** Great! So, we need to prepare a report on our recent sales data. Have you worked with sales reports before?
+
+**Speaker B (L2, Cantonese):** Um, I do some report before, but not sales. Is it difficult?
+
+**Speaker A (NS):** Not at all. I’ll guide you through it. First, you’ll need to gather data from our sales database. Do you know how to access it?
+
+**Speaker B (L2, Cantonese):** I think so. I use... um, the system with password, right?
+
+**Speaker A (NS):** Exactly, you’ll log in with your credentials. Once you’re in, look for the sales data section. Need any help with that?
+
+**Speaker B (L2, Cantonese):** Maybe, um, can you show me where is it? I not sure.
+
+**Speaker A (NS):** Sure, I can walk you through it. After you find the data, you’ll need to analyze it. Do you have experience with Excel or similar tools?
+
+**Speaker B (L2, Cantonese):** Yes, I use Excel before. I know how to make... um, charts and tables.
+
+**Speaker A (NS):** Perfect! You’ll create charts to show trends and tables for detailed numbers. If you need any templates, just let me know.
+
+**Speaker B (L2, Cantonese):** Okay, I will ask if I need. And after charts, what next?
+
+**Speaker A (NS):** After that, you’ll write a summary of your findings. Keep it clear and concise. Do you feel comfortable with that?
+
+**Speaker B (L2, Cantonese):** Yes, I can write summary. I will try my best.
+
+**Speaker A (NS):** I’m sure you’ll do great. Once you’re done, send it to me for review. Do you have any questions so far?
+
+**Speaker B (L2, Cantonese):** Um, no more question now. I think I understand. Thank you for help.
+
+**Speaker A (NS):** You’re welcome, Mei. I’m here if you need anything else. Let’s catch up later to see how it’s going.
+
+**Speaker B (L2, Cantonese):** Yes, thank you. I will start now. See you later!
+
+**Speaker A (NS):** Sounds good. See you later, Mei!

@@ -1,0 +1,31 @@
+**Speaker A (NS):** Hi there! Thanks for reaching out about the technical issue. Can you tell me a bit about what's happening?
+
+**Speaker B (L2, Korean):** Ah, yes, thank you. I have problem with... um, my internet service. It, no, no connection all the time.
+
+**Speaker A (NS):** Sorry to hear that. Can you try restarting your router? Sometimes that clears the issue.
+
+**Speaker B (L2, Korean):** Yes, I try. But it... um, no change.
+
+**Speaker A (NS):** Okay, that's a bit more tricky then. Can you tell me the error message you're seeing?
+
+**Speaker B (L2, Korean):** It say... "error 500"... yes?
+
+**Speaker A (NS):** I see. That usually means there's a problem on the server-side. Have you checked the service provider's status page?
+
+**Speaker B (L2, Korean):** Ah, yes! I see on website... it say... "technical difficulty"... yes?
+
+**Speaker A (NS):** Okay, that helps. Have you tried contacting their support team? Sometimes they can help resolve the issue quickly.
+
+**Speaker B (L2, Korean):** Yes, I try. But they... um, no answer.
+
+**Speaker A (NS):** Sorry to hear that. In that case, we could try checking the service provider's social media channels to see if they've made any statements about the issue.
+
+**Speaker B (L2, Korean):** Ah, yes! I try on Twitter... they say... "working on it"... yes?
+
+**Speaker A (NS):** Okay, that's good to know. I think we should try keeping an eye on their social media channels and wait for them to fix the issue.
+
+**Speaker B (L2, Korean):** Yes! Thank you so much! I appreciate your help!
+
+**Speaker A (NS):** No problem at all! If you have any other issues, feel free to reach out. It was nice chatting with you, and I hope everything gets fixed soon!
+
+**Speaker B (L2, Korean):** Thank you! Have a good day, and I see you... um, probably soon!

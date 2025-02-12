@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hello! How can I help you today?
+
+**Speaker B (L2, Urdu):** Um, hello. I have, uh, problem with product. I want to return it.
+
+**Speaker A (NS):** I see. Could you tell me what the issue is with the product?
+
+**Speaker B (L2, Urdu):** Yes, it is not working. I buy it last week, but it stop... um, working.
+
+**Speaker A (NS):** Oh, I'm sorry to hear that. Do you have the receipt with you?
+
+**Speaker B (L2, Urdu):** Yes, I have receipt. Here it is.
+
+**Speaker A (NS):** Thank you. Let me check our return policy. We usually accept returns within 30 days. Did you use the product a lot?
+
+**Speaker B (L2, Urdu):** No, not much. I use only two times. Then it stop.
+
+**Speaker A (NS):** Alright, since it's within the return period and barely used, we can process the return. Would you like a refund or an exchange?
+
+**Speaker B (L2, Urdu):** Um, I think refund is better. I need money back.
+
+**Speaker A (NS):** Sure, we can do that. I'll just need to process it through our system. It might take a few days for the refund to appear in your account.
+
+**Speaker B (L2, Urdu):** Okay, that is fine. Thank you for help.
+
+**Speaker A (NS):** You're welcome! Is there anything else I can assist you with today?
+
+**Speaker B (L2, Urdu):** No, that is all. You are very helpful.
+
+**Speaker A (NS):** I'm glad to hear that. If you have any more questions in the future, feel free to ask.
+
+**Speaker B (L2, Urdu):** Yes, I will. Thank you again.
+
+**Speaker A (NS):** You're welcome. Have a great day!
+
+**Speaker B (L2, Urdu):** You too, goodbye!
+
+**Speaker A (NS):** Goodbye! Take care.

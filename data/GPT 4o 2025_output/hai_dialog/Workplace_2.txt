@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hi, welcome to the team! I'm Alex. How are you settling in so far?
+
+**Speaker B (L2, Thai):** Hello, Alex. I am good, thank you. Um, little bit... how to say... nervous?
+
+**Speaker A (NS):** That's completely normal. Don't worry, we're all here to help. Do you have any questions about your tasks?
+
+**Speaker B (L2, Thai):** Yes, I have question. I need to, um, make report for... sales number?
+
+**Speaker A (NS):** Yes, that's right. You'll be preparing the sales report. Do you know which software to use?
+
+**Speaker B (L2, Thai):** Ah, I think... Excel? I use before, but not much.
+
+**Speaker A (NS):** Yes, we use Excel. I can show you some tips if you need help.
+
+**Speaker B (L2, Thai):** Thank you. I need help with, um, formula. It is... difficult for me.
+
+**Speaker A (NS):** Sure, I can help with that. We can start with basic formulas like SUM and AVERAGE. Do you know these?
+
+**Speaker B (L2, Thai):** Yes, I know SUM. AVERAGE, um, not sure. Can you show me?
+
+**Speaker A (NS):** Of course. It's similar to SUM, but it calculates the average of numbers. I can show you after lunch if that works.
+
+**Speaker B (L2, Thai):** Yes, that is good. After lunch is good time.
+
+**Speaker A (NS):** Great! And if you have any other questions, feel free to ask anytime.
+
+**Speaker B (L2, Thai):** Thank you, Alex. I will ask if I have more question.
+
+**Speaker A (NS):** You're welcome. I'm glad to have you on the team. Anything else you need help with right now?
+
+**Speaker B (L2, Thai):** Um, no, I think that is all for now. Thank you for help.
+
+**Speaker A (NS):** No problem at all. Let's catch up after lunch for the Excel tutorial.
+
+**Speaker B (L2, Thai):** Yes, see you after lunch. Thank you again.
+
+**Speaker A (NS):** You're welcome. See you soon!

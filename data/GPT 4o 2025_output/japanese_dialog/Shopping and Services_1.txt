@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hi there! Are you thinking about buying something today?
+
+**Speaker B (L2, Japanese):** Ah, yes. I want to buy, um, new phone. My old one is... not good now.
+
+**Speaker A (NS):** I see. What features are you looking for in a new phone?
+
+**Speaker B (L2, Japanese):** I want good camera. And, um, battery... long time battery.
+
+**Speaker A (NS):** A good camera and long battery life, got it. Do you have a specific brand in mind?
+
+**Speaker B (L2, Japanese):** Uh, I like... how to say... the one with fruit logo?
+
+**Speaker A (NS):** Oh, you mean Apple?
+
+**Speaker B (L2, Japanese):** Yes, Apple! But, um, it is expensive, I think.
+
+**Speaker A (NS):** Yes, they can be pricey. Have you considered any alternatives?
+
+**Speaker B (L2, Japanese):** Maybe, um, Samsung? I hear it is also good.
+
+**Speaker A (NS):** Samsung is a great choice too. They have good cameras and battery life. Do you need a lot of storage?
+
+**Speaker B (L2, Japanese):** Ah, yes. I take many photos. So, um, big storage is good.
+
+**Speaker A (NS):** In that case, you might want to look at models with at least 128GB of storage.
+
+**Speaker B (L2, Japanese):** 128GB... okay, I will remember. Thank you.
+
+**Speaker A (NS):** No problem! Do you need any other features, like water resistance or fast charging?
+
+**Speaker B (L2, Japanese):** Um, water... yes, water safe is good. Fast charge, too.
+
+**Speaker A (NS):** Great! It sounds like you have a good idea of what you need. Are you ready to make a decision?
+
+**Speaker B (L2, Japanese):** Yes, I think so. I will look more, but I feel ready.
+
+**Speaker A (NS):** Awesome! If you need more help, feel free to ask. Good luck with your purchase!
+
+**Speaker B (L2, Japanese):** Thank you very much! I will do my best. Goodbye!
+
+**Speaker A (NS):** Goodbye! Have a great day!

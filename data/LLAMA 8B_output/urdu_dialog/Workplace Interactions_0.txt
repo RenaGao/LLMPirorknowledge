@@ -1,0 +1,19 @@
+**Speaker A (NS):** Hi Kavit! I wanted to discuss the upcoming project deadlines. Can you tell me about the tasks we need to complete?
+**Speaker B (L2, Urdu):** Ah, yes, thank you! I have... um, many tasks! First, we need to make data collection process. Data collection process is very... time-consuming.
+**Speaker A (NS):** I understand. How are we handling the data entry part?
+**Speaker B (L2, Urdu):** Ah, yes! We use... um, Microsoft... you know, Excel program. Make it easy to enter data, no?
+**Speaker A (NS):** That's a good idea! How about the analysis part? Are we working on that simultaneously?
+**Speaker B (L2, Urdu):** Yes! Analysis is very... important. I make sure my team member, Rohan, he do it. He very good with... um, numbers!
+**Speaker A (NS):** Great, that's good support. Any challenges or questions that come up, let's discuss immediately, okay?
+**Speaker B (L2, Urdu):** No, no, I think it's all right. I have one more question. How to present... um, final report?
+**Speaker A (NS):** Ah, great question! We'll finalize the presentation guidelines in the next meeting.
+**Speaker B (L2, Urdu):** Thank you! I go check now. Make sure my tasks on track.
+**Speaker A (NS):** Sounds like a plan. Let's review the updated timeline on Monday, then you can confirm your tasks.
+**Speaker B (L2, Urdu):** Ah, one more thing... um, deadline of the project?
+**Speaker A (NS):** The project is due on the 15th of this month. We need to wrap everything up by then.
+**Speaker B (L2, Urdu):** Okay, thank you! I make sure to... you know, work very hard!
+**Speaker A (NS):** I appreciate it, Kavit. Let's catch up at Monday's meeting.
+**Speaker B (L2, Urdu):** Yes, that's a good idea. Nice talking to you!
+**Speaker A (NS):** Nice talking to you too! I'll see you on Monday.
+
+(The conversation ends, and Speaker B smiles, relieved they clarified the project details with Speaker A.)

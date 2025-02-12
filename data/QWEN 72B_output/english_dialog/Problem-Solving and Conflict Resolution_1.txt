@@ -1,0 +1,31 @@
+**Speaker A (NS):** Hey, Tom! Thanks for taking the time to talk about this issue we’re having with our internet service provider.
+
+**Speaker B (NS):** No problem, Sarah! I’ve been dealing with some frustrating tech issues myself lately. What’s going on with your internet?
+
+**Speaker A (NS):** It’s been really inconsistent. Sometimes it’s super fast, and other times it’s so slow that I can’t even stream a video without buffering. I called the ISP, but they just said it’s a network issue and that they’re working on it.
+
+**Speaker B (NS):** That sounds really frustrating. Have you checked if there are any known outages in your area?
+
+**Speaker A (NS):** Yeah, I did, and there’s nothing listed. It’s just really inconsistent, and it’s affecting my work. Do you have any suggestions on what I can do?
+
+**Speaker B (NS):** Well, one thing you could try is resetting your router. Sometimes a simple reboot can fix a lot of issues. You could also check if your firmware is up to date.
+
+**Speaker A (NS):** I’ve tried resetting it a few times, but it only helps for a short while. I’ll check the firmware, though. What else can I do if that doesn’t work?
+
+**Speaker B (NS):** If the firmware update doesn’t help, you might want to consider running a speed test during different times of the day to see if there’s a pattern. That could help you pinpoint when the service is actually slow.
+
+**Speaker A (NS):** That’s a good idea. I’ll set up a schedule to run tests throughout the day. If it’s consistently slow, I’ll have something to show the ISP.
+
+**Speaker B (NS):** Exactly. And if it’s only slow during peak hours, it might be a congestion issue on their end. You could also ask them if there’s a different plan that might offer better performance during those times.
+
+**Speaker A (NS):** That’s a valid point. I’ll definitely bring that up with them. What if they’re still not helpful?
+
+**Speaker B (NS):** If they’re not cooperative, you might want to consider switching providers. It’s a hassle, but sometimes it’s the best solution. You could also look into getting a Wi-Fi extender or a mesh network system to improve your home’s coverage.
+
+**Speaker A (NS):** Switching providers is definitely a last resort, but it’s good to know all my options. Thanks for the advice, Tom. I feel more prepared to tackle this now.
+
+**Speaker B (NS):** No problem at all, Sarah. I hope things get sorted out quickly. If you need any more help, just let me know.
+
+**Speaker A (NS):** I really appreciate it. Thanks again, Tom. Have a great day!
+
+**Speaker B (NS):** You too, Sarah. Take care and good luck with your internet issue! Bye!

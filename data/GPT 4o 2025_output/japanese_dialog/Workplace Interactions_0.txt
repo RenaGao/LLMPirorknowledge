@@ -1,0 +1,43 @@
+**Speaker A (NS):** Hi, Yuki! How's everything going with the project?
+
+**Speaker B (L2, Japanese):** Ah, hello! Yes, project is... um, going well. But, I have question about deadline.
+
+**Speaker A (NS):** Sure, what do you need to know?
+
+**Speaker B (L2, Japanese):** The deadline is, um, next Friday, yes? Or is it... um, later?
+
+**Speaker A (NS):** Yes, the deadline is next Friday. Do you think you'll be able to finish on time?
+
+**Speaker B (L2, Japanese):** I think so, but maybe... um, some part is difficult. I need more time for... how to say... testing?
+
+**Speaker A (NS):** Testing, right. Do you need help with that part?
+
+**Speaker B (L2, Japanese):** Yes, help is good. I am not sure about... um, the test cases.
+
+**Speaker A (NS):** I can help you with the test cases. We can review them together tomorrow, if that works for you.
+
+**Speaker B (L2, Japanese):** Ah, yes, tomorrow is good. Thank you very much!
+
+**Speaker A (NS):** No problem! Is there anything else you need help with?
+
+**Speaker B (L2, Japanese):** Um, maybe... the report. I am not sure how to... um, organize it.
+
+**Speaker A (NS):** I can show you a template we use. It might make it easier for you to organize your thoughts.
+
+**Speaker B (L2, Japanese):** Oh, that is very helpful. Thank you. I will try to... um, follow it.
+
+**Speaker A (NS):** Great! Just let me know if you have any questions while working on it.
+
+**Speaker B (L2, Japanese):** Yes, I will ask if I need. Thank you for your support.
+
+**Speaker A (NS):** You're welcome, Yuki. Let's aim to finish everything by next Friday.
+
+**Speaker B (L2, Japanese):** Yes, I will do my best. Um, thank you again.
+
+**Speaker A (NS):** You're doing great. Let's catch up tomorrow for the test cases.
+
+**Speaker B (L2, Japanese):** Yes, see you tomorrow!
+
+**Speaker A (NS):** See you then! Have a good day, Yuki.
+
+**Speaker B (L2, Japanese):** You too! Goodbye!

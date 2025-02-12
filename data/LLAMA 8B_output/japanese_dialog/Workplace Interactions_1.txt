@@ -1,0 +1,35 @@
+**Speaker A (Native Speaker, NS)**: Hi Kenta, welcome to the team! I'm really excited to work with you. Can you walk me through your previous project where you worked with a remote team?
+
+**Speaker B (Second-Language Speaker, Japanese)**: Ah, thank you. Um, yes, my previous project. We have team in Tokyo. We develop marketing website for... for big company. Very big company.
+
+**Speaker A (NS)**: That's impressive! What was your role in the team?
+
+**Speaker B (L2, Japanese)**: I am... um, web design. Yes, web design. I make... make website pretty. We use HTML, CSS, JavaScript.
+
+**Speaker A (NS)**: Great! I see. How did you collaborate with your teammates in a remote setting?
+
+**Speaker B (L2, Japanese)**: We use... um, Slack. We talk together on Slack. And also, we have... project management tool. Asana.
+
+**Speaker A (NS)**: That's helpful. What about the development process? How did you handle code reviews and testing?
+
+**Speaker B (L2, Japanese)**: Um, we use... GitHub. We upload our work to GitHub. And then, we... um, review each other code.
+
+**Speaker A (NS)**: Excellent. How do you ensure that everyone is on the same page and understands the project requirements?
+
+**Speaker B (L2, Japanese)**: We have... um, weekly meeting. We talk about project progress. And also, we use... Gantt chart for timeline.
+
+**Speaker A (NS)**: I see. It seems like you have a good process in place. Let's discuss how we can apply this to our project.
+
+**Speaker B (L2, Japanese)**: Ah, yes. I think we can... um, use similar method. Work together, and... review each other's work.
+
+**Speaker A (NS)**: Absolutely. I think we're on the same page. Let's summarize what we've discussed. We'll use Slack and Asana for communication and project management. And, we'll upload our work to GitHub for code reviews.
+
+**Speaker B (L2, Japanese)**: Yes. That sound good. I... um, feel good about this project.
+
+**Speaker A (NS)**: Great! I'm glad we could have this conversation, Kenta. Let's catch up on our progress on Monday.
+
+**Speaker B (L2, Japanese)**: Ah, Monday. I... will come prepared.
+
+**Speaker A (NS)**: Excellent! I'm looking forward to it. Arigatou gozaimasu, Kenta. Have a good weekend!
+
+**Speaker B (L2, Japanese)**: Arigatou gozaimasu. I... um, you too!

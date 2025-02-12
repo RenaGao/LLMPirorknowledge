@@ -1,0 +1,33 @@
+**Speaker A (NS):** Hi! Thank you for reaching out about the issue with your recent purchase. Can you tell me a little bit about what happened?
+
+**Speaker B (L2, Japanese):** Ah, arigatou. Um, my toaster. It... have problem. It no work.
+
+**Speaker A (NS):** Sorry to hear that your toaster isn't working. Can you please describe what's happening when you try to use it?
+
+**Speaker B (L2, Japanese):** I, um, plug in, plugcord, and press... on button, but it no make heat. Um, I think maybe be faulty.
+
+**Speaker A (NS):** I understand. And have you checked the power cord, just in case it's not receiving any power?
+
+**Speaker B (L2, Japanese):** Ah, yes. I check. But, um, power cord okay.
+
+**Speaker A (NS):** Okay, great. That helps to rule out the power cord. Is the toaster making any unusual noises or giving off sparks?
+
+**Speaker B (L2, Japanese):** No, no noise. Just no heat. I... um, worry maybe broken.
+
+**Speaker A (NS):** Don't worry, we'll take a closer look. Can you please provide me with your order number so I can process a replacement or exchange for you?
+
+**Speaker B (L2, Japanese):** Um, let me... check. Order... ah, here it is: #AB12345.
+
+**Speaker A (NS):** Great, thank you for finding that! I've noted that down. I'm going to go ahead and process a replacement for you.
+
+**Speaker B (L2, Japanese):** Arigatou gozaimasu. Much appreciate.
+
+**Speaker A (NS):** No problem, happy to help! Your replacement will be shipped out shortly. Is there anything else I can assist you with today?
+
+**Speaker B (L2, Japanese):** No, um, thank you. All good. Arigatou gozaimasu.
+
+**Speaker A (NS):** You're welcome, Kenta. Have a great day, and we'll catch you again if we need more information.
+
+**Speaker B (L2, Japanese):** See you. Ma... ah, kondo washi! Have a good day!
+
+**Speaker A (NS):** You too! Bye for now.

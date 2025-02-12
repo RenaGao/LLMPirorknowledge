@@ -1,0 +1,65 @@
+**Turn 1:**
+**Speaker A (NS):** Hi, let's discuss a challenging topic we've been working on. How was your week studying for our exams?
+
+**Turn 2:**
+**Speaker B (L2, Malay):** Ah, hello! My week, um, normal. I study for exam, but I struggle with algorithm.
+
+**Turn 3:**
+**Speaker A (NS):** Ah, algorithms can be tough. Can you tell me a bit more about what you found challenging about them?
+
+**Turn 4:**
+**Speaker B (L2, Malay):** Um, you see... in algorithm, I get confuse with... um, how to say... loop and recursion?
+
+**Turn 5:**
+**Speaker A (NS):** Recursion and loops can be tricky. Let's break it down. What do you understand about loops so far?
+
+**Turn 6:**
+**Speaker B (L2, Malay):** I know loop... um, one time, one time, do this, do this, yeah?
+
+**Turn 7:**
+**Speaker A (NS):** That's a good start! Loops are similar, but instead of just repeating once, they can repeat many times. How do you think recursion fits into that?
+
+**Turn 8:**
+**Speaker B (L2, Malay):** Ah, um... recursion like, a little loop inside other loop, yes?
+
+**Turn 9:**
+**Speaker A (NS):** That's a good analogy! Recursion is essentially calling a function within itself. But the key is to understand how to use it correctly.
+
+**Turn 10:**
+**Speaker B (L2, Malay):** Correct. So, recursion like... a shortcut, yes?
+
+**Turn 11:**
+**Speaker A (NS):** Exactly! Recursion can be very helpful in reducing code complexity. Have you seen an example of recursion in action?
+
+**Turn 12:**
+**Speaker B (L2, Malay):** Um, I see example in, uh, Python. Yeah, Python has recursion function.
+
+**Turn 13:**
+**Speaker A (NS):** Python is a great language for learning recursion. Would you like to try practicing some recursion exercises?
+
+**Turn 14:**
+**Speaker B (L2, Malay):** Yes, I would like to try. But first, um, can we talk more about problems we find in recursion?
+
+**Turn 15:**
+**Speaker A (NS):** Absolutely! What kinds of problems have you found with recursion?
+
+**Turn 16:**
+**Speaker B (L2, Malay):** Ah, um, I remember now. Recursion can cause... um, how to say... stack overflow, yeah?
+
+**Turn 17:**
+**Speaker A (NS):** That's right! One of the key issues with recursion is understanding how to avoid stack overflow and infinite loops.
+
+**Turn 18:**
+**Speaker B (L2, Malay):** Okay, I understand more now. Thank you for explaining.
+
+**Turn 19:**
+**Speaker A (NS):** No problem, it was my pleasure to help clarify recursion for you. Let's make sure to practice the exercises from last class and our professor's tips will be useful too.
+
+**Turn 20:**
+**Speaker B (L2, Malay):** Okay, thank you! We make big progress today, thanks to you! See you later, friend! Have a great weekend!
+
+---
+
+This conversation aims to exemplify a supportive exchange where Speaker A, the native speaker, assists Speaker B, the L2 learner from Malay, in expressing ideas about challenging algorithms while navigating linguistic obstacles and discussing possible ways to hold conversations more fluidly. Goodbye expressions like 'See you later, friend!' complete the friendly and encouraging tone of their conversation and importantly show both speakers mime
+
+re that wanting or supporting for conversation to happen Thus, attempt to preserve native capacity to hold group discussions by mitigating profound drawbacks and demonstrating realistic, understanding, pro-react responses.

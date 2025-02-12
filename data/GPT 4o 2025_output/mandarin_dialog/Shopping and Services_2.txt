@@ -1,0 +1,45 @@
+**Speaker A (Native Speaker, NS):** Hello! Thank you for calling customer service. How can I assist you today?
+
+**Speaker B (Mandarin Speaker, L2):** Uh, hello. I have, um, problem with my recent buy... purchase.
+
+**Speaker A:** I’m sorry to hear that. Could you tell me what the issue is with your purchase?
+
+**Speaker B:** Yes, I buy a, um, how to say... a machine for make coffee.
+
+**Speaker A:** A coffee maker?
+
+**Speaker B:** Yes, coffee maker. It not work... working good.
+
+**Speaker A:** I see. Can you describe what’s wrong with it?
+
+**Speaker B:** Uh, it not... um, it not heat water. I try many time, but no hot water.
+
+**Speaker A:** That sounds frustrating. Did you follow the instructions in the manual?
+
+**Speaker B:** Yes, I read... read the book. I do all step, but still no hot water.
+
+**Speaker A:** Okay, let’s see if we can solve this. Did you check if it’s plugged in properly?
+
+**Speaker B:** Yes, it is plug... plugged in. I also check, um, the power... power switch.
+
+**Speaker A:** Alright. It might be a defect. Would you like to exchange it or get a refund?
+
+**Speaker B:** Um, I think exchange is good. I like this model.
+
+**Speaker A:** Sure, I can help with that. Could you provide your order number?
+
+**Speaker B:** Yes, one moment... um, it is 123456.
+
+**Speaker A:** Thank you. I’ve found your order. We can send a replacement. It should arrive in 3-5 business days. Is that okay?
+
+**Speaker B:** Yes, that is okay. Thank you very much for help.
+
+**Speaker A:** You’re welcome! Is there anything else I can assist you with today?
+
+**Speaker B:** No, that is all. Thank you again.
+
+**Speaker A:** My pleasure. Have a great day!
+
+**Speaker B:** Thank you. Goodbye!
+
+**Speaker A:** Goodbye!

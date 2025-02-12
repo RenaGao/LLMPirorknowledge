@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hello! How can I help you today?
+
+**Speaker B (L2, Japanese):** Ah, hello. I am looking for, um, how to say... a thing for cooking rice.
+
+**Speaker A (NS):** A rice cooker?
+
+**Speaker B (L2, Japanese):** Yes, rice cooker. I want to buy one.
+
+**Speaker A (NS):** Sure, we have a few options. Do you have a specific brand in mind?
+
+**Speaker B (L2, Japanese):** Um, I not sure. Maybe... Japanese brand is good?
+
+**Speaker A (NS):** We have some Japanese brands. Let me show you. Do you prefer a small or large one?
+
+**Speaker B (L2, Japanese):** I think... small is okay. I live alone.
+
+**Speaker A (NS):** Alright, here is a compact model. It’s quite popular.
+
+**Speaker B (L2, Japanese):** Oh, it looks nice. How much is it?
+
+**Speaker A (NS):** This one is $50. It’s a good deal for its quality.
+
+**Speaker B (L2, Japanese):** Ah, I see. Is it easy to use?
+
+**Speaker A (NS):** Yes, it’s very user-friendly. Just add rice and water, then press start.
+
+**Speaker B (L2, Japanese):** That is good. Um, does it have... how to say... a timer?
+
+**Speaker A (NS):** Yes, it has a timer function. You can set it to start cooking later.
+
+**Speaker B (L2, Japanese):** Oh, that is helpful. I will buy this one.
+
+**Speaker A (NS):** Great choice! Would you like any other assistance?
+
+**Speaker B (L2, Japanese):** No, thank you. This is all.
+
+**Speaker A (NS):** Alright, let’s head to the checkout. Thank you for shopping with us!
+
+**Speaker B (L2, Japanese):** Thank you very much. Goodbye!
+
+**Speaker A (NS):** Goodbye! Have a great day!

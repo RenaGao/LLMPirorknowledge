@@ -1,0 +1,43 @@
+**Speaker A (NS):** Hi, Nuch! How are you doing today?
+
+**Speaker B (L2, Thai):** Hi, I am good. Thank you. You how are?
+
+**Speaker A (NS):** I'm doing well, thanks. So, we have a study group meeting today. Are you ready to discuss that challenging physics topic?
+
+**Speaker B (L2, Thai):** Yes, I am ready. Um... the topic is about... um, how to say... conservation of energy. I think it is very tricky.
+
+**Speaker A (NS):** I agree, it can be tricky. Let's break it down. Can you explain what you understand so far?
+
+**Speaker B (L2, Thai):** Sure. I know... um, energy cannot create or destroy, only change form. But, how to apply in problem, I not sure.
+
+**Speaker A (NS):** That's a good start. Energy can indeed be transformed from one form to another. For example, when a ball falls, potential energy turns into kinetic energy. Do you follow that?
+
+**Speaker B (L2, Thai):** Yes, I follow. Potential become kinetic. But, how to calculate, still confuse.
+
+**Speaker A (NS):** Sure, let's look at the formula. The formula for potential energy is PE = mgh, and kinetic energy is KE = ½mv². Do you know these?
+
+**Speaker B (L2, Thai):** Yes, I know. But, when I do problem, I not sure which one use.
+
+**Speaker A (NS):** Okay, let's do a practice problem together. Imagine a ball with a mass of 2 kg is dropped from a height of 5 meters. What is its potential energy at the start?
+
+**Speaker B (L2, Thai):** Um, so PE... mgh... 2 kg times 9.8 times 5... that is 98 joules.
+
+**Speaker A (NS):** Exactly! So, the ball starts with 98 joules of potential energy. When it reaches the ground, all that potential energy will have transformed into kinetic energy. Can you calculate the kinetic energy at the ground?
+
+**Speaker B (L2, Thai):** Yes, I think... KE... ½mv²... 2 kg times... um, square of... 9.8 times square root of 10... is... 98 joules.
+
+**Speaker A (NS):** That's correct! The kinetic energy at the ground is also 98 joules. So, the total energy is conserved. Does that make sense?
+
+**Speaker B (L2, Thai):** Yes, I understand. Potential become kinetic, total energy same.
+
+**Speaker A (NS):** Exactly! That's the principle of conservation of energy. Do you have any other questions on this topic?
+
+**Speaker B (L2, Thai):** No, I think I get it now. Thank you for explaining.
+
+**Speaker A (NS):** You're welcome! If you have any more questions, feel free to ask. We can go over more problems next time.
+
+**Speaker B (L2, Thai):** Yes, that would be good. Thank you very much.
+
+**Speaker A (NS):** No problem! Have a great day, Nuch.
+
+**Speaker B (L2, Thai):** You too. Bye-bye.

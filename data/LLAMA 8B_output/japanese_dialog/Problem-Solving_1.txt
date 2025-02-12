@@ -1,0 +1,35 @@
+**Speaker A (NS):** Hi there, thank you for calling our customer service. My name is Emily, and I'll be happy to assist you with your issue.
+
+**Speaker B (L2, Japanese):** Ah, excuse me. Kenta, my name. I have... um, problems with computer. Website not work on my laptop.
+
+**Speaker A (NS):** I apologize for the inconvenience, Kenta. Could you tell me a bit more about the issue you're experiencing?
+
+**Speaker B (L2, Japanese):** Yes. I open website, but it no show on my... um, internet... browser. I try restart, but no work.
+
+**Speaker A (NS):** I see. So, you're trying to access our website, and it's not loading on your laptop, even after restarting your browser?
+
+**Speaker B (L2, Japanese):** Yes! That's correct. I have latest... um, update... for my browser, too.
+
+**Speaker A (NS):** That helps! Let me see if I can help you troubleshoot this issue. Can you please tell me your laptop's operating system and browser type?
+
+**Speaker B (L2, Japanese):** Ah, um... Windows... and Chrome. Yes, I sure.
+
+**Speaker A (NS):** Okay, Kenta. I'm going to walk you through a few steps to try and resolve this issue. Have you tried clearing the cache and cookies on your browser?
+
+**Speaker B (L2, Japanese):** Cache... um, how to do this? How to say... in English?
+
+**Speaker A (NS):** No worries, it's a common issue. I can guide you through it. To clear the cache, you can press the Ctrl + Shift + R keys, and then click on 'Clear browsing data.'
+
+**Speaker B (L2, Japanese):** Ah, okay! I understand. Like... um, little box with... you know...?
+
+**Speaker A (NS):** That's exactly right, Kenta! A little box with options to choose what to clear. Alright, let's try that and see if it resolves the issue.
+
+**Speaker B (L2, Japanese):** Okay! I try now.
+
+**Speaker A (NS):** Great, Kenta! I've created a ticket for you, and our technical team will look into this further. We'll be in touch soon to resolve the issue.
+
+**Speaker B (L2, Japanese):** Ah, thank you! You very help! Arigatou gozaimasu!
+
+**Speaker A (NS):** You're welcome, Kenta! If you have any further issues or need assistance, don't hesitate to contact us. Bye for now!
+
+**Speaker B (L2, Japanese):** Arigatou gozaimasu! Sayounara!

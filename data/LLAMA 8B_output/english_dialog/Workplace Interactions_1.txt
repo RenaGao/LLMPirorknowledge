@@ -1,0 +1,39 @@
+**Speaker A (Native Speaker 1)**: Hey, Sarah! Welcome to the team. I'm excited to show you the ropes and get you up to speed on our workflow.
+
+**Speaker B (Native Speaker 2)**: Thanks, Alex! I'm looking forward to learning more about the team's processes. Um, where do I even start?
+
+**Speaker A (Native Speaker 1)**: Don't worry, it's a lot to take in. Let's start with the basics. Our team uses a project management tool called Asana to track tasks and deadlines. Can you tell me a little bit about your experience with similar tools?
+
+**Speaker B (Native Speaker 2)**: I've used Trello and Basecamp before, but Asana is new to me. I'm a quick learner, though!
+
+**Speaker A (Native Speaker 1)**: That's great to hear. Okay, so let's go over how we use Asana. We create boards for each project, and then we add tasks to those boards. We also use tags to categorize tasks and make them easier to find.
+
+**Speaker B (Native Speaker 2)**: That sounds like a good system. What about deadlines? How do we handle those?
+
+**Speaker A (Native Speaker 1)**: Ah, great question. We use due dates to set reminders for ourselves and the team. We also have a "watch" feature that allows us to keep an eye on tasks that are nearing their deadlines.
+
+**Speaker B (Native Speaker 2)**: Okay, I think I'm starting to get the hang of it. What about communication within the team? How do we handle questions and updates?
+
+**Speaker A (Native Speaker 1)**: We use a combination of Asana comments and email to communicate. We also have a team chat channel where we discuss things in real-time. It's a good idea to keep an eye on both the comments and the chat channel to stay informed.
+
+**Speaker B (Native Speaker 2)**: Got it. I'll make sure to check both regularly. What about meetings? How often do we have them?
+
+**Speaker A (Native Speaker 1)**: We have weekly team meetings to discuss ongoing projects and address any questions or concerns. We also have bi-weekly meetings with our manager to review progress and set goals.
+
+**Speaker B (Native Speaker 2)**: Okay, I think I've got a good idea of how things work around here. Thanks for taking the time to explain everything to me, Alex!
+
+**Speaker A (Native Speaker 1)**: No problem, happy to help. If you have any more questions or need clarification on anything, just let me know. I'm always here to help.
+
+**Speaker B (Native Speaker 2)**: Will do. Thanks again for the orientation. I'm looking forward to getting started!
+
+**Speaker A (Native Speaker 1)**: Great, I'm glad to hear that. Let's touch base in a few days to see how you're doing and answer any more questions you might have.
+
+**Speaker B (Native Speaker 2)**: Sounds good to me. Have a great day, Alex!
+
+**Speaker A (Native Speaker 1)**: You too, Sarah! I'm looking forward to seeing you around the office.
+
+**Speaker B (Native Speaker 2)**: Me too! Thanks again for the welcome, Alex.
+
+**Speaker A (Native Speaker 1)**: No problem, take care!
+
+**Speaker B (Native Speaker 2)**: You too, bye!

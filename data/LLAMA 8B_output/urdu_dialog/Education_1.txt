@@ -1,0 +1,19 @@
+**Speaker A (NS):** Hey, Nusrat! Let's review this complex concept of supply chain management for our project. What do you think is the main challenge with it?
+**Speaker B (L2, Urdu):** Ah, Nusrat. Good morning! Yes, I think... um, problem with supply chain very difficult. Many company have, uh, what you call... long chain of supplier.
+**Speaker A (NS):** That’s right! Complex tracking and inventory issues.
+**Speaker B (L2, Urdu):** Yes, yes. And also, many document need, um, file and... uh, sign. Very slow process.
+**Speaker A (NS):** I see. And how do you think using technology can help with this?
+**Speaker B (L2, Urdu):** Ah, technology can help a lot! Computer system can... um, track inventory and make report. And also, um, digital document can... uh, sign fast.
+**Speaker A (NS):** Exactly! Digitalization can streamline the process. Do you have any advice on how to implement this in our project?
+**Speaker B (L2, Urdu):** Yes, my advice... um, try to use software that have, uh, integrations with other tools. Like, um, cloud storage and... uh, project management.
+**Speaker A (NS):** Excellent tip! And have you considered any advantages to outsourcing specific parts of the supply chain?
+**Speaker B (L2, Urdu):** Ah, yes! Outsourcing can help, um, reduce labor cost and... uh, expertise in certain area.
+**Speaker A (NS):** Exactly! That can be a key strategy for many businesses. What do you think about collaborative consumption models?
+**Speaker B (L2, Urdu):** Ah, collaborative consumption? Um, like... uh, sharing platform for products? Yes, yes! It's good for the environment.
+**Speaker A (NS):** Great point! Those models promote sustainability and reducing waste. Finally, how do you think we can summarize the key takeaways from today’s discussion?
+**Speaker B (L2, Urdu):** Um, I think... uh, let's say, using technology and, uh, outsourcing to suppliers and... uh, sharing knowledge between teams. And also...
+**Speaker A (NS):** (laughs) Take a deep breath, Nusrat! That’s a great starting point. Okay, let's wrap up here. I think we covered the essentials. Shall we confirm we agree on these main points for our project?
+**Speaker B (L2, Urdu):** Ah, yes... Agree!
+**Speaker A (NS):** Alright, then! Let's discuss the fine details further over email or at our next study group.
+
+complete sentence within the 20 turn limitation: **Speaker A (NS):** Alright, Nusrat, it was great going through this complex topic with you; I think we're both on the same page for our project now.

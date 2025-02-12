@@ -1,0 +1,35 @@
+**Speaker A (NS):** Hi, Yuki! How can I help you today?
+
+**Speaker B (L2, Japanese):** Hello! Um, I have question about homework. It is... a little confusing.
+
+**Speaker A (NS):** Sure, no problem. What part of the homework is confusing for you?
+
+**Speaker B (L2, Japanese):** Ah, it is the math problem. Number three, I think. I not understand... how to solve.
+
+**Speaker A (NS):** Okay, let’s take a look. Is it the one about fractions?
+
+**Speaker B (L2, Japanese):** Yes, fractions. I not sure how to... um, add them together.
+
+**Speaker A (NS):** Alright, when you add fractions, you need a common denominator. Do you know what that means?
+
+**Speaker B (L2, Japanese):** Common... denominator? Um, no, I not know.
+
+**Speaker A (NS):** It’s the same number at the bottom of both fractions. You need to make them the same before adding.
+
+**Speaker B (L2, Japanese):** Ah, I see. So, I change bottom number to same?
+
+**Speaker A (NS):** Exactly! Once they’re the same, you can add the top numbers.
+
+**Speaker B (L2, Japanese):** Okay, I try this. Thank you for explain.
+
+**Speaker A (NS):** You’re welcome! Do you have any other questions about the homework?
+
+**Speaker B (L2, Japanese):** Um, no more question. I think I understand now.
+
+**Speaker A (NS):** Great! If you need more help, feel free to ask anytime.
+
+**Speaker B (L2, Japanese):** Yes, I will. Thank you very much for help.
+
+**Speaker A (NS):** No problem, Yuki. Have a good day!
+
+**Speaker B (L2, Japanese):** You too! Goodbye!

@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hello! Thank you for calling customer service. How can I assist you today?
+
+**Speaker B (L2, Cantonese):** Um, hello. I have problem with my, uh, computer. It not work... um, properly.
+
+**Speaker A (NS):** I see. Can you tell me what exactly is happening with your computer?
+
+**Speaker B (L2, Cantonese):** Yes, it... um, it keep... how to say... shutting down by itself.
+
+**Speaker A (NS):** Oh, it keeps shutting down unexpectedly. That sounds frustrating. Have you noticed any error messages?
+
+**Speaker B (L2, Cantonese):** Error message? Um, yes, sometimes it say... uh, "system failure" or something like that.
+
+**Speaker A (NS):** Got it. Have you tried restarting your computer or checking for updates?
+
+**Speaker B (L2, Cantonese):** Yes, I restart many time. I also check update, but it still... um, same problem.
+
+**Speaker A (NS):** Alright, let's try something else. Can you check if your computer is overheating? Maybe feel if it's too hot?
+
+**Speaker B (L2, Cantonese):** Oh, yes, it feel very hot. Maybe that is problem?
+
+**Speaker A (NS):** It could be. Overheating can cause shutdowns. Do you have a fan or cooling pad you can use?
+
+**Speaker B (L2, Cantonese):** Um, I have small fan. I can try use it.
+
+**Speaker A (NS):** Great, try using the fan to cool it down and see if that helps. Also, make sure the vents are not blocked.
+
+**Speaker B (L2, Cantonese):** Okay, I will try. Thank you for help.
+
+**Speaker A (NS):** You're welcome! If the problem continues, you might need to have it checked by a technician.
+
+**Speaker B (L2, Cantonese):** Yes, I understand. I will see if it better with fan first.
+
+**Speaker A (NS):** Sounds good. Is there anything else I can help you with today?
+
+**Speaker B (L2, Cantonese):** No, that is all. Thank you very much.
+
+**Speaker A (NS):** You're welcome! Have a great day, and I hope your computer works better soon.
+
+**Speaker B (L2, Cantonese):** Thank you, bye-bye!
+
+**Speaker A (NS):** Goodbye!

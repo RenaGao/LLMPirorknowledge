@@ -1,0 +1,17 @@
+Here is the conversation:
+
+**Speaker A (NS):** Hi Kenta, welcome to the job interview! Can you introduce yourself briefly?
+**Speaker B (L2, Cantonese):** Ah, yes, thanks! My name is Kenta, I am from... um, Guangzhou. I study... engineering. Computer engineering, I think.
+**Speaker A (NS):** Computer engineering sounds interesting. Can you tell me why you're interested in this position?
+**Speaker B (L2, Cantonese):** I like... um, designing and making thing. I want to use my knowledge to help people. Make... um, thing about... water pollution.
+**Speaker A (NS):** That's a great goal! Water conservation is very important. Can you give an example of a project you worked on?
+**Speaker B (L2, Cantonese):** Yes, I work on... um, thing for cleaning water. It is... um, use membrane filter. Help to remove impurity.
+**Speaker A (NS):** Excellent example! How does the membrane filter work?
+**Speaker B (L2, Cantonese):** Um, it... how to say... it clean water using membrane. It have many small hole, and it separate... big thing from small thing.
+**Speaker A (NS):** Ah, I see! It's like a filter with tiny holes. That's a good design. What do you think are your strengths and weaknesses?
+**Speaker B (L2, Cantonese):** Um, my strength is... um, language. I no problem with language. I like to learn new... um, thing. Weakness is... um, speak too fast. Sometimes people can't understand.
+**Speaker A (NS):** Don't worry about speaking too fast, we'll take some time to answer your questions. Thank you, Kenta, for your time today!
+**Speaker B (L2, Cantonese):** Thank you, thank you! I leave... um, now. Bye, I go.
+**Speaker A (NS):** Bye, Kenta, it was nice speaking with you. Good luck with your application!
+
+(The conversation ends here within the 20 turn limitation.)

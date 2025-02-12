@@ -1,0 +1,40 @@
+Here is the conversation between a native speaker (NS) and a second-language speaker (L2, Mandarin):
+
+**NS:** Hi, welcome to the team! My name is Emily. I'm your supervisor.
+**L2 (Ruomin):** Ah, nice to meet you. I'm Ruomin, technical writer from Beijing. Um, "hello" from China?
+
+**NS:** Welcome, Ruomin. We're excited to have you on board. Your role will involve creating user manuals for our new software project. Can you tell me a bit about your writing experience?
+
+**L2 (Ruomin):** Yes, um, I write... blog post and articles. My friend company, I help them make manual from English to Chinese.
+
+**NS:** That's great background experience. As a technical writer, you'll need to follow our style guidelines and create clear instructions for our users.
+
+**L2 (Ruomin):** Style guide? Ah, you mean, rules for writing? Yes, I remember, we use "English for Technical Writing" book in my training.
+
+**NS:** Exactly! The book provides guidelines for writing and formatting. I'll share it with you so you can familiarize yourself with our style before starting the project.
+
+**L2 (Ruomin):** Thank you! How will I submit my work? Do I use... um, computer or email?
+
+**NS:** You'll use our company's project management tool to submit your work. I'll send you an invitation to join the project after we finish this meeting.
+
+**L2 (Ruomin):** Okay, thank you! And what's "iteration" and "version control"? How do you manage changes?
+
+**NS:** Iterations and version control are key concepts in software development. Essentially, it means we make small changes, test them, and refine the product.
+
+**L2 (Ruomin):** Ah, I understand, like... um, " copy-editing"? Yes, adding small corrections to article.
+
+**NS:** That's right, but for software, it's a more complex process. Don't worry, we'll guide you through it.
+
+**L2 (Ruomin):** Great, thank you! Can you summarize our conversation?
+
+**NS:** Absolutely. We talked about your experience as a technical writer, the style guide, and how you'll submit your work using our project management tool.
+
+**L2 (Ruomin):** That's right! Thank you for explaining everything clearly.
+
+**NS:** My pleasure, Ruomin. I think we've covered everything for now. Do you have any other questions?
+
+**L2 (Ruomin):** No, thank you!
+
+**NS:** Wonderful! It was nice chatting with you, Ruomin. Good luck with the project!
+
+**L2 (Ruomin):** Same to you, Emily. I look forward to working together!

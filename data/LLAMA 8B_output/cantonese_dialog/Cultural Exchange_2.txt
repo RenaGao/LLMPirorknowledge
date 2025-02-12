@@ -1,0 +1,29 @@
+**Speaker A (NS):** Hi, Wing! How have you been? I heard it's your favorite holiday in your home this week.
+
+**Speaker B (L2, Cantonese):** Ah, hi... thank you! I go to HK, yeah! How to say... Mid-Autumn Festival! Nice festival, awesome food.
+
+**Speaker A (NS):** That sounds like fun! The Mid-Autumn Festival, I've heard of it. Could you tell me more about it?
+
+**Speaker B (L2, Cantonese):** Oh, yeah! Um... we have many people eat together. Family, friends... very happy time. We have special cake... moon cake.
+
+**Speaker A (NS):** Moon cake, I love those! My friend brought some back when she traveled to Hong Kong. Is the moon a big part of the festival?
+
+**Speaker B (L2, Cantonese):** Yes! The moon very important. We watch a bright full moon at night. Celebrate, you know.
+
+**Speaker A (NS):** That's beautiful! I think cultures make festivals so special. What's the highlight of your festival that you enjoy the most?
+
+**Speaker B (L2, Cantonese):** Ah, um... fireworks! We have, um, fireworks show, amazing! Wow! So excited.
+
+**Speaker A (NS):** Whoa, that must be thrilling! Do you still have any free days from work for the rest of the week?
+
+**Speaker B (L2, Cantonese):** Ah, yes, tomorrow I still have break. Maybe we... um... go swimming still?
+
+**Speaker A (L2 may use filler words here because they are still thinking)**
+
+**Speaker A (NS):** That sounds like a great plan! Well, Wing, I'm glad we got to talk about your favorite holiday. Maybe after tomorrow, we can sum it up, okay?
+
+**Speaker B (L2, Cantonese):** Okay, sure. Tomorrow, see you then! Bye.
+
+**Speaker A (NS):** Bye, Wing. See you later!
+
+Complete conversation meeting detr on rules

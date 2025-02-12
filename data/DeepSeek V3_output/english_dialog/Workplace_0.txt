@@ -1,0 +1,20 @@
+**Speaker A (Manager):** Hey, Chris, do you have a minute to chat about the project deadline?  
+**Speaker B (Chris):** Sure thing! I was actually going to ask you about that. What’s on your mind?  
+**Speaker A:** Well, I noticed we’re getting really close to the deadline, and I wanted to check in on your progress. How’s everything coming along?  
+**Speaker B:** Honestly, it’s been a bit of a grind, but I think we’re on track. I’ve just been ironing out a few kinks in the system.  
+**Speaker A:** I get that. Those last-minute tweaks can really eat up time. Do you think you’ll be able to wrap it up by Friday?  
+**Speaker B:** Friday’s definitely doable, but I might need to pull a late night or two to get there. I’m all in, though—don’t worry.  
+**Speaker A:** That’s good to hear. Just make sure you’re not burning yourself out, okay? Let me know if there’s anything I can do to help.  
+**Speaker B:** Thanks, I appreciate that. Actually, if you could take a quick look at the final report draft tomorrow morning, that would be a huge help.  
+**Speaker A:** Absolutely, no problem. Send it my way first thing, and I’ll get back to you with any feedback by midday. How does that sound?  
+**Speaker B:** Perfect! That’ll give me enough time to make any adjustments before the deadline.  
+**Speaker A:** Great. And just a heads-up—if you hit any unexpected roadblocks, don’t hesitate to loop me in. We’re in this together.  
+**Speaker B:** Will do. I’ll keep you posted if anything comes up, but I’m feeling pretty confident we’ll nail it.  
+**Speaker A:** That’s the spirit! You’ve been doing a fantastic job so far, and I’m sure this’ll be no different.  
+**Speaker B:** Thanks, that means a lot. I’ll make sure to deliver something we can both be proud of.  
+**Speaker A:** I have no doubt. Alright, let’s touch base again on Thursday to make sure we’re still on the same page.  
+**Speaker B:** Sounds like a plan. I’ll shoot you an update by then.  
+**Speaker A:** Awesome. Thanks for your hard work, Chris—it’s really paying off. Have a great rest of your day!  
+**Speaker B:** You too! Talk to you soon. Bye!  
+
+**Speaker A:** Take care, bye!

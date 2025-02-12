@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hello! Thank you for calling customer service. How can I assist you today?
+
+**Speaker B (L2, Korean):** Ah, hello. I have, um, problem with my recent buy. 
+
+**Speaker A (NS):** I’m sorry to hear that. Could you tell me what the issue is?
+
+**Speaker B (L2, Korean):** Yes, I buy a... um, how to say... a machine for coffee?
+
+**Speaker A (NS):** A coffee maker?
+
+**Speaker B (L2, Korean):** Yes, coffee maker. It not work good.
+
+**Speaker A (NS):** I see. Can you describe what’s wrong with it?
+
+**Speaker B (L2, Korean):** It make noise, but no coffee come out. I try many time.
+
+**Speaker A (NS):** That sounds frustrating. Did you check if the water tank is full?
+
+**Speaker B (L2, Korean):** Yes, I check. Water is full. Um, maybe it is broken?
+
+**Speaker A (NS):** It’s possible. Have you tried cleaning the machine?
+
+**Speaker B (L2, Korean):** Ah, no. I not clean yet. Should I try?
+
+**Speaker A (NS):** Yes, sometimes cleaning can help. If it still doesn’t work, we can look into a replacement.
+
+**Speaker B (L2, Korean):** Okay, I will try clean. If not work, I call again?
+
+**Speaker A (NS):** Absolutely. We’re here to help. Is there anything else I can do for you today?
+
+**Speaker B (L2, Korean):** No, thank you. You help much.
+
+**Speaker A (NS):** You’re welcome! I hope the cleaning works. Have a great day!
+
+**Speaker B (L2, Korean):** Thank you. Goodbye!
+
+**Speaker A (NS):** Goodbye!

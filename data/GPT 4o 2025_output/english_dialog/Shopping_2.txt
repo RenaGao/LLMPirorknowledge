@@ -1,0 +1,29 @@
+**Speaker A (Store Employee):** Hi there! How can I help you today?
+
+**Speaker B (Customer):** Hey! I wanted to ask about your return policy. I bought a jacket last week, but it doesn't quite fit right.
+
+**Speaker A:** No problem at all. Our return policy allows returns within 30 days of purchase, as long as you have the receipt and the item is in its original condition. Does that work for you?
+
+**Speaker B:** Yeah, that sounds fair. I do have the receipt, and the jacket's still in perfect shape. Do I need to bring anything else?
+
+**Speaker A:** Just the jacket and the receipt should do the trick. Is there anything specific about the fit that didn't work for you?
+
+**Speaker B:** It's mostly the sleeves—they're a bit too short for my liking. I guess I should've tried it on in the store, but I was in a rush.
+
+**Speaker A:** Happens to the best of us! Would you like to exchange it for a different size, or are you looking for a refund?
+
+**Speaker B:** I think I'll go for an exchange. Do you have the same jacket in a larger size?
+
+**Speaker A:** Let me check our inventory real quick... Yes, we do have a larger size available. I can set it aside for you if you'd like.
+
+**Speaker B:** That would be awesome, thanks! I’ll swing by later today to make the exchange.
+
+**Speaker A:** Great! Just ask for me when you get here, and I'll help you out. Anything else I can assist you with?
+
+**Speaker B:** No, that's all for now. You've been really helpful, thanks a bunch!
+
+**Speaker A:** My pleasure! I'm glad we could sort that out for you. Looking forward to seeing you later.
+
+**Speaker B:** Same here. Thanks again, and have a great day!
+
+**Speaker A:** You too! Take care and see you soon.

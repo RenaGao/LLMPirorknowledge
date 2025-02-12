@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hi, how can I help you today?
+
+**Speaker B (L2, Thai):** Hello, um, I have question about homework. It is, uh, not clear for me.
+
+**Speaker A (NS):** Sure, what part of the homework do you need help with?
+
+**Speaker B (L2, Thai):** It is the, um, math problem. I not understand the... how to say... instruction?
+
+**Speaker A (NS):** Okay, which problem are you referring to?
+
+**Speaker B (L2, Thai):** Problem number three. It say, um, "solve for x," but I not sure what to do first.
+
+**Speaker A (NS):** I see. For problem three, you need to isolate x on one side of the equation. Do you remember how to do that?
+
+**Speaker B (L2, Thai):** Um, yes, I think. But, uh, can you explain again, please?
+
+**Speaker A (NS):** Of course. You start by moving all terms with x to one side and constants to the other. Then, divide or multiply to solve for x.
+
+**Speaker B (L2, Thai):** Ah, okay. I move x and then, um, divide. I try this.
+
+**Speaker A (NS):** Yes, give it a try. If you get stuck, let me know.
+
+**Speaker B (L2, Thai):** Thank you. I will try. Um, also, the last question, it ask for, uh, "explain your answer." What should I write?
+
+**Speaker A (NS):** For that, you should describe the steps you took to solve the problem and why you did them.
+
+**Speaker B (L2, Thai):** Oh, I see. I write about steps and reason. I understand now.
+
+**Speaker A (NS):** Great! Do you have any other questions?
+
+**Speaker B (L2, Thai):** No, I think I okay now. Thank you very much for help.
+
+**Speaker A (NS):** You're welcome! If you have more questions later, feel free to ask.
+
+**Speaker B (L2, Thai):** Yes, I will. Thank you again. Goodbye!
+
+**Speaker A (NS):** Goodbye! Good luck with your homework!

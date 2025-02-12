@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hello! How can I help you today?
+
+**Speaker B (L2, Urdu):** Um, hello. I am not feeling well. I have, uh, pain in my head.
+
+**Speaker A (NS):** I’m sorry to hear that. How long have you been experiencing this headache?
+
+**Speaker B (L2, Urdu):** It is, um, three days now. It is very, uh, strong.
+
+**Speaker A (NS):** I see. Is there anything else bothering you, like nausea or dizziness?
+
+**Speaker B (L2, Urdu):** Yes, yes. I feel, um, dizzy sometimes. And, uh, stomach not good.
+
+**Speaker A (NS):** Do you mean you feel nauseous or have an upset stomach?
+
+**Speaker B (L2, Urdu):** Yes, upset stomach. I eat, and then, um, feel bad.
+
+**Speaker A (NS):** Have you taken any medication for these symptoms?
+
+**Speaker B (L2, Urdu):** I take, um, paracetamol for head pain. But, uh, not help much.
+
+**Speaker A (NS):** Alright. Have you noticed any other symptoms, like fever or a sore throat?
+
+**Speaker B (L2, Urdu):** No fever, but throat is, um, little sore. Not very much.
+
+**Speaker A (NS):** Okay, it sounds like you might have a viral infection. I recommend rest and plenty of fluids.
+
+**Speaker B (L2, Urdu):** Yes, I try to rest. But, um, work is busy.
+
+**Speaker A (NS):** I understand. It’s important to take care of yourself. Maybe take a day off if you can.
+
+**Speaker B (L2, Urdu):** Yes, I will try. Thank you for advice.
+
+**Speaker A (NS):** You’re welcome. If your symptoms get worse, please come back or see a doctor.
+
+**Speaker B (L2, Urdu):** Yes, I will do that. Thank you very much.
+
+**Speaker A (NS):** Take care and feel better soon!
+
+**Speaker B (L2, Urdu):** Thank you. Goodbye!
+
+**Speaker A (NS):** Goodbye!

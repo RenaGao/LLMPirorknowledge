@@ -1,0 +1,21 @@
+**Speaker A (NS):** Hi, Pim! I heard you’re having some issues with the new project system. Can we talk about it?  
+**Speaker B (L2, Thai):** Ah, yes, thank you. The system is... um, how to say... not easy for me. I feel confused.  
+**Speaker A (NS):** I understand. Let’s try to figure it out together. What part is the most difficult?  
+**Speaker B (L2, Thai):** Um... the part with... the data input. I cannot find where to put the numbers.  
+**Speaker A (NS):** Oh, the data entry section? Let me show you. Here, you click this button and enter the numbers here.  
+**Speaker B (L2, Thai):** Ah, okay. So here, I click... and then... type numbers?  
+**Speaker A (NS):** Exactly! Did that help clear things up?  
+**Speaker B (L2, Thai):** Yes, better now. But... um, what if I make mistake? How to fix?  
+**Speaker A (NS):** No problem. You can just delete the wrong number and type the correct one. Or, you can use the "undo" button here.  
+**Speaker B (L2, Thai):** Ah, I see. Undo button is... very helpful. Thank you.  
+**Speaker A (NS):** You’re welcome! Is there anything else you’re unsure about?  
+**Speaker B (L2, Thai):** Um... maybe the... report part. How to make the report?  
+**Speaker A (NS):** Sure! After you finish the data entry, click on "Generate Report" here. It will create the report automatically.  
+**Speaker B (L2, Thai):** Oh, automatic? That is... very good. So no need to do manual?  
+**Speaker A (NS):** That’s right. The system does all the manual work for you.  
+**Speaker B (L2, Thai):** Wow, this is... make easier. Thank you so much for helping.  
+**Speaker A (NS):** Of course, Pim! Anytime. If you have more questions, just let me know.  
+**Speaker B (L2, Thai):** Yes, I will. Thank you again. See you later!  
+**Speaker A (NS):** See you! Have a great day.  
+
+*End of conversation.*

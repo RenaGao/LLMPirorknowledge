@@ -1,0 +1,19 @@
+**Speaker A (NS):** Hi there! Welcome to our local market. What brings you today?
+**Speaker B (L2, Korean):** Ah, good day. I come for buy thing. Um, handmade craft. You have many beautiful craft, yes?
+**Speaker A (NS):** Nice! We have many unique items. Let me show you some of our best sellers. We have lovely handmade pottery, hand-woven scarves, and wooden decorations. What catches your eye?
+**Speaker B (L2, Korean):** Everything! So beautiful. But, um, I not sure... how to say... value price, you know? (pauses)
+**Speaker A (NS):** Okay, let me understand. What do you think the value price for something like this is?
+**Speaker B (L2, Korean):** Maybe... lower, yes. Because I see same craft at other market... (gets close to saying it's cheaper, then corrects himself) Oh no, not lower. I want to pay correct price, yes.
+**Speaker A (NS):** I see. Our prices are generally set based on the craftsmanship and materials used. This one, for example, took the artisan several hours to create. Would you like to try a more affordable option or would you like to negotiate the price?
+**Speaker B (L2, Korean):** Negotiate... yes. I comfortable. (takes a deep breath) I think we can talk... (smiling)
+**Speaker A (NS):** Great attitude! Let's see what we can do. I can offer you a discount of about 10% off the regular price. Would you like to discuss further or is that okay with you?
+**Speaker B (L2, Korean):** Ten percent, okay. But I think... I have an idea. Why don’t we say... 8 percent? Just a little... discount, yes?
+**Speaker A (NS):** That's a great idea. I think we can meet in the middle. I can offer 9% off. How does that sound?
+**Speaker B (L2, Korean):** Wow, 9 percent. Good. I think good price. Okay, let's do that. Thank you, very much! (smiling)
+**Speaker A (NS):** You're welcome! I'm glad we could find a mutually agreeable price. I'll get you sealed in with a container. Enjoy your items!
+**Speaker B (L2, Korean):** Yes, thank you! (pauses) Bye, good day!
+**Speaker A (NS):** Bye, and have a great day!
+**Speaker B (L2, Korean):** See you next time, market owner-san? (meaning owner)
+**Speaker A (NS):** Very much, take care, Kenta-san! Have a good day!
+
+Conversation ends with both speakers exchanging a summary of their agreement for the price of the item, within the 20-turn limit.

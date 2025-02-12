@@ -1,0 +1,43 @@
+**Speaker A (NS):** Hi there! Welcome to the team. I'm here to help you get started with your first task. How are you feeling about it?
+
+**Speaker B (L2, Urdu):** Hello! Thank you. I am, um, little bit nervous but also excited. 
+
+**Speaker A (NS):** That's completely normal. Let's go through the task together. You'll be working on updating our client database. Do you have any experience with databases?
+
+**Speaker B (L2, Urdu):** Yes, I have use database before. Um, I work with SQL in my last job.
+
+**Speaker A (NS):** Great! That will be helpful. Our system is similar. You'll need to check for any outdated information and update it. Do you have any questions so far?
+
+**Speaker B (L2, Urdu):** Uh, yes. How I find which information is old?
+
+**Speaker A (NS):** Good question. We have a report that lists all the entries needing updates. I'll show you where to find it. 
+
+**Speaker B (L2, Urdu):** Okay, thank you. And, um, if I make mistake, what should I do?
+
+**Speaker A (NS):** If you make a mistake, don't worry. Just let me know, and we can fix it together. It's all part of the learning process.
+
+**Speaker B (L2, Urdu):** Yes, I understand. I will be careful. 
+
+**Speaker A (NS):** Perfect. Also, remember to save your work frequently. Our system doesn't auto-save, so it's important to do it manually.
+
+**Speaker B (L2, Urdu):** Ah, okay. I will remember to save. 
+
+**Speaker A (NS):** Excellent. Once you've updated the entries, you can mark them as complete in the system. Do you know how to do that?
+
+**Speaker B (L2, Urdu):** Um, not sure. Can you show me, please?
+
+**Speaker A (NS):** Of course! I'll walk you through it step by step. It's quite simple once you get the hang of it.
+
+**Speaker B (L2, Urdu):** Thank you. I think I will learn fast with your help.
+
+**Speaker A (NS):** I'm sure you will. You're doing great so far. If you have any more questions, feel free to ask anytime.
+
+**Speaker B (L2, Urdu):** Yes, I will. Thank you for your support.
+
+**Speaker A (NS):** No problem at all. I'm glad to help. Let's get started, and remember, I'm here if you need anything.
+
+**Speaker B (L2, Urdu):** Okay, I will start now. Thank you again.
+
+**Speaker A (NS):** You're welcome. Have a great day, and we'll catch up later to see how it's going.
+
+**Speaker B (L2, Urdu):** Yes, have a good day too. Goodbye!

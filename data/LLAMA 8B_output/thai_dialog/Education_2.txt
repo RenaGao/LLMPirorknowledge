@@ -1,0 +1,43 @@
+**Speaker A (NS):** Hi Krittin, what's up? Can you meet with me for a minute to talk about your math homework?
+
+**Speaker B (L2, Thai):** Oh, um, yes. Thank you, teacher. Homework, it give me problem. I no understand, yes.
+
+**Speaker A (NS):** Okay, what's the specific problem you're having trouble with? Can you walk me through it?
+
+**Speaker B (L2, Thai):** My teacher give us, uh, exercise on function. But I not know how to use... uh, what is the thing... you know, with x and y.
+
+**Speaker A (NS):** I think I know what you're talking about. Is it a graph of a function? Can you show me what's written on the paper?
+
+**Speaker B (L2, Thai):** Yes, this! *pulls out homework page* We need to find the derivative. But my teacher say something about... um, something to do with the limit.
+
+**Speaker A (NS):** Okay, so it's about finding the slope at a point, and you're looking at the limit as the change in x approaches zero.
+
+**Speaker B (L2, Thai):** Yes, this is it! *nods* But I still don't understand. How to find the limit... *thinks for a moment*
+
+**Speaker A (NS):** Let's break it down step by step. Can you start with the given function, and what's written on the problem statement?
+
+**Speaker B (L2, Thai):** Okay... *reads from paper* "Find the derivative of y = 2x^2 + 5x - 3."
+
+**Speaker A (NS):** Great, so the first thing you do is take the derivative of each term separately. Do you remember the power rule for functions?
+
+**Speaker B (L2, Thai):** Um, yes... something about... power, um... four... no, I mean x squared. Yes, x squared.
+
+**Speaker A (NS):** Right, so when you take the derivative of x^2, you multiply by the exponent, and then subtract 1 from the exponent. Does that sound right?
+
+**Speaker B (L2, Thai):** Yes... x is exponent two... *thinks* áh-I get it now! *smiles*
+
+**Speaker A (NS):** That's great, Krittin. Give it a try and show me what you get.
+
+**Speaker B (L2, Thai):** *starts calculating* Okay... 4x... -1x... minus 0... no, 0 torex -31? *looks puzzled*
+
+**Speaker A (NS):** Close, but there's a small error. Do you remember to subtract the 5x term's derivative? That changes the -5 from x's exponent.
+
+**Speaker B (L2, Thai):** Áh, oh, yes! Multiply by 1, yes. *laughs* Silly me! That is minus 5, x.
+
+**Speaker A (NS):** Great job! You got it. Now you can just plug in any x value to find the slope at that point.
+
+**Speaker B (L2, Thai):** Okay, thank you, teacher! I understand now. *smiles*
+
+**Speaker A (NS):** That's all set. Feel free to ask me if you have any more questions later. Okay to go now?
+
+**Speaker B (L2, Thai):** Yes, come again tomorrow, yes!

@@ -1,0 +1,33 @@
+**Speaker A (NS):** Hi there! Welcome to our customer service department. What seems to be the issue you're experiencing with our product?
+
+**Speaker B (L2, Urdu):** Ah, thank you... sir. I have technology... um... laptop issue. My USB... how to say... not work.
+
+**Speaker A (NS):** Your USB port isn't working? Can you tell me more about the issue? When did it start?
+
+**Speaker B (L2, Urdu):** It start... um, when I plug in. USB stick... no, habitat. You know, storage thing.
+
+**Speaker A (NS):** Ah, I think you mean a USB storage device. Have you tried plugging it into another port just to rule out a hardware issue?
+
+**Speaker B (L2, Urdu):** Oh, yes! I try... um, other port. But... uh... computer not recognize.
+
+**Speaker A (NS):** That doesn't sound right. I'm going to go ahead and initiate a system restart for you.
+
+**Speaker B (L2, Urdu):** Thank you, sir. Restart computer... very good help.
+
+**Speaker A (NS):** If the issue persists after the restart, we'll look into resetting your USB drivers. Sound good to you?
+
+**Speaker B (L2, Urdu):** Yes, good. Reset... um, drivers. I like.
+
+**Speaker A (NS):** Alright, I'll go ahead and send you a reset prompt. If you have any further issues, feel free to reach out, ok?
+
+**Speaker B (L2, Urdu):** Thank you, sir. You help very much.
+
+**Speaker A (NS):** Before we go, let’s summarize: we restarting the computer and resetting the USB drivers, if the issue continues.
+
+**Speaker B (L2, Urdu):** Yes. Help me for computer problem. Thank you, sir.
+
+**Speaker A (NS):** You're welcome! If there's anything else, don't hesitate to call. Otherwise, goodbye, and have a great day!
+
+**Speaker B (L2, Urdu):** Goodbye, sir. Thank you so much... help with technology.
+
+**Speaker A (NS):** Goodbye!

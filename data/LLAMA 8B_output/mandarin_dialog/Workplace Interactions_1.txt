@@ -1,0 +1,39 @@
+**Speaker A (Native Speaker, NS)**: Hi, I'm Alex, your team lead. Welcome to our project team!
+
+**Speaker B (Second-Language Speaker, Mandarin)**: Ah, thank you! I'm Ling. Nice to meet you.
+
+**Speaker A**: Great! We're in the middle of a project, and I'd like to explain the process to you. Um, how do you say... walk through the workflow?
+
+**Speaker B**: Workflow... um... flow chart maybe?
+
+**Speaker A**: Ah, flow chart! Yes, that's a great way to think about it. Okay, so our project involves creating a new software feature. There are several steps involved. Can you tell me, how to translate "creat new account" in, say, Chinese?
+
+**Speaker B**: Create new account... ah, um... build new user profile!
+
+**Speaker A**: That's almost there. It's more like... build new account registration process.
+
+**Speaker B**: Registration process! Yes, build new registration process. How to say... like input form?
+
+**Speaker A**: Exactly! We need to create an input form for users to fill out. I'll show you our current design. Um, how do you say... can you take a look at the graphic?
+
+**Speaker B**: Graphic... ah, picture maybe?
+
+**Speaker A**: Picture! That's great. So, I'll show you our picture of the form, and then we can walk through the steps involved.
+
+**Speaker B**: I see. Thank you for explain... um, explaination.
+
+**Speaker A**: You're welcome! I'm happy to help you understand our workflow. Is it making sense to you?
+
+**Speaker B**: Yes, it make sense! Thank you, Alex. I feel more... um, clear now.
+
+**Speaker A**: Great! Now, let's summarize what we've covered so far. Can you... uh, sum it up for me?
+
+**Speaker B**: Ah, yes! We create software feature, with input form... uh, registration process!
+
+**Speaker A**: Exactly! You've got it. Welcome to the team, Ling!
+
+**Speaker B**: Thank you, Alex! Good to, ah, team up!
+
+**Speaker A**: I agree! It was great talking to you, Ling. Good luck with the project!
+
+**Speaker B**: Good luck to me! And thanks to you! Nice to work with you too!

@@ -1,0 +1,37 @@
+**Speaker A (Native Speaker, NS):** Hi, Xiao Li! Ready for our study group session today?
+
+**Speaker B (Mandarin Speaker, L2):** Yes, hello! I am ready. We talk about... um, difficult topic today, right?
+
+**Speaker A:** Yes, we’re discussing quantum mechanics. It can be quite complex. Do you have any specific questions?
+
+**Speaker B:** Ah, quantum mechanics... it is, um, very hard. I not understand... how particles can be in two place?
+
+**Speaker A:** You’re talking about superposition. It’s when particles exist in multiple states at once until measured. Does that make sense?
+
+**Speaker B:** Um, a little. So, it is like... they are in two places, but not really until we look?
+
+**Speaker A:** Exactly! It’s like they have potential to be in different places, but we only see one outcome when we observe.
+
+**Speaker B:** Oh, I see. And, um, what about... entanglement? I hear it is important.
+
+**Speaker A:** Entanglement is when particles become linked, so the state of one instantly affects the other, no matter the distance. It’s like they communicate faster than light.
+
+**Speaker B:** Ah, very interesting! So, if one change, the other change too, yes?
+
+**Speaker A:** Yes, that’s right. It’s a fascinating concept. Do you have any other questions?
+
+**Speaker B:** Um, I think... no more question now. I need to think more about this.
+
+**Speaker A:** That’s okay. It’s a lot to take in. We can discuss more next time if you want.
+
+**Speaker B:** Yes, thank you. I will read more and, um, maybe have more question later.
+
+**Speaker A:** Sounds good. If you need help, just let me know.
+
+**Speaker B:** Thank you very much! You explain very clear.
+
+**Speaker A:** You’re welcome, Xiao Li. I’m glad I could help. Shall we wrap up for today?
+
+**Speaker B:** Yes, I think so. Thank you again. Goodbye!
+
+**Speaker A:** Goodbye, Xiao Li! See you at the next session.

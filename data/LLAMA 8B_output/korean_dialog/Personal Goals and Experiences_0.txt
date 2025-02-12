@@ -1,0 +1,35 @@
+**Speaker A (NS):** Hi, Minsoo. Can you tell me about your goals for the next year?
+
+**Speaker B (L2, Korean):** Ah, yes, hello. My name is Minsoo. Sorry, mistake, my phone book is incorrect. My goal... I want to...
+
+**Speaker A (NS):** No worries, it happens! Let's start again. What are your goals for the next year?
+
+**Speaker B (L2, Korean):** ____ (pausing) Okay, goal! I want be better English speaker. My teacher say I have good job if I speak English good.
+
+**Speaker A (NS):** That's a great goal. What kind of job are you interested in?
+
+**Speaker B (L2, Korean):** Um, I like business, yes, business job. My friend have job in company, and he like it very much.
+
+**Speaker A (NS):** Business sounds like a good choice. How do you plan to improve your English skills?
+
+**Speaker B (L2, Korean):** I study, uh, Lexis textbook. It is easy for me. And I listen to... CNN? Uh, news.
+
+**Speaker A (NS):** CNN is a great choice. Listening to news can really help you improve your skills. What about practicing speaking with others?
+
+**Speaker B (L2, Korean):** My friend, we practice speaking phone. It is difficult, but I will try again.
+
+**Speaker A (NS):** That's the spirit! Language learning can be challenging, but it's worth it. Can you sum up your goals for next year for me?
+
+**Speaker B (L2, Korean):** So, my goal is... I become good English speaker, and I have business job. I practice every day, and I use English on my work.
+
+**Speaker A (NS):** That sounds like a solid plan! Well done, Minsoo.
+
+**Speaker B (L2, Korean):** Arigatou gozaimasu! (unconsciously switches back to Korean familiar language)
+
+**Speaker A (NS):** Ahah, no worries, 'thank you' is fine. Good luck with your goals, Minsoo. I'll see you around!
+
+**Speaker B (L2, Korean):** Okay, thank you. I will meet you again next week!
+
+**Speaker A (NS):)** See you then, Minsoo!
+
+Final answer must be within the 20-turn limit.

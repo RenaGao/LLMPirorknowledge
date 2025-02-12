@@ -1,0 +1,38 @@
+**Native Speaker (NS):** Hi! I'm Alex. Welcome to the party. It's great to meet you. Can you tell me your name?
+
+**Malay Speaker (L2):** Ah, thank you. My name is Rohan. I from Malaysia. I... um, how to say... I come here for work.
+
+**NS:** Oh, nice to meet you, Rohan! What brings you here tonight?
+
+**L2 (Rohan):** I learn about your... um, thing for networking.
+
+**NS:** Ah, networking event. That's great. What do you do for work, Rohan?
+
+**L2 (Rohan):** I am... uh, marketing officer for my company.
+
+**NS:** That's interesting. What kind of products or services do you market?
+
+**L2 (Rohan):** We have... um, Sobek shirt. It is good for sport.
+
+**NS:** That sounds like a great product! I'll have to check it out. Do you live in Kuala Lumpur?
+
+**L2 (Rohan):** Yes! I from Kuala Lumpur. But now I work in... uh, Singapore.
+
+**NS:** Singapore's a great city. Do you like living there?
+
+**L2 (Rohan):** Yes, my wife and I, we like it. But sometimes I feel... um, homesick, yes.
+
+**NS:** That's understandable. It's great that you have your wife to support you.
+
+**L2 (Rohan):** Yes! She very nice. Um, say thank you for talk with me, Alex.
+
+**NS:** You're welcome, Rohan! It was great talking with you too. Maybe we can catch up again sometime. Time to say good night, I think.
+
+**L2 (Rohan):** Baiklah, Alex! Sampai jumpa lagi. Good night, and see you again!
+
+**NS:** Good night, Rohan! Until next time!
+
+Turns: 
+
+- Speaker 1: 7 turns
+- Speaker 2 (L2, Malay): 8 turns

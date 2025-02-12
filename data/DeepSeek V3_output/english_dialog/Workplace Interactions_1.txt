@@ -1,0 +1,22 @@
+**Speaker A (NS):** Hi there! Welcome to the team. I’m Sarah, and I’ll be showing you the ropes today. How’s it going so far?  
+**Speaker B (NS):** Hey, Sarah! Thanks so much. I’m Alex. It’s going pretty well—just trying to get the hang of everything, you know?  
+**Speaker A (NS):** Totally get that. Starting somewhere new can feel a bit overwhelming, but you’ll catch on in no time. Let’s walk through the weekly report process together. Sound good?  
+**Speaker B (NS):** Yeah, that’d be great. I’ve been curious about how that works.  
+**Speaker A (NS):** Perfect. So, every Monday morning, we compile data from the weekend and organize it into a shared spreadsheet. Have you used Google Sheets before?  
+**Speaker B (NS):** Yep, I’m pretty familiar with it. Just need to know what specific data to input.  
+**Speaker A (NS):** Got it. Okay, so the key metrics we track are sales numbers, customer feedback, and website traffic. I’ll send you the template we use—it’s pretty straightforward.  
+**Speaker B (NS):** That makes sense. Is there a specific format for the feedback section, or do we just summarize it?  
+**Speaker A (NS):** Good question! We usually bullet-point the main takeaways, kind of “cutting to the chase.” It helps the team quickly spot trends.  
+**Speaker B (NS):** Ah, okay. That’s a smart way to do it. How strict is the deadline for these reports?  
+**Speaker A (NS):** The goal is to have it done by noon on Monday. That gives everyone time to review it before the team meeting at 2 PM.  
+**Speaker B (NS):** Got it. Does someone else proofread it, or do I just submit it once I’m done?  
+**Speaker A (NS):** I usually take a quick look before it’s finalized, just to double-check everything. So feel free to ping me when you’re finished.  
+**Speaker B (NS):** Awesome. That’s a big help. Anything else I should keep in mind?  
+**Speaker A (NS):** Hmm, not really. Oh, wait—one thing: if there are any major issues or red flags in the data, we flag those in red and send a quick heads-up email to the manager.  
+**Speaker B (NS):** Good to know. Better to be upfront about that kind of stuff.  
+**Speaker A (NS):** Exactly. It’s all about staying on the same page. You’ll get the hang of it in no time.  
+**Speaker B (NS):** Thanks, Sarah. This has been super helpful. I feel a lot clearer about the process now.  
+**Speaker A (NS):** No problem at all! Feel free to reach out if you have any other questions. Let’s catch up again later this week to see how you’re doing.  
+**Speaker B (NS):** Sounds good. Looking forward to it. Thanks again, and have a great rest of your day!  
+**Speaker A (NS):** You too, Alex. Welcome to the team—we’re glad to have you! See you around.  
+**Speaker B (NS):** See you soon! Goodbye!

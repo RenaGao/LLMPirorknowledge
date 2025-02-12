@@ -1,0 +1,37 @@
+Here's a conversation on a technical issue with a service provider:
+
+**Speaker A (Native Speaker)**: Hi, Kaito! What can I help you with today? You were struggling to connect to the office Wi-Fi, right?
+
+**Speaker B (Mandarin Speaker, Kaito)**: Yes, hi! Hi! Um, yes, Wi-Fi... Wireless... thing. I try connect but no... no connection. Very frustrating.
+
+**Speaker A**: Sorry to hear that. Don't worry, we can troubleshoot together. Can you tell me the error message that comes up when you try to connect?
+
+**Speaker B**: Ah, yes. This word... apologize... no English. Um, "network... err... what you say? Error code... 404... Not found?
+
+**Speaker A**: I think you mean 404 error, which suggests the server can't find the requested page. Have you checked your wireless settings? Make sure they're set to your company's network.
+
+**Speaker B**: Check wireless... yes, I check. All okay, but no go.
+
+**Speaker A**: Let's try restarting your router and modem, then try again. Sometimes, it's just that simple.
+
+**Speaker B**: Restart... restart. That's what I do... but then error same. Then um, how to say... IT help?
+
+**Speaker A**: Well, you can contact our IT department, but maybe let's try one more thing. Are you using a proxy server or VPN at work?
+
+**Speaker B**: Um, yes, proxy. Our company use proxy.
+
+**Speaker A**: Okay, so could it be that the proxy settings are blocking the connection? Let me just verify that with our network team.
+
+**Speaker B**: Verify... good! Proxy maybe cause, yes?
+
+**Speaker A**: That's a good possibility. I'm going to reach out to our network team, see if they can help you set up and adjust your proxy settings.
+
+**Speaker B**: Thank you, thank you very much! You help me very much! Better now?
+
+**Speaker A**: Sounds like it. Good to hear that we were able to solve the issue. Saves... sorry to say, not a lost day anymore! You go now?
+
+**Speaker B**: Go! Yeah, now I go! Already Thank you. Have nice visit, yes?
+
+**Speaker A**: You're welcome! Nice visit next time! Goodbye!
+
+**Speaker B**: Good, goodbye!

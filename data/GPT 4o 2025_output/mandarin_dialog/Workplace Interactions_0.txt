@@ -1,0 +1,43 @@
+**Speaker A (Native Speaker, NS):** Hi Xiao Li, do you have a moment to discuss our project deadlines?
+
+**Speaker B (Mandarin Speaker, L2):** Yes, I have time now. Um, we talk about the tasks, right?
+
+**Speaker A:** Exactly. We need to finalize the timeline. Do you know when your part will be ready?
+
+**Speaker B:** Ah, I think... maybe next week? I still need to finish some, uh, details.
+
+**Speaker A:** Next week sounds good. Which details are you working on?
+
+**Speaker B:** I am working on the, um, design part. It is... how to say... the layout for the app.
+
+**Speaker A:** Oh, the user interface design?
+
+**Speaker B:** Yes, user interface! I need to make it more, uh, friendly.
+
+**Speaker A:** That’s important. Do you need any help with it?
+
+**Speaker B:** Maybe, yes. I not sure about the color... um, combination?
+
+**Speaker A:** I can help with that. We can look at some color schemes together.
+
+**Speaker B:** Thank you! That will be very helpful. And, um, what about your part?
+
+**Speaker A:** I’m working on the backend. I should have it done by the end of this week.
+
+**Speaker B:** Oh, that is good. Backend is, uh, very important for function.
+
+**Speaker A:** Yes, it is. Once both parts are ready, we can integrate them.
+
+**Speaker B:** Yes, integrate. We need to test after, right?
+
+**Speaker A:** Exactly, testing is crucial. We’ll schedule that for the week after next.
+
+**Speaker B:** Okay, I will prepare for testing too. Um, anything else we need to do?
+
+**Speaker A:** I think we’ve covered everything for now. Let’s meet again next week to review progress.
+
+**Speaker B:** Yes, next week. Thank you for your help.
+
+**Speaker A:** No problem, Xiao Li. Have a great day!
+
+**Speaker B:** You too! Goodbye!

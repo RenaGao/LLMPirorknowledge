@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hello! Thank you for calling customer service. How can I assist you today?
+
+**Speaker B (L2, Japanese):** Ah, hello. I have, um, problem with my computer. It not work... how to say... properly?
+
+**Speaker A (NS):** I see. Can you tell me what exactly is happening with your computer?
+
+**Speaker B (L2, Japanese):** Yes, when I turn on, it is very slow. And sometimes, it... um, freeze? I cannot do anything.
+
+**Speaker A (NS):** That sounds frustrating. Have you tried restarting your computer?
+
+**Speaker B (L2, Japanese):** Yes, I try restart. But, um, problem still there.
+
+**Speaker A (NS):** Okay, let's try something else. Have you checked if there are any updates that need to be installed?
+
+**Speaker B (L2, Japanese):** Updates... ah, I not sure. How to check updates?
+
+**Speaker A (NS):** No problem. You can go to your settings and look for "Update & Security." There, you should see if any updates are pending.
+
+**Speaker B (L2, Japanese):** Ah, I see. I will check. Um, if update not work, what I do?
+
+**Speaker A (NS):** If the updates don't solve the issue, we can try clearing some space on your hard drive. Sometimes, too many files can slow things down.
+
+**Speaker B (L2, Japanese):** Clear space... okay, I understand. I will try delete some files.
+
+**Speaker A (NS):** Great. Also, make sure to check if any programs are running in the background that you don't need.
+
+**Speaker B (L2, Japanese):** Ah, yes. I will check programs. Thank you for help.
+
+**Speaker A (NS):** You're welcome! If you still have issues after trying these steps, feel free to call us back.
+
+**Speaker B (L2, Japanese):** Yes, I will do that. Thank you very much.
+
+**Speaker A (NS):** No problem at all. Have a great day!
+
+**Speaker B (L2, Japanese):** Thank you. You too. Goodbye!
+
+**Speaker A (NS):** Goodbye!

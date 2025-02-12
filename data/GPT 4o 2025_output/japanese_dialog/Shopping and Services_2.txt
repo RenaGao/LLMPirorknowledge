@@ -1,0 +1,35 @@
+**Speaker A (NS):** Hello! How can I assist you today?
+
+**Speaker B (L2, Japanese):** Ah, hello. I have, um, problem with my recent buy... purchase.
+
+**Speaker A (NS):** I see. Could you tell me what the issue is with your purchase?
+
+**Speaker B (L2, Japanese):** Yes, I buy a... how to say... a machine for coffee. It not work.
+
+**Speaker A (NS):** Oh, a coffee machine. Can you describe what’s not working?
+
+**Speaker B (L2, Japanese):** Yes, it not make coffee. I press button, but no coffee come out.
+
+**Speaker A (NS):** That sounds frustrating. Did you check if it’s plugged in and the water tank is full?
+
+**Speaker B (L2, Japanese):** Yes, I check. It is plug and water is... um, full.
+
+**Speaker A (NS):** Okay, have you tried resetting the machine or checking the manual for troubleshooting tips?
+
+**Speaker B (L2, Japanese):** Um, I look at manual, but it is... difficult to understand. English is hard.
+
+**Speaker A (NS):** I understand. Let me help. Sometimes, unplugging for a few minutes can reset it. Have you tried that?
+
+**Speaker B (L2, Japanese):** Ah, no, I not try. I will do it. Thank you.
+
+**Speaker A (NS):** You’re welcome. If that doesn’t work, we can look into a replacement or repair.
+
+**Speaker B (L2, Japanese):** Okay, I try reset first. If not work, I contact again.
+
+**Speaker A (NS):** Sounds good. Is there anything else I can help you with today?
+
+**Speaker B (L2, Japanese):** No, that is all. Thank you for help.
+
+**Speaker A (NS):** You’re welcome! I hope the reset works. Have a great day!
+
+**Speaker B (L2, Japanese):** Yes, thank you. Have a nice day too!

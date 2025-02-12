@@ -1,0 +1,39 @@
+**Speaker A (Native Speaker, NS):** Hi, Li! Thanks for meeting with me. I wanted to discuss how we can improve our project timeline. Do you have any thoughts?
+
+**Speaker B (Mandarin Speaker, L2):** Ah, yes, hello! I think, um, we need more time for testing. It is, uh, very important.
+
+**Speaker A:** I agree. Testing is crucial. Do you think we should adjust the schedule to allow for more testing?
+
+**Speaker B:** Yes, yes. Maybe we can, um, move some tasks earlier? Like, uh, design part?
+
+**Speaker A:** That's a good idea. If we finish the design earlier, we can start testing sooner. How do you feel about discussing this with the team?
+
+**Speaker B:** I feel, um, it is good. But, uh, I not sure how to explain... um, clearly.
+
+**Speaker A:** No worries, Li. I can help with that. We can prepare a simple presentation together. Does that sound okay?
+
+**Speaker B:** Yes, that is good. Thank you. I think, um, we can show why testing is, uh, important.
+
+**Speaker A:** Absolutely. We can highlight the benefits of thorough testing. Do you have any specific points you want to include?
+
+**Speaker B:** Um, maybe... show example of, uh, past problem? Like, uh, bug we find late?
+
+**Speaker A:** Great idea! Real examples can be very convincing. We can include that. Anything else?
+
+**Speaker B:** Uh, maybe... we can ask team for, um, feedback? See if they have, uh, ideas too?
+
+**Speaker A:** Yes, getting feedback is always helpful. We can ask for their input during the meeting. How about we set a time to work on the presentation?
+
+**Speaker B:** Yes, um, maybe tomorrow afternoon? I have, uh, more time then.
+
+**Speaker A:** Tomorrow afternoon works for me. Let's meet at 2 p.m. Is that okay?
+
+**Speaker B:** Yes, 2 p.m. is good. Thank you for help.
+
+**Speaker A:** No problem, Li. I'm glad we're working on this together. Anything else you want to discuss?
+
+**Speaker B:** No, I think, um, we cover all. Thank you again.
+
+**Speaker A:** You're welcome. Looking forward to our meeting tomorrow. Have a great day!
+
+**Speaker B:** Yes, you too! See you tomorrow!

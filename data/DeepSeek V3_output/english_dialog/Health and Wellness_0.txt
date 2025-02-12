@@ -1,0 +1,41 @@
+**Speaker A (Doctor):** Hi there, thanks for coming in today. How have you been feeling?  
+
+**Speaker B (Patient):** Hey, thanks for seeing me. Honestly, I’ve been feeling a bit under the weather lately.  
+
+**Speaker A (Doctor):** I’m sorry to hear that. Can you tell me more about what’s been going on?  
+
+**Speaker B (Patient):** Sure. I’ve had this persistent cough for about a week now, and it’s keeping me up at night.  
+
+**Speaker A (Doctor):** That sounds rough. Is the cough dry, or are you bringing anything up?  
+
+**Speaker B (Patient):** It’s mostly dry, but sometimes there’s a little phlegm. It’s just really annoying, you know?  
+
+**Speaker A (Doctor):** I can imagine. Any other symptoms you’ve noticed?  
+
+**Speaker B (Patient):** Yeah, I’ve been feeling really tired, like I’m dragging myself through the day. And I’ve had a bit of a sore throat, too.  
+
+**Speaker A (Doctor):** Got it. Have you had a fever or any body aches?  
+
+**Speaker B (Patient):** No fever, but I’ve been a bit achy, especially in my shoulders and back.  
+
+**Speaker A (Doctor):** Okay, that’s helpful. Have you been around anyone who’s been sick recently?  
+
+**Speaker B (Patient):** Actually, my coworker came down with something last week, so I might have caught it from them.  
+
+**Speaker A (Doctor):** That makes sense. It sounds like you might have picked up a mild viral infection.  
+
+**Speaker B (Patient):** That’s what I was thinking. Is there anything I can do to feel better?  
+
+**Speaker A (Doctor):** Definitely. I’d recommend staying hydrated, getting plenty of rest, and maybe using a humidifier at night to ease the cough. Over-the-counter cough syrup could help, too.  
+
+**Speaker B (Patient):** That sounds manageable. Should I be worried about it getting worse?  
+
+**Speaker A (Doctor):** If your symptoms persist for more than another week, or if you develop a fever or shortness of breath, come back in. Otherwise, you should start feeling better soon.  
+
+**Speaker B (Patient):** That’s a relief. Thanks so much for your help.  
+
+**Speaker A (Doctor):** You’re welcome. Take care of yourself, and don’t hesitate to call if you have any concerns.  
+
+**Speaker B (Patient):** Will do. Thanks again, and have a great day!  
+
+**Speaker A (Doctor):** You too—goodbye and feel better soon!

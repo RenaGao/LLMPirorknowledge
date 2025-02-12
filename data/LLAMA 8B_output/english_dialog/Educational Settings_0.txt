@@ -1,0 +1,21 @@
+**Speaker A (NS1) Sarah:** Hi Emily, thanks for meeting with me today. I had a few questions about our marketing assignment that's due next week.
+**Speaker B (NS2) Emily:** No problem, Sarah. I'm happy to clarify anything you're unsure about. What specifically are you confused about?
+**Speaker A (NS1) Sarah:** I know we're supposed to analyze the market research, but I'm not clear on what kind of analysis I need to do. Can you walk me through it?
+**Speaker B (NS2) Emily:** Sure. We want you to break down the data into insightful points and visualize it in a dashboard. Does that sound right?
+**Speaker A (NS1) Sarah:** That makes sense. What kind of data should we be focusing on in the dashboard? Is it the customer demographics or sales trends?
+**Speaker B (NS2) Emily:** A mix of both would be perfect, actually. We want to see how demographics affect sales, so don't be afraid to dig into specific details.
+**Speaker A (NS1) Sarah:** Okay, got it. One more thing: should the dashboard be a simple or a detailed map with lots of data points?
+**Speaker B (NS2) Emily:** Hmmm, if it were me, I'd aim for a clear, concise map that shows the most important info. You don't want to overwhelm the user with too many details; leave some to their interpretation.
+**Speaker A (NS1) Sarah:** That helps. So the more we keep it simple and straightforward, the better, right?
+**Speaker B (NS2) Emily:** Exactly. Remember, too much information can lead to the audience feeling like they're drowning in data. 'Less is more,' you know?
+**Speaker A (NS1) Sarah:** Yeah, simpler is better, but one concern I have is visualizing quantitative data. Do you have any suggestions for that?
+**Speaker B (NS2) Emily:** Ah, yeah, use graphs and charts! Visual formats like line graphs or pie charts work really well for illustrating data trends.
+**Speaker A (NS1) Sarah:** Great idea! I think I can do that. One last question: Is there a minimum or maximum page length we need to stick to?
+**Speaker A (NS1) Sarah:** So basically, focus on the main points with a standard number of graphs. Right?
+**Speaker B (NS2) Emily:** Yeah, a good rule of thumb would be 2-3 straightforward points and three to four supporting visualizations, tops. You can also mention how this data informs the overall strategy, so you could include a brief conclusion or wrap-up.
+**Speaker A (NS1) Sarah:** Alright, all this makes sense now. Thank you so much for taking the time to explain it; I really appreciate it, Emily.
+**Speaker B (NS2) Emily:** No problem at all, Sarah. It was my pleasure! I hope this will make a huge difference in your assignment. Let me know if you have any other questions.
+**Speaker A (NS1) Sarah:** Sounds good, will do. Well, I should probably get going; I have some work to get done on this before the deadline.
+**Speaker B (NS2) Emily:** Absolutely, same here! Steady on and see you when you're finished with your assignment?
+**Speaker A (NS1) Sarah:** Okay—see you around class! Thanks again, Emily!
+**Speaker B (NS2) Emily:** Right back at you, Sarah! Have an easy day!

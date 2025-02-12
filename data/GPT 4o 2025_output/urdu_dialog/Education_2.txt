@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hi, Bilal! How can I help you today?
+
+**Speaker B (L2, Urdu):** Hello, um, I have question about homework. It is, uh, not clear for me.
+
+**Speaker A (NS):** Sure, what part of the homework is confusing?
+
+**Speaker B (L2, Urdu):** It is about, um, the math problem. I not understand the... how to say... the steps?
+
+**Speaker A (NS):** Do you mean the steps to solve the equation?
+
+**Speaker B (L2, Urdu):** Yes, yes, the steps for solve. I try, but it is difficult.
+
+**Speaker A (NS):** No worries, let's go through it together. Which problem are you working on?
+
+**Speaker B (L2, Urdu):** It is number three. The one with, um, fractions.
+
+**Speaker A (NS):** Ah, fractions can be tricky. First, you need to find a common denominator. Do you remember how to do that?
+
+**Speaker B (L2, Urdu):** Um, common... denominator? I think, but not sure. Can you explain again?
+
+**Speaker A (NS):** Of course! You need to find a number that both denominators can divide into evenly. Then, adjust the numerators accordingly.
+
+**Speaker B (L2, Urdu):** Oh, I see. So, I make both same, then solve?
+
+**Speaker A (NS):** Exactly! Once they have the same denominator, you can add or subtract the numerators.
+
+**Speaker B (L2, Urdu):** Thank you, this help much. I will try again.
+
+**Speaker A (NS):** You're welcome! If you have more questions, feel free to ask.
+
+**Speaker B (L2, Urdu):** Yes, I will. Thank you for your patience.
+
+**Speaker A (NS):** No problem at all, Bilal. Good luck with your homework!
+
+**Speaker B (L2, Urdu):** Thank you, I will do my best. Goodbye!
+
+**Speaker A (NS):** Goodbye, Bilal! Have a great day!

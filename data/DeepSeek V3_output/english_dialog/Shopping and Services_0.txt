@@ -1,0 +1,33 @@
+**Speaker A (Shopkeeper):** Hi there! Welcome to the store. How can I help you today?  
+
+**Speaker B (Customer):** Hey! Thanks. I’m looking for a new pair of running shoes, but I’m not sure where to start. Do you have any recommendations?  
+
+**Speaker A (Shopkeeper):** Absolutely! Running shoes can be a bit overwhelming with all the options out there. What’s your typical running routine like?  
+
+**Speaker B (Customer):** I usually run about three times a week, mostly on pavement. I’m training for a 10K, so I need something comfortable and durable.  
+
+**Speaker A (Shopkeeper):** Got it. You’ll want something with good cushioning and support for pavement running. Have you heard of the Brooks Ghost or the Asics Gel-Nimbus? They’re both super popular and great for mid to long-distance runners.  
+
+**Speaker B (Customer):** I’ve heard of the Brooks Ghost, but not the Asics one. Are they pretty similar?  
+
+**Speaker A (Shopkeeper):** They’re in the same ballpark, but the Brooks Ghost is a bit lighter, while the Gel-Nimbus has more cushioning. It really depends on your preference—do you want something light and quick or extra padded?  
+
+**Speaker B (Customer):** Hmm, I think I’d lean toward something with more cushioning. My knees have been bothering me a bit lately.  
+
+**Speaker A (Shopkeeper):** Then the Gel-Nimbus might be perfect for you. It’s designed to absorb impact, which is great for joint health. We’ve got your size in stock—want to try them on?  
+
+**Speaker B (Customer):** Yeah, that’d be great. Thanks for breaking it down for me.  
+
+**Speaker A (Shopkeeper):** No problem at all. Here you go—let me know how they feel.  
+
+**Speaker B (Customer):** *(after trying them on)* Wow, these are really comfortable. I think they’re a winner.  
+
+**Speaker A (Shopkeeper):** Awesome! I’m glad they’re a good fit. They’ll definitely help with your training.  
+
+**Speaker B (Customer):** Perfect. I’ll take them. Thanks so much for your help—you’ve made this a lot easier.  
+
+**Speaker A (Shopkeeper):** Happy to help! Good luck with your 10K. Let me know if you need anything else.  
+
+**Speaker B (Customer):** Will do. Have a great day!  
+
+**Speaker A (Shopkeeper):** You too—take care and happy running!

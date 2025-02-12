@@ -1,0 +1,21 @@
+**Speaker A (NS):** Hi, I'm Emily. Nice to meet you. How can I pronounce your name?
+**Speaker B (L2, Urdu):** Ah, thank you. My name is Bilal. Bil-al. You can say like that.
+**Speaker B (L2, Urdu):** I'm from Pakistan. I study here for... um, how to say... exchange program.
+**Speaker A (NS):** Nice! Exchange programs are a great way to learn a new culture. What do you think so far?
+**Speaker B (L2, Urdu):** It is... um, very good. People here are very friendly. But sometimes I... ah, how to say... struggle with English.
+**Speaker A (NS):** Well, that's understandable. It's not an easy language to learn. Do you have any hobbies or interests outside of studying?
+**Speaker B (L2, Urdu):** Yes, I like playing cricket. My country, we like cricket. Um, how to say... very popular game.
+**Speaker A (NS):** I've heard of that! We don't play much cricket here, but I've tried it once.
+**Speaker B (L2, Urdu):** Ah, nice! You should try again. I can teach you some tips.
+**Speaker A (NS):** That would be great, thank you! What do you hope to achieve with your study experience here?
+**Speaker B (L2, Urdu):** I want to... um, learn more about computer science. Maybe one day I can work in my country and make something for people.
+**Speaker A (NS):** That sounds wonderful. You're very ambitious.
+**Speaker B (L2, Urdu):** I try my best, yes. But sometimes I get... uh, confused with grammar.
+**Speaker A (NS):** Don't worry, we all make mistakes with grammar sometimes! It's all part of the learning process.
+**Speaker B (L2, Urdu):** Okay, thank you for understanding, I feel better now.
+**Speaker A (NS):** Of course, Bilal. Well, it was great speaking with you. Maybe we can catch up again sometime?
+**Speaker B (L2, Urdu):** Yes, that would be... um, lovely. Have nice evening, Emily!
+**Speaker A (NS):** You too, Bilal! Have a great night!
+
+**End of conversation:**
+Bilal and Emily exchange contact information, agree to meet for a cup of coffee the following week to talk more about their shared interests and study experiences.

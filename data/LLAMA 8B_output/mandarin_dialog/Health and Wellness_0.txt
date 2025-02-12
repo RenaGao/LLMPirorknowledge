@@ -1,0 +1,47 @@
+**Speaker A (Native Speaker, Dr. Lee)**: Hi, welcome! I'm Dr. Lee, your doctor. Please, take a seat. What seems to be the problem?
+
+**Speaker B (Second-Language Speaker, Xiaoming)**: Ah, thank you. Um, I... Xiaoming. My body, I no feel good. I have... how to say... swelling in foot?
+
+**Speaker A (Dr. Lee)**: Swelling in your foot. Can you describe it a bit more? Is it painful or just uncomfortable?
+
+**Speaker B (Xiaoming)**: Uncomfortable. Itchy. On bottom. (tapping foot)
+
+**Speaker A (Dr. Lee)**: Hmm... have you noticed this for a while now, or is it a new onset?
+
+**Speaker B (Xiaoming)**: Ah, um... yesterday, I change... walk a long time. Do standing. Today, I... um... much worse.
+
+**Speaker A (Dr. Lee)**: Okay, so it started after you were on your feet a lot. Do you exercise regularly?
+
+**Speaker B (Xiaoming)**: Yeah, I... every day, I go for... um, bike riding.
+
+**Speaker A (Dr. Lee)**: I see. When did you last go for a bike ride?
+
+**Speaker B (Xiaoming)**: Yesterday, three o'clock. Now it is... (checking watch) two o'clock.
+
+**Speaker A (Dr. Lee)**: Alright. Let's have a look. Can you take your shoes and socks off, please?
+
+**Speaker B (Xiaoming)**: (lifting leg to remove shoes) Like this. It (pointing to foot) very swollen.
+
+**Speaker A (Dr. Lee)**: I see. I'm going to take a look. (examines foot) Ah, yes. It does look swollen. I'm going to prescribe you some medication and recommend that you rest your foot for a while.
+
+**Speaker B (Xiaoming)**: Thank you. Medicine, now?
+
+**Speaker A (Dr. Lee)**: Not right now. I need to write the prescription and have you fill it at the pharmacy. You can do that later today or tomorrow.
+
+**Speaker B (Xiaoming)**: Understand. (noting) I buy tomorrow.
+
+**Speaker A (Dr. Lee)**: Great plan. If you have any questions or concerns, don't hesitate to call.
+
+**Speaker B (Xiaoming)**: Thank you, Doctor Lee.
+
+**Speaker A (Dr. Lee)**: You're welcome, Xiaoming. And how are you feeling in general today?
+
+**Speaker B (Xiaoming)**: Better now. Thank you for help. You very nice.
+
+**Speaker A (Dr. Lee)**: Thank you, Xiaoming! See you next time.
+
+**Speaker B (Xiaoming)**: Ni hao! See doctor again soon. Take care!
+
+**Speaker A (Dr. Lee)**: Zài jiàn, Xiaoming! It was great talking to you.
+
+**Speaker B (Xiaoming)**: Zài jiàn, Doctor Lee!

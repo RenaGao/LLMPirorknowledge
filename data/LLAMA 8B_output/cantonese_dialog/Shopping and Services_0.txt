@@ -1,0 +1,19 @@
+**Speaker A (NS):** Hi, thank you for optimizing our computer. Can I ask for your help with another problem?
+**Speaker B (L2, Cantonese):** Ah, hello! Of course! He have some help. Hi how to say... I want computer for... uh, work at home.
+**Speaker A (NS):** For remote work or personal use? That helps narrow down the options.
+**Speaker B (L2, Cantonese):** For everything! For... um, watch movie, play game, and also doing work, yes.
+**Speaker A (NS):** I see. Would you be looking for something with a powerful processor, or more storage?
+**Speaker B (L2, Cantonese):** Hmm, I not know much about... um, computer with. But you can tell me, yes?
+**Speaker A (NS):** Well, I can certainly help you. This model here has a strong processor and plenty of memory. How does that sound?
+**Speaker B (L2, Cantonese):**川. Good, but how to say... I want to... um, buy cheap. Did this one... um, expensive?
+**Speaker A (NS):** It's a great price for what you get. We do offer other options in the mid-range. Let me show you some of those.
+**Speaker B (L2, Cantonese):** Thank you! I like... um, fast computer but also not too much money.
+**Speaker A (NS):** That's reasonable. Based on our conversation, I think this one might be a good fit for you. Would you like to try it out?
+**Speaker B (L2, Cantonese):** Yes, I like! Thank you for help. You help me lot.
+**Speaker A (NS):** It was my pleasure. Let's get everything set up for you, and you can take it home today?
+**Speaker B (L2, Cantonese):** Yes, today. I will buy now then?
+**Speaker A (NS):** Great, I'll need to ring this up for you. That'll be \$800 please.
+**Speaker B (L2, Cantonese):** Okay... um, here's my card.
+**Speaker A (NS):** Thank you, Kenta! You're all set. Have a great day!
+**Speaker B (L2, Cantonese):** Thank you, bye. You help me a lot today.
+**Speaker A (NS):** You're welcome, bye!

@@ -1,0 +1,37 @@
+Here's the conversation between the native speaker, Rachel, and the Second-Language speaker, Minji:
+
+**Rachel (NS):** Hi Minji, thanks for coming to see me about the assignment. What's your understanding of it so far?
+
+**Minji (L2, Korean):** Thank you teacher. Um, assignment is... (pauses) Excuse me, how say in English? Something like "project for writing essay"?
+
+**Rachel (NS):** That's close, but not quite right. Think of it more like a "research paper". Can you tell me a little bit about your research so far?
+
+**Minji (L2, Korean):** Ah, yes, research. I try to... (pauses) how to say... "finish quickly". But I not understand main topic, sorry.
+
+**Rachel (NS):** Don't worry about it, Minji. Let's take a look at the prompt together. (points to the prompt on screen) Can you tell me what this part says?
+
+**Minji (L2, Korean):** (reads slowly) Ah... "Explain this term: sustainability in food production". Um... (pauses) Sustainability... (jumps to the next word) food... food production... (trails off)
+
+**Rachel (NS):** Great try, Minji! Sustainability is a broad term, but let's focus on food production. Can you think of any examples of sustainable practices in food production?
+
+**Minji (L2, Korean):** Ah, yes. I see park near by... they do... (pauses) "farm to table", yes? We buy direct from farmer.
+
+**Rachel (NS):** That's a great example, Minji! Yes, buying local produce directly from farmers is a great way to support sustainable food production. What do you think is the most important aspect of sustainable food production?
+
+**Minji (L2, Korean):** (pauses) Um... help farmer. We support... (uses Korean idiom) "many hands, little labor".
+
+**Rachel (NS):** I see what you mean. It's like a community effort to support the farmers. Great point, Minji!
+
+**Minji (L2, Korean):** Ah, thank you, teacher! I try... (smiling) clarify more.
+
+**Rachel (NS):** Good job, Minji! Next time, let's review your research and make sure you're on the right track.
+
+**Minji (L2, Korean):** Thank you, teacher. (although the conversation doesn't meet the 20 turn limitation requirement yet) Happy to come to see you next time!
+
+**Rachel (NS):** See you soon, Minji! I am looking forward to reviewing your next draft. Have a great day and bye!
+
+**Minji (L2, Korean):** Bye teacher! Give good day!
+
+Note that, upon the 20 turn limitation requirement: 
+
+Minji will follow her usual conversation patterns, then speaker limit will say "Today's session(new information) covered points".

@@ -1,0 +1,39 @@
+**Speaker A (Native Speaker, NS):** Hi there! How can I help you today?
+
+**Speaker B (Mandarin Speaker, L2):** Hello! Um, I want to buy... how to say... a thing for cooking rice.
+
+**Speaker A:** Oh, you mean a rice cooker?
+
+**Speaker B:** Yes, rice cooker! I need one. Can you recommend?
+
+**Speaker A:** Sure! Do you have a specific size or brand in mind?
+
+**Speaker B:** Uh, not sure. Maybe... not too big. For two people.
+
+**Speaker A:** Alright, we have a compact model that's perfect for two people. It's easy to use and very reliable.
+
+**Speaker B:** Sounds good. Is it... um, how much money?
+
+**Speaker A:** This one is $50. It’s a good value for its quality.
+
+**Speaker B:** Ah, okay. Is it easy to clean?
+
+**Speaker A:** Yes, it has a non-stick inner pot, so cleaning is simple.
+
+**Speaker B:** Non-stick... that is good. I like easy clean.
+
+**Speaker A:** Great! Would you like to see any other options?
+
+**Speaker B:** No, I think this one is good. I will take it.
+
+**Speaker A:** Excellent choice! Do you need any other kitchen items?
+
+**Speaker B:** Um, no, just rice cooker today. Thank you for help.
+
+**Speaker A:** You’re welcome! If you have any questions, feel free to ask.
+
+**Speaker B:** Yes, I will. Thank you very much.
+
+**Speaker A:** My pleasure. Have a great day!
+
+**Speaker B:** You too! Goodbye!

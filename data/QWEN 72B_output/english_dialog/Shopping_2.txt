@@ -1,0 +1,31 @@
+**Speaker A (Customer):** Hi there, I recently bought this coffee maker from your store, but it’s not working as expected. I was wondering about your return policy.
+
+**Speaker B (Employee):** Hi, I’m sorry to hear that. My name is Jamie. Let me take a look at the coffee maker and your receipt. When did you purchase it?
+
+**Speaker A (Customer):** I bought it about a week ago. Here’s the receipt.
+
+**Speaker B (Employee):** Thanks. Our return policy allows for returns within 30 days with a valid receipt. Since it’s only been a week, we can certainly help you with that. What seems to be the issue with the coffee maker?
+
+**Speaker A (Customer):** It just doesn’t heat up properly. I followed all the instructions, but it won’t brew a cup of coffee.
+
+**Speaker B (Employee):** That’s frustrating. I’ll need to check it out. Can you show me how you’ve been using it?
+
+**Speaker A (Customer):** Sure, let me demonstrate. (demonstrates the issue)
+
+**Speaker B (Employee):** I see. It definitely looks like there’s a problem with the heating element. We can either replace it for you or give you a full refund. Which would you prefer?
+
+**Speaker A (Customer):** I think I’d rather get a refund, if that’s possible.
+
+**Speaker B (Employee):** Absolutely, I can process that for you. Just give me a moment to go through the paperwork.
+
+**Speaker A (Customer):** Sounds good, thanks a lot.
+
+**Speaker B (Employee):** No problem at all. Here’s your refund. I’m really sorry for the inconvenience.
+
+**Speaker A (Customer):** Thank you, Jamie. I appreciate your help.
+
+**Speaker B (Employee):** It’s my pleasure. If you have any other issues or questions, feel free to come back or give us a call. Have a great day!
+
+**Speaker A (Customer):** I will. Thanks again. Goodbye!
+
+**Speaker B (Employee):** You’re welcome. Goodbye, and take care!

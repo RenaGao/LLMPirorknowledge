@@ -1,0 +1,41 @@
+**Speaker A (Native Speaker, NS):** Hello! How can I help you today?
+
+**Speaker B (Mandarin Speaker, L2):** Um, hello. I have, uh, some problem with my stomach.
+
+**Speaker A:** I see. Can you describe the symptoms for me?
+
+**Speaker B:** Yes, yes. I feel, um, pain here. *[gestures to stomach]* And, uh, sometimes I feel... how to say... dizzy?
+
+**Speaker A:** Dizzy, okay. Is the pain constant, or does it come and go?
+
+**Speaker B:** It come and go. Sometimes very strong, sometimes not so much.
+
+**Speaker A:** I understand. Have you noticed any other symptoms, like nausea or fever?
+
+**Speaker B:** Uh, yes. I feel, um, like want to vomit. No fever, I think.
+
+**Speaker A:** Alright. Have you eaten anything unusual recently?
+
+**Speaker B:** Hmm, I eat, uh, spicy food two days ago. Maybe too much.
+
+**Speaker A:** That could be related. How long have you been feeling this way?
+
+**Speaker B:** Uh, since yesterday morning. It start after breakfast.
+
+**Speaker A:** Okay. Are you taking any medication for this?
+
+**Speaker B:** No, no medicine. I just drink, um, hot water. My mom say it help.
+
+**Speaker A:** Hot water can be soothing. I recommend you avoid spicy foods for now and try to rest.
+
+**Speaker B:** Yes, I will do that. Thank you.
+
+**Speaker A:** If the pain gets worse or you develop a fever, please come back or go to the hospital.
+
+**Speaker B:** Okay, I understand. Thank you very much for help.
+
+**Speaker A:** You're welcome. Take care, and I hope you feel better soon.
+
+**Speaker B:** Thank you. Goodbye!
+
+**Speaker A:** Goodbye!

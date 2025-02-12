@@ -1,0 +1,37 @@
+**Speaker A (NS):** Hello! Thank you for calling customer service. How can I assist you today?
+
+**Speaker B (L2, Korean):** Ah, hello. I have, um, problem with my computer. It not working well.
+
+**Speaker A (NS):** I’m sorry to hear that. Can you tell me what exactly is happening with your computer?
+
+**Speaker B (L2, Korean):** Yes, um, it is very slow. And sometimes, uh, it stop... how to say... freeze?
+
+**Speaker A (NS):** I see, it freezes. That can be frustrating. Have you tried restarting it?
+
+**Speaker B (L2, Korean):** Yes, I restart many time, but still same problem.
+
+**Speaker A (NS):** Okay, let’s try something else. Have you checked if there are any updates available for your system?
+
+**Speaker B (L2, Korean):** Updates? Um, I not sure. How to check?
+
+**Speaker A (NS):** No problem. You can go to your settings and look for "Update & Security." There, you should see if any updates are pending.
+
+**Speaker B (L2, Korean):** Ah, okay. I will check now. Um, one moment please.
+
+**Speaker A (NS):** Sure, take your time.
+
+**Speaker B (L2, Korean):** Yes, I see update. It say, um, need to install.
+
+**Speaker A (NS):** Great! Go ahead and install the updates. It might take some time, but it could solve the issue.
+
+**Speaker B (L2, Korean):** Okay, I will do. Thank you for help.
+
+**Speaker A (NS):** You’re welcome! Is there anything else I can assist you with today?
+
+**Speaker B (L2, Korean):** No, that is all. Thank you very much.
+
+**Speaker A (NS):** My pleasure. If you have more questions, feel free to call us again.
+
+**Speaker B (L2, Korean):** Yes, I will. Thank you. Goodbye!
+
+**Speaker A (NS):** Goodbye! Have a great day!

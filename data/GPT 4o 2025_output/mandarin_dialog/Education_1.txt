@@ -1,0 +1,39 @@
+**Speaker A (Native Speaker, NS):** Hey, Xiao Li! How's it going? Are you ready for our study group session today?
+
+**Speaker B (Mandarin Speaker, L2):** Hi! Yes, I am ready. Um, today we talk about... how to say... difficult topic in class?
+
+**Speaker A:** Oh, you mean the topic on quantum mechanics? It can be quite tricky.
+
+**Speaker B:** Yes, quantum mechanics. I find it very... um, confusing. Can you help explain?
+
+**Speaker A:** Of course! Let's start with the basics. Do you understand the concept of superposition?
+
+**Speaker B:** Superposition... it is like, um, thing can be in two place at same time?
+
+**Speaker A:** Exactly! It's when particles exist in multiple states at once until measured. Does that make sense?
+
+**Speaker B:** Yes, I think so. But, um, why it change when we look?
+
+**Speaker A:** That's due to the observer effect. Observing a particle changes its state. It's like, when you check, it decides where to be.
+
+**Speaker B:** Ah, I see. So, it is like... um, magic, but science?
+
+**Speaker A:** Haha, yes, it does seem magical! But it's all based on scientific principles.
+
+**Speaker B:** Okay, I understand better now. Thank you for explain. Um, what about entanglement?
+
+**Speaker A:** Entanglement is when particles become linked, so the state of one instantly affects the other, no matter the distance.
+
+**Speaker B:** Oh, like they are... um, connected by invisible string?
+
+**Speaker A:** That's a good way to think about it! They share a connection that defies classical physics.
+
+**Speaker B:** This is very interesting. I need to study more, but now I feel less... um, lost.
+
+**Speaker A:** I'm glad to hear that! We can review more next time if you want.
+
+**Speaker B:** Yes, please. Thank you for help today.
+
+**Speaker A:** No problem, Xiao Li. It was great discussing with you. See you at the next study group!
+
+**Speaker B:** Yes, see you next time! Goodbye!

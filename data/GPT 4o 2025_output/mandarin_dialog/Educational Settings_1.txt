@@ -1,0 +1,39 @@
+**Speaker A (Native Speaker, NS):** Hey, Xiao Li! Are you ready for the big test next week?
+
+**Speaker B (Mandarin Speaker, L2):** Ah, hello! Um, I am... how to say... a little nervous. The test is difficult, yes?
+
+**Speaker A:** Yeah, it can be tough. Have you started studying yet?
+
+**Speaker B:** Yes, I start study. I read the book and, um, do practice questions. But, I not understand everything.
+
+**Speaker A:** That's okay. Which parts are you finding difficult?
+
+**Speaker B:** The, um, part about... statistics? I not sure about the formulas.
+
+**Speaker A:** Statistics can be tricky. Maybe we can go over some formulas together?
+
+**Speaker B:** Yes, that is good idea! Thank you. How you study for test?
+
+**Speaker A:** I usually make flashcards and review them. It helps me remember key concepts.
+
+**Speaker B:** Flashcards... I think I try that. It is good for memory, yes?
+
+**Speaker A:** Definitely! And if you have any questions, feel free to ask me.
+
+**Speaker B:** Thank you! I will ask if I need help. Um, do you know good place to study?
+
+**Speaker A:** The library is quiet and has lots of resources. We could study there together.
+
+**Speaker B:** Yes, library is good. We can meet, um, tomorrow?
+
+**Speaker A:** Sure, what time works for you?
+
+**Speaker B:** Maybe, uh, 3 p.m.?
+
+**Speaker A:** Perfect! I'll see you at the library at 3 p.m. tomorrow.
+
+**Speaker B:** Okay, see you then! Thank you for help.
+
+**Speaker A:** No problem, Xiao Li. Good luck with your studying!
+
+**Speaker B:** Thank you! Goodbye!

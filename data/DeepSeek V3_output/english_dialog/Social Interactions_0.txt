@@ -1,0 +1,23 @@
+**Speaker A (NS):** Hi there! I don’t think we’ve met before. I’m Sarah.  
+**Speaker B (NS):** Oh, hey Sarah! Nice to meet you. I’m Jake. This is quite the party, huh?  
+**Speaker A (NS):** Yeah, it’s really lively. How do you know the host?  
+**Speaker B (NS):** I work with Chris—we’re on the same team at the office. You?  
+**Speaker A (NS):** Oh, cool! We went to college together. I haven’t seen Chris in ages, so I thought I’d drop by.  
+**Speaker B (NS):** Small world! So, what do you do, Sarah?  
+**Speaker A (NS):** I’m a graphic designer. I mostly work on branding and marketing stuff. How about you?  
+**Speaker B (NS):** Nice! I’m in software development. It’s a lot of coding, but I enjoy the problem-solving aspect.  
+**Speaker A (NS):** That sounds fascinating. I always admire people who can work with tech—it’s a bit out of my league.  
+**Speaker B (NS):** Oh, I’m sure you’d pick it up in no time. Everyone’s good at their own thing, right?  
+**Speaker A (NS):** True! So, do you come to these kinds of events often?  
+**Speaker B (NS):** Not really, to be honest. I’m more of a “stay at home with a book” kind of guy, but I thought I’d step out of my comfort zone tonight.  
+**Speaker A (NS):** Good for you! Sometimes it’s nice to switch things up.  
+**Speaker B (NS):** Totally. How about you? Are you a social butterfly?  
+**Speaker A (NS):** I’d say I’m somewhere in the middle. I like meeting new people, but I also need my downtime.  
+**Speaker B (NS):** Sounds like a healthy balance. So, any fun plans for the weekend?  
+**Speaker A (NS):** I’m thinking of checking out that new art exhibit downtown. What about you?  
+**Speaker B (NS):** Oh, that sounds cool! I’ll probably just catch up on some shows and maybe do a bit of gaming.  
+**Speaker A (NS):** Sounds relaxing. Well, it’s been really nice chatting with you, Jake.  
+**Speaker B (NS):** Same here, Sarah. I’m glad we got to meet tonight.  
+**Speaker A (NS):** Me too. Enjoy the rest of the party!  
+**Speaker B (NS):** You too—take care and have a great night!  
+**Speaker A (NS):** Thanks, you too! See you around.

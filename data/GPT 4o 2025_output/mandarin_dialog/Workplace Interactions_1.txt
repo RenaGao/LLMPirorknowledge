@@ -1,0 +1,39 @@
+**Speaker A (Native Speaker, NS):** Hi, welcome to the team! I'm here to help you get started. Can you tell me a bit about your background?
+
+**Speaker B (Mandarin Speaker, L2):** Ah, thank you! I am Xiao Li. I come from Beijing. I work in, um, software development for three years.
+
+**Speaker A:** That's great, Xiao Li! Today, I'll explain how we manage our project tasks. Are you familiar with project management tools?
+
+**Speaker B:** Yes, I use... how to say... tool for organize work. Like, um, Trello or Asana?
+
+**Speaker A:** Perfect! We use a similar tool called Jira. It helps us track tasks and progress. Do you have any questions about it?
+
+**Speaker B:** Um, yes. How to, uh, create new task in Jira?
+
+**Speaker A:** Good question! To create a new task, you click on the "Create" button at the top. Then, fill in the details like the task name and description. Does that make sense?
+
+**Speaker B:** Yes, I understand. And, uh, assign task to person, how do?
+
+**Speaker A:** You can assign a task by selecting a team member from the "Assignee" dropdown menu. It's quite straightforward. Would you like to try it now?
+
+**Speaker B:** Yes, I try. Um, I click "Create," then write task name... and choose person. Right?
+
+**Speaker A:** Exactly! You're doing well. If you need to add more details, you can use the "Description" box. Is there anything else you're curious about?
+
+**Speaker B:** Ah, yes. How to, um, update task when finish?
+
+**Speaker A:** Once a task is completed, you can change its status to "Done" by clicking on the status dropdown. It's important to keep the team updated. Do you think you can manage that?
+
+**Speaker B:** Yes, I think I can. Thank you for help!
+
+**Speaker A:** No problem at all! If you have any more questions, feel free to ask. How are you feeling about using Jira now?
+
+**Speaker B:** I feel better. Still need practice, but I will learn.
+
+**Speaker A:** That's the spirit! Practice makes perfect. Let's catch up later this week to see how you're doing. Sound good?
+
+**Speaker B:** Yes, that is good. Thank you again!
+
+**Speaker A:** You're welcome, Xiao Li. Have a great day, and see you soon!
+
+**Speaker B:** Thank you! See you soon!

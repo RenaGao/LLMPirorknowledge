@@ -1,0 +1,20 @@
+**Speaker A (Native Speaker, NS)**: Hi, Xiaoming! Nice to see you today. What do you want to talk about?
+**Speaker B (Second-Language Speaker, Mandarin)**: Nǐ hǎo, NS lǎoshī! (Hello, NS teacher!) My name, Xiaoming. ( waits for a moment) Ah, let me think. I want to talk... about, my, my project.
+**Speaker NS**: Great! Let's talk about your project. What was it about?
+**Speaker B**: It was, um, mobile... mobile thing. For, how to say... customer. App for order food.
+**Speaker NS**: A food-ordering app. That's innovative! How did you come up with the idea?
+**Speaker B**: Ah, good question! I have, uh, idea one year ago. But I not know, um, where start. NS lǎoshī help me!
+**Speaker NS**: I'm glad I could help. So, what inspired you to pursue this project? Did you face any challenges?
+**Speaker B**: Yes, yes. Challenge big! Sometimes, um, programmer friend no understand my... my idea.
+**Speaker NS**: That's normal! It's okay to disagree, but it's how you work together that matters. Tell me more about your experience.
+**Speaker B**: Ah, um... I try many times. Talk, talk to users. Make sure app easy to use.
+**Speaker NS**: Excellent focus on user experience. Did your hard work pay off? Do you have any success stories?
+**Speaker B**: Yes! Some friends like it. And, um, more user download app every week. Good feeling!
+**Speaker NS**: Congratulations on your success! It's not easy working on a project, especially with language barriers. You should be proud.
+**Speaker B**: Wǒ kě yi! (I can, I am capable!) NS lǎoshī, thank you for chat with me!
+**Speaker NS**: My pleasure! It was great talking to you, Xiaoming. Before we go, I just want to summarize your experience. Would you like to do that?
+**Speaker B**: Yes! My project, make food app. Work hard on user experience. Users happy!
+**Speaker NS**: And what does this achievement mean to you, personally?
+**Speaker B**: Um, this mean to me, make me feel... strong. Believe in self. (smiles) Wǒ rèn wú wèntí! (I am confident!)
+**Speaker NS**: That's wonderful! It means you're more confident now, and I'm sure this experience will carry over into your future endeavors. Good luck, Xiaoming!
+**Speaker B**: Xièxiè, NS lǎoshī! (Thank you, NS teacher!) Later!

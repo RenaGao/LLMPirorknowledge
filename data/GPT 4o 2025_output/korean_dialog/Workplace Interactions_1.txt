@@ -1,0 +1,43 @@
+**Speaker A (NS):** Hi, welcome to the team! Today, I'll explain how we handle our project reports. Do you have any questions before we start?
+
+**Speaker B (L2, Korean):** Ah, thank you. I am happy to join. Um, I have little question. How often we do report?
+
+**Speaker A (NS):** We prepare reports every month. It's important to keep track of our progress. Does that make sense?
+
+**Speaker B (L2, Korean):** Yes, I understand. Every month. And, um, what is first step for making report?
+
+**Speaker A (NS):** First, gather all the data from your team. You can use our shared drive to find the necessary files. Do you know how to access it?
+
+**Speaker B (L2, Korean):** Um, I think so. I use shared drive before. But, if I have problem, I can ask, right?
+
+**Speaker A (NS):** Absolutely, feel free to ask anytime. After gathering data, you need to analyze it. Do you have experience with data analysis?
+
+**Speaker B (L2, Korean):** Yes, I do some analysis before. But, um, what tool we use here?
+
+**Speaker A (NS):** We mainly use Excel for analysis. It's quite user-friendly. Are you comfortable with Excel?
+
+**Speaker B (L2, Korean):** Yes, I use Excel. But, maybe I need practice more. I will try hard.
+
+**Speaker A (NS):** That's great to hear! After analysis, you summarize the findings in a report. Do you know how to format it?
+
+**Speaker B (L2, Korean):** Um, not sure. Can you show me example?
+
+**Speaker A (NS):** Of course, I'll send you a template. It will guide you on what sections to include. Is that helpful?
+
+**Speaker B (L2, Korean):** Yes, very helpful. Thank you. I will look at template.
+
+**Speaker A (NS):** No problem. Once your report is ready, you submit it to the team leader. Do you know who that is?
+
+**Speaker B (L2, Korean):** Ah, I think it is Mr. Kim, right?
+
+**Speaker A (NS):** Yes, that's correct. You can email it to him. Do you have his contact information?
+
+**Speaker B (L2, Korean):** Yes, I have. I will send email when finish.
+
+**Speaker A (NS):** Perfect. If you need any help, just let me know. Do you feel ready to start?
+
+**Speaker B (L2, Korean):** Yes, I feel ready. Thank you for explain. I will do my best.
+
+**Speaker A (NS):** You're welcome! I'm sure you'll do great. Let's catch up next week to see how it's going. Goodbye!
+
+**Speaker B (L2, Korean):** Yes, see you next week. Goodbye!

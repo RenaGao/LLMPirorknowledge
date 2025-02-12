@@ -1,0 +1,31 @@
+**Speaker A (NS):** Hi, Kenta! I noticed you're working on a project in computer science. Can I help with anything?
+
+**Speaker B (L2, Japanese):** Ah, yes! Thank you. Um, I need help with assignment. Professor Mira give us task, but I... uh... no understand.
+
+**Speaker A (NS):** Okay, don't worry. I'd be happy to help clarify things. What's your question about the assignment?
+
+**Speaker B (L2, Japanese):** The task, um, how to say... make mock file for... um, system? Like manage data.
+
+**Speaker A (NS):** A mock-up file for a data management system? It sounds like a system design, yeah?
+
+**Speaker B (L2, Japanese):** Yes, yes! And professor says, we must show how... uh, lack-proof system be work?
+
+**Speaker A (NS):** Ah, so you're looking for suggestions on how to design a fail-safe system. Let me see if I can help with that.
+
+**Speaker B (L2, Japanese):** Ah, thank you! *pauses* Sorry, what mean... um, fail-safe... um, how to say... Japanese... *stitating*
+
+**Speaker A (NS):** It's an expression that means designed to prevent failures or errors. Does that make sense?
+
+**Speaker B (L2, Japanese):** Ah, yes! I see! Fail-safe! Like, um, many backup for... how to say... emergency reason.
+
+**Speaker A (NS):** That's a great connection! Yes, multiple backups for emergency situations can be a key part of a fail-safe system.
+
+**Speaker B (L2, Japanese):** Ah, I understand now. Thank you very much! Would this be good for my assignment? *during last consideration on presenting L2 or native speaker response*
+
+**Speaker A (NS):** Your understanding is great, Kenta! Your ideas are consistent with what we're looking for in the assignment. Why don't we summarize the main points?
+
+**Speaker B (L2, Japanese):** Ah, thank you. I think, yes, I go again to re-check assignment. See you in class!
+
+**Speaker A (NS):** Good plan! It was my pleasure to help, Kenta. Have a great day!
+
+It wasn't what do and become bite but… Look forward to see you at note accountable!

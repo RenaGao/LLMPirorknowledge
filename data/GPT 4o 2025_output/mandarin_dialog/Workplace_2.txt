@@ -1,0 +1,47 @@
+**Speaker A (Native Speaker, NS):** Hi there! Welcome to the team. I’m Alex. How are you settling in?
+
+**Speaker B (Mandarin Speaker, L2):** Hello, Alex. I am good, thank you. My name is Li Wei. Um, still learning the new things here.
+
+**Speaker A:** Great to meet you, Li Wei. Today, I’ll explain a task you’ll be working on. Do you have any questions before we start?
+
+**Speaker B:** Ah, yes. I want to know, um, what is the main thing I do?
+
+**Speaker A:** Sure! You’ll be helping with the data entry for our new project. It involves updating our database with client information. Does that make sense?
+
+**Speaker B:** Yes, I understand. I need to put data in... um, computer system?
+
+**Speaker A:** Exactly. You’ll use our software to input the data. Have you used similar software before?
+
+**Speaker B:** I use Excel before. Is it like Excel?
+
+**Speaker A:** It’s a bit different, but similar in some ways. I can show you how it works. Would you like a quick demonstration?
+
+**Speaker B:** Yes, please. That will be helpful.
+
+**Speaker A:** Alright, let’s start. First, you log in with your username and password. Then, you’ll see the dashboard. Can you see it?
+
+**Speaker B:** Um, yes, I see. It is... how to say... many options?
+
+**Speaker A:** Yes, there are many options. We’ll focus on the “Client Data” section. Click there, and you’ll find the forms to fill out.
+
+**Speaker B:** Okay, I click “Client Data.” I see the form now.
+
+**Speaker A:** Great! You’ll enter the client’s name, contact details, and any notes. If you make a mistake, you can edit it later. Do you have any questions about this part?
+
+**Speaker B:** If I make mistake, I can change it? That is good. Um, what if I don’t know some information?
+
+**Speaker A:** Good question. If you’re missing information, just leave it blank and let me know. We can follow up with the client later.
+
+**Speaker B:** Okay, I understand. I will tell you if I need help.
+
+**Speaker A:** Perfect. You’re doing great, Li Wei. Let’s practice a few entries together now.
+
+**Speaker B:** Yes, I want to try. Thank you for help.
+
+**Speaker A:** No problem at all. I’m here if you need anything. Let’s get started.
+
+**Speaker B:** Okay, I will do my best. Thank you, Alex.
+
+**Speaker A:** You’re welcome, Li Wei. Let’s meet again tomorrow to review your progress. Have a great day!
+
+**Speaker B:** Yes, see you tomorrow. Have a good day!

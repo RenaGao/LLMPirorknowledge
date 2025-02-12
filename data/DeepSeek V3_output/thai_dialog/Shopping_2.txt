@@ -1,0 +1,22 @@
+**Speaker A (NS, Store Employee):** Hi, how can I help you today?  
+**Speaker B (L2, Thai):** Hello, um... I want to return this thing. I buy it last week.  
+**Speaker A (NS):** Sure! Do you have the receipt with you?  
+**Speaker B (L2, Thai):** Yes, I have... here. But, um, the thing is... it not work.  
+**Speaker A (NS):** I see. May I ask what’s wrong with it?  
+**Speaker B (L2, Thai):** It is... how to say... when I press button, nothing happen.  
+**Speaker A (NS):** Ah, it’s not turning on?  
+**Speaker B (L2, Thai):** Yes, yes. Not turning on. I try many times.  
+**Speaker A (NS):** Okay, no problem. Let me check the receipt. You bought it seven days ago, so it’s still within our return policy.  
+**Speaker B (L2, Thai):** Oh, good. Can I get... um, money back?  
+**Speaker A (NS):** Yes, we can issue a refund. Would you prefer cash or back to your card?  
+**Speaker B (L2, Thai):** Cash, please. It is easier for me.  
+**Speaker A (NS):** Sure thing. Let me process that for you.  
+**Speaker B (L2, Thai):** Thank you. You are very kind.  
+**Speaker A (NS):** You’re welcome! Here’s your refund. Please count it to make sure it’s correct.  
+**Speaker B (L2, Thai):** Okay... yes, it’s correct. Thank you so much.  
+**Speaker A (NS):** No problem at all. Is there anything else I can help you with?  
+**Speaker B (L2, Thai):** No, I think that’s all. Thank you for your help.  
+**Speaker A (NS):** You’re welcome! Have a great day!  
+**Speaker B (L2, Thai):** Yes, you too. Goodbye!  
+
+**Conversation ends with a complete sentence: “Goodbye!”**

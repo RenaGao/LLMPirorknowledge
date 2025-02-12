@@ -1,0 +1,39 @@
+**Speaker A (NS):** Hi, welcome to the team! Today, I'll explain how we handle our weekly reports. Do you have any questions before we start?
+
+**Speaker B (L2, Thai):** Hello, thank you. Um, I think I understand, but maybe you can explain more, please?
+
+**Speaker A (NS):** Of course! Every Friday, we gather data from our sales team and compile it into a report. Do you know how to use Excel?
+
+**Speaker B (L2, Thai):** Yes, I use Excel before. But, um, I not very fast. I need practice.
+
+**Speaker A (NS):** No worries, you'll get the hang of it. We use Excel to organize the data and create charts. Do you need help with any specific part?
+
+**Speaker B (L2, Thai):** Ah, yes. How to make chart? I forget some step.
+
+**Speaker A (NS):** Sure, I can show you. First, you select the data you want to include, then click on the 'Insert' tab and choose the type of chart you need. Does that make sense?
+
+**Speaker B (L2, Thai):** Yes, I think I understand. I will try it. Um, if I have problem, can I ask you?
+
+**Speaker A (NS):** Absolutely, feel free to ask anytime. We’re here to help each other. Anything else you’re unsure about?
+
+**Speaker B (L2, Thai):** Um, how to say... when finish report, where I send it?
+
+**Speaker A (NS):** Good question! Once the report is done, you email it to the team leader by 5 p.m. on Friday. Is that clear?
+
+**Speaker B (L2, Thai):** Yes, clear. I send email to team leader. Thank you for help.
+
+**Speaker A (NS):** You're welcome! Remember, practice makes perfect. Do you feel ready to try it this week?
+
+**Speaker B (L2, Thai):** Yes, I will try. Maybe not perfect, but I do my best.
+
+**Speaker A (NS):** That’s the spirit! If you need any more help, just let me know. 
+
+**Speaker B (L2, Thai):** Thank you very much. I feel better now.
+
+**Speaker A (NS):** Great to hear! Let’s catch up later in the week to see how it’s going. 
+
+**Speaker B (L2, Thai):** Yes, okay. I will see you later. Thank you again.
+
+**Speaker A (NS):** You're welcome. Have a great day!
+
+**Speaker B (L2, Thai):** You too! Goodbye!

@@ -1,0 +1,45 @@
+**Speaker A (NS):** Hi, Lek! How's your study group going?
+
+**Speaker B (L2, Thai):** Hello! It is good, but we have, um, difficult topic now.
+
+**Speaker A (NS):** Oh, what topic are you working on?
+
+**Speaker B (L2, Thai):** We study, uh, how to say... statistics? Yes, statistics.
+
+**Speaker A (NS):** Statistics can be tricky. What part are you finding challenging?
+
+**Speaker B (L2, Thai):** Um, it is about... probability. I not understand well.
+
+**Speaker A (NS):** Probability can be confusing. Are you struggling with the formulas or the concepts?
+
+**Speaker B (L2, Thai):** Concepts, I think. Like, um, when to use... different rules.
+
+**Speaker A (NS):** I see. Do you mean the rules like addition and multiplication?
+
+**Speaker B (L2, Thai):** Yes, yes! Addition and multiply rule. I mix them up.
+
+**Speaker A (NS):** A good way to remember is: use addition for "or" situations and multiplication for "and" situations.
+
+**Speaker B (L2, Thai):** Ah, I see. So, "or" is add, "and" is multiply. Thank you!
+
+**Speaker A (NS):** Exactly! Do you have an example you’re working on?
+
+**Speaker B (L2, Thai):** Yes, um, like... if I have two dice, what is chance of getting, um, number six on both?
+
+**Speaker A (NS):** For that, you use multiplication. Each die has a 1 in 6 chance, so multiply 1/6 by 1/6.
+
+**Speaker B (L2, Thai):** Oh, okay. So, it is 1/36, right?
+
+**Speaker A (NS):** Yes, that's correct! You're getting it.
+
+**Speaker B (L2, Thai):** Thank you. I will tell my group this. It help a lot.
+
+**Speaker A (NS):** No problem, Lek. I'm glad I could help. Anything else you need?
+
+**Speaker B (L2, Thai):** No, I think I understand better now. Thank you very much.
+
+**Speaker A (NS):** You're welcome! Good luck with your study group.
+
+**Speaker B (L2, Thai):** Thank you! I will try hard. Goodbye!
+
+**Speaker A (NS):** Goodbye, Lek! Take care.

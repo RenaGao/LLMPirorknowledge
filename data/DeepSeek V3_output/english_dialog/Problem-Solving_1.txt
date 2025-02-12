@@ -1,0 +1,41 @@
+**Speaker A (Customer Service):** Hi there! Thanks for reaching out. How can I assist you today?  
+
+**Speaker B (Customer):** Hey, thanks for your help. I’m having trouble with my internet connection—it’s been on and off all morning.  
+
+**Speaker A (Customer Service):** Oh no, that sounds frustrating. Let’s get this sorted out for you. Have you tried restarting your router yet?  
+
+**Speaker B (Customer):** Yeah, I gave that a shot, but it didn’t make much of a difference. It’s still acting up.  
+
+**Speaker A (Customer Service):** Got it. Are there any specific devices that are having trouble, or is it across the board?  
+
+**Speaker B (Customer):** It seems like all my devices are affected—my laptop, phone, and even the smart TV.  
+
+**Speaker A (Customer Service):** Hmm, okay. It sounds like it might be an issue with the router itself. Let’s check the lights on it—are they all on and steady?  
+
+**Speaker B (Customer):** Uh, let me take a look. The power light is on, but the internet light is blinking orange.  
+
+**Speaker A (Customer Service):** Ah, that’s a clue. A blinking orange light usually means there’s a connection issue. Are the cables securely plugged in?  
+
+**Speaker B (Customer):** I think so, but let me double-check. Yep, everything seems to be connected properly.  
+
+**Speaker A (Customer Service):** Alright, the next step might be to reset the router to factory settings. It’s a bit of a hassle, but it often solves these kinds of issues.  
+
+**Speaker B (Customer):** Okay, I’m willing to give it a try. How do I do that?  
+
+**Speaker A (Customer Service):** You’ll need to press and hold the reset button on the back of the router for about 10 seconds. Just a heads-up, this will erase any custom settings you’ve saved.  
+
+**Speaker B (Customer):** Got it. Okay, I’ve done that—what now?  
+
+**Speaker A (Customer Service):** Give it a couple of minutes to reboot, then check if the internet light is steady.  
+
+**Speaker B (Customer):** Alright, it’s back up—and the light is solid green now! That seems to have worked.  
+
+**Speaker A (Customer Service):** That’s great to hear! Does your internet connection feel more stable now?  
+
+**Speaker B (Customer):** Yes, it’s much better. Thanks so much for walking me through that.  
+
+**Speaker A (Customer Service):** You’re welcome! I’m glad we could get it resolved. If you run into any other issues, don’t hesitate to reach out.  
+
+**Speaker B (Customer):** Will do. Thanks again for your help—have a great day!  
+
+**Speaker A (Customer Service):** You too! Take care and goodbye!

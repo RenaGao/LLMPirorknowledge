@@ -1,0 +1,39 @@
+**Speaker A (NS):** Hi, thank you for holding, my name is Emily and I'll be happy to help you with your technical issue today. Can you please tell me a little bit about the problem you're experiencing?
+
+**Speaker B (L2, Thai):** Hi, Emily. Thank you, um... my computer, it... um, it make strange noise.
+
+**Speaker A (NS):** Strange noise? Can you describe it to me a bit more? Like what kind of noise is it making?
+
+**Speaker B (L2, Thai):** Yes, it... um, like... eeeng eeeng. It make eeeng noise, but sometimes it stop. Then, it make... um... like click sound.
+
+**Speaker A (NS):** Okay, I see. So it's making a humming noise, and sometimes it stops and then makes a clicking sound?
+
+**Speaker B (L2, Thai):** Yes, that's right. But sometimes, it... um, it overheat, yes. And then, the computer, it... um, it shut down.
+
+**Speaker A (NS):** Okay, let's troubleshoot this. Can you tell me how old your computer is and when was the last time you updated your software?
+
+**Speaker B (L2, Thai):** Um... my computer, it... uh, over five year old. And, um... last time, when... uh... one year ago?
+
+**Speaker A (NS):** Okay, that's good. I think we can fix this. I'm going to walk you through some steps, okay?
+
+**Speaker B (L2, Thai):** Yes, thank you. I... um, I happy to fix it.
+
+**Speaker A (NS):** Alright, first, can you please check if your laptop's vents are clogged with dust?
+
+**Speaker B (L2, Thai):** Uh, yes... um... I think so. But... um, how I clean it?
+
+**Speaker A (NS):** Don't worry, I'll guide you through it. Just use a soft brush or a can of compressed air.
+
+**Speaker B (L2, Thai):** Okay, I... um, I try it now.
+
+**Speaker A (NS):** Great, let me know if it makes a difference after you clean it.
+
+**Speaker B (L2, Thai):** Ah, yes... um, after I clean, the noise, it... um, disappear!
+
+**Speaker A (NS):** Wonderful! That was probably the problem solved. I'm glad we were able to fix it.
+
+**Speaker B (L2, Thai):** Thank you, Emily! You help me very much!
+
+**Speaker A (NS):** You're welcome, Kait ( constrained spelling)! It was my pleasure. Have a great day!
+
+**Speaker B (L2, Thai):** See you later, Emily! Bye!

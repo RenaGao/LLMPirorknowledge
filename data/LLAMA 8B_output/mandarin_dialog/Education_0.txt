@@ -1,0 +1,27 @@
+**Speaker A (Native Speaker, NS)**: Hey, have you started studying for the exam yet?
+**Speaker B (Second-Language Speaker, Mandarin)**: Ah, yes, um, I start... uh, last week. I try to... how to say... review all the material.
+**Speaker A**: That's a good plan. What's the most challenging topic for you so far?
+**Speaker B**: Um, I think... math. I not very good at math. But I practice every day, so I hope I can... um, pass the exam.
+**Speaker A**: Don't worry, math is tough for many people. Have you talked to the professor about any questions you have?
+**Speaker B**: Yes, I go to... um, office hour. He explain some concept to me, and I ask him some question.
+**Speaker A**: That's great. What do you think is the most important thing to focus on for the exam?
+**Speaker B**: Um, I think... understanding the concept. If I understand, then I can... um, answer the question.
+**Speaker A**: Absolutely. Do you have any study group or are you studying alone?
+**Speaker B**: I have... um, study group. We meet every... uh, Sunday. We practice together and help each other.
+**Speaker A**: That's a great idea. How do you stay motivated to study for the exam?
+**Speaker B**: Um, I remind myself... why I study. I want to... um, get good job. And I think this exam is... um, important step.
+**Speaker A**: That's a great attitude to have. Do you have any last-minute tips for the exam?
+**Speaker B**: Um, yes. I try to... relax. Don't be too... um, stressed. And I make sure to... uh, get enough sleep.
+**Speaker A**: Excellent advice. Well, I think that's all the time we have for today. Let's review what we've discussed.
+**Speaker B**: Ah, yes. We talk about... exam, and study, and... um, motivation.
+**Speaker A**: Exactly. I think you're well-prepared for the exam. Good luck, and I'll see you around!
+**Speaker B**: Thank you! I will... um, see you soon. Bye!
+**Speaker A**: Bye, and good luck on the exam!
+
+**Turns:** 20
+
+**Speaker A** says expressions of indicating goodbye or agree to summary at the end of the conversation.
+
+**Speaker B** exhibits realistic mistakes in the L2 speaker's grammar, vocabulary, or syntax, including occasional self-corrections or clarifications prompted by the native speaker.
+
+**The conversation is concise, focusing on the L2 speaker's ability to express their ideas despite language barriers.**

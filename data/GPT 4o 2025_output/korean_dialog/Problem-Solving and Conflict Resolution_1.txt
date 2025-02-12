@@ -1,0 +1,45 @@
+**Speaker A (NS):** Hi Minji, thanks for calling. How can I help you today?
+
+**Speaker B (L2, Korean):** Ah, hello. I have problem with internet. It is, um, very slow.
+
+**Speaker A (NS):** I see. That can be frustrating. Have you tried restarting your router?
+
+**Speaker B (L2, Korean):** Yes, I try that. But still slow. Maybe, um, something else?
+
+**Speaker A (NS):** Okay, let's check a few things. Are there many devices connected to your network?
+
+**Speaker B (L2, Korean):** Uh, yes. I think... maybe five? My phone, laptop, and... um, TV.
+
+**Speaker A (NS):** Sometimes too many devices can slow it down. Can you disconnect a few and see if it helps?
+
+**Speaker B (L2, Korean):** Ah, okay. I will try. Um, one moment, please.
+
+**Speaker A (NS):** Sure, take your time.
+
+**Speaker B (L2, Korean):** Okay, I disconnect TV and tablet. It is... a little better, but still slow.
+
+**Speaker A (NS):** Alright, let's try another step. Can you check if there are any updates for your router's firmware?
+
+**Speaker B (L2, Korean):** Firmware? Um, how to do that?
+
+**Speaker A (NS):** You can usually find it in the router's settings. Do you know how to access those?
+
+**Speaker B (L2, Korean):** Ah, yes, I think so. I will look now.
+
+**Speaker A (NS):** Great. Let me know if you need any help with that.
+
+**Speaker B (L2, Korean):** Okay, I see update option. I will do it now.
+
+**Speaker A (NS):** Perfect. After the update, restart the router again and see if it improves.
+
+**Speaker B (L2, Korean):** Okay, I will restart. Um, one moment, please.
+
+**Speaker A (NS):** No problem, take your time.
+
+**Speaker B (L2, Korean):** Okay, I restart. It is... much better now! Thank you very much.
+
+**Speaker A (NS):** I'm glad to hear that! If you have any more issues, feel free to call us again.
+
+**Speaker B (L2, Korean):** Yes, I will. Thank you for help. Goodbye!
+
+**Speaker A (NS):** You're welcome, Minji. Have a great day! Goodbye!

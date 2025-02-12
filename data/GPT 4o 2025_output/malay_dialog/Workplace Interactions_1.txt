@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hi, welcome to the team! Today, I'll explain how we handle our weekly reports. Do you have any questions before we start?
+
+**Speaker B (L2, Malay):** Um, thank you. I think I understand, but maybe... you can explain again, please?
+
+**Speaker A (NS):** Of course! Every Friday, we gather data from our sales team and compile it into a report. Do you know how to use Excel?
+
+**Speaker B (L2, Malay):** Yes, I use Excel before. But, um, not very... how to say... advanced?
+
+**Speaker A (NS):** No worries, we’ll keep it simple. First, you open the template file. Do you know where to find it?
+
+**Speaker B (L2, Malay):** Ah, yes, I see it in the shared folder. I open it now?
+
+**Speaker A (NS):** Yes, please. Once you open it, you’ll see columns for each type of data. We need to fill these with the latest numbers.
+
+**Speaker B (L2, Malay):** Okay, I see. So, I put the number from sales team here?
+
+**Speaker A (NS):** Exactly. And if you have any missing data, just highlight the cell in yellow. It helps us track what’s incomplete.
+
+**Speaker B (L2, Malay):** Oh, okay. I will remember that. Um, what if I make mistake?
+
+**Speaker A (NS):** If you make a mistake, just let me know. We can fix it together. It’s all part of learning.
+
+**Speaker B (L2, Malay):** Thank you. I will try my best. After I finish, what I do next?
+
+**Speaker A (NS):** Once you’re done, save the file and send it to me by email. I’ll review it and give you feedback.
+
+**Speaker B (L2, Malay):** Okay, I send to you. Um, when is the deadline?
+
+**Speaker A (NS):** Please send it by 3 p.m. on Friday. That gives us time to make any changes if needed.
+
+**Speaker B (L2, Malay):** Alright, I will do that. Thank you for help.
+
+**Speaker A (NS):** You’re welcome! If you have any questions during the process, feel free to ask.
+
+**Speaker B (L2, Malay):** Yes, I will ask if I need. Thank you again.
+
+**Speaker A (NS):** Great! I’m sure you’ll do well. Let’s catch up on Friday to see how it went.
+
+**Speaker B (L2, Malay):** Yes, see you Friday. Thank you, and goodbye!
+
+**Speaker A (NS):** Goodbye! Looking forward to working with you.

@@ -1,0 +1,41 @@
+**Speaker A (NS):** Hi there! I don't think we've met before. I'm Sarah. What's your name?
+
+**Speaker B (L2, Japanese):** Ah, hello. My name is Yuki. Nice to meet you, Sarah.
+
+**Speaker A (NS):** Nice to meet you too, Yuki! Are you enjoying the party?
+
+**Speaker B (L2, Japanese):** Yes, it is very fun. Many people here, and good music.
+
+**Speaker A (NS):** I'm glad to hear that! So, what do you do, Yuki?
+
+**Speaker B (L2, Japanese):** Um, I work in... how to say... company for technology. We make software.
+
+**Speaker A (NS):** Oh, you work in a tech company? That's interesting! What kind of software do you make?
+
+**Speaker B (L2, Japanese):** We make, uh, software for business. Like, um, help with money and... um, data.
+
+**Speaker A (NS):** Ah, business software. That sounds important. Do you enjoy your work?
+
+**Speaker B (L2, Japanese):** Yes, I like it. It is... um, challenging but good. I learn many things.
+
+**Speaker A (NS):** That's great! Learning new things is always exciting. How long have you been working there?
+
+**Speaker B (L2, Japanese):** I work there for... three years now.
+
+**Speaker A (NS):** Wow, three years! You must be quite experienced. Do you have any hobbies outside of work?
+
+**Speaker B (L2, Japanese):** Yes, I like to... um, how to say... take photo? Photography?
+
+**Speaker A (NS):** Photography, that's wonderful! Do you have a favorite subject to photograph?
+
+**Speaker B (L2, Japanese):** I like to take photo of nature. Trees, flowers... um, and sky.
+
+**Speaker A (NS):** Nature photography sounds beautiful. Do you have any favorite places to take photos?
+
+**Speaker B (L2, Japanese):** Yes, I like to go to park. In Japan, many nice parks.
+
+**Speaker A (NS):** I bet they are lovely. Well, it was great talking to you, Yuki. I hope you enjoy the rest of the party!
+
+**Speaker B (L2, Japanese):** Thank you, Sarah. I enjoy talking with you too. Have a good night!
+
+**Speaker A (NS):** You too, Yuki. Goodbye!

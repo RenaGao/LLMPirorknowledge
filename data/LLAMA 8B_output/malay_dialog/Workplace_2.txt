@@ -1,0 +1,37 @@
+**Speaker A (Native Speaker, NS)**: Hi Kiki! I'm glad you're here. I'm Rachel. Welcome aboard!
+
+**Speaker B (L2, Malay):** Ah, hi Rachel. Kiki is my nickname. I am glad to meet you too.
+
+**Speaker A (NS):** Great to meet you, Kiki. So, I'll introduce you to what we've been working on. We have a project where we need to, uh, gather data on customer feedback. It's really important to understand what they like or dislike about our products.
+
+**Speaker B (L2, Malay):** Oh, okay, I understand. So, we need to get feedback from customers, right? And, um, what kind of data are we looking for?
+
+**Speaker A (NS):** Exactly! We want to know what they think about our products and services, like satisfaction ratings and, you know, specific comments. It will help us improve and, hopefully, increase customer loyalty.
+
+**Speaker B (L2, Malay):** That makes sense. And, um, how do we usually do it? Is it like, a survey or something?
+
+**Speaker A (NS):** Actually, we've been using a combination of online forms and, um, interviews. But we're looking to automate the process now. We want to make it easier and faster for our team.
+
+**Speaker B (L2, Malay):** Ah, okay. So, we need to, um, find a new way to, how to say... collect and analyze the data?
+
+**Speaker A (NS):** That's what we're looking for. Have you worked with data analysis before?
+
+**Speaker B (L2, Malay):** I, uh, studied statistics in school. But, I don't know if that's the same... But, I can try!
+
+**Speaker A (NS):** That's a great start! I'm sure you'll pick it up quickly. Let me show you some examples of what we've been working on. And don't worry if you have questions; just ask!
+
+**Speaker B (L2, Malay):** Thank you, Rachel! I appreciate it. *pauses* Um, how to say... I think I understand the task better now.
+
+**Speaker A (NS):** Excellent! So, shall we summarize what we've covered so far?
+
+**Speaker B (L2, Malay):** Yes, I think we need to get more feedback from customers and find a new way to collect and analyze the data.
+
+**Speaker A (NS):** That's right! And I'll give you more resources and information to help you get started.
+
+**Speaker B (L2, Malay):** Great, thank you! I'll, uh, work on it after this meeting.
+
+**Speaker A (NS):** Sounds good! It was great talking to you, Kiki. We'll have another meeting soon.
+
+**Speaker B (L2, Malay):** Thanks, Rachel! I'm looking forward to it. **Nos, I'll see you later!**
+
+**Speaker A (NS):** See you later, Kiki! Have a great day!

@@ -1,0 +1,29 @@
+**Speaker A (Native Speaker, NS):** Hello! Thank you for calling customer service. How can I assist you today?
+
+**Speaker B (Mandarin Speaker, L2):** Ah, hello. I have, um, problem with my computer. It not work... uh, properly.
+
+**Speaker A:** I see. Can you tell me more about the issue you're experiencing?
+
+**Speaker B:** Yes, yes. The screen, it is... how to say... frozen? I cannot move anything.
+
+**Speaker A:** Okay, so your screen is frozen. Have you tried restarting your computer?
+
+**Speaker B:** Um, yes, I try. But it still same. No change.
+
+**Speaker A:** Alright. Let's try something else. Can you press and hold the power button for about ten seconds?
+
+**Speaker B:** Ah, okay. I do it now. (Pause) Yes, it turn off.
+
+**Speaker A:** Great. Now, please turn it back on and let me know what happens.
+
+**Speaker B:** Okay, I turn on. (Pause) Oh, it is working now! The screen is moving.
+
+**Speaker A:** That's good to hear! Sometimes a hard reset can fix these issues. Is there anything else I can help you with?
+
+**Speaker B:** Um, no, I think it is okay now. Thank you very much for help.
+
+**Speaker A:** You're welcome! If you have any more questions, feel free to call us again.
+
+**Speaker B:** Yes, I will. Thank you. Goodbye!
+
+**Speaker A:** Goodbye! Have a great day!

@@ -1,0 +1,45 @@
+**Phone Conversation**
+
+**Speaker A (Native Speaker, Rachel)**: Hi, Naveen. It's great to finally catch up. How have you been?
+
+**Speaker B (Second-Language Speaker, Naveen)**: Ah, Rachel! He have been very good. Thank you. Um, I'm very busy with work. Many things to... uh, do.
+
+**Speaker A (Rachel):** I can imagine! I've been a bit busy myself. What's new with your job?
+
+**Speaker B (Naveen):** I... uh, no. New job same like before. But I learn... um, new technology. He is very advanced.
+
+**Speaker A (Rachel):** Wow, that sounds interesting. What kind of technology?
+
+**Speaker B (Naveen):** It's... uh, software. For... how to say... accounting.
+
+**Speaker A (Rachel):** Ah, accounting software. That's really useful. Are you enjoying it?
+
+**Speaker B (Naveen):** Yes, very much. I like learn new thing. But the... uh, calculator part very complicated.
+
+**Speaker A (Rachel):** Okay, well we can talk about that if you want. So, have you visited your friends and family recently?
+
+**Speaker B (Naveen):** Yes, yes. Last... um, eight day I visited. My sister have new baby.
+
+**Speaker A (Rachel):** Congratulations! That's wonderful news. How's the baby?
+
+**Speaker B (Naveen):** Very cute. Like... um, doll.
+
+**Speaker A (Rachel):** That's great. We should catch up again soon, Naveen.
+
+**Speaker B (Naveen):** Yes, please it would be nice. And I want to ask you about my stitches imp problem.
+
+**Speaker A (Rachel):** Stitches imp problem? Can you explain what that is?
+
+**Speaker B (Naveen):** He mean, I have sewing machine with warped needle. How to fix?
+
+**Speaker A (Rachel):** That's an easy fix. Let me send you a picture with instructions.
+
+**Speaker B (Naveen):** Thank you very much, Rachel.
+
+**Speaker A (Rachel):** It was nice talking to you, Naveen. I'll call in a few days, okay?
+
+**Speaker B (Naveen):** Yes, okay. Tahnk you again.
+
+**Speaker A (Rachel):** Goodbye, Naveen. Talk to you soon!.
+
+**Speaker B (Naveen):** Goodbye Rachel. See you soon.

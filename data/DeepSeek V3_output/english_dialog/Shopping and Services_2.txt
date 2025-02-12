@@ -1,0 +1,41 @@
+**Speaker A (Customer Service Representative):** Hi there! Thanks for calling customer service. How can I assist you today?  
+
+**Speaker B (Customer):** Hi! Yeah, I’m calling because I recently bought a blender from your store, and it’s not working properly.  
+
+**Speaker A (CSR):** Oh no, I’m sorry to hear that. Can you tell me what’s going on with it?  
+
+**Speaker B (Customer):** Sure. I tried using it yesterday, but it started making this weird grinding noise and then just stopped working altogether.  
+
+**Speaker A (CSR):** That doesn’t sound good at all. Did you check if anything was stuck in the blades or if it was plugged in properly?  
+
+**Speaker B (Customer):** Yeah, I made sure everything was clear and plugged in. It’s like it just gave up on me.  
+
+**Speaker A (CSR):** Got it. That’s definitely not how it’s supposed to work. Do you have your receipt or order number handy so I can look up the purchase?  
+
+**Speaker B (Customer):** Yep, I’ve got the receipt right here. The order number is #123456.  
+
+**Speaker A (CSR):** Great, let me pull that up. *pause* Okay, I see it. It’s the ProBlend 5000, right?  
+
+**Speaker B (Customer):** That’s the one.  
+
+**Speaker A (CSR):** Alright, well, since it’s within the 30-day return window, we can either replace it or issue you a refund. Which would you prefer?  
+
+**Speaker B (Customer):** I’d like a replacement, please. Hopefully, this one works out better.  
+
+**Speaker A (CSR):** Totally understandable. We’ll send you a new one right away. You should receive a confirmation email with the tracking number shortly.  
+
+**Speaker B (Customer):** That sounds good. What should I do with the broken one?  
+
+**Speaker A (CSR):** We’ll include a return label in the package, so you can just send it back to us at no cost.  
+
+**Speaker B (Customer):** Perfect, that’s really helpful.  
+
+**Speaker A (CSR):** No problem at all. I’m really sorry for the inconvenience this caused. Let me know if there’s anything else I can do for you.  
+
+**Speaker B (Customer):** No, you’ve been really helpful. I appreciate it.  
+
+**Speaker A (CSR):** You’re welcome! Thanks for calling, and have a great rest of your day.  
+
+**Speaker B (Customer):** You too—goodbye!  
+
+**Speaker A (CSR):** Goodbye!

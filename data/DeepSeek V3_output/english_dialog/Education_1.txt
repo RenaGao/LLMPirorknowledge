@@ -1,0 +1,19 @@
+**Speaker A:** Hey Sarah, thanks for meeting up today. I’ve been racking my brain over this calculus problem—mind if I pick yours for a bit?  
+**Speaker B:** No worries at all! I know calculus can be a real headache sometimes. What’s tripping you up?  
+**Speaker A:** It’s this problem about limits and approaching infinity. I feel like I’m missing something basic, but I just can’t wrap my head around it.  
+**Speaker B:** Oh, yeah, limits can be tricky at first, but once you get the hang of it, it’s not so bad. Let’s break it down step by step.  
+**Speaker A:** That’d be great. The problem’s asking about the limit as x approaches infinity for (3x2 + 2x) / (x2 + 1). I’m stuck on how to simplify it.  
+**Speaker B:** I see what you mean. Here’s a trick: divide every term by the highest power of x in the denominator. That usually clears things up.  
+**Speaker A:** So, divide both the numerator and denominator by x2?  
+**Speaker B:** Exactly! That simplifies it to (3 + 2/x) / (1 + 1/x2). Now, think about what happens to 2/x and 1/x2 as x gets super large.  
+**Speaker A:** Hmm, if x is approaching infinity, then 2/x and 1/x2 get closer to zero, right?  
+**Speaker B:** Bingo! So, those terms basically disappear, and you’re left with 3/1, which is just 3.  
+**Speaker A:** Ohhh, that makes so much sense now! I was overcomplicating it. You’re a lifesaver, Sarah.  
+**Speaker B:** Glad I could help! Sometimes it’s just about taking it one step at a time.  
+**Speaker A:** Seriously, thanks a ton. I feel way more confident about tackling similar problems now.  
+**Speaker B:** Anytime! And hey, if you ever hit another snag, just shoot me a text. We’re in this together.  
+**Speaker A:** Will do. Thanks again for walking me through it. You’re a pro at explaining this stuff.  
+**Speaker B:** No problem at all! Let’s catch up soon and go over more problems before the exam.  
+**Speaker A:** Sounds like a plan. Have a great rest of your day!  
+**Speaker B:** You too—take care and see you later!  
+**Speaker A:** Bye!

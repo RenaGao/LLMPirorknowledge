@@ -1,0 +1,37 @@
+**Speaker A (Customer):** Hi, excuse me? Could you help me find something?
+
+**Speaker B (Shop Assistant):** Of course! What are you looking for today?
+
+**Speaker A (Customer):** I’m trying to find a new pair of running shoes. My old ones are completely worn out.
+
+**Speaker B (Shop Assistant):** No problem. Do you have a specific brand in mind, or are you open to suggestions?
+
+**Speaker A (Customer):** I usually go for Nike, but I’m open to trying something else if you have any good recommendations.
+
+**Speaker B (Shop Assistant):** Great choice. We have a few new models that have been pretty popular. Let me show you some options.
+
+**Speaker A (Customer):** That would be great, thanks.
+
+**Speaker B (Shop Assistant):** We’ve got these Nike Air Zooms, which are really comfortable for long runs. We also have these Adidas Ultra Boosts, which are fantastic if you’re looking for something a bit more cushioned.
+
+**Speaker A (Customer):** The Nike Air Zooms sound interesting. Can I try them on?
+
+**Speaker B (Shop Assistant):** Absolutely. What’s your size?
+
+**Speaker A (Customer):** I’m usually a size 9.
+
+**Speaker B (Shop Assistant):** Perfect. I’ll grab a pair for you. (Brings the shoes) Here you go. Let me know how they feel.
+
+**Speaker A (Customer):** (Puts on the shoes) Wow, these are really comfy. How do they look?
+
+**Speaker B (Shop Assistant):** They look great! They’re a good fit for you. How about the support? Do they feel secure?
+
+**Speaker A (Customer):** Yeah, they feel really supportive. I think I’ll take them.
+
+**Speaker B (Shop Assistant):** Excellent choice! I’ll ring them up for you. Anything else you need while you’re here?
+
+**Speaker A (Customer):** That’s it for now. Thanks so much for your help.
+
+**Speaker B (Shop Assistant):** No problem at all. It was my pleasure. Have a great day, and enjoy your new shoes!
+
+**Speaker A (Customer):** Thanks, you too! Goodbye!
