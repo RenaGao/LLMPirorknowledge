@@ -54,4 +54,7 @@ python annotation.py --openai_api_key <your openai api key> --input_dir <Path to
 ### Distributions and Results
 You can find some scripts and results in **notebooks/** for distribution calculation. We also provide example results of generated dialogue data along with their annotations, available in the **data/** and **annotations/** directories for reference.
 
+### Primary Contact 
+For any questions regarding to the usage of the dataset, please contact: **rena.gao@unimelb.edu.au**
+
 
