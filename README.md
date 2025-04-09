@@ -1,6 +1,6 @@
 # LLMPirorknowledge
 
-This is the code,dialogue datasets, and results for *Can LLMs Simulate L2-English Dialogue? An Information-Theoretic Analysis of L1-Dependent Biases*
+This is the code,dialogue datasets, and results for [*Can LLMs Simulate L2-English Dialogue? An Information-Theoretic Analysis of L1-Dependent Biases*]([URL](https://arxiv.org/pdf/2502.14507?))
 
 ### The Distribution Divergence Results
 
